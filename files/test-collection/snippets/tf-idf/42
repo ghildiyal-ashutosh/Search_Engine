@@ -1,0 +1,1659 @@
+Snippets for the query:  Q42
+************************
+Total Hits:  123
+************************
+
+************************
+Document:  CACM-1554.html
+************************
+
+
+a computer technique for displaying n-dimensional hyperobjects
+
+a digital 
+************************
+ hyperobjects
+
+a digital computer and automatic plotter have
+been used to generate three-dimensional stereoscopic 
+movies 
+************************
+
+************************
+Document:  CACM-3100.html
+************************
+************************
+Document:  CACM-3057.html
+************************
+************************
+Document:  CACM-2910.html
+************************
+
+
+equivalence of hough curve detection to template matching
+
+cacm november, 1977
+
+stockman, g. c.
+
+picture processing, pattern recognition, curve
+detection, hough 
+************************
+
+************************
+Document:  CACM-0189.html
+************************
+
+
+the future of automatic digital computers
+
+cacm june, 1960
+
+booth, 
+************************
+
+************************
+Document:  CACM-3046.html
+************************
+
+
+computer generation of gamma random variables - ii
+
+a rejection method is proposed for generating
+gamma variates with nonintegral shape parameter 
+a, a > 1. 
+************************
+
+************************
+Document:  CACM-3107.html
+************************
+
+
+generating beta variates with nonintegrel shape parameters
+
+a new rejection method is described for generating
+beta variates.  the method is compared with 
+previously published methods both theoretically and through
+computer timings.  it is suggested 
+************************
+
+************************
+Document:  CACM-1272.html
+************************
+
+
+expanding the editing function in language data processing
+
+in automatic abstracting, citation indexing,
+mechanical translation and other such procedures, 
+editing is required whenever the automatic method leaves
+something to be desired.  this paper discusses 
+the economy of editing as a function of the amount of condensation
+of text in language processing operations, 
+and then contends that editing can be regarded as an
+opportunity rather than as an unwelcome necessity. 
+ "heavy editing," which goes beyond mere correction
+and improvement of computer output, is exemplified 
+by the use of a concordance in preparing a survey article
+or lecture.  other opportunities for heavy 
+editing are described, chief among them being interpretation and
+expansion of computer output in such 
+processes as factor analysis.  applications are described,
+such processes as factor analysis.  applications 
+are described, such as the quick, unbiased evaluation
+of a large volume of incoming mail or telegrams, 
+yielding summary reports not possible for either
+humans or computers to produce alone.
+
+cacm 
+************************
+
+************************
+Document:  CACM-0047.html
+************************
+
+
+russian visit to u. computers
+
+cacm november, 1959
+
+************************
+
+************************
+Document:  CACM-1260.html
+************************
+
+
+least-squares analysis of resonance spectra on small computers
+
+the problem of analyzing 
+************************
+s
+
+the problem of analyzing data from a mossbauer
+effect experiment is discussed.  by using the 
+cut step procedure for convergence and by imposing physical
+constraints on the functional form of the 
+calculation it is possible to make the analysis on a
+small computer.  the analysis has been 
+************************
+.  the analysis has been carried out 
+on an ibm 1410 computer with a 40,000 bcd core 
+************************
+
+************************
+Document:  CACM-2825.html
+************************
+
+
+the bmd and bmdp series of statistical computer programs
+
+cacm october, 1976
+
+frane, j. w.
+
+analysis of variance, cluster 
+************************
+
+************************
+Document:  CACM-2811.html
+************************
+
+
+structural pattern recognition of carotid pulse
+waves using a general waveform parsing system
+
+a general waveform parsing system with application
+to structural pattern recognition of carotid 
+pulse waves is described.  the carotid arterial pulse
+wave is of medical importance because of variation 
+in its structure induced by arterial aging and cardiovascular
+disease.  the syntax-driven waveform analysis 
+system has been applied 
+************************
+ 
+system has been applied with good results to these pulse
+waves to detect and measure structural variations. 
+ the waveform parsing system is modeled on a compiler-compiler
+system and allows the user to enter application 
+specific information as data.  it is thus general
+enough to be applicable to other waveforms.
+
+cacm december, 1976
+
+stockman, g.
+kanal, l.
+kyle, m. c.
+
+structural pattern recognition, parsing, waveform analysis, pulse waves
+
+3.12 3.34 
+************************
+
+************************
+Document:  CACM-2370.html
+************************
+
+
+an experimental laboratory for pattern recognition and signal processing
+
+an interactive computer-controlled scanning
+
+************************
+-controlled scanning
+and display system has been in operation at the 
+ibm thomas j. watson research center for three years.
+ the system includes two flying-spot scanners and 
+a tv camera specially interfaced to a process control
+digital computer, dot-mode and vector displays, 
+analog input and output facilities, and a variety of
+other experimental equipment.  the system design 
+and programming support are described and typical applications
+in scanner control, optical character 
+recognition,and image processing 
+************************
+
+************************
+Document:  CACM-1399.html
+************************
+
+
+on top-to-bottom recognition and left recursion
+
+a procedure is given for obtaining structural
+descriptions in a context-free grammar 
+************************
+
+************************
+Document:  CACM-2883.html
+************************
+
+
+an application of heuristic search methods to edge and contour detection
+
+this paper presents a method for detecting edges
+and contours in noisy pictures.  the properties 
+of an edge are embedded in a figure of merit and the edge
+detection problem becomes the problem of minimizing 
+the given figure of merit.  this problem can be represented
+as a shortest path problem on a graph and 
+can be solved using well-known graph search algorithms.
+ the relations between this representation of 
+the minimization problem and a dynamic programming approach
+are discussed, showing that the graph search 
+method can lead to substantial improvements in computing
+time.  moreover, if heuristic search methods 
+are used, the computing time will depend on the amount
+of noise in the picture.  some experimental results 
+are given; these show how various information about the
+shape of the contour of an object can be embedded
+in the figure of merit, thus allowing the extraction
+of contours from noisy picture and the separation 
+of touching objects.
+
+cacm february, 1976
+
+martelli, a.
+
+picture processing, pattern recognition, edge
+detection, contour 
+************************
+
+************************
+Document:  CACM-2494.html
+************************
+
+
+a computer generated aid for cluster analysis
+
+a computer generated 
+************************
+
+
+a computer generated graphic method, which
+can be used in conjunction with any hierarchical 
+scheme of cluster analysis, is described and illustrated.
+
+************************
+, is described and illustrated.
+ the graphic principle used is the representation 
+of the elements of a data matrix of similarities or dissimilarities
+by computer printed symbols (of character 
+overstrikes) of various shades of darkness, where a
+dark symbol corresponds to a small dissimilarity. 
+ the plots, applied to a data matrix before clustering
+and to the rearranged matrix after clustering, 
+show at a glance whether clustering brought forth any
+distinctive clusters.  a well-known set of data 
+consisting of the correlations of 24 psychological tests
+is used to illustrate the comparison of groupings 
+by four methods of factor analysis and two methods of cluster 
+************************
+ and two methods of cluster analysis.
+
+cacm june, 1973
+
+ling, r. f.
+
+computer graphics, cluster analysis, 
+************************
+
+************************
+Document:  CACM-0068.html
+************************
+
+
+the role of the university in computers,
+data processing and 
+************************
+s,
+data processing and related fields
+
+a study was made of university programs in
+the united states in the fields of computers, data 
+processing, 
+************************
+s, data 
+processing, operations research, and other closely related
+fields.  university policies, organization, 
+administration, faculties, students, researches, curricula,
+equipment, and financing were investigated. 
+ an integrated university program is recommended reflecting
+the conviction that many present activities 
+related to computers will develop into disciplines 
+************************
+
+************************
+Document:  CACM-2308.html
+************************
+
+
+computers and urban society
+
+
+************************
+s and urban society
+
+this brief survey of the use of computers in
+urban society covers 
+************************
+s in
+urban society covers the broad range of activities 
+found in any city.  the future scope of applications is
+limited only by the imagination and inventiveness 
+of future system designers, programmers, analysts, and
+decision makers.  the computer can be, if properly 
+used, with respect for human dignity and civil liberty,
+a significant factor in improving the efficiency 
+of the urban process.  it is expected that the benefits
+of such computer usage will outweigh the costs 
+and that we may look forward to an expansion of such usage.
+
+cacm july, 1972
+
+sturman, g. m.
+
+urban systems, urban applications, data acquisition,
+data management, engineering analysis, information 
+systems
+
+************************
+
+************************
+Document:  CACM-1732.html
+************************
+************************
+Document:  CACM-1809.html
+************************
+
+
+numerical analysis in a ph. computer science program
+
+numerical 
+************************
+ science program
+
+numerical analysis is the study of methods and
+procedures used to obtain "approximate solutions" 
+to mathematical problems.  much of the emphasis is on scientific
+calculation.  the difficulties of education 
+in such a broad area center around the question of background
+and emphasis.  the numerical analysis program 
+in the computer science department should 
+************************
+ science department should emphasize an
+awareness of the problems of computer implementation 
+and experimental procedures.  nevertheless, there is a
+need for a solid background in applied mathematics.
+
+cacm december, 1969
+
+parter, s. v.
+
+ph. program, numerical analysis, course separation, 
+************************
+
+************************
+Document:  CACM-2829.html
+************************
+
+
+texture and reflection in computer generated images
+
+in 1974 catmull developed a new algorithm
+for rendering images of bivariate surface patches. 
+ this paper describes extensions of this algorithm in
+the areas of texture simulation and lighting models. 
+ the parameterization of a patch defines a coordinate
+system which is used as a key for mapping patterns 
+onto the surface.  the intensity of the pattern at each
+picture element is computed as a weighted average 
+of regions of the pattern definition function. the shape
+and size of this weighting 
+************************
+
+************************
+Document:  CACM-2050.html
+************************
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-0252.html
+************************
+
+
+programming a duplex computer system
+
+this paper describes a method of duplex-computer
+programming that has been used with two computers 
+in a military defense 
+************************
+ 
+in a military defense system.  the method combines special
+programs with a basic data processing program 
+package.  the duplex operation gives the system greater
+reliability.  after achieving the required level 
+of integration, both computers do similar processing
+
+************************
+
+************************
+Document:  CACM-0135.html
+************************
+
+
+digital computers in universities-iv
+
+************************
+
+************************
+Document:  CACM-3052.html
+************************
+
+
+cold-start vs. warm-start miss ratios
+
+in a two-level computer storage hierarchy, miss
+ratio measurements are often made from a "cold 
+start," that is made with the first-level  store initially
+empty.  for large capacities the effect on 
+the measured miss ratio of the misses incurred while
+filling the first-level store can be significant, 
+even for long reference strings.  use of "warm-start"
+rather than "cold-start" miss ratios cast doubt 
+on the widespread belief that the observed "s-shape" of
+lifetime (reciprocal 
+************************
+
+************************
+Document:  CACM-1844.html
+************************
+
+
+a modular computer sharing system
+
+an alternative approach to the design and organization
+of a general purpose interactive multiterminal 
+computing system is presented.  the system organization described
+is a conceptually simple arrangement 
+of a bank of interchangeable computers, each of which
+is a 
+************************
+, each of which
+is a memory/processor pair, that are assigned to 
+process terminal jobs as they arrive.  one of the computers
+serves as the master 
+************************
+s
+serves as the master or control computer 
+and supervises the collection and distribution of messages
+from and to the remote terminals.  in the 
+simplest form there is a disk drive for each connected
+terminal.  a crosspoint switching network allows 
+any such disk drive to be connected to any computer.
+ thus, while each active terminal user "occupies" 
+a dedicated disk drive, he may share the computer with
+many other terminal users in a simple manner. 
+ the ratio of users to computers is dependent on both
+
+************************
+ is dependent on both
+the size and power of the machines used and the 
+computation requirements of the particular mix of users.
+ this system organization is inherently a simpler 
+and therefore more reliable approach to time-sharing computers
+and has the potential 
+************************
+s
+and has the potential of a highly available 
+system at relatively low cost.  economic configurations
+are possible for a range of systems sizes that 
+span at least one order of magnitude.  finally, problem
+programs developed by remote terminal users can 
+be run on a dedicated batch system if compatible computers are used.
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-2502.html
+************************
+************************
+Document:  CACM-0847.html
+************************
+************************
+Document:  CACM-2847.html
+************************
+
+
+sampling from the gamma distribution on a computer
+
+this paper describes a method of generating
+gamma variates that appears to be less costly than 
+wallace's recently suggested method.  for large shape parameter
+(a); the cost 
+************************
+
+************************
+Document:  CACM-2215.html
+************************
+
+
+application of game tree searching techniques
+to sequential pattern recognition
+
+a sequential pattern recognition (spr) procedure
+does not test all the features of a pattern 
+at once.  instead, it selects a feature to be tested.  after
+receiving the result of that test, the procedure 
+either classifies the unknown pattern or selects another
+feature to be tested, etc.  medical diagnosis 
+is an example of spr.  in this paper the authors suggest
+that spr be viewed as a one-person game played 
+against nature (chance).  virtually all the powerful techniques
+developed for searching two-person, strictly 
+competitive game trees can easily be incorporated either
+directly or by analogy into spr procedures. 
+ in particular, one can incorporate the "mini average
+backing-up procedure" and the "gamma procedure," 
+which are the analogues of the "minimax backing-up procedure"
+and the "alpha-beta procedure," respectively. 
+ some computer simulated experiments 
+************************
+
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the ibm 709/7090 computer.  the system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large 
+************************
+
+************************
+Document:  CACM-1335.html
+************************
+************************
+Document:  CACM-2924.html
+************************
+
+
+an interactive computer graphics approach to surface representation
+
+an in teractive computer graphics method has been
+developed for the rapid generation of arbitrary 
+shaped three-dimensional surfaces. 
+************************
+d three-dimensional surfaces.  the method is a synthesis
+of spline theory and algorithms, an in teractive 
+means for man-machine communication, and software for
+static or dynamic graphics display.  the basic 
+technique employed is a modified lofting method on
+which sectional curves are represented by uniform 
+b-splines and the surface is in terpolated between sections
+by cardinal splines.  among the features of 
+this method are algorithms which enable in teractive
+modification of the b-spline representation of the 
+sectional curves.  at all stages of the process, the
+spatial information is graphically displayed to 
+the user.  complex surfaces can be created by the combination
+of a number of shapes that have been separately 
+************************
+ that have been separately 
+generated and automatically joined.  the system has been
+successfully in terfaced to a variety of analytical 
+routines for structural, medical and graphical applications.
+
+cacm october, 1977
+
+wu, sheng-chuan
+abel, j. f.
+greenberg, d. p.
+
+computer graphics, three-dimensional surface representation,
+
+************************
+
+************************
+Document:  CACM-0825.html
+************************
+
+
+pip: a photo-interpretive program
+for the analysis of spark-chamber data*
+
+an operating computer program that processes
+
+************************
+
+************************
+Document:  CACM-2602.html
+************************
+************************
+Document:  CACM-3098.html
+************************
+
+
+computer generation of gamma random variables
+
+a new method for generating random variables
+from the gamma distribution with nonintegral shape 
+parameter a is proposed. 
+************************
+
+************************
+Document:  CACM-1325.html
+************************
+
+
+remote, on-line, real-time computer diagnosis
+of the clinical electrocardiogram
+
+presented in this paper is a brief report on
+the hardware, software, system configuration and 
+function of a system for the remote, online, real-time digital
+computer diagnosis of clinical electrocardiograms. 
+ it seems likely that efforts of this sort will lead
+to a satisfactory solution to the problem of the 
+automatic diagnosis of electrocardiograms.  current
+attempts by the authors to extend the diagnostic 
+capabilities of the present system are particularly concerned
+with increasing the fidelity of the adaptive 
+matched filters, the development of three dimensional pattern analysis,
+the analysis of parallel 
+************************
+,
+the analysis of parallel electrocardiographer-computer 
+diagnostic interaction, 
+************************
+
+************************
+Document:  CACM-1381.html
+************************
+
+
+impact of computers on the undergraduate 
+************************
+s on the undergraduate mathematics curriculum 
+
+the use of computers to permit the widespread 
+************************
+s to permit the widespread application
+of mathematical ideas requiring computation 
+in science and technology is extremely significant for
+the understanding of our current society.  student 
+interest in this development is intense and if properly
+utilized should yield a much better understanding 
+of mathematical concepts as well as the ideas of programming
+and logical structure which have been introduced 
+into many fields by the use of computers.  the present
+paper 
+************************
+s.  the present
+paper suggests that that portion of the undergraduate 
+mathematical curriculum which is preparation for the use
+of mathematics by persons who are not professional 
+mathematicians be modified to include the extensions
+and clarifications which are possible because of 
+computers.  an early introduction 
+************************
+
+************************
+Document:  CACM-1106.html
+************************
+
+
+programming of digital computers
+
+cacm april, 1964
+
+
+************************
+
+************************
+Document:  CACM-0727.html
+************************
+************************
+Document:  CACM-0069.html
+************************
+************************
+Document:  CACM-1802.html
+************************
+************************
+Document:  CACM-0204.html
+************************
+************************
+Document:  CACM-2771.html
+************************
+
+
+the synthesis of solids bounded by many faces
+
+a technique is presented which allows a class
+of solid objects to be synthesized and stored 
+using a computer.  synthesis begins with primitive solids
+like a cube, wedge, or cylinder.  any solid 
+can be moved, scaled, or rotated.  solids may also be
+added together or subtracted.  two algorithms to 
+perform addition are described.  for practical designers,
+the technique has the advantage that operations 
+are concise, readily composed, and are given in terms
+of easily imagined solidsuite short sequences 
+of operations suffice to build up complex solids bounded by many faces.
+
+cacm april, 1975
+
+braid, i. c.
+
+computational geometry, computer-aided design,
+graphics, machined components, polyhedra, shape 
+synthesis, three-dimensional modeling
+
+3.2 8.2
+
+ca750406 
+************************
+
+************************
+Document:  CACM-1735.html
+************************
+************************
+Document:  CACM-1801.html
+************************
+************************
+Document:  CACM-0062.html
+************************
+************************
+Document:  CACM-2322.html
+************************
+
+
+a view of computer architecture
+
+an attempt is made to predict the developments
+of the next 25 years in the field of computer 
+architecture.  standardized, inexpensive microcomputers
+on a single chip are 
+************************
+
+on a single chip are predicted.  these will be 
+used extensively to provide logical functions for noncomputational
+devices and incidentally for the design 
+of superscale computers. 
+
+cacm july, 1972
+
+************************
+s. 
+
+cacm july, 1972
+
+foster, c. c.
+
+computer architecture, projection, microcomputers,
+computer design, computer 
+************************
+
+************************
+Document:  CACM-1528.html
+************************
+
+
+three fonts of computer drawn letters
+
+detailed descriptions are given for three fonts
+of letters.  letter shapes are entirely described 
+************************
+ are entirely described 
+by numbers.  the basic vectors are in a general form
+so the fonts may be easily drawn on a variety of 
+computers and cathode-ray tubes. 
+************************
+
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development 
+************************
+
+************************
+Document:  CACM-2685.html
+************************
+
+
+the parallel execution of do loops
+
+methods are developed for the parallel execution
+of different iterations of a do loop.  both 
+asynchronous multiprocessor computers and array computers
+
+************************
+s and array computers
+are considered.  practical 
+************************
+s
+are considered.  practical application to the 
+design of compilers for such computers is discussed.
+
+cacm 
+************************
+s is discussed.
+
+cacm february, 1974
+
+lamport, l.
+
+parallel computing, multiprocessor computers,
+array computers, vector 
+************************
+s,
+array computers, vector computers, 
+************************
+s, vector computers, loops
+
+4.12 5.24
+
+
+************************
+
+************************
+Document:  CACM-0461.html
+************************
+
+
+coding of medical case history data for computer analysis
+
+cacm october, 1962
+
+************************
+
+************************
+Document:  CACM-2455.html
+************************
+************************
+Document:  CACM-0146.html
+************************
+
+
+the use of computers in engineering classroom 
+************************
+s in engineering classroom instruction 
+
+on april 29-30, the computer committee of the
+college of engineering, university of michigan, 
+which acts as a steering committee for the ford foundation
+project on the use of computers in engineering 
+education, 
+************************
+
+************************
+Document:  CACM-2942.html
+************************
+************************
+Document:  CACM-0633.html
+************************
+
+
+simulation and analysis of biochemical systems
+(iii. analysis and pattern recognition)
+
+cacm february, 1962
+
+************************
+
+************************
+Document:  CACM-1929.html
+************************
+
+
+images from computers and microfilm plotters
+
+************************
+s and microfilm plotters
+
+digital computers are widely used for 
+************************
+s are widely used for the
+processing of information and data of all kinds, 
+including the pictorial information contained in photographs
+and other graphical representations.  efficient 
+conversion facilities for putting graphical information
+into the computer and retrieving it in graphical 
+form are therefore much needed.  one of the most commonly
+employed devices for obtaining permanent graphical 
+output from digital computers is the microfilm plotter.
+
+************************
+
+************************
+Document:  CACM-2903.html
+************************
+************************
+Document:  CACM-1034.html
+************************
+************************
+Document:  CACM-2893.html
+************************
+
+
+computers as an innovation in 
+************************
+s as an innovation in american local governments
+
+computers and electronic data 
+************************
+s and electronic data processing are
+a major technological innovation in the operations 
+of american local government. this paper establishes that
+there is substantial variation among the larger 
+local governments in the rate at which they adopt computer
+technology, in the level of financial support 
+they provide for edp, and in the extensiveness and sophistication
+of their automated applications.  the 
+central question addressed is: what might explain the
+differences between governments in the extent to 
+which they adopt and use computers?  hypotheses are
+tested 
+************************
+?  hypotheses are
+tested for several streams of explanatory factors, 
+using data from more than 500 city and county governments.
+ the findings identify certain local government 
+milieus which are particularly conducive to higher levels
+of computer innovation.  somewhat unexpected 
+findings reveal the significant impact of the distribution
+of control over edp decisions and the dominant 
+political values within the government. other important
+factors include the measured need for computer 
+applications and the presence of external funding support
+for computing.  finally, the paper suggests 
+a framework for identifying the key determinants
+of other technological innovations.
+
+cacm december, 1977
+
+danziger, j. n.
+dutton, w. h.
+
+innovation, technological innovation, computer utilization,
+computer adoption, american local government, 
+city government computers, county government computers.
+
+************************
+, county government computers.
+
+2.0 2.45 2.49 2.9
+
+************************
+
+************************
+Document:  CACM-0148.html
+************************
+
+
+digital computers in universities-iii
+
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information 
+************************
+ and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development 
+************************
+ for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of 
+************************
+ consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  the analyzed problem statement 
+was translated to the form necessary for use by the
+soda (systems optimization and design algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+cacm december, 1976
+
+nunamaker, j. f. jr.
+konsynski, b. r. jr.
+ho, t.
+singer, c.
+
+computer-aided analysis, information systems, 
+************************
+
+************************
+Document:  CACM-2703.html
+************************
+************************
+Document:  CACM-2054.html
+************************
+
+
+on the feasibility of voice input to
+an on-line computer processing system
+
+an on-line digital computer processing system is considered in which an 
+ordinary telephone is the complete terminal device, input to the computer 
+being provided as a sequence of spoken words, and output to the user being 
+audio responses from the machine.  the feasibility of implementing such a 
+system with a fortran-like algebraic compiler as the object processor is 
+considered.  details of a specific word recognition program are given.  
+************************
+ program are given.  this 
+technique depends on three simplifying restrictions, namely, a "small"
+vocabulary set, "known" speakers, and a "moment of silence"
+between each input word.  experimental results are presented giving
+error rates for different experimental conditions as well as the machine 
+resources required to accommodate several users at a time. the results show 
+that at this time it is both economically and logically feasible to handle at 
+least 40 users at a time with an ibm 360/65 computer.
+
+cacm june, 1970
+
+elder, h. a.
+
+speech recognition, word recognition, pattern-matching, pattern
+recognition, 
+************************
+, pattern
+recognition, time-sharing, remote access, voice input, speech input,
+telephone input/output, acoustic signal, spoken-word input, talking to 
+computers, man-machine interaction
+
+************************
+
+************************
+Document:  CACM-3135.html
+************************
+
+
+detection of three-dimensional patterns of atoms in chemical structures
+
+an algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  the search technique
+presented uses the geometric structure of the pattern to define
+characteristics demanded of candidates for matching. this is useful
+in cases where the properties of each atom, considered individually,
+do not adequately limit the number of sets of possible matchings.
+several applications of this technique in the field of chemistry
+are: (1) in pharmacology: searching for a common constellation
+of atoms in molecules possessing similar biological activities;
+(2) in x-ray crystallography: fitting a structure or a structural fragment
+to a set of peaks in the electron-density distribution of
+a fourier map; (3) in chemical documentation; retrieving from
+a file the structures containing specified substructures.
+
+cacm april, 1979
+
+lesk, a.
+
+three-dimensional pattern recognition, chemical
+structure search, information retrieval, crystal
+-structure analysis, drug analysis and design
+
+************************
+
+************************
+Document:  CACM-1002.html
+************************
+
+
+a rapid method for digital filtering
+
+since much of the computer time spent in time-series
+analysis is used for multiplications, 
+************************
+ is used for multiplications, 
+a minimum multiplication method was devised for digital
+filtering, with the expectation that it would 
+be useful in the on line, real-time analysis of biological
+data.  the filters are constructed from a succession 
+of readily analyzable components in a manner that facilitates
+cascading.  the repertoire of frequency 
+response curves includes relatively good low-pass and
+band-pass designs.  programs are available for 
+implementing both the synthesis of these filters, and
+their application on computers whose assemblers 
+allow 
+************************
+
+************************
+Document:  CACM-0157.html
+************************
+
+
+digital computers in universities -ii
+
+************************
+
+************************
+Document:  CACM-2553.html
+************************
+************************
+Document:  CACM-2304.html
+************************
+
+
+a western view of computer history
+
+many u. histories of the digital computer
+field have tended to be impersonal, with heavy 
+emphasis on eastern universities and commercial developments.
+ this article records the events of the 
+early years in a personal way.  the people, organizations,
+technologies, and computers of the 1945-55 
+period 
+************************
+
+************************
+Document:  CACM-2569.html
+************************
+
+
+computer generation of gamma random variates
+with non-integral shape parameters
+
+when the 
+************************
+ parameters
+
+when the shape parameter, a, is integral,
+generating gamma random variables with a digital 
+computer is straightforward. 
+************************
+
+************************
+Document:  CACM-3197.html
+************************
+
+
+   structures of standards-processing organizations in the computer area
+
+   in line with the acm's policy statement [comm. acm 5 (nov. 1962), 547-549],
+the following organizational descriptions have been provided in order to
+describe standardization activities pertinent to computers and information
+processing.
+
+************************
+
+************************
+Document:  CACM-1527.html
+************************
+************************
+Document:  CACM-0698.html
+************************
+
+
+data-dial: two-way communication with
+computers from ordinary dial 
+************************
+
+************************
+Document:  CACM-1404.html
+************************
+************************
+Document:  CACM-2201.html
+************************
+
+
+animator: an on-line two-dimensional film animation system
+
+animator is a computer animation system which
+
+************************
+ animation system which
+was designed to overcome some of the inherent 
+disadvantages associated with conventional computer animation
+techniqueshe dec-338 serves as an input 
+terminal for movie making, allowing the trial and error
+design of picture sequences in a conversational 
+mode.  during all stages on the system input elements
+(light pen, pushbuttons, and teletype) is maintained. 
+ at the user's request, this record is sent to the ibm
+360/75 where the s-d 4020 instructions necessary 
+to produce the same sequence of pictures can be generated.
+ it is anticipated that one of the primary 
+contributions of animator will be the provision of a
+facility which will allow any professor to produce 
+his own expository film strips.
+
+cacm april, 1971
+
+talbot, p. a.
+carr iii, j. w.
+coulter jr., r. r.
+hwang, r. c.
+
+computer graphics, computer animation, on-line
+systems, two-dimensional languages, crt, microfilm 
+************************
+
+************************
+Document:  CACM-0941.html
+************************
+************************
+Document:  CACM-2310.html
+************************
+
+
+language analysis in the humanities
+
+the use of the computer in the language-oriented
+
+************************
+ in the language-oriented
+humanities for exhaustive listing of detail 
+(as in indices and concordances) is widespread and accepted
+as desirable.  the implications of the computer 
+for a "science" of the humanities-a science entailing
+gathering data for the construction and testing 
+of models-are neither widely recognized nor accepted.
+ this paper argues that the computer's  major role 
+as to language analysis in the humanities will be the
+establishing of such a sciencehus, for those 
+areas of the humanities for which rigor and precision
+are necessary (e.g. analyzing literature or teaching 
+a student to write a composition) the computer
+can be a critically important facilitator.
+
+cacm july, 1972
+
+sedelow, s. y.
+
+language analysis, humanities, science of the humanities,
+pattern recognition, pattern generation, 
+************************
+
+************************
+Document:  CACM-3149.html
+************************
+
+
+the cyclic order property of vertices as an aid in scene analysis
+
+a cyclic-order property is defined for bodies bounded by smooth-curved faces.
+the property is shown to be useful for analyzing pictures of such bodies,
+particularly when the line data extracted from the pictures are imperfect.
+this property augments previously known grammatical rules that
+determine the existence of three-dimensional bodies corresponding
+to given two-dimensional line-structure data.
+
+cacm june, 1979
+
+shapira, r.
+freeman, h.
+
+scene analysis, cyclic order, artificial intelligence,
+three-dimensional reconstruction
+, picture processing, computer graphics, pattern recognition.
+
+3.2 3.6 8.2
+
+ca790605 
+************************
+
+************************
+Document:  CACM-0462.html
+************************
+
+
+computer pattern recognition techniques: electrocardiographic 
+************************
+ techniques: electrocardiographic diagnosis
+
+the use of programmed digital computers as general
+pattern 
+************************
+
+************************
+Document:  CACM-3162.html
+************************
+************************
+Document:  CACM-1369.html
+************************
+************************
+Document:  CACM-0525.html
+************************
+
+
+a computer technique for handling analysis of variance
+
+cacm august, 
+************************
+
+************************
+Document:  CACM-3125.html
+************************
+
+
+global optimization by suppression of partial redundancies
+
+the elimination of redundant computations and the moving of invariant
+computations out of loops are often done separately, with invariants 
+moved outward loop by loop.  we propose to do both at once and
+to move each expression directly to the entrance of the outermost
+loop in which it is invariant.  this is done by solving a more
+general problem, i.e. the elimination of computations performed
+twice on a given execution path.  such computations are termed partially
+redundant.  moreover, the algorithm does not require any graphical
+information or restrictions on the shape of the program graph.
+testing this algorithm has shown that its execution cost is nearly
+linear with the size of the program, and that it leads
+to a smaller optimizer that requires less execution time.
+
+cacm february, 1979
+
+morel, e.
+renvoise, c.
+
+optimizer, optimization, compiler, compilation,
+redundancy elimination, invariant
+ computation elimination, partial redundancy,
+data flow analysis, boolean systems
+
+4.12 
+************************
+
+************************
+Document:  CACM-2754.html
+************************
+************************
+Document:  CACM-1182.html
+************************
+
+
+contextual correlates of synonymy
+
+experimental corroboration was obtained for
+the hypothesis that the proportion of words common 
+to the contexts of word a and to the contexts of word
+b is a function of the degree to which a and b 
+are similar in meaning.  the shapes of the functions,
+however, 
+************************
+
+************************
+Document:  CACM-1553.html
+************************
+
+
+contextual understanding by computers
+
+a further development 
+************************
+s
+
+a further development of a computer program
+(eliza) capable of conversing in natural language 
+is discussed.  the importance of context to both human
+and machine understanding is stressed.  it is 
+argued that the adequacy of the level of understanding
+achieved in a particular conversation depends 
+on the purpose of that conversation, and that absolute
+understanding on the part of either humans or 
+machines is impossible.
+
+************************
+
+************************
+Document:  CACM-0531.html
+************************
+
+
+person-matching by electronic methods
+
+record linkage in the updating of files is
+accomplished in many establishments through the 
+use of a preassigned number, such as payroll number,
+customer number, or social security number.  in 
+vital and health records, however, a unique number
+is generally not preassigned to an individual for 
+purposes of reporting services received to the health
+department.  in order to determine whether different 
+physician reports refer to the same individual, name
+and other identification must be compared.  this 
+is a laborious operation which is subject to various
+errors because of name misspellings, changes of 
+name upon marriage, and other problems.  we are interested
+in the maintenance of a psychiatric case register 
+in maryland, where many of the reports from over a hundred
+psychiatric agencies refer to the same patient. 
+ these records must be linked in order to provide unduplicated
+counts of individuals under care and longitudinal 
+records of psychiatric history.  an earlier paper [1] describes
+our general procedures for register maintenance 
+by use of a digital computer (honeywell 800).  here
+
+************************
+
+************************
+Document:  CACM-0999.html
+************************
+
+
+joint inventorship of computers
+
+cacm october, 1964
+
+************************
+
+************************
+Document:  CACM-1855.html
+************************
+
+
+a program for the syntactic analysis of english sentences
+
+a program is described which produces syntactic
+analyses of english sentences with respect 
+to a transformational grammar.  the main features of the
+analyzer are that it uses only a limited dictionary 
+of english words and that it pursues all analysis paths
+simultaneously while processing the sentence 
+from left to right.  the form of representation used
+for the dictionary and the grammar is indicated 
+and an outline account is given of the analysis procedure.
+ techniques for keeping the size of the analysis 
+record within reasonable limits and for avoiding the need
+for dynamic application of certain transformational 
+rules are described.   a number of examples of output
+produced by the program are given.  the output 
+includes timing information.
+
+cacm august, 1969
+
+dewar, h.
+bratley, p.
+
+syntactic analysis, language processing, language
+analysis, parsing, analysis procedure, recognition 
+procedure, english 
+************************
+
+************************
+Document:  CACM-1014.html
+************************
+
+
+machine controls for analysis of variance
+
+a major problem in using the analysis of variance,
+as the number of factors increases, is the 
+exponential rise in the number of interactions.  even
+though the experimenter may not be interested in 
+these interactions it is impossible to ignore them in
+most experimental designs because of the problem 
+of getting error terms.  it is natural therefore to look
+to the computer to handle the bulk of 
+************************
+
+************************
+Document:  CACM-2303.html
+************************
+
+
+archaeology of computers - reminiscences, 1945-1947
+
+************************
+s - reminiscences, 1945-1947
+
+the period preceding the founding of acm was
+dominated by the first large computer eniac.  
+its characteristics, described here, foreshadow later developments.
+
+cacm july, 1972
+
+alt, f. l.
+
+history of computers
+
+1.2
+
+ca720725 jb january 
+************************
+
+************************
+Document:  CACM-0243.html
+************************
+************************
+Document:  CACM-2113.html
+************************
+
+
+the multistore parser for hierarchical syntactic structures
+
+a syntactic parser is described for hierarchical concatenation patterns
+that are presented to the analyzer in the form of linear strings.  particular
+emphasis is given to the system of "significant addresses" by means
+of which processing times for large-scale matching procedures
+can be substantially reduced.  the description makes frequent use
+of examples taken from the fully operational implementation of the
+parser in an experimental english sentence analyzer.  by structuring
+an area of the computer's central core storage 
+************************
+'s central core storage in such a way
+that the individual locations of bytes and bits come to represent the
+data involved in the matching procedure, the shifting of information
+is reduced to a minimum, and the searching of lists is eliminated
+altogether.  the matches are traced by means of binary masks
+and the state of single bits determines the operational flow of the
+procedure.  the method could be implemented with any interpretive
+grammar, provided it can be expressed by the functional classification
+of the items composing the input hierarchical structures.
+
+cacm february, 1970
+
+von glasersfeld, e.
+
+parsing, syntactic analysis, natural-language analysis, linguistic data
+processing, computational linguistics, correlational grammar, structure
+recognition, pattern recognition, 
+************************
+, pattern recognition, matching procedures, tree-structure 
+************************
+
+************************
+Document:  CACM-1823.html
+************************
+************************
+Document:  CACM-2746.html
+************************
+************************
+Document:  CACM-1782.html
+************************
+************************
+Document:  CACM-0171.html
+************************
+
+
+digital computers in universities (part 
+************************
+
+************************
+Document:  CACM-2232.html
+************************
+
+
+pattern width at a given angle
+
+that the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  the object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature 
+************************
+ algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  the results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the pattern boundary radius vector, and descriptions
+of alternate widths.  all widths are calculated 
+for an illustrative example; graphical and tabular comparisons
+are given.  substantial variation in width-at-angle 
+magnitude is found.  the principal conclusion is that
+the set-theoretic width-at-angle is a useful pattern 
+feature when it can be easily computed.  further investigation
+of the information contained in only part 
+of a width function is recommended for cases where
+computation of width-at-angle is difficult.
+
+cacm january, 1971
+
+klinger, a.
+
+feature extraction, pattern recognition,figure
+properties, picture processing, integral geometry, 
+width-at-angle, extent, integral projections,
+linear pattern measures, width functions
+
+3.60 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of price/performance 
+************************
+

@@ -1,0 +1,670 @@
+Snippets for the query:  Q9
+************************
+Total Hits:  20
+************************
+
+************************
+Document:  CACM-1554.html
+************************
+************************
+Document:  CACM-1142.html
+************************
+************************
+Document:  CACM-2645.html
+************************
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-1135.html
+************************
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated in terms of cpu:i/o and i/o:i/o overlap
+and applied to the analysis of these problems. 
+ the percentage performance improvement from cpu:i/o
+overlap is found to be greatest for systems which 
+are in approximate cpu:i/o utilization balance and for
+low degrees of multiprogramming.  the percentage 
+improvement from i/o:i/o overlap is found to be greatest
+for systemtems in which the i/o system is more 
+utilized than the cpu.
+
+cacm october, 1978
+
+towsley, d.
+chandy, k.
+browne, j.
+
+multiprogramming, parallel processing, queueing
+network models, multiprocessing of computation 
+and i/o 
+
+4.32 8.1
+
+************************
+
+************************
+Document:  CACM-1795.html
+************************
+
+
+optimal code for serial and parallel computation
+
+cacm december, 1969
+
+************************
+
+************************
+Document:  CACM-2600.html
+************************
+************************
+Document:  CACM-2647.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-3156.html
+************************
+************************
+Document:  CACM-2266.html
+************************
+
+
+a highly parallel algorithm for approximating
+all zeros of a polynomial with only real zeros
+
+an algorithm is described based on newton's
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros.  the algorithm, which
+is conceptually suitable for parallel computation, 
+determines its own 
+************************
+
+************************
+Document:  CACM-2896.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-1466.html
+************************
+************************
+Document:  CACM-1302.html
+************************
+************************
+Document:  CACM-2699.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+************************
+Document:  CACM-2316.html
+************************
+************************
+Document:  CACM-0220.html
+************************
+************************
+Document:  CACM-1282.html
+************************
+************************
+Document:  CACM-2557.html
+************************
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+
+
+reduction: a method of proving properties of parallel programs
+
+when proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the rest of the program. 
+ here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting.  thus correctness proofs of a parallel 
+system can often be greatly simplified.
+
+cacm december, 1975
+
+lipton, r. j.
+
+deadlock free, reduction, interruptible, indivisible,
+parallel program, semaphore, verification 
+method, process, computation sequence
+
+4.32 4.35 
+************************
+
+************************
+Document:  CACM-1098.html
+************************
+************************
+Document:  CACM-3150.html
+************************
+************************
+Document:  CACM-2956.html
+************************
+************************
+Document:  CACM-2661.html
+************************
+************************
+Document:  CACM-3075.html
+************************
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort algorithm is presented
+that requires time o(log n) and the use of n 
+processors.  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time.  a realistic model is used model is used in which
+no memory contention is permitted.  a procedure 
+is also presented to sort n numbers in time o(k log
+n) using n 1 + 1/k processors, for k an arbitrary 
+integer.  the model of computation for this procedure
+permits 
+************************
+
+************************
+Document:  CACM-2175.html
+************************
+
+
+subexpression ordering in the execution of arithmetic expressions
+
+an arithmetic expression can often be broken
+down into its component subexpressions.  depending 
+on the hardware environment in which the expression is
+to be executed, these subexpressions can be evaluated 
+in serials, in parallel, or in a combination of these
+modes.  this paper shows that expression execution 
+time can be minimized only if consideration is given to
+the ordering of the subexpressions.  in particular, 
+subexpressions should be executed in order of decreasing
+memory and processor time requirements.  this 
+observation is valid for configurations ranging from
+a uniprocessor with an unbuffered main memory to 
+multiprocessor with a "cache" buffer memory.  if the
+number of subexpressions which can be executed in 
+parallel exceeds the number of available processors,
+then execution of some of these subexpressions must 
+be postponed.  a procedure is given which combines this
+requirement with the earlier ordering considerations 
+to provide an optimal execution sequence.
+
+cacm july, 1971
+
+ramamoorthy, c. v.
+gonzalez, m. j.
+
+parallel processing, cache, arithmetic expressions,
+subexpression ordering, computational trees, 
+compilers
+
+************************
+
+************************
+Document:  CACM-1366.html
+************************
+
+
+computer simulation-discussion of the
+technique and comparison of languages 
+
+the purpose of this paper is to present a comparison
+of some computer simulation languages 
+and of some of the involved in comparing software packages
+for digital computers are discussed in part 
+i.  the issue is obvious: users of digital computers
+must choose from available languages or write their 
+own.  substantial costs can occur, particularly in training,
+implementation and computer time if an inappropriate 
+language is chosenore and more computer simulation
+languages are being developed: comparisons and 
+evaluations of existing languages are useful for designers
+and implementers as well as users.  the second 
+part is devoted to computer simulation and simulation
+languages.  the computational characteristics of 
+************************
+
+************************
+Document:  CACM-2433.html
+************************
+************************
+Document:  CACM-1309.html
+************************
+
+
+a computer user-oriented system
+
+a computer language system has been developed
+which makes possible fast preparation of management 
+reports, regardless of computational complexity or format
+variety.  costs are sufficiently low so that 
+individually tailored reports can be prepared for every
+manager.  the system requires initial preparation 
+of large data banks containing data in elementary form.
+ use of two special languages, extract and matran, 
+************************
+
+************************
+Document:  CACM-0676.html
+************************
+************************
+Document:  CACM-2782.html
+************************
+************************
+Document:  CACM-1811.html
+************************
+
+
+a case study in programming for parallel-processors
+
+an affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+execution time for useful problems.  parallel-processor 
+systems are multiprocessor systems in which several of
+the processors can simultaneously execute separate 
+tasks of a single job, thus cooperating to decrease
+the solution time of a computational problem. the 
+processors 
+************************
+
+************************
+Document:  CACM-2265.html
+************************
+
+
+a model for type checking
+
+most current programming languages treat computation
+over different classes 
+************************
+
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel 
+************************
+
+************************
+Document:  CACM-2895.html
+************************
+
+
+a language for formal problem specification
+
+a language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ the specifications are constrain ts on the order in which
+events of a computation can occur.  the language 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2685.html
+************************
+************************
+Document:  CACM-2254.html
+************************
+************************
+Document:  CACM-2312.html
+************************
+************************
+Document:  CACM-1644.html
+************************
+************************
+Document:  CACM-0392.html
+************************
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+************************
+Document:  CACM-0194.html
+************************
+************************
+Document:  CACM-2865.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-2570.html
+************************
+************************
+Document:  CACM-2195.html
+************************
+************************
+Document:  CACM-2514.html
+************************
+
+
+an array grammar programming system
+
+a package of fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars.  the user can control the rule
+selection procedure in a derivation or parse, 
+using weighted programming matrices; he also has a choice
+of instance selection schemes (raster,random, 
+parallel).  examples are given involving array languages
+consisting of simple 
+************************
+
+************************
+Document:  CACM-1601.html
+************************
+
+
+parallel numerical methods for the solution of equations
+
+classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in question.  a
+technique is given for the development of numerical 
+procedures which provide, at each stage, several approximations
+to a solution of an equation.  the s8everal 
+approximations obtained in any iteration are computationally
+independent, making 
+************************
+
+************************
+Document:  CACM-0920.html
+************************
+************************
+Document:  CACM-1480.html
+************************
+************************
+Document:  CACM-3148.html
+************************
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events in separate processes is introduced. 
+ an abstraction of this problem is developed which admits
+solution for a majority of commonly encountered
+problems.  the technique will either find a method of
+simulating the parallel events or report that none 
+can be found.  in some of the latter cases it is shown
+to be possible to find a solution by extending 
+the information available to the solution technique, but
+in many cases the technique becomes computationally 
+unfeasible when 
+************************
+
+************************
+Document:  CACM-2727.html
+************************
+************************
+Document:  CACM-2851.html
+************************
+
+
+formal verification of parallel programs
+
+two formal models for parallel computation
+are presented: an abstract 
+************************
+
+************************
+Document:  CACM-0689.html
+************************
+************************
+Document:  CACM-2182.html
+************************
+************************
+Document:  CACM-2714.html
+************************
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-1678.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+************************
+Document:  CACM-1367.html
+************************
+************************
+Document:  CACM-2129.html
+************************
+************************
+Document:  CACM-2785.html
+************************
+
+
+glypnir-a programming language for illiac iv
+
+glypnir is one of the earliest existing languages
+designed for programming the illiac iv computer. 
+the syntax of the language is based on algol 60, but has
+been extended to allow the programmer explicitly 
+to specify the parallelism of his algorithm in terms of 64-word
+vectors.  this paper describes the characteristics, 
+goals and philosophy of the language, and discusses some
+of the problems associated with parallel computer 
+architectures.
+
+cacm march, 1975
+
+lawrie, d. h.
+layman, t.
+baer, d.
+randal, j. m.
+
+glypnir, illiac iv, programming language,
+parallel computation, parallel architecture
+
+************************
+
+************************
+Document:  CACM-0042.html
+************************
+************************
+Document:  CACM-0034.html
+************************
+************************
+Document:  CACM-1269.html
+************************
+************************
+Document:  CACM-1828.html
+************************
+************************
+Document:  CACM-1536.html
+************************
+
+
+dynamic computation of derivatives
+
+it is shown how wengert's procedure for computation
+of derivatives can be implemented conveniently 
+by use of compiler-generated complex addition, subtraction,
+and linkage to complex arithmetic subroutines.
+ evaluation of a function and derivative proceed in
+parallel, as in wengert's procedure, 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-2084.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-0119.html
+************************
+************************
+Document:  CACM-1341.html
+************************
+************************
+Document:  CACM-2305.html
+************************
+************************
+Document:  CACM-3198.html
+************************
+************************
+Document:  CACM-1163.html
+************************
+************************
+Document:  CACM-0121.html
+************************
+************************
+Document:  CACM-1158.html
+************************
+************************
+Document:  CACM-3085.html
+************************
+************************
+Document:  CACM-1569.html
+************************
+************************
+Document:  CACM-0141.html
+************************
+************************
+Document:  CACM-1470.html
+************************
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, programming language 
+************************
+
+************************
+Document:  CACM-3171.html
+************************
+************************
+Document:  CACM-1262.html
+************************
+************************
+Document:  CACM-2401.html
+************************

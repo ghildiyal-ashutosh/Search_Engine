@@ -1,0 +1,419 @@
+Snippets for the query:  Q6
+************************
+Total Hits:  7
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely 
+************************
+
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+************************
+Document:  CACM-1179.html
+************************
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident, compile-and-go system designed
+for the ibm 7090/7094 computer is described. 
+ in little more than half of the 32k word core memory
+pufft provides a monitor for job sequencing, a 
+translator for the full fortran iv language, the fortran
+subroutine library, an input--output system 
+for use at compile time and at execute time, and a rather
+elaborate diagnostic message writing routine. 
+ batches of small- and medium-sized fortran iv source
+language programs are processed at very 
+************************
+
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+************************
+Document:  CACM-0963.html
+************************
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 1979
+
+************************
+
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+************************
+Document:  CACM-2573.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint 
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-1425.html
+************************
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.
+
+cacm 
+************************
+
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+************************
+Document:  CACM-1415.html
+************************
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+************************
+Document:  CACM-2691.html
+************************
+
+
+comments on the algorithms of verhelst for the
+conversion of limited-entry decision tables to 
+flowcharts
+
+cacm january, 1974
+
+king, p. j. h.
+johnson, r. g.
+
+decision table, flowcharting, preprocessor, optimal programs, search 
+
+3.50 3.59 
+************************
+
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+************************
+Document:  CACM-1801.html
+************************
+************************
+Document:  CACM-2151.html
+************************
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+************************
+Document:  CACM-2670.html
+************************
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+************************
+Document:  CACM-3002.html
+************************
+************************
+Document:  CACM-2083.html
+************************
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+************************
+Document:  CACM-0185.html
+************************
+
+
+multiprogram scheduling parts 1 and 2.  introduction and theory*
+
+in order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ the scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ the construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1614.html
+************************
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************

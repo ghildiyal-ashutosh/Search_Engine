@@ -1,0 +1,760 @@
+Snippets for the query:  Q14
+************************
+Total Hits:  24
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+************************
+Document:  CACM-1737.html
+************************
+************************
+Document:  CACM-1886.html
+************************
+
+
+generation of optimal code for expressions via factorization
+
+given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the expressions, i.e. finding a set of subexpressions 
+each of which occurs in two or more other expressions
+or subexpressions.  once all the factors have been 
+ascertained, a sequencing procedure is applied which
+orders the factors and expressions such that all 
+information is computed in the correct sequence and factors
+need be retained in memory a minimal amount 
+of time.  an assignment algorithm is then executed in
+order to minimize the total number of temporary 
+storage cells required to hold the results of evaluating
+the factors.  in order to make these techniques 
+computationally feasible, heuristic procedures are
+applied, and hence global optimal results are not 
+necessarily generated.  the factorization algorithms
+are also applicable to the problem of factoring 
+boolean switching expressions and of factoring polynomials
+encountered in symbol manipulating systems.
+
+cacm june, 1969
+
+breuer, m. a.
+
+factorization algorithms, code optimization, sequencing
+of operations, 
+************************
+
+************************
+Document:  CACM-2133.html
+************************
+************************
+Document:  CACM-2344.html
+************************
+************************
+Document:  CACM-1676.html
+************************
+************************
+Document:  CACM-1961.html
+************************
+************************
+Document:  CACM-2411.html
+************************
+************************
+Document:  CACM-1795.html
+************************
+************************
+Document:  CACM-2304.html
+************************
+************************
+Document:  CACM-3020.html
+************************
+************************
+Document:  CACM-2883.html
+************************
+************************
+Document:  CACM-1838.html
+************************
+************************
+Document:  CACM-1947.html
+************************
+
+
+object code optimization
+
+methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ dominance relationships, indicating which 
+statements are necessarily executed before others, are
+used to do global common expression elimination 
+************************
+
+************************
+Document:  CACM-3069.html
+************************
+
+
+a practical interprocedural data flow analysis algorithm
+
+a new interprocedural  data flow analysis algorithm
+is presented and analyzed.  the algorithm 
+associates with each procedure in a program information
+about which variables may be modified, which 
+may be used, and which are possibly preserved by a call
+on the procedure, and all of its subcalls.  the 
+algorithm is sufficiently powerful to be used on recursive
+programs and to deal with the sharing of variables 
+which arises through reference parameters.  the algorithm
+is unique in that it can compute all of this 
+information in a single pass, not requiring a prepass to
+compute calling relationships or sharing patterns. 
+ the algorithm is asymptotically optimal in time complexity.
+ it has been implemented and is practical 
+even on programs which are quite large.
+
+cacm september, 1978
+
+barth, j.
+
+data flow analysis, global flow analysis, optimization,
+side effects, relations, 
+************************
+
+************************
+Document:  CACM-3156.html
+************************
+************************
+Document:  CACM-1564.html
+************************
+************************
+Document:  CACM-2964.html
+************************
+************************
+Document:  CACM-2253.html
+************************
+************************
+Document:  CACM-1809.html
+************************
+************************
+Document:  CACM-2388.html
+************************
+
+
+optimizing binary trees grown with a sorting algorithm
+
+items can be retrieved from binary trees grown
+with a form of the algorithm quicksort in an 
+average time proportional to log n, where n is the number
+of items in the tree.  the binary trees grown 
+by this algorithm sometimes have some branches longer
+than others; therefore, it is possible to reduce 
+the average retrieval time by restructuring the tree to
+make the branches as uniform in length as possible. 
+ an algorithm to do this is presented.  the use of this
+algorithm is discussed, and it is compared with 
+another which restructures the tree after each new item is added.
+
+cacm february, 1972
+
+martin, w. a.
+ness, d. n.
+
+retrieving information from binary trees, global
+and local optimization, sorting, recursion
+
+************************
+
+************************
+Document:  CACM-2495.html
+************************
+************************
+Document:  CACM-1910.html
+************************
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user.  a relational algebra interface, called 
+squiral, which was designed using this approach, is described
+in detail. squiral seeks to minimize query 
+response time and space utilization by: (1) performing
+global query optimization, (2) exploiting disjoint 
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-1410.html
+************************
+************************
+Document:  CACM-2512.html
+************************
+************************
+Document:  CACM-2321.html
+************************
+************************
+Document:  CACM-0658.html
+************************
+************************
+Document:  CACM-1191.html
+************************
+************************
+Document:  CACM-2940.html
+************************
+
+
+abstraction and verification in alphard: defining
+and specifying iteration and generators
+
+the alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.  in this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement, the
+most important poin t of interaction between data 
+and the control structure of the language itself.  a
+means of specializing alphard's loops to operate 
+on abstract 
+************************
+ to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced. 
+ specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+ results are obtained that for common special 
+cases of these loops are essentially identical 
+************************
+
+************************
+Document:  CACM-2423.html
+************************
+************************
+Document:  CACM-1981.html
+************************
+************************
+Document:  CACM-1643.html
+************************
+************************
+Document:  CACM-3080.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+************************
+Document:  CACM-2188.html
+************************
+
+
+an approach to the optimum design of computer graphics systems
+
+display system designers are faced with the
+difficult task of selecting major subsystems in 
+an intelligent way.  each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its supporting
+data processing system.  the work reported 
+here develops an objective, quantitative design procedure
+and helps give a better understanding of now 
+to  configure display systems.  this is accomplished by
+means of a mathematical model of a computer driven 
+graphics system.  the parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+ the model can be analyzed using numerical 
+queueing analysis or simulation to obtain an average
+response time prediction.  by combining the model 
+with an optimization, the best graphics system configuration,
+subject to a cost constraint, is found 
+for several applications.  the optimum configurations
+are in turn used to find general display system 
+************************
+
+************************
+Document:  CACM-2433.html
+************************
+************************
+Document:  CACM-2332.html
+************************
+************************
+Document:  CACM-2722.html
+************************
+************************
+Document:  CACM-2134.html
+************************
+************************
+Document:  CACM-2000.html
+************************
+************************
+Document:  CACM-2685.html
+************************
+************************
+Document:  CACM-1951.html
+************************
+************************
+Document:  CACM-2486.html
+************************
+************************
+Document:  CACM-2699.html
+************************
+************************
+Document:  CACM-3002.html
+************************
+************************
+Document:  CACM-1710.html
+************************
+
+
+asp-a ring implemented associative structure package
+
+asp is a general purpose associative data
+structure package in which an arbitrary number of 
+data items and an arbitrary number of the relationships
+between these data items may be represented. 
+ a special picture language is described which has proved
+very useful for drawing asp structures on paper. 
+ asp structures are built and manipulated by means
+of a series of macro calls, which are outlined in 
+the appendix.  emphasis is on the philosophy 
+************************
+
+************************
+Document:  CACM-2880.html
+************************
+************************
+Document:  CACM-2701.html
+************************
+
+
+a fast and usually linear algorithm for global
+flow analysis (abstract only--complete paper jacm 
+23,1 january, 1976)
+
+a new algorithm for global flow analysis on
+reducible graphs is presented. the algorithm is 
+shown to treat a very general class of function spaces.
+ for a graph of e edges, the algorithm has a 
+worst case time bound of o(e log e) function operations.
+ it is also shown that in programming terms, 
+the number of operations is proportional to e plus the
+number of exits from program loops.  consequently 
+a restriction to one-entry one-exit control structures
+linearity.  the algorithm can be extended to yet 
+larger classes of function spaces and graphs by relaxing
+the time bound.  examples are given of code 
+improvement problems which can be solved using the algorithm.
+
+cacm december, 1975
+
+graham, s. l.
+wegman, m.
+
+global flow analysis, data flow, code optimization,
+common subexpression 
+************************
+
+************************
+Document:  CACM-1913.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+************************
+Document:  CACM-1807.html
+************************
+
+
+optimization of expressions in fortran
+
+a method of optimizing the computation of
+arithmetic and indexing expressions of a fortran 
+program is presented.  the method is based on a linear
+analysis of the definition points of the variables 
+and the branching and do loop structure of the program.
+ the objectives of the processing are (1) to 
+eliminate redundant calculations when references are
+made to common subexpression values, (2) to remove 
+invariant calculations from do loops, (3) to efficiently
+
+************************
+, (3) to efficiently
+compute subscripts containing do iteration variables, 
+and (4) to provide efficient index register usage.  the
+method presented requires at least a three-pass 
+compiler, the second of which is scanned backward.  it
+has been used in the development of several fortran 
+compilers that have proved to produce excellent object
+code without significantly reducing the compilation 
+speed.
+
+cacm december, 1969
+
+busam, v. a.
+england, d. e.
+
+fortran, optimization, expressions, compilers,
+compilation, subscripts, register allocation, do 
+loops, common subexpressions, 
+************************
+
+************************
+Document:  CACM-2570.html
+************************
+************************
+Document:  CACM-2195.html
+************************
+
+
+on the optimal detection of curves in noisy pictures
+
+a technique for recognizing systems of lines
+is presented.  in this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in a figure of merit.   
+a multistage decision process is then able to recognize
+in the input picture the optimal system of lines 
+according to the given figure of merit.  due to the
+global approach, greater flexibility and adequacy 
+in the particular problem is achieved.  the relation
+between the structure of the figure of merit and 
+the complexity of the optimization process is then discussed.
+
+************************
+ process is then discussed.
+ the method described is suitable for parallel 
+processing because the operations relative to each
+state can be computed in parallel, and the number
+of stages is equal to the length n of the curves (or
+to log2 n if the approximate method is used).
+
+cacm may, 1971
+
+montanari, u.
+
+picture processing, picture recognition, picture
+description, curve detection, line detection, 
+edge detection,optimal detection, heuristic methods,
+global recognition, parallel processing, dynamic 
+programming, interaction graph, secondary optimization problem
+
+3.63 3.66 5.42
+
+************************
+
+************************
+Document:  CACM-1231.html
+************************
+************************
+Document:  CACM-1195.html
+************************
+************************
+Document:  CACM-2903.html
+************************
+************************
+Document:  CACM-2336.html
+************************
+************************
+Document:  CACM-1762.html
+************************
+************************
+Document:  CACM-3132.html
+************************
+************************
+Document:  CACM-1719.html
+************************
+************************
+Document:  CACM-2290.html
+************************
+************************
+Document:  CACM-2812.html
+************************
+************************
+Document:  CACM-1730.html
+************************
+************************
+Document:  CACM-2323.html
+************************
+************************
+Document:  CACM-1798.html
+************************
+************************
+Document:  CACM-3054.html
+************************
+
+
+implementing quicksort programs
+
+this paper is a practical study of how to
+implement the quicksort sorting algorithm and its 
+best variants on real computers, including how to apply
+various code optimization techniques.  a detailed 
+implementation combining the most effective improvements
+to quicksort is given, along with a discussion 
+of how to implement it in assembly language.  analytic
+results describing the performance of the programs 
+are summarized.  a variety of special situations are considered
+
+************************
+
+************************
+Document:  CACM-2953.html
+************************
+************************
+Document:  CACM-2836.html
+************************
+************************
+Document:  CACM-2142.html
+************************
+
+
+reconstruction of pictures from their projections
+
+there are situations in the natural sciences
+and medicine (e.g. in electron microscopy and 
+x-ray photography) in which it is desirable to estimate the
+gray levels of a digital picture at the individual 
+points from the sums of the gray levels along straight
+lines (projections) at a few angles.  usually, 
+in such situations, the picture is far from determined
+and the problem is to find the "most representative" 
+picture.  three algorithms are described (all using
+monte carlo methods) which were designed to solve 
+this problem.  the algorithms are applicable in a large
+and varied number of fields.  the most important 
+uses may be the reconstruction of possibly asymmetric particles
+from electron micrographs and three-dimensional 
+x-ray analysis.
+
+cacm december, 1971
+
+gordon,r.
+herman, g. t.
+
+approximation, biomedical image processing, efficient
+encoding, image processing, linear programming, 
+mathematical programming, monte carlo techniques, optimization,
+picture compression, 
+************************
+
+************************
+Document:  CACM-2897.html
+************************
+
+
+a case study of a new code generation technique for compilers
+
+recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ such a compiler translates the parsed source code into
+lower level code by a sequence of steps.  each 
+step expands higher level statements into blocks of
+lower level code and then performs optimizations 
+on the result.  each statement has only one possible
+expansion-the task of tailoring this code to take 
+advantage of any special cases is done by the 
+************************
+
+************************
+Document:  CACM-2464.html
+************************
+************************
+Document:  CACM-2923.html
+************************
+
+
+high-level data flow analysis
+
+in contrast to the predominant use of low-level
+in termediate text, high-level data flow analysis 
+deals with programs essentially at source level and
+exploits the control flow information implicit in 
+the parse tree.  the need for high-level flow analysis
+arises from several aspects of recent work on 
+advanced methods of program certification and optimization.
+ this paper proposes a simple general method 
+of high-level data flow analysis that allows free use
+of escape and jump statements, avoids large graphs 
+when compiling large programs, facilitates updating of
+data flow information to reflect program changes, 
+and derives new global information helpful 
+************************
+
+************************
+Document:  CACM-2680.html
+************************
+************************
+Document:  CACM-1943.html
+************************
+************************
+Document:  CACM-1755.html
+************************
+************************
+Document:  CACM-3029.html
+************************
+************************
+Document:  CACM-1808.html
+************************
+
+
+advanced cryptographic techniques for computers
+
+cryptographic techniques which can be used to
+maintain the confidentiality of information processed 
+by computers are dealt with.  special emphasis is paid
+to the unique 
+************************
+
+************************
+Document:  CACM-2611.html
+************************
+************************
+Document:  CACM-0820.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+************************
+Document:  CACM-2029.html
+************************
+************************
+Document:  CACM-2929.html
+************************
+************************
+Document:  CACM-0104.html
+************************
+************************
+Document:  CACM-1760.html
+************************
+************************
+Document:  CACM-2835.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-3125.html
+************************
+
+
+global optimization by suppression of partial 
+************************
+ by suppression of partial redundancies
+
+the elimination of redundant computations and the moving of invariant
+computations out of loops are often done separately, with invariants 
+moved outward loop by loop.  we propose to do both at once and
+to move each expression directly to the entrance of the outermost
+loop in which it is invariant.  this is done by solving a more
+general problem, i.e. the elimination of computations performed
+twice on a given execution path.  such computations are termed partially
+redundant.  moreover, the algorithm does not require any graphical
+information or restrictions on the shape of the program graph.
+testing this algorithm has shown that its execution cost is nearly
+linear with the size of the program, and that it leads
+to a smaller optimizer that requires less execution time.
+
+cacm february, 1979
+
+morel, e.
+renvoise, c.
+
+optimizer, optimization, compiler, compilation,
+
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+************************
+Document:  CACM-2877.html
+************************
+
+
+a program data flow analysis procedure
+
+the global data relationships in a program
+can be exposed and codified by the static analysis 
+methods described in this paper.  a procedure is given
+which determines all the definitions which can
+possibly "reach" each node of the control flow graph
+of the program and all the definitions that are 
+"live" on each edge of the graph.  the procedure uses
+an "interval" ordered edge listing data structure 
+and handles reducible and irreducible graphs indistinguishably.
+
+cacm march, 1976
+
+allen, j. e.
+cocke, j.
+
+program optimization, data flow analysis,
+
+************************
+
+************************
+Document:  CACM-2537.html
+************************
+************************
+Document:  CACM-1995.html
+************************
+************************
+Document:  CACM-2944.html
+************************
+
+
+shifting garbage collection overhead to compile time
+
+this paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  the paper assumes a transaction
+oriented collection scheme, as proposed by 
+deutsch and bobrow, the necessary features of which are
+summarized.  implementing the described optimizations 
+requires global flow analysis to be 
+************************
+ flow analysis to be performed on the
+source program.  it is shown that at compile time 
+certain program actions that affect the reference counts
+of cells can be deduced.  this information is 
+used to find actions that cancel when the code is executed
+and those that can be grouped to achieve improved 
+efficiency.
+
+cacm july, 1977
+
+barth, j. m.
+
+garbage collection, global flow analysis, list processing,
+optimization, reference counts, storage 
+************************
+
+************************
+Document:  CACM-2579.html
+************************
+************************
+Document:  CACM-2858.html
+************************
+************************
+Document:  CACM-0693.html
+************************
+************************
+Document:  CACM-2616.html
+************************
+************************
+Document:  CACM-0089.html
+************************
+************************
+Document:  CACM-2574.html
+************************

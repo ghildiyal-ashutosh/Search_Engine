@@ -1,0 +1,1898 @@
+Snippets for the query:  Q24
+************************
+Total Hits:  129
+************************
+
+************************
+Document:  CACM-2344.html
+************************
+
+
+on the optimization of performance of time-sharing systems by simulation
+
+a simulation 
+************************
+ by simulation
+
+a simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the variation of system
+parameters such as store size, number of jobs 
+allowed to execute simultaneously, job-scheduling algorithm,
+etc.  the effects of these variations on 
+a measure of system performance is used to ascertain which
+of the parameters controllable by the job-scheduling 
+algorithm, including the scheduling itself, require optimization,
+and which of the parameters not normally 
+controllable by the scheduling algorithm have a marked
+effect on system performance.  system performance 
+is based upon the mean cost of delay to all jobs processed.
+ it is shown that significant improvements 
+in the measure of system performance can be obtained by
+using variable time-slice techniques and by selecting 
+the optimum round-robin cycle time.  it appears that these
+features would benefit from optimization whereas 
+other parameters controllable by the scheduling algorithm
+affect system performance in a predictable 
+manner and would not benefit from optimization.  features
+not normally under the control of the scheduling 
+algorithm can also have a marked effect on the measure
+of performance; in particular, supervisor overheads, 
+the size of the store, and the speed of the cpu.  a comparison
+is made between the results of the simulation 
+model and two analytical equations for quantum-oriented
+nonpreemptive time-sharing systems.  the comparison 
+is 
+************************
+
+************************
+Document:  CACM-2311.html
+************************
+************************
+Document:  CACM-1931.html
+************************
+
+
+interval arithmetic determinant evaluation
+and its use in testing for a chebyshev system
+
+two recent papers, one by hansen and one by
+hansen and r. r. smith, have shown how interval 
+arithmetic (i.) can be used effectively to bound errors
+in matrix computations.  in the present paper 
+a method proposed by hasen and r. r. smith is compared
+with straightforward use of i. in determinant 
+evaluation.  computational results show the accuracy
+and running times that can be expected when using 
+i. for determinant evaluation.  an application using
+i. determinants in a program to test a set of 
+functions to see if they form a chebyshev system is then presented.
+
+cacm february, 1969
+
+smith, l. b.
+
+interval arithmetic, range arithmetic, error bounds,
+determinant evaluation, chebyshev system, 
+mathematical proof by computer
+
+5.11 5.13 5.14
+
+ca690207 
+************************
+
+************************
+Document:  CACM-1750.html
+************************
+
+
+considerations in the design of a multiple
+computer system with extended core storage
+
+the use of large quantities of addressable
+(but not executable) fast random access memory to 
+heighten the multiprogramming performance of a multicomputer system
+
+************************
+ of a multicomputer system
+is discussed.  the general design 
+of the hardware arrangement and the software components
+and functions of such a system are based on a 
+planned configuration of dual cdc 6600's that share one
+million words of extended core storage.  in the 
+generalization of such a design, special emphasis is
+placed on estimating expected gains when compared 
+with the traditional configuration of separate and independent
+computers without extended core storage. 
+ an observation is made on the use of conventional, slower
+speed, random access storage devices in place 
+of the faster memory.
+
+cacm may, 1968
+
+fuchel, k.
+heller, s.
+
+multiple computer systems, extended core storage,
+
+************************
+
+************************
+Document:  CACM-2852.html
+************************
+
+
+the technology of computer center management: a
+proposed course for graduate professional programs 
+in computer science or in information systems
+
+mcfarlan and nolan have made a strong case for
+adding a course on information systems administration 
+to the 13 courses proposed by the acm curriculum committee
+on computer education for management for graduate 
+professional programs in information systems.  this paper
+is a report on a course entitled, "the technology 
+of computer center management," which has been offered
+at purdue for the past four years.  the course 
+is suitable either for graduate professional programs
+in information systems or for graduate professional 
+programs in computer science.
+
+cacm july, 1976
+
+conte, s. d.
+halstead, m. h.
+
+education, information systems administration, computer
+center management, computer system performance
+
+1.52 2.4 3.51 4.6
+
+
+************************
+
+************************
+Document:  CACM-2813.html
+************************
+************************
+Document:  CACM-3026.html
+************************
+
+
+the evolution of the sperry univac 1100
+series: a his tory, analysis, and projection
+
+the 1100 series systems are sperry univac's
+large-scale main frame computer systems.  beginning 
+************************
+ systems.  beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the latest 
+************************
+ 
+models to the latest system, the 1100/80, introduced
+in 1977.  the 1100 series hardware architecture 
+is based on a 36-bit word, ones complement structure
+which obtains one operand from storage and one from 
+a high-speed register, or two operands from high-speed
+registers.  the 1100 operating system is designed 
+to support a symmetrical multiprocessor configuration
+simultaneously providing multiprogrammed batch, 
+timesharing, and transaction environments.
+
+cacm january, 1978
+
+borgherson, b.
+hanson, m.
+hartley, p.
+
+1100 computer series, computer architecture, multiprocessing
+languages, data management systems, 
+end user facilities, 
+************************
+
+************************
+Document:  CACM-0104.html
+************************
+
+
+digital simulation of discrete flow systems*
+
+the discrete flow systems discussed are characterized
+by the movement of randomly arriving 
+items along interacting channels.  programing a digital
+computer to simulate such systems 
+************************
+
+************************
+Document:  CACM-1473.html
+************************
+
+
+the stability of the fourth order runge-kutta
+method for the solution of systems of differential 
+equations
+
+the problem of the region of stability of the
+fourth order-runge-kutta method for the solution 
+of systems of differential equations is studied.  this
+region can be characterized by means of linear 
+transformation but can not be given in a closed form.
+ in the paper, this region is determined by the 
+electronic digital computer z22.
+
+cacm february, 
+************************
+
+************************
+Document:  CACM-2990.html
+************************
+
+
+effective information retrieval using term accuracy
+
+the performance of information retrieval systems
+can be evaluated in 
+************************
+
+can be evaluated in a number of different 
+ways.  much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user 
+************************
+ of an average 
+user query.  unfortunately, formal proofs are difficult
+to construct for the average case.  in the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query. 
+************************
+
+************************
+Document:  CACM-1912.html
+************************
+
+
+simulation of outpatient appointment systems
+
+an experimental computer program is described
+
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+
+
+growing applications of linear programming
+
+use of linear programming models has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  it no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  an advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based.  these 
+************************
+ must be based.  these viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  some
+of the components of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, data transmission 
+for direct computer entry, data file at 
+************************
+
+************************
+Document:  CACM-1030.html
+************************
+
+
+techniques for the simulation of computer logic
+
+the simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  the evaluation of 
+************************
+.  the evaluation of the boolean functions which
+characterize the computer being simulated constitutes 
+************************
+
+************************
+Document:  CACM-1267.html
+************************
+
+
+performance of systems used for data transmission
+
+************************
+ used for data transmission
+transfer rate of information bits -an asa tutorial 
+standard
+
+information thruput as a characteristic of
+systems performance is discussed.  this 
+************************
+
+************************
+Document:  CACM-0436.html
+************************
+
+
+evaluation of polynomials by computer
+
+cacm december, 1962
+
+************************
+
+************************
+Document:  CACM-2522.html
+************************
+
+
+the design, implementation, and evaluation of a working set dispatcher
+
+the behavior of a computer system is largely
+dependent 
+************************
+ system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing for them.
+ recent research in time-sharing paging systems 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  two implementations
+along these principles have been reported, but it 
+seems that in neither case have further results been
+announced.  this report discusses the design and 
+implementation of a dispatcher based on the working set
+principle, presents data to permit analysis of 
+its behavior, and indicates future directions of research
+on methods of controlling a computer system.
+
+cacm april, 1973
+
+rodriguez-rosell, j.
+dupuy, j. p.
+
+working set, dispatcher, scheduler, time-sharing
+systems, resource allocation, software evaluation, 
+operating systems, 
+************************
+
+************************
+Document:  CACM-1653.html
+************************
+
+
+system performance evaluation: survey and appraisal
+
+************************
+: survey and appraisal
+
+the state of the art of system performance
+evaluation is reviewed and evaluation 
+************************
+ is reviewed and evaluation goals and 
+problems are examined.  throughput, turnaround, and
+availability are defined as fundamental measures 
+of performance; overhead and cpu speed 
+************************
+; overhead and cpu speed are placed in
+perspective.  the appropriateness of instruction 
+mixes, kernels, simulators, and other tools is discussed,
+as well as pitfalls which may be encountered 
+when using them.  analysis, simulation, and synthesis are
+presented as three levels of approach to evaluation, 
+requiring successively greater amounts of information.
+ the central role of measurement in performance 
+evaluation and in the 
+************************
+
+************************
+Document:  CACM-1620.html
+************************
+************************
+Document:  CACM-2479.html
+************************
+
+
+curriculum recommendations for graduate professional
+programs in information systems: recommended 
+addendum on information systems administration
+
+an addendum to the report of the acm curriculum
+committee on computer education for management 
+************************
+ education for management 
+is proposed. the proposed addendum is to include in the curriculum
+a course on information systems administration. 
+it is important for two reasons: (1) the systems designer
+must understand the administrative framework 
+in which he must operate to work effectively, and (2) an
+important objective of the curriculum recommendations 
+is to prepare the future manager of the computer activity.
+ it is felt 
+************************
+ activity.
+ it is felt that the importance of these two 
+reasons justifies the addition of the recommended course.
+ the course is outlined in the format of the 
+original report.
+
+cacm july, 1973
+
+mcfarlan, f. w.
+nolan, r. l.
+
+education, management information systems, information
+systems administration, information systems 
+management, computer management
+
+1.52 3.51
+
+************************
+
+************************
+Document:  CACM-2617.html
+************************
+************************
+Document:  CACM-1844.html
+************************
+
+
+a modular computer sharing system
+
+an alternative approach to the design and organization
+of a general purpose interactive multiterminal 
+computing system is presented.  the system organization described
+is a conceptually simple arrangement 
+of a bank of interchangeable computers, each of which
+is a memory/processor pair, that are assigned to 
+process terminal jobs as they arrive.  one of the computers
+serves as the master or control computer 
+and supervises the collection and distribution of messages
+from and to the remote terminals.  in the 
+simplest form there is a disk drive for each connected
+terminal.  a crosspoint switching network allows 
+any such disk drive to be connected to any computer.
+ thus, while each active terminal user "occupies" 
+a dedicated disk drive, he may share the computer with
+many other terminal users in a simple manner. 
+ the ratio of users to computers is dependent on both
+the size and power of the machines used and the 
+computation requirements of the particular mix of users.
+ this system organization is inherently a simpler 
+and therefore more reliable approach to time-sharing computers
+and has the potential of a highly available 
+system at relatively low cost.  economic configurations
+are possible for a range of systems sizes that 
+span at 
+************************
+ sizes that 
+span at least one order of magnitude.  finally, problem
+programs developed by remote terminal users can 
+be run on a dedicated batch system if compatible computers are used.
+
+cacm october, 1969
+
+baskin, h. b.
+horowitz, e. b.
+tennison, r. d.
+rittenhouse, l. e.
+
+multiple terminal systems, terminal oriented systems,
+
+************************
+, terminal oriented systems,
+multiple processor systems, high availability, 
+conversational systems, general purpose time-sharing systems,
+real-time response system, modular constructed 
+systems, modular computer-sharing systems, graphics,
+
+************************
+-sharing systems, graphics,
+file switch, intercomputer communications, control 
+************************
+
+************************
+Document:  CACM-2485.html
+************************
+************************
+Document:  CACM-0601.html
+************************
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is described. 
+ this system is based on a simple, high level language
+which is used to describe the evolving system 
+at all stages of its development.  the source language
+description is used as direct input to performance 
+analysis and simulation routines.  using the performance
+information obtained from these routines as 
+feedback, the problems which adversely affect performance
+are detected early enough so that they can 
+be corrected without costly major reimplementation of the proposed system.
+
+cacm february, 1973
+
+graham, r. m.
+clancy, g. j. jr.
+devaney, d. b.
+
+operating system development, language processing
+software evaluation, compilers, system programming, 
+supervisory systems, debugging, program 
+************************
+
+************************
+Document:  CACM-1792.html
+************************
+
+
+exploratory experimental studies comparing
+online and off line programming performance
+
+two exploratory experiments were conducted at
+system development corporation to compare debugging 
+performance of programmers working under conditions
+of on-line and off line access to a computer.  these 
+are the first 
+************************
+.  these 
+are the first known studies that measure programmers'
+performance under controlled conditions for standard 
+tasks.  statistically significant results of both experiments
+indicated faster debugging under online 
+conditions, but perhaps the most important practical finding
+involves the striking individual differences 
+in programmer performance.  methodological problems encountered
+in designing and conducting these experiments 
+are described; limitations of the findings are pointed
+out; hypotheses are presented to account for results; 
+and suggestions are made for further research.
+
+cacm january, 1968
+
+sackman, h.
+erikson, w. j.
+grant, e. e.
+
+online vs. off line performance, programmer/computer
+communication, programming 
+************************
+
+************************
+Document:  CACM-0322.html
+************************
+
+
+operational compatibility of systems-conventions
+
+the general standards committee of the share
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view 
+************************
+ efficiently in
+view of the growing number of programming systems 
+available.  each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first.  these 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required. 
+************************
+
+************************
+Document:  CACM-2502.html
+************************
+
+
+a comment on the practical aspects of computer science education
+
+cacm may, 1973
+
+estell, r. g.
+
+education, computer engineering, computer
+sciences curriculum, systems design
+
+1.52 6.0
+
+ca730518 
+************************
+
+************************
+Document:  CACM-2535.html
+************************
+
+
+the effects of multiplexing on a computer-communications system
+
+a study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process from a user to the computer
+and, consequently, affects the performance 
+of a time-shared computer-communications system.  it is
+concluded that while, for certain values of system 
+parameters, there is noticeable improvement in the
+performance of the computer (model), in the sense 
+that time-shared scheduling delays are reduced, these
+improvements are offset by the transmission delays 
+imposed by multiplexing so that there may be little or
+no change in the computer-communications system 
+performance.  analytical and simulation results are
+based on the model of the computer-communications 
+system being an m/d/1 queue (the multiplexor) in tandem
+with a single exponential server (the computer). 
+ analytical results include a general description of the
+output process of an m/d/1 queue and the conditions 
+under which this output process is approximately poisson.
+
+cacm march, 1973
+
+pack, c. d.
+
+computer communications, time-sharing, multiplexing,
+scheduling algorithms, operating systems
+
+3.80 3.81 6.20
+
+ca730304 
+************************
+
+************************
+Document:  CACM-2818.html
+************************
+
+
+interference in multiprocessor computer
+systems with interleaved memory 
+************************
+
+************************
+Document:  CACM-1938.html
+************************
+
+
+some criteria for time-sharing system performance
+
+time-sharing systems, as defined in this 
+************************
+, as defined in this article,
+are those multiaccess systems which permit 
+a terminal user to utilize essentially the full resources
+of the system while sharing its time with other 
+terminal users.  it is each terminal user's ability
+to utilize the full resources of the system that 
+makes quantitative evaluation of time-sharing systems
+particularly difficult.  six criteria are described 
+which have been successfully used to perform first-level
+quantitative time-sharing system performance 
+evaluation.
+
+cacm january, 
+************************
+ 
+evaluation.
+
+cacm january, 1969
+
+stimler, s.
+
+time-sharing performance criteria, time-sharing
+
+************************
+
+************************
+Document:  CACM-3028.html
+************************
+
+
+the manchester mark i and atlas: a his torical perspective
+
+in 30 years of computer design at manchester university
+two systems stand out: the mark 
+************************
+ stand out: the mark i (developed 
+over the period 1946-49) and the atlas (1955-62). 
+this paper places each computer in its his torical 
+context and then describes the architecture and system
+software in present-day terminology.  several 
+design concepts such as address-generation and store
+management have evolved in the progression from 
+mark i to atlas.  the wider impact of manchester innovations
+in these and other areas is discussed, and 
+the contemporary performance of the mark i and atlas is evaluated.
+
+cacm january, 1978
+
+lavington, s.
+
+architecture, index registers, paging, virtual
+storage, extra codes, compilers, operating systems, 
+ferranti, manchester 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in 
+************************
+
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  in particular,
+the impact of query complexity is analyzed.
+
+cacm february, 1976
+
+siler, k. f.
+
+database architecture, database performance and
+evaluation, invented list, threaded 
+************************
+
+************************
+Document:  CACM-1341.html
+************************
+
+
+levels of computer systems
+
+in building current 
+************************
+
+
+in building current computer systems, we tend
+to break them 
+************************
+
+************************
+Document:  CACM-1735.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory 
+************************
+ 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+systems, software measurement, user program 
+measurement, measurement technology, tx-2 computer,
+virtual computers, performance improvement
+
+4.30 4.32 
+************************
+
+************************
+Document:  CACM-1071.html
+************************
+
+
+computer-usage accounting for generalized time-sharing systems
+
+the current development 
+************************
+
+
+the current development of general time-sharing
+systems requires a revision of accounting procedures 
+for computer usage. since time-sharing 
+************************
+ usage. since time-sharing system users
+operate concurrently, it is necessary to be more 
+precise as to the amount of computer time and storage
+space that a user actually utilizes.  the various 
+cost factors which should be considered for computer usage
+accounting in generalized time-sharing systems 
+are discussed.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1196.html
+************************
+
+
+applications of differential equations in general problem solving
+
+a large class of problems leading to digital
+computer processing can be formulated in terms 
+of the numerical solution of systems of ordinary differential
+
+************************
+ of ordinary differential
+equations.  powerful methods are in existence 
+for the solution of such systems.  a good general purpose
+routine for the solution of such systems furnishes 
+a powerful tool for processing many problems.  this is
+true from the point of view of ease of programming, 
+ease of debugging, and minimization of computer time.
+ a number of examples 
+************************
+
+************************
+Document:  CACM-0143.html
+************************
+
+
+a list of computer systems programs for
+the ibm 
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+models constitute a 
+************************
+
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+examines 
+************************
+.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes circumstances 
+************************
+ and establishes circumstances under
+which the use of a model is appropriate.
+
+cacm july,1972
+
+kimbleton, s. r.
+
+modeling, evaluation, performance, analytic-models,
+simulation-models, 
+************************
+
+************************
+Document:  CACM-2322.html
+************************
+************************
+Document:  CACM-1940.html
+************************
+************************
+Document:  CACM-1951.html
+************************
+
+
+estimates of distributions of random variables
+for certain computer communications traffic models
+
+a study of multiaccess computer communications has
+characterized the distributions underlying an elementary
+ model of the user-computer interactive process.  the model used is
+elementary in the sense that many of the random variables that
+generally are of interest in computer communications studies can be
+decomposed into the elements of this model.  data were examined
+from four operational multiaccess systems, and the model is shown 
+************************
+, and the model is shown to
+be robust; that is each of the variables of the model has the
+same distribution independent of which of the four systems is being examined. 
+it is shown that the gamma distribution can be used to
+describe the discrete variables.  approximations to the gamma distribution
+by the exponential distribution are discussed for the systems studied.
+
+cacm december 1970
+
+fuchs, e.
+jackson, p. e.
+
+computer communications, time-sharing,
+
+************************
+
+************************
+Document:  CACM-0182.html
+************************
+************************
+Document:  CACM-2105.html
+************************
+
+
+an interactive computer system using graphical flowchart input
+
+an interactive computer system operational on a graphical computer terminal is 
+described.  this system was designed to demonstrate a method of programming by 
+computer interpretation of a flowchart.  the user draws a description of a
+sampled-data system and specifies description is transmitted to a large
+scale computer.  the design is simulated, and a graphic representation of the 
+processed signal is returned to the scope.  a successful design may require 
+numerous modifications of the original design.  a graphical interactive system 
+provides an environment to perform this iterative process efficiently and 
+effectively.
+
+cacm february, 1970
+
+robins, m. f.
+beyer, j. d.
+
+simulation program, graphical input-output sampled data systems
+
+3.20 3.24
+
+ca700210 
+************************
+
+************************
+Document:  CACM-0417.html
+************************
+
+
+legal implications of computer use
+
+this paper points out a variety of ways computer
+systems used in business and 
+************************
+ used in business and industry can 
+be involved in legal entanglements and suggests that
+computer specialists have a responsibility to call 
+for assistance in forestalling or minimizing those entanglements
+during the planning stage.  techniques 
+are suggested for making legal clearance effective with
+the least burden on the new technology and for 
+achieving a favorable legal climate for it generally.
+ computer specialists also are alerted to potential 
+opportunities to interpret to lawyers the technical aspects
+of computer systems involved in legal situations.
+
+************************
+
+************************
+Document:  CACM-0893.html
+************************
+
+
+significance arithmetic on a digital computer
+
+the 7090 at nyu has been modified to include
+a "significance mode" of operation which is intended 
+to facilitate the identification of significant bits in
+the results of floating-point arithmetic operations. 
+ the manner in which floating-point arithmetic is handled
+in this mode is discussed.  several numerical 
+experiments using this mode are described and comparisons
+are made with the ordinary "normalized mode." 
+ examples include power series evaluation, linear equations
+solution, 
+************************
+
+************************
+Document:  CACM-1518.html
+************************
+
+
+an experimental model of system/360
+
+the problem of predicting the performance of
+modern computer systems is formidable.  one 
+************************
+
+************************
+Document:  CACM-0741.html
+************************
+************************
+Document:  CACM-0517.html
+************************
+************************
+Document:  CACM-1128.html
+************************
+************************
+Document:  CACM-2437.html
+************************
+************************
+Document:  CACM-2988.html
+************************
+
+
+memory management and response time
+
+this paper presents a computationally tractable
+methodology for including accurately the effects 
+of finite memory size and workload memory requirements
+in queueing network models of computer systems. 
+ empirical analyses 
+************************
+. 
+ empirical analyses and analytic studies based on applying
+this methodology to an actual multiaccess 
+in teractive system are reported.  relations between workload
+variables such as memory requirement distribution 
+and job swap time, and performance measures such as response
+time and memory utilization are graphically 
+displayed. a multiphase, analytically soluble model is
+proposed as being broadly applicable to the analysis 
+of in teractive computer systems which use nonpaged memories.
+
+************************
+ which use nonpaged memories.
+
+cacm march, 1977
+
+brown, r. m.
+browne, j. c.
+chandy, k. m.
+
+memory management, system performance, queueing
+network models, in teractive computer systems
+
+4.32
+
+ca770304 jb december 
+************************
+
+************************
+Document:  CACM-0444.html
+************************
+************************
+Document:  CACM-2984.html
+************************
+
+
+cost/utilization: a measure of system performance
+
+a method is presented for evaluating computer
+system performance in terms of a cost/utilization 
+factor and a measure of imbalance.  these coefficients
+indicate the extent to which the total system 
+cost is effectively utilized.  the method includes a
+technique for the visual representation of system 
+performance.
+
+cacm march, 1977
+
+borovits, i.
+ein-dor, p.
+
+computer system, performance evaluation, cost/utilization, system 
+************************
+
+************************
+Document:  CACM-3130.html
+************************
+************************
+Document:  CACM-0966.html
+************************
+************************
+Document:  CACM-1719.html
+************************
+
+
+a methodology for calculating and
+optimizing real-time system performance
+
+the continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious 
+************************
+ 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.  real-time data processing systems 
+as typified by the 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  there are four major 
+************************
+.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a 
+************************
+) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  the analyzed problem statement 
+was translated to the form necessary for use by the
+soda (systems optimization and design algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+cacm december, 1976
+
+nunamaker, j. f. jr.
+konsynski, b. r. jr.
+ho, t.
+singer, c.
+
+computer-aided analysis, information 
+************************
+
+************************
+Document:  CACM-0096.html
+************************
+
+
+on computing radiation integrals
+
+the relative merit and cost of four ways of
+evaluating typical radiation integrals containing 
+spherical bessel functions are investigated.  these methods
+are desk machine evaluation of a finite series, 
+integration of the appropriate differential equation
+by a reeves electronic analog computer and by a 
+litton 40 
+************************
+
+************************
+Document:  CACM-1908.html
+************************
+
+
+time-sharing and batch-processing:  an experimental
+comparison of their values in a problem - 
+solving situation
+
+an experimental comparison of problem-solving
+using time-sharing and batch-processing computer 
+systems conducted at mit is 
+************************
+ conducted at mit is described in this paper.
+ this study is the first known attempt to evaluate 
+two such systems for what may well be the predominant user
+population within the next decade-the professionals 
+who, as nonprogrammers, are using the computer as an
+aid in decision-making and problem-solving rather 
+than as a programming end in itself.  statistically
+and logically significant results indicate equal 
+cost for usage of the two computer systems; however,
+a much higher level of performance is attained by 
+time-sharing 
+************************
+
+************************
+Document:  CACM-3048.html
+************************
+
+
+performance evaluation of highly concurrent
+
+************************
+ of highly concurrent
+computers by deterministic simulation
+
+simulation is presented as a practical technique
+for performance evaluation of alternative 
+configurations 
+************************
+ of alternative 
+configurations of highly concurrent computers.  a technique
+is described for constructing a detailed 
+deterministic simulation model of a system.  in the model
+a control stream replaces the instruction and 
+data streams of the real system.  simulation of the
+system model yields the timing and resource usage 
+statistics needed for performance evaluation, without
+the necessity 
+************************
+, without
+the necessity of emulating the system.  as a case 
+study, the implementation of a simulator of a model
+of the cpu-memory subsystem of the ibm 360/91 is 
+described.  the results of evaluating some alternative
+system designs are discussed.  the experiments 
+reveal that, for the case study, the major bottlenecks
+in the system are the memory unit and the fixed 
+point unit.  further, it appears that many of the sophisticated
+pipelining and buffering technique simplemented 
+in the architecture of the ibm 360/91 are of little
+value when high-speed (cache) memory is used, as 
+in the ibm 360/195.
+
+cacm november, 1978
+
+kumar, b.
+davidson, e.
+
+performance evaluation, deterministic simulation,
+
+************************
+
+************************
+Document:  CACM-2553.html
+************************
+
+
+the practical aspect of computer science education-discussion
+
+cacm january, 1973
+
+blount, s. e.
+
+education, computer engineering, computer
+science curriculum, systems design
+
+1.52 6.0
+
+ca730108 
+************************
+
+************************
+Document:  CACM-1529.html
+************************
+************************
+Document:  CACM-0575.html
+************************
+************************
+Document:  CACM-3117.html
+************************
+
+
+the impact and use of computer technology by the police
+
+over the past decade there has been a significant growth
+in the use of computer technology by u. police departments.  this
+growth, however, has been at a slower rate than predicted in the
+early 1970's.  further, when computer applications extend
+beyond "routine" uses to "nonroutine" efforts, such as resource allocation
+or computer-aided-dispatch systems where the machine begins 
+************************
+
+************************
+Document:  CACM-3169.html
+************************
+************************
+Document:  CACM-0678.html
+************************
+************************
+Document:  CACM-2262.html
+************************
+
+
+garbage collection for virtual memory computer systems
+
+in list processing 
+************************
+
+
+in list processing there is typically a growing
+demand for space during program execution. 
+ this paper examines the practical implications of this
+growth within a virtual memory computer system, 
+proposes two new garbage collection techniques for virtual
+memory systems, and compares them with 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+************************
+'s output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment 
+************************
+, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, 
+************************
+, computer systems design, input equipment, 
+************************
+ design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, 
+************************
+
+************************
+Document:  CACM-1689.html
+************************
+************************
+Document:  CACM-2375.html
+************************
+
+
+a comparative analysis of disk scheduling policies
+
+five well-known scheduling policies for movable
+head disks are compared using the performance 
+criteria of expected seek time (system oriented)and expected
+waiting time (individual i/o request oriented). 
+ both analytical and simulation results are obtained.
+ the variance of waiting time is introduced as 
+another meaningful measure of performance, showing possible
+discrimination against individual requests. 
+ then the choice of a utility function to measure total
+performance including system oriented and individual 
+request oriented measures is described.  such a function
+allows one to differentiate among the scheduling 
+policies over a wide range of input loading conditions.
+ the selection and implementation of a maximum 
+performance two-policy algorithm are discussed.
+
+cacm march, 1972
+
+teorey, t. j.
+pinkerton, t. b.
+
+access time, analytical models, auxiliary storage,
+direct access storage, disk analysis, disk scheduling, 
+performance criteria, peripheral memory devices, real-time
+systems, response time, rotational 
+************************
+
+************************
+Document:  CACM-0180.html
+************************
+************************
+Document:  CACM-2298.html
+************************
+
+
+an environment for research in microprogramming and emulation
+
+the development of the research project in
+microprogramming and emulation at state university 
+of new york at buffalo consisted of three phases: the
+evaluation of various possible machines to support 
+this research; the decision to purchase one such machine,
+which appears to be superior to the others 
+considered; and the organization and definition of goals
+for each group in the project.  each of these 
+phases is reported, with emphasis placed on the
+early results achieved in this research.
+
+cacm august, 1972
+
+rosin, r. f.
+frieder, g.
+eckhouse jr., r. h.
+
+microprogramming, emulation, computer systems, language
+processors, 
+************************
+, language
+processors, input-output systems, nano-program, 
+project management, hardware evaluation
+
+4.1 4.2 4.3 6.2
+
+ca720804 
+************************
+
+************************
+Document:  CACM-0742.html
+************************
+************************
+Document:  CACM-2894.html
+************************
+
+
+a methodology for interactive computer service measurement
+
+a measurement methodology applicable to in teractive
+computer service is described.  its primary 
+purpose is to enable external, user-oriented assessment
+of computer performance, instead of the more 
+************************
+, instead of the more 
+frequently used in ternal system measurement techniques.
+ the nbs network measurement system is employed 
+as the external measurement tool.  example data have
+been collected and analyzed.  a demonstration of 
+the methodology, leading to a pragmatic figure-of-merit
+evaluation of results, is included.
+
+cacm december, 1977
+
+adrams, m. d.
+
+in teractive system, computer service, measurement,
+performance, external measurement, 
+************************
+
+************************
+Document:  CACM-0590.html
+************************
+************************
+Document:  CACM-2886.html
+************************
+************************
+Document:  CACM-0181.html
+************************
+************************
+Document:  CACM-0268.html
+************************
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided 
+************************
+ using computer- aided algebra
+
+analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov 
+************************
+
+************************
+Document:  CACM-2255.html
+************************
+************************
+Document:  CACM-2621.html
+************************
+
+
+a high security log-in procedure
+
+the protection of time sharing systems from
+unauthorized users is often achieved by the use 
+of passwords.  by using one-way ciphers to code the passwords,
+the risks involved with storing the passwords 
+in the computer can be avoided.  we 
+************************
+
+************************
+Document:  CACM-3119.html
+************************
+
+
+the impact of distributions and disciplines
+on multiple processor systems
+
+simple queueing models are used to study the performance tradeoffs of 
+multiple 
+************************
+ tradeoffs of 
+multiple processor systems.  issues considered include the impact of cpu
+service disciplines and distributions, level of multiprogramming,
+multitasking, and job priorities. 
+
+cacm january, 1979
+
+sauer, c.
+chandy, k.
+
+multiprogramming, multiprocessing, scheduling disciplines,
+performance evaluation, queueing models
+
+4.32 
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+************************
+Document:  CACM-2985.html
+************************
+
+
+effects of chargeout on user/manager attitudes
+
+the relationship of in ternal pricing systems
+for computer services (chargeout 
+************************
+ services (chargeout systems) and 
+user management attitudes about their computer-based
+information systems 
+************************
+-based
+information systems is investigated. evidence is 
+provided that the relationship conforms to a general
+pattern that would be expected from the hypothesis 
+of the four stages of edp growth [15].  the results also
+indicate that the chargeout systems characteristic 
+of advanced edp stage environments are associated with
+relatively high levels of positive user attitudes 
+and marked increases in edp training for users. both factors
+are important to the user/manager involvement 
+necessary for effective control of computer-based systems.
+ development 
+************************
+-based systems.
+ development and main tenance of computer-based 
+systems is asserted 
+************************
+-based 
+systems is asserted to be a category of organizational
+change.  a "felt need" for the change on the part 
+of the user/manager is prerequisite to any change taking
+place.  the research methods of behavioral science 
+are applied to investigate the user/manager
+environment and the effects of chargeout.
+
+cacm march, 1977
+
+nolan, r. l.
+
+computer management, computer 
+************************
+
+************************
+Document:  CACM-2634.html
+************************
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer 
+************************
+
+installations now offer various types of statistical 
+packages for general use.  among those most widely available
+are osiris, spss, bmd, data-text, and tsar. 
+ in order to provide users with a basis for selection
+and use, tests were made for each of these systems, 
+and the results are summarized as to cost and performance.
+
+cacm june, 1974
+
+slysz, 
+************************
+
+************************
+Document:  CACM-0589.html
+************************
+************************
+Document:  CACM-1032.html
+************************
+
+
+theoretical considerations in information retrieval systems
+
+information storage and retrieval systems are composed
+of three major components: (a) identification 
+of information and tagging it for effective retrieval,
+(b) searching strategy, how to enter the file 
+to circumvent the scanning of nonrelevant material, and
+(c) file organization to make access to information 
+efficient.  for identification of information the paper
+suggests that a metalanguage (recently discussed 
+in a paper by goffman, verhoeff and belzer) associated
+with an object language be used.  for searching 
+strategy, a linear model for an evaluation function
+of relevancy is developed which rewards the system 
+for retrieving relevant documents and not retrieving
+the nonrelevant, and penalizes the system for the 
+escaped relevant documents and false drops.  the inadequacies
+of a linear model are indicated.  two approaches 
+to file organization are discussed.  one is self-organization
+of the file based on its history and past 
+performance, and the second is a 
+************************
+
+************************
+Document:  CACM-0179.html
+************************
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-2798.html
+************************
+
+
+analysis of interleaved memory systems using blockage buffers
+
+a model of interleaved memory systems is presented,
+and the analysis of the model by monte 
+carlo simulation is discussed.  the simulations investigate
+the performance of various system structures, 
+************************
+ of various system structures, 
+i.e. schemes for sending instruction and data requests
+to the memory system.  performance is measured 
+by determining the distribution of the number of memory
+modules in operation during a memory cycle.  
+an important observation from these investigations is that
+separately grouping instruction and data requests 
+for memory can substantially increase the average number
+of memory modules in operation during a memory 
+cycle.  results of the simulations and an analytical
+study are displayed for various system structures.
+
+cacm february, 1975
+
+burnett, g. j.
+coffman, e. g. jr.
+
+interleaved memory systems, modular memory systems,
+
+************************
+, modular memory systems,
+memory performance analysis, blockage buffer, 
+************************
+
+************************
+Document:  CACM-2951.html
+************************
+
+
+dynamic response time prediction for computer networks
+
+if the ultimate aim of a computing network
+is resource sharing, then the human component as 
+well as the technical component of networking must
+be fully investigated to achieve this goal.  this 
+research is a first step toward assisting the user in participating
+in the vast store of resources available 
+on a network. analytical, simulation, and statistical performance
+evaluation tools are employed to 
+************************
+ tools are employed to investigate 
+the feasibility of a dynamic response time monitor
+that is capable of providing comparative response 
+time information for users wishing to process various
+computing applications at some network computing 
+node.  the research clearly reveals that sufficient
+system data are currently obtainable, at least for 
+the five diverse arpa network systems studied in detail,
+to describe and predict the response time for 
+network time-sharing systems as it depends on some
+measure of system activity or load level.
+
+cacm july, 1977
+
+mamrak, s. a.
+
+response time monitor, computer networks, time-sharing
+
+************************
+
+************************
+Document:  CACM-1827.html
+************************
+
+
+performance monitoring in a time-sharing system
+
+a software measurement facility which is part of
+a general purpose time-sharing system is described. 
+ the date collection facility (dcf) has been implemented
+in the michigan terminal system (mts) for the 
+system/360 model 67.  it exists for the purpose of monitoring
+operating system and user program behavior 
+and performance.  the overall structure of mts is outlined
+in order to explain the implementation of 
+the dcf.  events in the system are identified and recorded
+from within the supervisor, and dumped to 
+magnetic tape by an auxiliary program for off-line processing.
+ events in user programs which are unrelated 
+to system actions are recorded with a supervisor call.
+ the time of occurrence of each event is accurately 
+recorded, and data items are further identified by job and
+type.  the overhead associated with data collection 
+and its interference with normal jobs is carefully analyzed,
+and both are shown to be minimal.  several 
+examples are given of information obtained with the
+facility and of applications in which it has been 
+useful.  some general guidelines are offered for
+the construction of future monitoring programs.
+
+cacm november, 1969
+
+pinkerton, t. b.
+
+performance monitoring, performance measurement,
+program behavior, performance data, multiprogramming 
+performance, software measurement, time-sharing performance,
+system evaluation, software monitor, software 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models 
+************************
+
+
+econometric models of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of 
+************************
+.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market is 
+************************
+.  the other market is the developing one
+for small business computer systems, a market which is relatively
+
+************************
+, a market which is relatively
+unstable with low price predictability. 
+
+cacm april, 1979
+
+cale, e.
+gremillion, l.
+mckenney, j.
+
+price/performance, grosch's law, u. computer market
+
+2.0 2.11 6.21
+
+************************
+
+************************
+Document:  CACM-0574.html
+************************
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent failures
+
+************************
+ under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including availability, 
+response time, and the system saturation point.   
+
+cacm june, 1978
+
+gelenbe, e.
+derochette, d.
+
+database reliability, file systems, checkpoints, recovery
+procedures, checking techniques, reliability 
+and system performance evaluation
+
+3.72 3.73 4.33 4.35 
+************************
+
+************************
+Document:  CACM-2268.html
+************************
+
+
+a comparative study of computer programs
+for integrating differential equations
+
+a study comparing the performance of several computer
+programs for integrating systems of ordinary 
+differential 
+************************
+ of ordinary 
+differential equations is reported.  the integration methods represented
+include multistep methods (predictor-correctors), 
+single-step methods (runge-kutta) and extrapolation methods
+(both polynomial and rational).  the testing 
+procedure is described together with the evaluation
+criteria applied.  a set of test problems on which 
+the programs were tested is included in an appendix.
+ for the particular problems and criteria used in 
+the investigation it was found that a program based on
+rational extrapolation showed the best performance.
+
+cacm november, 1972
+
+************************
+
+************************
+Document:  CACM-0708.html
+************************

@@ -1,0 +1,1095 @@
+Snippets for the query:  Q17
+************************
+Total Hits:  58
+************************
+
+************************
+Document:  CACM-1331.html
+************************
+************************
+Document:  CACM-1154.html
+************************
+************************
+Document:  CACM-1159.html
+************************
+
+
+machine independence: its technology and economics
+
+a survey is offered of techniques for transferring
+programs, and especially compilers, from 
+one computer 
+************************
+
+************************
+Document:  CACM-1414.html
+************************
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-3059.html
+************************
+************************
+Document:  CACM-1795.html
+************************
+
+
+optimal code for serial and parallel computation
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-1665.html
+************************
+
+
+automatic generation of efficient lexical
+processors using finite state techniques
+
+the practical application of the theory of
+finite-state automata to automatically generate 
+lexical processors is dealt with in this tutorial article
+by the use of the aed rword system, developed 
+at m. as part of the aed-1 system.  this system
+accepts as input description of the multicharacter 
+items or of words allowable in a language given in terms
+of a subset of regular expressions. the output 
+of the system is a lexical processor which reads a string
+of characters and combines them into the items 
+as defined by the regular expressions.  each output
+item is identified by a code number together with 
+a pointer to a block of storage containing the characters
+and character count in the item.  the processors 
+produced by the system are based on finite-state machines.
+ each state of a "machine" 
+************************
+.
+ each state of a "machine" corresponds to 
+a unique condition in the lexical processing of a character
+string.  at each state a character is read, 
+and the machine changes to a new state.  at each transition
+appropriate actions are taken based on the 
+particular character read.  the system has been in operation
+since 1966, and processors generated have 
+compared favorably in speed to carefully hand-coded programs
+to accomplish 
+************************
+d programs
+to accomplish the same task.  lexical processors 
+for aed-o and mad are among the many which have been
+produced.  the techniques employed are independent 
+of the nature of the items being evaluated.  if the
+word "events" is substituted for character string, 
+these processors may be described as generalized decision-making
+mechanisms based upon an ordered sequence 
+of events.  this allows the system to be used in a
+range of applications outside the area of lexical 
+processing.  however convenient these advantages may
+be, speed is the most important consideration.  
+in designing a system for automatic generation of a
+lexical processor, the goal was a processor which 
+completely eliminated backup or rereading, which was nearly
+as fast as hand-coded processors, which would 
+************************
+
+************************
+Document:  CACM-2586.html
+************************
+************************
+Document:  CACM-2551.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+
+
+a base for a mobile programming system
+
+an algorithm for a macro processor which has
+been used as the base of an implementation, by 
+bootstrapping, of processors for programming languages is
+described.  this 
+************************
+ is
+described.  this algorithm can be easily implemented 
+on contemporary computing machines.  experience with
+programming languages whose implementation 
+************************
+
+************************
+Document:  CACM-1204.html
+************************
+************************
+Document:  CACM-2897.html
+************************
+
+
+a case study of a new code generation technique for compilers
+
+recent developments 
+************************
+
+
+recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ such a compiler translates the parsed source code into
+lower level code 
+************************
+
+************************
+Document:  CACM-0082.html
+************************
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+
+************************
+ to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, algorithms,
+
+************************
+
+************************
+Document:  CACM-2266.html
+************************
+
+
+a highly parallel algorithm for approximating
+
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+************************
+Document:  CACM-2401.html
+************************
+************************
+Document:  CACM-3066.html
+************************
+
+
+a controlled experiment in program testing
+and code walkthroughs/inspections
+
+this paper describes an experiment in program
+testing, employing 59 highly experienced data 
+processing 
+************************
+
+************************
+Document:  CACM-2533.html
+************************
+************************
+Document:  CACM-2495.html
+************************
+
+
+adapting optimal code generation for arithmetic
+expressions to the instruction sets available 
+on present-day computers
+
+cacm june, 1973
+
+stockhausen, p. f.
+
+arithmetic expressions, code generation, compilers,
+object-code optimization, 
+************************
+
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-3173.html
+************************
+************************
+Document:  CACM-0195.html
+************************
+************************
+Document:  CACM-2748.html
+************************
+************************
+Document:  CACM-2644.html
+************************
+
+
+a theorem-proving language for experimentation
+
+because of the large number of strategies
+and inference rules presently under consideration 
+in automated theorem proving, there is a need for developing
+a language especially oriented toward automated 
+theorem proving.  this paper discusses some of the features
+and instructions of this language.  the use 
+of this language permits easy extension of automated
+theorem-proving programs to include new strategies 
+and/or new inference rules.  such extend ability will
+permit general experimentation with the various 
+alternative systems.
+
+cacm june, 1974
+
+henschen, l.
+overbeek, r.
+wos, l.
+
+theorem proving, resolution, factoring,
+paramodulation, programming languages
+
+3.60 4.22 5.21
+
+ca740602 
+************************
+
+************************
+Document:  CACM-1425.html
+************************
+
+
+flow diagrams, turing machines and
+languages with only two formation 
+************************
+
+************************
+Document:  CACM-0333.html
+************************
+************************
+Document:  CACM-2423.html
+************************
+
+
+a parser-generating system for constructing compressed compilers
+
+this paper describes a parser-generating system
+(pgs) currently in use on the cdc-6500 computer 
+at purdue university.  the pgs is a fortran-coded compiler.
+ in the input 
+************************
+d compiler.
+ in the input translation grammar, each bnf 
+syntactic rule corresponds to a (possibly empty) "code
+generator" realizable as an assembly language, 
+fortran or algol, subroutine that is called whenever
+that syntactic rule is applied in the parse of a 
+program.  typical one-pass compilers constructed by the
+pgs 
+************************
+
+************************
+Document:  CACM-1275.html
+************************
+************************
+Document:  CACM-0243.html
+************************
+
+
+n-dimensional codes for detecting and correcting multiple errors
+
+the paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  the message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  the processes of encoding and error detection
+are based upon parity evaluations along prescribed 
+dimensions of the array.  effectiveness of the codes
+is increased by introducing a "system check bit", 
+which is essentially a parity check on the other parity
+bits.  only three-dimensional codes are discussed 
+in this paper with parity evaluations along the horizontal,
+the vertical, and one 
+************************
+
+************************
+Document:  CACM-1302.html
+************************
+************************
+Document:  CACM-2661.html
+************************
+
+
+ideal teaching machines-a solution to the pedagogic language problem
+
+cacm april, 1974
+
+sterling, t. d.
+pollack, s. v.
+
+education, programming languages, simulators
+
+1.52 4.2
+
+************************
+
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+expression, context-free languages, translation, recognizers,
+parsing, meta-compilers, pushdown transducer, 
+************************
+
+************************
+Document:  CACM-3075.html
+************************
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort algorithm is presented
+that requires time o(log n) and the use of n 
+processors.  the algorithm makes 
+************************
+.  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time.  a realistic model is used model is used in which
+no memory contention is permitted.  a procedure 
+is also presented to sort n numbers in time o(k log
+n) using n 1 + 1/k processors, for k an arbitrary 
+integer.  the model of computation for this procedure
+permits simultaneous fetches from the same memory 
+location.
+
+cacm august, 1978
+
+hirschberg, d.
+
+parallel processing, sorting, 
+************************
+
+************************
+Document:  CACM-2175.html
+************************
+
+
+subexpression ordering in the execution of arithmetic expressions
+
+an arithmetic expression can often be broken
+down into its component subexpressions.  depending 
+on the hardware environment in which the expression is
+to be executed, these subexpressions can be evaluated 
+in serials, in parallel, or in a combination of these
+modes.  this paper shows that expression execution 
+time can be minimized only if consideration is given to
+the ordering of the subexpressions.  in particular, 
+subexpressions should be executed in order of decreasing
+memory and processor time requirements.  this 
+observation is valid for configurations ranging from
+a uniprocessor with an unbuffered main memory to 
+multiprocessor with a "cache" buffer memory.  if the
+number of subexpressions which can be executed in 
+parallel exceeds the number of available processors,
+then execution of some of these subexpressions must 
+be postponed.  a procedure is given which combines this
+requirement with the earlier ordering considerations 
+to provide an optimal execution sequence.
+
+cacm july, 1971
+
+ramamoorthy, c. v.
+gonzalez, m. j.
+
+parallel processing, cache, arithmetic expressions,
+subexpression ordering, computational trees, 
+compilers
+
+4.12 4.32
+
+ca710707 
+************************
+
+************************
+Document:  CACM-1923.html
+************************
+
+
+pseudofiles
+
+an approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  it is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+facilities such as command language processors.
+
+cacm march, 1969
+
+
+************************
+
+************************
+Document:  CACM-0303.html
+************************
+
+
+some basic terminology connected with
+mechanical languages and their processors
+
+the suggestions in 
+************************
+
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial 
+************************
+
+************************
+Document:  CACM-2834.html
+************************
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, 
+************************
+
+************************
+Document:  CACM-1811.html
+************************
+
+
+a case study in programming for parallel-processors
+
+an affirmative partial 
+************************
+
+
+an affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+execution time for useful problems.  parallel-processor 
+systems are multiprocessor systems in which several of
+the processors can simultaneously execute 
+************************
+ can simultaneously execute separate 
+tasks of a single job, thus cooperating to decrease
+the solution time of a computational problem. the 
+processors have independent instruction counters, meaning
+that each processor executes its own task program 
+relatively independently of the other processors.  communication
+between cooperating processors is by 
+means of data in storage shared by all processors.  a
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing 
+************************
+-processor computing system, and execution 
+of this program was simulated.  the data gathered from
+simulation runs demonstrate the efficient solution 
+of this problem, typical of a large class of important
+problems.  it is shown that, with proper programming, 
+solution time when n processors are applied approaches
+1/n times the solution time for a single processor, 
+while improper programming can actually lead to an increase
+of solution time with the number of processors. 
+ stability of the method of solution was also investigated.
+
+cacm december, 1969
+
+rosenfeld, j. l.
+
+parallel-processor, parallelism, 
+************************
+
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel computers as 
+************************
+
+************************
+Document:  CACM-2685.html
+************************
+
+
+the parallel execution of do loops
+
+methods are developed for the parallel execution
+of different iterations of a do loop.  both 
+asynchronous multiprocessor computers and array computers
+are considered.  practical application to the 
+design of compilers for such computers is 
+************************
+
+************************
+Document:  CACM-2658.html
+************************
+************************
+Document:  CACM-2706.html
+************************
+************************
+Document:  CACM-0392.html
+************************
+************************
+Document:  CACM-2305.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+************************
+Document:  CACM-2659.html
+************************
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-2570.html
+************************
+
+
+a comparison of list schedules for parallel processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution 
+************************
+
+************************
+Document:  CACM-2514.html
+************************
+
+
+an array grammar programming system
+
+a package of fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars.  the user can control the rule
+selection procedure in a derivation or parse, 
+using weighted programming matrices; he also has a choice
+of instance selection schemes (raster,random, 
+parallel).  examples are given involving array languages
+consisting of simple 
+************************
+
+************************
+Document:  CACM-2022.html
+************************
+************************
+Document:  CACM-2921.html
+************************
+
+
+regular right part grammars and their parsers
+
+this paper in troduces an alternative to context-free
+grammars called regular right part (rrp) 
+grammars, which resemble pascal syntax diagrams.  formally,
+rrp grammars have production right parts, 
+which are nondeterministic finite state machines (fsms),
+and, as a special case, regular expressions, 
+since these can be converted to fsms.  rrp grammars
+describe the syntax of programming languages more 
+concisely and 
+************************
+ more 
+concisely and more understandably than is possible with
+cf grammars.  also in troduced is a class of parsers, 
+rrp lr(m, k) parsers, which includes the cf lr(k) parsers
+and provides the same advantages.  informally, 
+an rrp lr(m, k) parser can determine the right end of
+each handle by considering at most k symbols to 
+the right of the handle and the left end, after the
+right end has been found, by considering at most 
+m symbols to the left of the handle.  a mechanism for
+determining the left end is required because there 
+is no bound on the length of the handle.
+
+cacm october, 1977
+
+lalonde, w. r.
+
+finite state machines (automata), regular expressions,
+syntax diagrams,lr(k) grammars, parser construction, 
+parsing, programming languages, language generation,
+
+************************
+
+************************
+Document:  CACM-1232.html
+************************
+************************
+Document:  CACM-0637.html
+************************
+
+
+a neliac-generated 7090-1401 compiler
+
+neliac systems for several different machines
+have been generated using the original neliac 
+system developed at the naval electronics laboratory,
+san diego, in 1958.  a basic "bootstrap" process 
+was used to generate all but the first, i.e. the systems
+were described in the neliac language and generated 
+by an existing neliac compiler.  this experience has
+shown there is no inherent difficulty in "building 
+compilers with compilers"; indeed, 
+************************
+
+************************
+Document:  CACM-1988.html
+************************
+
+
+a formalism for translator interactions
+
+a formalism is presented for describing the actions
+of processors for programming languages-compilers,
+interpreters, 
+************************
+-compilers,
+interpreters, assemblers-and their interactions in complex systems
+such as compiler-compilers or extendible languages.
+the formalism here 
+************************
+
+************************
+Document:  CACM-1064.html
+************************
+************************
+Document:  CACM-2851.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+
+
+an algorithm for reduction of operator strength
+
+a simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  several extensions,
+including linear function test replacement, 
+are discussed.  these algorithms should fit well into an
+integrated package of local optimization algorithms.
+
+cacm november, 1977
+
+cocke, j.
+
+compilers, optimization of compiled code, program analysis,
+operator 
+************************
+
+************************
+Document:  CACM-0048.html
+************************
+************************
+Document:  CACM-2138.html
+************************
+
+
+bliss: a language for systems programming
+
+a language, bliss, is described.  this language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the pdp-10): compilers, operating 
+systems, etc.  prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to 
+************************
+
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-2316.html
+************************
+************************
+Document:  CACM-2497.html
+************************
+
+
+synchronizing processors with memory-content-generated interrupts
+
+implementations of the "lock-unlock" method
+of synchronizing processors in a multiprocessor 
+system usually require uninterruptable, memory-pause type instructions.
+ an interlock scheme called read-interlock, 
+which does not require memory-pause instructions, has
+been developed for a dual dec pdp-10 system with 
+real-time requirements.  the read-interlock method does
+require a special"read-interlock" instruction 
+in the repertoire of the processors and a special "read-interlock"
+cycle in the repertoire of the memory 
+modules.  when a processor examines a "lock" (a memory
+location) with a read-interlock instruction, it 
+will be interrupted if the lock was already set; examining
+a lock immediately sets it if it was not already 
+set (this event sequence is a read-interlock cycle). 
+writing into a lock clears it.  having the processor 
+interrupted upon encountering a set lock instead of
+branching is advantageous if the branch would have 
+resulted in an effective interrupt.
+
+cacm june, 1973
+
+hill, j. c.
+
+interrupts,supervisors, monitors, debugging, parallel
+processing, associative 
+************************
+
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-0670.html
+************************
+
+
+some legal implications of the use of computers in the banking business
+
+the introduction of computers in to the banking
+business has a wide variety of legal implications 
+that merit careful attention at this very early stage.
+ the industry is highly regulated by government 
+and, hence, is subject to many statutes and regulations.
+ it also is affected by important common law 
+rules established by courts.  the legal ramifications
+involve not only the mechanization itself, but 
+also the very significant, economically attractive phenomenon
+of off premises processing.  it is essential 
+to identify and provide for many legal aspects right
+now, before systems and practices crystallize, in 
+order to avoid the later impact of unanticipated physical
+complications and expense.  the legal aspects 
+of computerization in the banking business are especially
+diverse.  in some states, there might be the 
+basic question whether banks are authorized by law to
+invest in the new facilities, either directly or 
+through cooperatives.  more challenging are questions
+relating to off-premises processors, particularly 
+with 
+************************
+
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-3110.html
+************************
+
+
+assembling code for machines with span-dependent 
+************************
+ with span-dependent instructions
+
+many modern computers contain instructions
+whose lengths depend on the distance from a given 
+instance of such an instruction to the operand of that
+instruction.  this paper considers the problem 
+of minimizing the lengths of programs for such machines.
+ an efficient solution is presented for the 
+case in which the operand of every such "span-dependent"
+instruction is either a label or an assembly-time 
+expression of a certain restricted formf this restriction
+is relaxed by allowing these operands to 
+be more general assembly-time expressions, then
+the problem is shown to be np-complete.
+
+cacm april, 1978
+
+szymanski, t.
+
+span-dependent instructions, variable-length addressing,
+code generation, assemblers, compilers, 
+np-complete, computational 
+************************
+
+************************
+Document:  CACM-2785.html
+************************
+
+
+glypnir-a programming language for illiac iv
+
+glypnir is one of the earliest existing languages
+designed for programming the illiac iv computer. 
+the syntax of the language is based on algol 60, but has
+been extended to allow the programmer explicitly 
+to specify the parallelism of his algorithm 
+************************
+
+************************
+Document:  CACM-2064.html
+************************
+
+
+operations on generalized arrays with the genie compiler
+
+operations on vectors, matrices, and higher dimensional storage arrays are 
+standard features of most compilers today.  the elements of such structures are
+usually restricted to be scalars.  for many sophisticated applications
+this restriction can impose cumbersome data representations.
+an efficient system has been devised and implemented which allows
+the elements of multidimensional arrays to themselves be multidimensional
+arrays.  this system was developed from a storage structure
+in which the location, length, and content of each array is described
+by a codeword which can be interpreted 
+************************
+word which can be interpreted by the system.  code words may describe 
+arrays containing more codewords, thus providing
+all needed descriptive information for hyperstructures of any form.
+
+cacm may, 1970
+
+sitton, g. a.
+
+multidimensional arrays, matrix operations,
+storage control, subscripting, compilers
+
+4.12 4.29
+
+ca700502 
+************************
+
+************************
+Document:  CACM-1828.html
+************************
+************************
+Document:  CACM-1310.html
+************************
+************************
+Document:  CACM-0719.html
+************************
+************************
+Document:  CACM-2886.html
+************************
+
+
+semantic evaluation from left to right
+
+this paper describes attribute grammars and their
+use for the definition of programming languages 
+and compilers; a formal definition 
+************************
+; a formal definition of attribute grammars
+and a discussion of some of its important aspects 
+are included. the paper concentrates on the evaluation
+of semantic attributes in a few passes from left 
+to right over the derivation tree of a program.  a
+condition for an attribute grammar is given which 
+assures that the semantics of any program can be evaluated
+in a single pass over the derivation tree, 
+and an algorithm is discussed which decides how many
+passes from left to right are in general necessary, 
+given the attribute grammar. these notions are explained
+in terms of an example grammar which describes 
+the scope rules of algol 60.  practical questions, such
+as the relative efficiency of different evaluation 
+schemes, and the ease of adapting the attribute grammar
+of a given programming language to the left-to-right 
+evaluation scheme are discussed.
+
+cacm february, 1976
+
+bochmann, g. v.
+
+attribute grammars, semantics of programming languages,
+semantic attributes, left-to-right parsing, 
+multipass compilers, semantic evaluation, 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-1385.html
+************************
+************************
+Document:  CACM-1289.html
+************************
+************************
+Document:  CACM-1652.html
+************************
+************************
+Document:  CACM-2700.html
+************************
+************************
+Document:  CACM-1065.html
+************************
+************************
+Document:  CACM-1187.html
+************************
+************************
+Document:  CACM-2491.html
+************************
+************************
+Document:  CACM-1756.html
+************************
+************************
+Document:  CACM-1163.html
+************************
+
+
+philco/ibm translation at problem-oriented, symbolic and binary levels
+
+a translation system has been developed to
+eliminate most of the effort formerly required to 
+reprogram philco 2000 series codes for ibm 7094 operation.
+ experience with this system is limited but 
+highly successful encouraging application of the
+techniques to other source and object languages.
+
+cacm december, 1965
+
+************************
+
+************************
+Document:  CACM-1158.html
+************************
+************************
+Document:  CACM-1569.html
+************************
+************************
+Document:  CACM-0141.html
+************************
+************************
+Document:  CACM-1362.html
+************************
+************************
+Document:  CACM-1651.html
+************************
+************************
+Document:  CACM-2714.html
+************************
+
+
+merging with parallel processors
+
+consider two linearly 
+************************
+
+
+consider two linearly ordered sets a, b, |a|=m,
+|b|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously. 
+************************
+ 
+working synchronously.  the paper presents an algorithm
+for merging a and b with the p parallel processors, 
+which requires at 
+************************
+
+************************
+Document:  CACM-0031.html
+************************
+************************
+Document:  CACM-3171.html
+************************
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages.  under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, during execution of the program. 
+
+cacm october, 1979
+
+klint, p.
+
+line number administration, diagnostic messages, abstract machine code 
+
+4.12 4.13 4.20 4.42
+
+************************
+
+************************
+Document:  CACM-1262.html
+************************
+************************
+Document:  CACM-0066.html
+************************
+************************
+Document:  CACM-0230.html
+************************
+************************
+Document:  CACM-2896.html
+************************
+
+
+an exercise in proving parallel programs correct
+
+a parallel program, dijkstra's on-the-fly garbage
+collector, is proved correct using a proof 
+method developed by owicki.  the fine degree of in terleaving
+in this program makes it especially difficult 
+to understand, 
+************************
+

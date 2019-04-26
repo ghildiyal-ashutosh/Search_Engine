@@ -1,0 +1,864 @@
+Snippets for the query:  Q2
+************************
+Total Hits:  28
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+
+
+on lions' counter example for gotlieb's method
+for the construction of school timetables
+
+the timetable problem is an essentially discrete
+problem. although the discrete problem may 
+have no feasible solution, there may exist a solution
+to the equivalent continuous problem.  an example 
+is given, for which the nondiscrete solution can be
+interpreted as a set of timetables, differing from 
+week to week, which together satisfy the long-term
+requirements of the timetable problem.
+
+cacm april, 1974
+
+smith, g.
+sefton, i. m.
+
+combinatorial, multi-index problem, necessary
+
+************************
+
+************************
+Document:  CACM-2684.html
+************************
+
+
+production systems: or can we do better than bnf?
+
+since the development of bnf, the definition
+of the syntax of programming languages has been 
+almost universally associated with context-free requirements.
+ yet numerous interesting and difficult 
+issues in syntax stem from the context-sensitive requirements,
+notably the compatibility between the 
+declaration of an identifier and its uses, the correspondence
+between actual and formal parameters, and 
+issues arising from block structure.  this paper explores
+the use of a formal notation called production 
+systems in providing a readable and complete formal definition
+of syntax.  as a practical illustration, 
+a small but significant subset of pl/i is considered.  a
+more detailed presentation, as well as the application 
+to define abstract syntax and translations between languages,
+is given in a previous paper by the author.
+
+cacm february, 1974
+
+ledgard, h. f.
+
+syntax, translation, context-sensitive grammars,
+compilers, formal definition, 
+************************
+
+************************
+Document:  CACM-1783.html
+************************
+************************
+Document:  CACM-1723.html
+************************
+************************
+Document:  CACM-1154.html
+************************
+
+
+multi-tape and infinite-state automata -- a survey
+
+a survey of machines which are more powerful
+than finite automata and less powerful than general 
+turing machines is presented.  it is felt that the machines
+in this category are as closely related to 
+digital computers as either the finite automata or the
+unrestricted turing machines.  intermediate machines 
+can be created 
+************************
+
+************************
+Document:  CACM-1313.html
+************************
+************************
+Document:  CACM-3151.html
+************************
+************************
+Document:  CACM-2411.html
+************************
+
+
+tree-structured programs
+
+cacm november, 1973
+
+wegner, e.
+
+control structures, flowcharts, goto statements,
+inductive assertion, least fix points, optimization 
+in compilers, program documentation, program flow graphs,
+programming language design, proof of programs, 
+semantics of programming languages, structured programming.
+
+************************
+
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-2061.html
+************************
+
+
+an algorithm for the construction of bounded-context parsers
+
+an algorithm is described which accepts an arbitrary context-free
+grammar and constructs a bounded-context parser for
+it whenever such a parser exists.  in the first part of the paper
+the definition of a context-free grammar and the working of a
+bounded-context parser are recalled.  the notion of reduction class for
+a context-free grammar is then introduced and its connection with
+the structure of a bounded-context parser is indicated.  next,
+pushdown automata which generate the different reduction classes
+of a context-free grammar are defined.  finally, the algorithm is described;
+it essentially carries out an exhaustive study of all possible
+runs of the pushdown automata generating the reduction classes.
+in the second part, the utility of the algorithm is discuss
+ed in the light of the experience gained from its use in compiler design.
+the algorithm is claimed to be particularly useful in the
+simultaneous design of a language and a compiler for it.
+
+cacm may, 1970
+
+loeckx, j.
+
+bounded-context parsing, bounded-context syntactic analysis, parser 
+construction, syntactical analyzer construction, generators, compiler 
+compilers, compiler writing systems, translator writing systems metacompilers,
+context-free grammars, formal languages, pushdown automata
+
+
+************************
+
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  this structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ the approach adopted here departs from conventional mechanical
+language design philosophies.  it stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+************************
+
+************************
+Document:  CACM-2456.html
+************************
+************************
+Document:  CACM-2062.html
+************************
+************************
+Document:  CACM-2551.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-3102.html
+************************
+
+
+incorporation of units into programming languages
+
+the issues of how a programming language might
+aid in keeping track of physical units (feet, 
+sec, etc.) are discussed.  a method is given for the
+introduction of relationships among units (a watt 
+is volts*amps, a yard is three feet) and subsequent automatic
+conversion based upon these relationships.
+ various proposals for syntax are considered.
+
+cacm may, 1978
+
+karr, m.
+loveman iii, d.
+
+units, language design, compiler construction, language syntax
+
+4.12 
+************************
+
+************************
+Document:  CACM-1746.html
+************************
+************************
+Document:  CACM-0058.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-2609.html
+************************
+************************
+Document:  CACM-1159.html
+************************
+************************
+Document:  CACM-0252.html
+************************
+************************
+Document:  CACM-2495.html
+************************
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-1350.html
+************************
+
+
+the augmented predictive analyzer for context-free
+languages-its relative efficiency
+
+it has been proven by greibach that for a given
+context-free grammar g, a standard-form grammar 
+gs can be constructed, which generates the same languages
+as is generated by g and whose rules are all 
+of the form z --> cy(1) ... y(m), (m >= o) where z and
+y(i) are intermediate symbols and c a terminal 
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-2140.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+************************
+Document:  CACM-2316.html
+************************
+************************
+Document:  CACM-2136.html
+************************
+************************
+Document:  CACM-1134.html
+************************
+************************
+Document:  CACM-1098.html
+************************
+************************
+Document:  CACM-2572.html
+************************
+************************
+Document:  CACM-3150.html
+************************
+************************
+Document:  CACM-1788.html
+************************
+
+
+toward a general processor for programming languages
+
+many efforts have been made to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole new compiler,
+
+************************
+
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+expression, context-free languages, translation, recognizers,
+parsing, meta-compilers, pushdown transducer, 
+************************
+
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1366.html
+************************
+************************
+Document:  CACM-2877.html
+************************
+************************
+Document:  CACM-0661.html
+************************
+************************
+Document:  CACM-1304.html
+************************
+************************
+Document:  CACM-0062.html
+************************
+************************
+Document:  CACM-1314.html
+************************
+************************
+Document:  CACM-3115.html
+************************
+************************
+Document:  CACM-2685.html
+************************
+
+
+the parallel execution of do loops
+
+methods are developed for the parallel execution
+of different iterations of a do loop.  both 
+asynchronous multiprocessor computers and array computers
+are considered.  practical application to the 
+design of compilers for such computers is 
+************************
+
+************************
+Document:  CACM-2254.html
+************************
+************************
+Document:  CACM-2658.html
+************************
+************************
+Document:  CACM-2439.html
+************************
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with many remote 
+terminals simultaneously and can control the interactions
+between these terminals.  such programs can 
+be written using standard input and output instructions
+in any language available on the system.  this 
+paper describes how this multiple-terminal facility
+was implemented without requiring any changes in 
+the system executive or in any of the system's compilers or interpreters.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-2659.html
+************************
+************************
+Document:  CACM-3177.html
+************************
+************************
+Document:  CACM-1696.html
+************************
+************************
+Document:  CACM-1062.html
+************************
+************************
+Document:  CACM-0051.html
+************************
+************************
+Document:  CACM-2587.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-2921.html
+************************
+
+
+regular right part grammars and their parsers
+
+this paper in troduces an alternative to context-free
+grammars called regular right part (rrp) 
+grammars, which resemble pascal syntax diagrams.  formally,
+rrp grammars have production right parts, 
+which are nondeterministic finite state machines (fsms),
+and, as a special case, regular expressions, 
+since these can be converted to fsms.  rrp grammars
+describe the syntax of programming languages more 
+concisely and more understandably than is possible with
+cf grammars.  also in troduced is a class of parsers, 
+rrp lr(m, k) parsers, which includes the cf lr(k) parsers
+and provides the same advantages.  informally, 
+an rrp lr(m, k) parser can determine the right end of
+each handle by considering at most k symbols to 
+the right of the handle and the left end, after the
+right end has been found, by considering at most 
+m symbols to the left of the handle.  a mechanism for
+determining the left end is required because there 
+is no bound on the length of the handle.
+
+cacm october, 1977
+
+lalonde, w. r.
+
+finite state machines (automata), regular expressions,
+syntax diagrams,lr(k) grammars, parser construction, 
+parsing, programming languages, language generation,
+formal definition, compilers, translators, scanners
+
+************************
+
+************************
+Document:  CACM-1807.html
+************************
+************************
+Document:  CACM-1976.html
+************************
+************************
+Document:  CACM-0637.html
+************************
+************************
+Document:  CACM-1611.html
+************************
+************************
+Document:  CACM-2138.html
+************************
+
+
+bliss: a language for systems programming
+
+a language, bliss, is described.  this language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the pdp-10): compilers, operating 
+systems, etc.  prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.  a major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+cacm december, 1971
+
+wulf, w. a.
+russell, d. b.
+
+programming languages, implementation language,
+
+************************
+
+************************
+Document:  CACM-1238.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+************************
+Document:  CACM-1521.html
+************************
+************************
+Document:  CACM-2324.html
+************************
+************************
+Document:  CACM-1988.html
+************************
+
+
+a formalism for translator interactions
+
+a formalism is presented for describing the actions
+of processors for programming languages-compilers,
+interpreters, assemblers-and 
+************************
+,
+interpreters, assemblers-and their interactions in complex systems
+such as compiler-compilers or extendible languages.
+the formalism here 
+************************
+
+************************
+Document:  CACM-2897.html
+************************
+************************
+Document:  CACM-3093.html
+************************
+
+
+automatic error recovery for lr parsers
+
+in this paper we present a scheme for detecting
+and recovering from syntax errors in programs. 
+ the scheme, which is based on lr parsing, is driven
+by information which is directly and automatically 
+obtainable from the information that is already present
+in an lr parser.  the approach, which is patterned 
+after that of levy and graham and rhodes, appears to
+provide error recovery which is both simple and 
+powerful.
+
+cacm june, 1978
+
+mickunas, m.
+modry, j.
+
+programming languages, error correction, automatic
+correction, parsing, lr, syntax errors, compilers
+
+4.12 4.42 5.23
+
+ca780604 
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-0070.html
+************************
+************************
+Document:  CACM-0100.html
+************************
+************************
+Document:  CACM-1678.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+************************
+Document:  CACM-2534.html
+************************
+
+
+design and implementation of a diagnostic compiler for pl/i
+
+pl/c is a compiler for a dialect for pl/i.  the
+design objective was to provide a maximum degree 
+of diagnostic assistance in a batch processing environment.
+ for the most part this assistance is implicit 
+and is provided automatically by the compiler. the most remarkable
+characteristic of pl/c is its perseverance-it 
+completes translation of every program submitted and
+continues execution until a user-established error 
+limit is reached. this requires that the compiler repair
+errors encountered during both translation 
+and execution, and the design of pl/c is dominated by
+this consideration.  pl/c also introduces several 
+explicit user-controlled facilities for program testing.
+ to accommodate these extensions to pl/i without 
+abandoning compatibility with ibm compiler pl/c permits
+"pseudo comments"-constructions whose contents 
+can optionally be considered either source test or comment.
+ in spite of the diagnostic effort pl/c is 
+a fast and efficient processor.  it effectively demonstrates
+that compilers can provide better diagnostic 
+assistance than is customarily offered, even when a sophisticated
+source language is employed, and that 
+this assistance need not be prohibitively costly.
+
+cacm march, 1973
+
+conway, r. w.
+wilcox, t. r.
+
+compilers, debugging, pl/i, programming languages
+
+1.5 4.12 4.42
+
+ca730305 
+************************
+
+************************
+Document:  CACM-0265.html
+************************
+
+
+low level language subroutines for use within fortran
+
+this paper describes some subroutines, coded
+in symbolic languages and for use within fortran 
+coded programs, to deal with "special arithmetic" (e.g.
+multi-precision arithmetic), 
+************************
+
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2064.html
+************************
+
+
+operations on generalized arrays with the genie compiler
+
+operations on vectors, matrices, and higher dimensional storage arrays are 
+standard features of most compilers today.  the elements of such structures are
+usually restricted to be scalars.  for many sophisticated applications
+this restriction can impose cumbersome data representations.
+an efficient system has been devised and implemented which allows
+the elements of multidimensional arrays to 
+************************
+dimensional arrays to themselves be multidimensional
+arrays.  this system was developed from a storage structure
+in which the location, length, and content of each array is described
+by a codeword which can be interpreted by the system.  code words may describe 
+arrays containing more codewords, thus providing
+all needed descriptive information for hyperstructures of any form.
+
+cacm may, 1970
+
+sitton, g. a.
+
+multidimensional arrays, matrix operations,
+storage control, subscripting, compilers
+
+4.12 4.29
+
+ca700502 
+************************
+
+************************
+Document:  CACM-2449.html
+************************
+************************
+Document:  CACM-2886.html
+************************
+
+
+semantic evaluation from left to right
+
+this paper describes attribute grammars and their
+use for the definition of programming languages 
+and compilers; a formal definition 
+************************
+; a formal definition of attribute grammars
+and a discussion of some of its important aspects 
+are included. the paper concentrates on the evaluation
+of semantic attributes in a few passes from left 
+to right over the derivation tree of a program.  a
+condition for an attribute grammar is given which 
+assures that the semantics of any program can be evaluated
+in a single pass over the derivation tree, 
+and an algorithm is discussed which decides how many
+passes from left to right are in general necessary, 
+given the attribute grammar. these notions are explained
+in terms of an example grammar which describes 
+the scope rules of algol 60.  practical questions, such
+as the relative efficiency of different evaluation 
+schemes, and the ease of adapting the attribute grammar
+of a given programming language to the left-to-right 
+evaluation scheme are discussed.
+
+cacm february, 1976
+
+bochmann, g. v.
+
+attribute grammars, semantics of programming languages,
+semantic attributes, left-to-right parsing, 
+multipass compilers, semantic evaluation, 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-2423.html
+************************
+************************
+Document:  CACM-2843.html
+************************
+************************
+Document:  CACM-2870.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-3099.html
+************************
+************************
+Document:  CACM-3130.html
+************************
+************************
+Document:  CACM-2305.html
+************************
+************************
+Document:  CACM-2066.html
+************************
+************************
+Document:  CACM-3030.html
+************************
+
+
+an example of hierarchical design and proof
+
+hierarchical programming is being increasingly
+recognized as helpful in the construction of 
+large programs.  users of hierarchical techniques claim
+or predict substantial increases in productivity 
+and in the reliability of the programs produced.  in this
+paper we describe a formal method for hierarchical 
+program specification, implementation, and proof.  we
+apply this method to a significant list processing 
+problem and also discuss a number of extensions to current
+programming languages that ease hierarchical 
+************************
+
+************************
+Document:  CACM-2939.html
+************************
+
+
+abstraction mechanisms in clu
+
+clu is a new programming language designed to support
+the use of abstractions in program construction. 
+ work in programming methodology has led to the realization
+that three kinds of abstractions-procedural, 
+control, and especially data abstractions-are useful
+in the programming process.  of these, only the 
+procedural abstraction is supported well by conventional
+languages, through the procedure 
+************************
+, through the procedure or subroutine. 
+ clu provides, in addition to procedures, novel linguistic
+mechanisms that support the use of data and 
+control abstractions.  this paper provides an in troduction
+to the abstraction mechanisms in clu.  by 
+means of programming examples, the utility of the three
+kinds of abstractions in program construction 
+is illustrated, and it is shown how clu programs may
+be written to use and implement abstractions.  the 
+clu library, which permits incremental program development
+with complete type checking performed at compile 
+time, is also discussed.
+
+cacm august, 1977
+
+liskov, b.
+snyder, a.
+atkinson, r.
+schaffert, c.
+
+programming languages, data types, data abstractions,
+
+************************
+
+************************
+Document:  CACM-2929.html
+************************
+
+
+an analysis of inline substitution for a structured programming language
+
+an optimization technique known as inline substitution
+is analyzed.  the optimization consists 
+of replacing a procedure invocation by a modified copy
+of the procedure body.  the general problem of 
+using inline substitution to minimize execution time
+subject to size constrain ts is formulated, and an 
+approximate algorithmic solution is proposed.  the algorithm
+depends on run-time statistics about the 
+program to be optimized.  preliminary results for the
+clu structured programming language indicate that, 
+in programs with a low degree of recursion, over 90
+percent of all procedure calls can be eliminated, 
+with little increase in the size of compiled code and a
+small savings in execution time.  other conclusions 
+based on these results are also presented.
+
+cacm september, 1977
+
+scheifler, r. w.
+
+inline substitution, open coding, open compilation,
+program optimization, compilers, structured 
+programming languages, run-time statistics
+
+************************
+
+************************
+Document:  CACM-2579.html
+************************
+
+
+register allocation via usage counts
+
+this paper introduces the notion of usage counts,
+shows how usage counts can be developed by 
+algorithms that eliminate redundant computations, and
+describes how usage counts can provide the basis 
+for register allocation.  the paper compares register
+allocation based on usage counts to other commonly 
+used register allocation techniques, and presents evidence
+which shows that the usage count technique 
+is significantly better than these other techniques.
+
+cacm november, 1974
+
+freiburghouse, r. a.
+
+optimization, redundant computations, common subexpressions,
+register allocation, compilers, programming 
+languages, virtual memory, demand 
+************************
+
+************************
+Document:  CACM-2688.html
+************************
+************************
+Document:  CACM-2871.html
+************************
+************************
+Document:  CACM-0929.html
+************************
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-1402.html
+************************

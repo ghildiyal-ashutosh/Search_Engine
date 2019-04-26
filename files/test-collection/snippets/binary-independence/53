@@ -1,0 +1,859 @@
+Snippets for the query:  Q53
+************************
+Total Hits:  45
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+
+
+neater2: a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version.  when in the logical mode, neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs.  a number of options are
+available to give the user full control over the output format and
+to maximize the utility of neater2 as an aid during the early
+stages of development of a pl/i source deck.  one option, usage, causes
+neater2 to insert into each logical unit of coding a statement
+which will case the number of times each one is executed to be recorded
+during execution.  this feature is expected to provide a
+major aid in optimization of pl/i programs.
+
+cacm november, 1970
+
+conrow, k.
+smith, r. g.
+
+logical analysis of pl/i source, reformatting of pl/i
+source, documentation aid, execution time usage data
+
+1.52 4.12 4.19 4.42
+
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+
+
+formalism in programming languages*
+
+cacm february, 1964
+
+************************
+
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented 
+************************
+ 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely functional) subsystem
+that aims to expand the class of users' needs 
+that can be met by a single print-instruction, without sacrificing
+the important properties that make 
+conventional right-hand-side 
+************************
+
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+
+
+mechanization of the curve fitting process: datan
+
+a process for fitting a curve to approximate data
+and the problem 
+************************
+te data
+and the problem it creates for the engineer-programmer 
+is defined.  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major portion of this process. 
+************************
+jor portion of this process.  the techniques developed
+to accomplish the mechanization are largely 
+empirical, and are dependent for their information
+only on the actual data points.
+
+cacm april, 
+************************
+
+************************
+Document:  CACM-1179.html
+************************
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident, compile-and-go system designed
+for the ibm 7090/7094 computer is described. 
+ in little more than half of the 32k word core memory
+pufft provides a monitor for job sequencing, a 
+translator for the full fortran iv language, the fortran
+subroutine library, an input--output system 
+for use at compile time and at execute time, and a rather
+elaborate diagnostic message writing routine. 
+ batches of small- and medium-sized 
+************************
+
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+
+
+a compiler-building system developed by brooker and morris
+
+in a number of articles published during the
+past two years, r. a. brooker and d. morris (joined 
+by j. rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the ferranti atlas computer.  the
+present paper describes some of the major features 
+of their 
+************************
+
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage of 
+************************
+
+************************
+Document:  CACM-0963.html
+************************
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three 
+************************
+thematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent 
+************************
+ structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+
+************************
+
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+************************
+Document:  CACM-2573.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+
+
+convert
+
+a programming language is described which
+is applicable to problems conveniently described 
+by transformation rules.  by this 
+************************
+
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+************************
+Document:  CACM-2842.html
+************************
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial 
+************************
+
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d. scott 
+************************
+ developed 
+by d. scott and c. strachey.  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. the first language
+considered, loop, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined.  finally, 
+the paper presents a formal definition of the language gedanken.
+
+cacm august, 1976
+
+tennent, r. d.
+
+semantics, programming language, 
+************************
+
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+bucci, g.
+streeter, d.
+
+distributed processing, system design, cost minimization, distributed
+database, interactive computing, 
+************************
+
+************************
+Document:  CACM-1425.html
+************************
+
+
+flow diagrams, turing machines and
+languages with only two formation 
+************************
+
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.
+
+cacm may, 1968
+
+randell, b.
+kuehner, c. j.
+
+segmentation, paging, multiprogramming, storage
+allocation, 
+************************
+
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+
+
+permutation of data blocks in a bubble memory
+
+a common internal organization of bubble memories consists of a set of (minor) 
+loops, connected through another (major) loop.  the problem 
+************************
+
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+
+
+what is proprietary in mathematical programming?-impressions
+of a panel 
+************************
+?-impressions
+of a panel discussion
+
+a panel discussion on "what is proprietary
+in mathematical programming?" was sponsored by the 
+************************
+?" was sponsored by the 
+special interest committee on mathematical programming
+of the acm during a 
+************************
+
+************************
+Document:  CACM-1415.html
+************************
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+programmer-defined data types data types and generic
+routines, programmer control over type conversion, 
+and very flexible data type behavior, in a context that
+allows efficient compiled code and compact data 
+representation.
+
+cacm may, 1974
+
+wegbreit, b.
+
+data types, modes, mode unions, type conversion,
+coercion, generic functions, extensible languages, 
+data type definition, 
+************************
+
+************************
+Document:  CACM-2691.html
+************************
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+
+
+optimal surface reconstruction from planar contours
+
+in many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  this paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+this surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  a new fast algorithm for finding such
+cycles is utilized.  also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  an illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.
+
+cacm october, 1977
+
+fuchs, h.
+kedem,z. m.
+uselton, s. p.
+
+surface reconstruction, contour data, serial sections,
+three-dimensional 
+************************
+
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+************************
+Document:  CACM-1801.html
+************************
+
+
+analysis of variance for balanced experiments (algorithm 367 [g2])
+
+cacm december, 1969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance, regression
+analysis, experimental design, balanced 
+experiment, missing data, interblock estimate, intra block estimate
+
+************************
+
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+
+************************
+
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+
+
+a study of storage partitioning using a mathematical model of locality
+
+both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  the storage 
+************************
+
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+************************
+Document:  CACM-2670.html
+************************
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+
+
+a simple user-oriented compiler source language
+for programming automatic test equipment
+
+for 
+************************
+tic test equipment
+
+for the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  a simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  the language described in this paper is
+used to write computer programs which test electronic 
+equipment.  because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ a simple and direct language will suffice for the 
+problem.  the eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or significant 
+************************
+ skill or significant programming
+training.  for this nonprogramming-oriented 
+user, it was essential to create a language using familiar
+engineering statements; programming-oriented 
+conventions would have unnecessarily complicated his task.
+
+cacm april, 1966
+
+scheff, b. h.
+
+ca660401 jb march 3, 1978  11:09 am
+
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  the model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may 
+************************
+
+************************
+Document:  CACM-2083.html
+************************
+
+
+creation and control of internal data bases
+under a fortran programming environment
+
+a method 
+************************
+ environment
+
+a method is described for the definition of a user's common structure
+and the automatic generation of the necessary common, dimension, equivalence,
+and type declarations for each of the user's routines.  the definition
+for the common is contained in an easy to modify form, thus
+allowing the control of general communications of data between routines.
+the 
+************************
+ between routines.
+the described system has been implemented on the ibm 7094,
+cdc 6000 series, and the ibm 360.  the method has proved to be invaluable
+for the definition and control of common in many large-scale programs.
+
+cacm april, 1970
+
+desalvio, a. j.
+purdy, j. g.
+rau, j.
+
+data base, fortran, common, 
+************************
+
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+
+
+a contribution to the development of algol
+
+cacm december, 1966
+
+wirth, n.
+hoare, c. a. r.
+
+ca661210 jb march 30, 1978  9:13 am
+
+************************
+
+************************
+Document:  CACM-2307.html
+************************
+************************
+Document:  CACM-0185.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major 
+************************
+
+
+in this paper the major components of every
+programming language are identified 
+************************
+ language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently 
+************************
+ny examples,
+frequently from list processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+cacm february, 1966
+
+************************
+
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1614.html
+************************
+
+
+a proposal for definitions in algol
+
+an extension to algol is proposed for adding
+new data types and operators to the 
+************************
+
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+
+
+code extension procedures for information
+interchange* (proposed usa standard)
+
+cacm december, 1968
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data link 
+escape, control 
+************************
+
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+
+
+the programmer's workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  it is only when this 
+production machine is unavailable or when its programming
+environment is totally 
+************************
+
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************
+
+
+a note on storage fragmentation and program segmentation
+
+the main purpose of this paper is the presentation
+of some of the results of a series of simulation 
+experiments investigating the phenomenon of storage fragmentation.
+ two different types of storage fragmentation 
+************************
+

@@ -1,0 +1,3460 @@
+Snippets for the query:  Q53
+************************
+Total Hits:  260
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+
+************************
+ concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, as well
+as in advanced data management systems and 
+************************
+nagement systems and distributed 
+data bases.  this paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data.  applications of these
+"generalized" data definition languages are also 
+discussed.
+
+cacm december, 1973
+
+sibley, e. h.
+taylor, r. w.
+
+data definition language, data and storage structure,
+data translation, data base management systems, 
+file 
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial 
+************************
+
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d. scott 
+************************
+ developed 
+by d. scott and c. strachey.  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. the first language
+considered, loop, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined.  finally, 
+the paper presents a formal definition of the language gedanken.
+
+cacm august, 1976
+
+tennent, r. d.
+
+semantics, programming language, 
+************************
+
+************************
+Document:  CACM-1588.html
+************************
+
+
+pl/i list processing
+
+the concepts of list processing have been introduced
+into the pl/i language.  with these new 
+facilities, it is possible to write pl/i procedures that
+operate on simple and complex data list organizations. 
+ most list-processing languages have suffered from their
+
+************************
+ have suffered from their
+inability to deal directly with complex data 
+structures and/or from their inability to perform the
+complete range of programming language operations 
+************************
+
+************************
+Document:  CACM-2470.html
+************************
+
+
+fen-an axiomatic basis for program semantics
+
+a formal system is presented which abstracts
+the notions of data 
+************************
+s
+the notions of data item, function, and relation. 
+ it is argued that the system is more suitable than set
+theory (or its derivatives) for the concise and 
+accurate description of program semantics.  it is shown
+how 
+************************
+ntics.  it is shown
+how the system can be used to build composite 
+data types out of simper ones with 
+************************
+ out of simper ones with the operations of rowing,
+structuring, and uniting.  it is also demonstrated 
+that completely new primitive types can be introduced
+into languages through the mechanism of singleton 
+data types.  both deterministic 
+************************
+ types.  both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ it is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  the
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  the technique is contrasted 
+with the use of the paradoxical combinator, y.  the
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. the theory is applied to the 
+proof of several elementary theorems concerning the semantics
+of the assignment, conditional, and iterative 
+statements.  an appendix is included which presents in
+detail the formal system governing webs and fen, 
+the abstractions used informally in the body of the paper.
+
+cacm august, 1973
+
+maclennan, b. j.
+
+semantics, formal systems, lambda-calculus, extensible
+languages, data types, modes, axioms, correctness, 
+formal language definition, 
+************************
+, 
+formal language definition, formal description, data structures,
+description languages, models of computation
+
+************************
+
+************************
+Document:  CACM-1834.html
+************************
+
+
+an axiomatic basis for computer programming
+
+in this paper an attempt 
+************************
+
+
+in this paper an attempt is made to explore
+the logical foundations of computer programming 
+by use of techniques 
+************************
+ 
+by use of techniques which were first applied in the
+study of geometry and have later been extended to 
+other branches of mathematics.  this involves the elucidation
+of sets of axioms and rules of inference 
+which can be used in proofs of the properties of computer
+programs.  examples are given of such axioms 
+and rules, and a formal proof of a simple theorem is
+displayed.  finally, it is argued that important 
+advantages, both theoretical and practical, may
+follow from a pursuance of these topics.
+
+cacm october, 1969
+
+hoare, c. a. r.
+
+axiomatic method, theory of programming, proofs of
+programs, 
+************************
+, proofs of
+programs, formal language definition, 
+************************
+l language definition, programming 
+language design, machine-independent programming, 
+************************
+
+************************
+Document:  CACM-1213.html
+************************
+
+
+dynamic format specifications
+
+the use and implementation 
+************************
+
+
+the use and implementation of two new fortran
+format conversions are discussed.  these format 
+types give the fortran programmer control of input/output
+specifications at execution time.
+
+
+************************
+
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented 
+************************
+ 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely functional) subsystem
+that aims to expand the class of users' needs 
+that can be met by a single print-instruction, without sacrificing
+the important properties that make 
+conventional right-hand-side 
+************************
+
+************************
+Document:  CACM-2411.html
+************************
+
+
+tree-structured programs
+
+cacm november, 1973
+
+wegner, e.
+
+control structures, flowcharts, goto statements,
+inductive assertion, least fix points, optimization 
+in compilers, program documentation, program flow graphs,
+programming language design, proof of programs, 
+semantics of programming languages, structured programming.
+
+************************
+
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  this structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ the approach adopted here departs from conventional mechanical
+language design philosophies.  it stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+formal (i.e., contents-independent) syntactical definitions.
+ it relies exclusively on nonprocedural 
+representation of process as sets (tables) of relations
+between data and results (there are no control 
+statements such as go to, etc.), instead of using procedure
+descriptions (which are one-to-one translations 
+of flowcharts).  here an invariant pattern of procedure
+is identified as characteristic of the class 
+of all batch file processes.  this new philosophy has
+the potential to overcome well-known deficiencies 
+of other business-oriented languages and fully meets
+the requirements set by codasyl for such languages, 
+including machine-independence.
+
+************************
+
+************************
+Document:  CACM-3104.html
+************************
+
+
+test data as an aid in proving program correctness
+
+proofs of program correctness 
+************************
+ of program correctness tend to be long
+and tedious, whereas testing, though useful in 
+detecting errors, usually does not guarantee correctness.
+ this paper introduces a techniques whereby 
+test data can be used in proving 
+************************
+ can be used in proving program correctness.
+ in addition to simplifying the process of proving 
+correctness, this method simplifies the process of providing
+accurate specification for a program.  the 
+applicability of this technique to procedures
+and recursive programs is demonstrated.
+
+cacm may, 1978
+
+geller, m.
+
+
+************************
+
+************************
+Document:  CACM-1323.html
+************************
+
+
+a correspondence between algol 60 and church's lambda-notation: part i*
+
+this paper describes how some of the semantics
+of algol 60 can 
+************************
+ntics
+of algol 60 can be formalized by establishing 
+a correspondence between expressions of algol 60 and expressions
+in a modified form of church's l-notation. 
+ first a model for computer languages and compute behavior
+is described, based on the notions of functional 
+application and functional abstraction, but also having
+
+************************
+ion, but also having
+analogues for imperative language features.  
+then this model is used as an "abstract object language"
+into which algol 60 is mapped.  many of algol 
+************************
+pped.  many of algol 
+60's features emerge as particular arrangements of
+a small number of structural rules, suggesting new 
+classifications and generalizations.  the correspondence
+is first described informally, mainly by illustrations. 
+ the second part of the paper gives a formal description,
+i.e. an "abstract compiler" into the "abstract 
+************************
+ compiler" into the "abstract 
+objct language."  this is itself presented in a "purely
+functional" notation, that is one using only 
+application and abstraction.
+
+cacm february, 1965
+
+landin, p. j.
+
+ca650201 jb march 7, 1978  11:26 pm
+
+************************
+
+************************
+Document:  CACM-2710.html
+************************
+
+
+specifying queries as relational expressions:
+the square data sublanguage
+
+this paper presents a data sublanguage called
+square, intended for use in ad hoc, interactive 
+problem solving by non-computer specialists. square
+is based on the relational model of data, and is 
+shown to be relationally complete; however, it avoids
+the quantifiers and bound variables required by 
+languages based on the relational calculus.  facilities
+for query, insertion, deletion, and update on 
+tabular data bases are described.  a syntax is given,
+and suggestions are made for alternative syntaxes, 
+************************
+de for alternative syntaxes, 
+including a syntax based on english key words for
+users with limited mathematical background.
+
+cacm november, 1975
+
+boyce, r. f
+chamberlin, d. d.
+king, w. f. iii
+
+database, data sublanguages, relations, query languages,
+
+************************
+, relations, query languages,
+casual user, relational data model, tabular 
+data, 
+************************
+ model, tabular 
+data, interactive problem solving, nonprocedural
+languages, relational completeness
+
+************************
+
+************************
+Document:  CACM-2204.html
+************************
+
+
+program development by stepwise refinement
+
+the creative activity of programming-to be distinguished
+from coding-is usually taught by examples 
+serving to exhibit certain techniques.  it is here considered
+as a sequence of design decisions concerning 
+the decomposition of tasks into subtasks and of data
+into data structures.  the process of successive 
+refinement of specifications is illustrated by a 
+************************
+
+************************
+Document:  CACM-2717.html
+************************
+
+
+convert: a high level translation
+definition language for data conversion
+
+this paper describes a high level and nonprocedural
+translation definition language, convert, 
+which provides very powerful and highly flexible data
+restructuring capabilities. its design is based 
+on the simple underlying concept of a form which enables
+the users to visualize the translation processes, 
+and thus makes data translation a much simpler task. 
+"convert" has been chosen for conveying the purpose 
+of the language and should not be confused with any
+other language or program bearing the same name.
+
+cacm october, 1975
+
+shu, n. c.
+housel, b. c.
+lum, v. y.
+
+data conversion, data restructuring, data translation,
+database reorganization, translation definition, 
+utility program, programming languages, nonprocedural languages
+
+************************
+
+************************
+Document:  CACM-0068.html
+************************
+
+
+the role of the university in computers,
+data processing and related 
+************************
+ processing and related fields
+
+a study was made of university programs in
+the united states in the fields of computers, data 
+processing, operations 
+************************
+ 
+processing, operations research, and other closely related
+fields.  university policies, organization, 
+administration, faculties, students, researches, curricula,
+equipment, and financing were investigated. 
+ an integrated university program is recommended reflecting
+the conviction that many present activities 
+************************
+ny present activities 
+related to computers will develop into disciplines and
+as such are the legitimate province of the university 
+scholar.  details on 
+************************
+
+************************
+Document:  CACM-2227.html
+************************
+
+
+proof of a program: find
+
+a proof is given of the correctness of the
+algorithm "find."  first, a informal description 
+is given of the purpose of the program and the method
+used.  a systematic technique is described for 
+constructing the program proof during the process of coding
+it, in such a way as to prevent the intrusion 
+of logical errors.  the proof of termination is treated
+as a separate exercise.  finally, some conclusions 
+relating to general programming methodology are drawn.
+
+cacm january, 1971
+
+hoare, c. a. r.
+
+proofs of 
+************************
+, c. a. r.
+
+proofs of programs, programming methodology, program
+
+************************
+ methodology, program
+documentation, program correctness, theory 
+of programming
+
+4.0 4.22 5.21 5.23 
+************************
+
+************************
+Document:  CACM-2342.html
+************************
+
+
+interference between communicating parallel processes
+
+various kinds of interference between communicating
+parallel processes have been examined by 
+dijkstra, knuth, and others.  solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of parallel programs, and informal
+proofs of correctness have been given for 
+************************
+ have been given for 
+these solutions.  in this paper a system of parallel
+processes is regarded as a machine which proceeds 
+from one state s (i.e. a collection of pertinent data
+values and process configurations) 
+************************
+
+values and process configurations) to a next state 
+s' in accordance with a transition rule s --> s'.  a
+set of such rules yields sequences of states, which 
+dictate the system's behavior.  the mutual exclusion problem
+and the associated subproblems are formulated 
+as questions of inclusion between sets of states, or
+of the existence of certain sequences.  a mechanical 
+proof procedure is shown, which will either verify (prove
+the correctness of ) or discredit (prove the 
+incorrectness of) an attempted solution, with respect
+to any of the interference properties.  it is shown 
+how to calculate transition rules from the "partial
+rules" by which the individual processes operate. 
+ the formation of partial rules 
+************************
+tion of partial rules and the calculation of
+transition rules are both applicable to hardware 
+processes as well as to software processes, and
+symmetry between processes is not required.
+
+cacm june, 1972
+
+gilbert, p.
+chandler, w. j.
+
+concurrent programming control, cooperating processes,
+formal programs, interference, 
+************************
+
+************************
+Document:  CACM-1977.html
+************************
+
+
+an interactive display for approximation by linear programming
+
+an interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions (including
+splines) selected by 
+************************
+
+splines) selected by the user.  the coefficients of the approximation
+are determined by linear programming so as to minimize the 
+************************
+ so as to minimize the error
+in either the l1 or l-infinity norm.  auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed. this
+interactive system is described and several examples of its use are given.
+
+cacm november, 1970
+
+lafata, p.
+rosen, j. b.
+
+approximation, data fitting, functional approximation, linear
+programming, interactive graphical 
+************************
+
+************************
+Document:  CACM-2341.html
+************************
+
+
+blocks-a new data type for snobol4
+
+a new data type, called a block, has been implemented
+for snobol4.  a block is a three-dimensional 
+aggregate of characters in the form of a right parallelepiped,
+best thought of as a three-dimensional 
+extension to a string.  (the third dimension is used for
+overstriking.)  blocks may be printed, concatenated 
+in any of three dimensions, and merged on the basis
+of program-defined connection points.  some blocks 
+adapt in size and shape to their environment.  blocks
+and their operations are mainly used for composing 
+printable output.  a variety of graphical problems (including
+flowcharting, bargraphs, logic diagrams, 
+mathematical-equation formation, and text justification
+and preparation) have been programmed on a printer 
+in what appears to be an easy and natural way.  in addition
+to these somewhat specialized applications, 
+blocks appear to be a good general purpose device-independent
+output formation mechanism especially suitable 
+for nonnumerical work.  the concept of a block is largely
+language independenthat is, blocks require 
+little in the way of specialized syntax and could readily
+be absorbed into the external structure of 
+most programming languages.
+
+cacm june, 1972
+
+gimpel, 
+************************
+.
+
+cacm june, 1972
+
+gimpel, j. f.
+
+character manipulation, output formatting, string
+processing, graphics, nonnumerical programming, 
+snobol4, data types, two-dimensional mathematics, 
+************************
+
+************************
+Document:  CACM-2699.html
+************************
+
+
+automatic data structure choice in 
+************************
+ structure choice in a language of very high level
+
+setl is a set-theoretically oriented language
+of very high level whose repertoire of semantic 
+objects includes finite sets, ordered n-tuples, and
+sets of ordered n-tuples usable as mappings.  this 
+paper describes the structure of an optimizer for this
+language.  among other methods of interest, the 
+optimizer uses techniques which allow relations of inclusion
+and membership to be established, the domains 
+and ranges of (tabulated) mappings to be estimated from
+above and below, and the single-valuedness of 
+(tabulated) mappings to be proved.  once facts of this
+kind have been established, automatic choice of 
+data structures becomes possible. the methods employed
+are based upon, and extend, known techniques of 
+data flow analysis.
+
+cacm december, 1975
+
+schwartz, j. t.
+
+program optimization, automatic programming, high-level
+languages, set-theoretic languages, 
+************************
+, set-theoretic languages, data 
+structure choice
+
+4.12 
+************************
+
+************************
+Document:  CACM-2192.html
+************************
+
+
+another recursion induction principle
+
+an inductive method for proving things about
+recursively defined functions is described.  it 
+is shown to be useful for proving partial functions equivalent
+and thus applicable in proofs about interpreters 
+for programming languages.
+
+cacm may, 1971
+
+morris 
+************************
+.
+
+cacm may, 1971
+
+morris jr., j. h.
+
+recursion, induction, correctness, proofs, compiler correctness
+
+************************
+
+************************
+Document:  CACM-1835.html
+************************
+
+
+the iitran programming language
+
+the iitran language, developed to be used
+by students, and its important important features 
+are described. iitran is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  several novel and 
+************************
+.  several novel and powerful features
+are included.  a discussion of design principles 
+to be followed in a student language is given.
+
+cacm october, 1969
+
+dewar, r. b. k.
+hochsprung, r. r.
+
+languages programming languages, student programming
+
+************************
+ languages, student programming
+systems, language design, 
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+
+
+programming languages: history and future
+
+************************
+: history and future
+
+this paper discusses both the history and future
+of programming languages (= higher level languages). 
+************************
+ (= higher level languages). 
+ some of the difficulties in writing such a history
+are indicated.  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships.  reasons for the proliferation 
+of languages are given.  the major languages are listed
+with the reasons for their importance.  a section 
+on chronology indicates the happenings of the significant
+previous time periods and the major topics 
+of 1972.  key concepts other than specific languages are discussed.
+
+cacm july, 1972
+
+sammet, j. e.
+
+programming languages, higher level 
+************************
+ languages, higher level languages,
+languages, history, future directions, language 
+interrelationships, programming language tree, programming
+
+************************
+
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+programmer-defined data types data types and generic
+routines, programmer control over type conversion, 
+and very flexible data type behavior, in a context that
+allows efficient compiled code and compact data 
+representation.
+
+cacm may, 1974
+
+wegbreit, b.
+
+data types, modes, mode unions, type conversion,
+coercion, generic functions, extensible languages, 
+data type definition, 
+************************
+
+************************
+Document:  CACM-2264.html
+************************
+
+
+derived semantics for some programming language constructs
+
+************************
+ language constructs
+
+the constructs of a simple programming language
+are introduced and described informally in 
+terms of values and side-effects.  a translator is defined
+which translates the language into flowcharts 
+for a simple machine.  the action of the machine in executing
+a flowchart is defined.  a proof is constructed 
+that the effect of translating and executing any program
+can be expressed solely in terms of the value 
+and side-effect of the program.  during the course of
+constructing the proof, formal definitions of the 
+concepts of value and side-effect are derived in order
+to make the proof rigorous.  correctness of the 
+implementation involves checking that the definitions derived
+in the step above are an acceptable formalization 
+of the informal description given in the first step.
+
+cacm november, 1972
+
+henderson, p.
+
+lambda calculus, formal description, program
+correctness, programming languages, semantics
+
+4.22 5.23 5.24
+
+ca721105 
+************************
+
+************************
+Document:  CACM-3031.html
+************************
+
+
+abstract data types and software validation
+
+************************
+ and software validation
+
+a data abstraction can be naturally 
+************************
+ion can be naturally specified
+using algebraic axioms.  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type.  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation.  the  major 
+thrust of the paper is twofold.  first, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an abstract data type.  second, semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to 
+************************
+ of correctness and to derive an immediate 
+implementation from the axioms.  this implementation
+allows for limited testing of programs at design 
+time, before a conventional implementation is accomplished.
+
+cacm december, 1978
+
+guttag, j.
+horowitz, e.
+musser, d.
+
+abstract data type, correctness proof,
+
+************************
+ type, correctness proof,
+data type, data structure, 
+************************
+
+************************
+Document:  CACM-2940.html
+************************
+
+
+abstraction and verification in alphard: defining
+and specifying iteration and generators
+
+the alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.  in this paper the 
+************************
+.  in this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement, the
+most important poin t of interaction between data 
+and the control structure of the language itself.  a
+means of specializing alphard's loops to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced. 
+ specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+ results are obtained that for common special 
+cases of these loops are essentially identical to the
+corresponding constructs in other languages.  a 
+means of showing that a generator will terminate is also provided.
+
+cacm august, 1977
+
+shaw, m.
+wulf, w. a.
+
+abstraction and representation, abstract data types,
+assertions, control specialization, correctness, 
+generators,invariants, iteration statements, modular
+decomposition, program specifications, programming 
+languages, programming methodology, proofs of correctness, types, 
+************************
+ of correctness, types, verification
+
+4.20 
+************************
+
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can (or cannot) be actualized before we can say 
+we have a unified theory.
+
+cacm september, 1977
+
+scott, d. s.
+
+logic, programming languages, automata, denotational
+semantics, a-calculus models, 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+
+
+reduction: a method of proving properties of parallel programs
+
+when proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the rest of the program. 
+ here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting.  thus correctness proofs of a parallel 
+system 
+************************
+
+************************
+Document:  CACM-1098.html
+************************
+
+
+a comparison of list-processing computer languages
+(including a detailed comparison 
+************************
+ a detailed comparison of comit, 
+ipl-v, lisp 1.5, and slip)
+
+a detailed comparison is presented of comit,
+ipl-v, lisp 1.5 and slip - four well-known computer 
+programming languages which, among them, exhibit 
+************************
+ which, among them, exhibit all the
+principal characteristics of existing list-processing 
+languages.  important common features of list-processing
+languages are reviewed: forms of data structures 
+which are manipulated, necessity 
+************************
+nipulated, necessity for dynamic allocation
+of storage, use of pushdown stores, and use of 
+recursive operations.  principal differences between the
+four languages under consideration are detailed: 
+representations of data, both by the programmer and within
+the machine; methods for storage allocation; 
+programming formalisms and special processes available,
+including arithmetic facilities; 
+************************
+ arithmetic facilities; and usability 
+in terms of availability, documentation, learning aids
+and debugging facilities.  a rough comparison 
+shows that all the languages discussed have approximately
+the same speed. 
+************************
+tely
+the same speed.  finally, the authors give 
+some heuristics to aid in the selection of one of these
+languages for use in particular problem applications, 
+concluding that no one of the languages considered is
+distinctly superior in all possible list-processing 
+applications.
+
+cacm april, 1964
+
+bobrow, d. g.
+raphael, b.
+
+ca640410 jb march 10, 1978  1:37 am
+
+************************
+
+************************
+Document:  CACM-2941.html
+************************
+
+
+early experience with mesa
+
+the experiences of mesa's first users-primarily
+its implementers-are discussed, and some implications 
+for mesa and similar programming languages are suggested.
+the specific 
+************************
+ are suggested.
+the specific topics addressed are: module structure 
+and its use in defining abstractions, data-structuring
+facilities in mesa, an equivalence algorithm for 
+types and type coercions, the benefits of the type system
+and why it is breached occasionally, and the 
+difficulty of making the treatment of variant records safe.
+
+cacm august, 1977
+
+geschke, c. m.
+morris, j. h. jr.
+satterthwaite, e. h.
+
+programming languages, types, modules,
+data 
+************************
+, types, modules,
+data structures, systems programming
+
+4.22
+
+ca770802 jb december 
+************************
+
+************************
+Document:  CACM-3105.html
+************************
+
+
+a language extension for expressing constraints on data access
+
+controlled sharing of information is needed and
+desirable for many applications and is supported 
+in operating systems by access control mechanisms.  this
+paper shows how to extend programming languages 
+to provide controlled sharing.  the extension permits
+expression of access constraints on shared data. 
+ access constraints can apply both to simple objects, and
+to objects that are components of larger objects, 
+such as bank account records in a bank's data base.
+ the constraints are stated declaratively, and can 
+be enforced by static checking similar to type checking.
+ the approach can be used to extend any strongly-typed 
+language, but is particularly suitable for extending
+languages that support the notion of abstract data 
+types. 
+
+cacm may, 1978
+
+jones, 
+************************
+. 
+
+cacm may, 1978
+
+jones, a.
+liskov,b.
+
+programming languages, access control, data 
+************************
+, access control, data types,
+abstract data types, 
+************************
+,
+abstract data types, type checking, capabilities
+
+************************
+
+************************
+Document:  CACM-1677.html
+************************
+
+
+storage organization in programming systems
+
+the system of program and data representation
+that 
+************************
+ representation
+that has been in use on the rice university computer 
+for five years is described.  each logical entity in storage
+occupies a block of consecutive memory locations. 
+ each block is labeled by a codeword and may contain
+a program, a data vector, or codewords which in 
+turn label blocks to form arrays.  this storage arrangement
+is discussed with its realized advantages 
+or programming systems: simplicity 
+************************
+ systems: simplicity of programmed addressing,
+flexibility of data structures, efficiency 
+of memory utilization, variability of system composition
+during execution, means of linkage between programs 
+and from programs to data, and basis for storage protection.
+ the application of labeled blocks may be 
+extended to areas 
+************************
+
+************************
+Document:  CACM-2956.html
+************************
+
+
+some ideas on data types in high-level languages
+
+************************
+ in high-level languages
+
+a number of issues are explored concerning the
+notion that a data type is a set of values together 
+with a set of primitive operations on those values.  among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple notation for allowing types of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+cacm june, 1977
+
+gries, d.
+gehani, n.
+
+data types, generic procedures, programming languages
+
+4.12 4.20 
+************************
+
+************************
+Document:  CACM-3081.html
+************************
+
+
+shallow binding in lisp 1.5
+
+shallow binding is a scheme which allows the
+value of a variable to be accessed in a bounded 
+amount of computation.  an elegant model for shallow binding
+in  lisp 1.5 is presented in which context-switching 
+is an environment tree transformation called rerooting.
+ rerooting is completely general and reversible, 
+and is optional in the sense that a lisp 1.5 interpreter
+will operate correctly whether or not rerooting 
+is invoked one very context change.   since rerooting
+leaves assoc [v, a] invariant, for all variables 
+v and all environments a, the programmer can have access
+to a rerooting primitive, shallow[], which gives 
+him dynamic control over whether accesses are shallow or
+deep, and which affects only the speed of execution 
+of a program, not its semantics.  in addition, multiple
+processes can be active in the same environment 
+structure, so long as rerooting is an indivisible operation.
+ finally, the concept of rerooting is shown 
+to combine the concept of shallow binding in lisp with
+dijkstra's display for algol and hence is a general 
+model for shallow binding.
+
+cacm july, 1978
+
+baker, h. jr.
+
+lisp 1.5, environment trees, funarg's, shallow binding,
+deep binding, multiprogramming, algol display
+
+4.13 
+************************
+
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure 
+************************
+.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+expression, context-free languages, translation, recognizers,
+
+************************
+
+************************
+Document:  CACM-2718.html
+************************
+
+
+a preliminary system for the design of dbtg data structures
+
+the functional approach to database design is
+introduced.  in this approach the goal of design 
+is to derive a data structure which is capable of supporting
+a set of anticipated queries rather than 
+a structure which "models the business" in some other
+way. an operational computer program is described 
+which utilizers the functional approach to design data
+structures conforming to the data base task group 
+specifications.  the automatic programming technology
+utilized by this program, although typically used 
+to generate procedure, is here used to generate declaratives.
+
+cacm october, 1975
+
+gerritsen, r.
+
+network model of databases, data base task group, database
+design, data structure, automatic programming, 
+translation, nonprocedural languages
+
+3.5 3.64 3.7 4.2 5.23
+
+************************
+
+************************
+Document:  CACM-2946.html
+************************
+
+
+an alternative to event queues for synchronization in monitors
+
+in the monitor concept, as proposed by brinch
+hansen and hoare, event are used for synchronization.
+  this paper describes another synchronizing primitive
+which is nearly as expressive as the conditional 
+wait, but can be implemented more efficiently.  an implementation
+of this primitive in terms of p and 
+v operations is given together with a correctness proof.
+ two examples are presented: the readers and 
+writers problem and the problem of information
+streams sharing 
+************************
+
+************************
+Document:  CACM-2906.html
+************************
+
+
+a very high level programming language for data processing applications
+
+************************
+ processing applications
+
+application development today is too labor-in tensive.
+ in recent years, very high-level languages 
+have been increasingly explored as a solution to this
+problem.  the business definition language (bdl) 
+is such a language, one aimed at business data processing
+problems.  the concepts in bdl mimic those 
+which have evolved through the years in businesses using
+manual methods.  this results in three different 
+sublanguages or components: one for defining the business
+forms, one for describing the business organization, 
+and one for writing calculations.
+
+cacm november, 1977
+
+hammer, m.
+owe, w. g.
+kruskal, v. j.
+wladawsky, i.
+
+very high level language, nonprocedural language,
+data flow language, business application, business 
+data processing, structured programming, modular programming,
+
+************************
+, modular programming,
+format specification, and 
+************************
+
+************************
+Document:  CACM-2594.html
+************************
+
+
+structured data structures
+
+programming systems which permit 
+************************
+ systems which permit arbitrary
+linked list structures enable the user to create 
+complicated structures without sufficient protection.
+ deletions can result in unreachable data elements, 
+and there is no guarantee that additions will be performed
+properly.  to remedy this situation, this 
+paper proposes a gauge which provides for the creation
+of a restricted class of data structures but ensures 
+the correctness of the program.  this is accomplished
+by an explicit structure declaration facility, 
+a restriction on the permissible operations, and execution-time checks.
+
+cacm october, 1974
+
+shneiderman, b.
+scheuermann, p.
+
+************************
+n, b.
+scheuermann, p.
+
+structured programming, data structures, data base 
+************************
+ structures, data base management system
+
+3.50 
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  syntax directed
+input and output of data would facilitate use of 
+complex data stores.
+
+cacm july, 1972
+
+bobrow, d. g.
+
+list processing, programming languages, design of
+programming languages, interactive systems, control 
+structures, data structures, programming primitives,
+semantics, advanced programming 
+************************
+
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must arrange data for input by aligning 
+************************
+ for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency 
+************************
+ with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical 
+************************
+
+************************
+Document:  CACM-2943.html
+************************
+
+
+lucid, a nonprocedural language with iteration
+
+lucid is a formal system in which programs
+can be written and proofs of programs carried out. 
+ the proofs are particularly easy to follow and straightforward
+to produce because the statements in 
+a lucid program are simply axioms from which the proof
+proceeds by (almost) conventional logical reasoning, 
+with the help of a few axioms and rules of inference
+for the special lucid functions.  as a programming 
+language, lucid is unconventional because, among other
+things, the order of statements is irrelevant 
+and assignment statements are equations.  nevertheless,
+lucid programs need not look much different than 
+iterative programs in a conventional structured programming
+language using assignment and conditional 
+statements and loops.
+
+cacm july, 1977
+
+ashcrof, e. a.
+wadge, w. w.
+
+program proving, formal systems, semantics,
+iteration, structured 
+************************
+
+************************
+Document:  CACM-2265.html
+************************
+
+
+a model for type checking
+
+most current programming languages treat computation
+over 
+************************
+ treat computation
+over different classes of objects (e.g. 
+numbers, strings, labels and functions).  for correct
+compilation and execution, the following question 
+then arises: is a program properly constructed so that
+its operations and operands are compatible?  the 
+activity of answering this question is usually called
+type checking.  this paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions. 
+in particular, a program is mapped into an expression 
+within a decidable subset of the lambda calculus, which
+characterizes the type relations within the program 
+and eliminates all other information.  the determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".  an application 
+to type checking in algol 60 is made, and the attendant
+problems faced for any notion of type checking 
+are discussed.
+
+cacm november, 1972
+
+ledgard, h. f.
+
+type checking, types, lambda calculus, models for
+programming languages, syntax, semantics, 
+************************
+, syntax, semantics, compiler 
+writing, 
+************************
+
+************************
+Document:  CACM-2895.html
+************************
+
+
+a language for formal problem specification
+
+a language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ the specifications are constrain ts on the order in which
+events of a computation can occur.  the language 
+is used to write specifications of the readers/writers
+problem and the writer priority of the second 
+readers/writers problem.
+
+cacm december, 1977 
+
+greif, i.
+
+formal specifications,program correctness, parallel
+processing, 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming 
+************************
+nipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse 
+************************
+ linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.  advantages of these programming languages
+for the retrieval 
+************************
+ languages
+for the retrieval application are examined, 
+and suggestions are made for the design of 
+************************
+de for the design of programming
+facilities to aid in information retrieval.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2254.html
+************************
+
+
+dynamic partitioning for array languages
+
+the classical process of partitioning an array
+into subarrays is extended to a more useful 
+array language operation.  various modes of partitioning
+are defined for different types of arrays, so 
+that subarrays may vary over the original 
+************************
+y vary over the original array in
+a nearly arbitrary manner.  these definitions are 
+motivated with several realistic examples to illustrate
+the value of partitioning for array languages. 
+ of general interest is the data structure for partitioning.
+ this consists of dynamic tree structures 
+which are used to derive and maintain the array control
+information.  these are described in sufficient 
+detail to be of value in the design of other array languages.
+ the description presented in this paper 
+is implemented in a new array language, ol/2, currently
+under development at the university of illinois.
+
+cacm december, 1972
+
+phillips, j. r.
+adams, h. c.
+
+dynamic partitioning, array partitioning array language,
+data structure, tree structure, programming 
+language design, array 
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+
+
+comment on the composition of semantics in algol 68
+
+cacm august, 1972
+
+van der poel, w. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive 
+************************
+,
+algol, semantics, recursive composition, design 
+of programming languages, data structures
+
+1.3 
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  the model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may 
+************************
+
+************************
+Document:  CACM-2777.html
+************************
+
+
+on a solution to the cigarette smoker's
+problem (without conditional statements)
+
+this report discusses a problem first introduced
+by patil, who has claimed that the cigarette 
+smoker's problem cannot be solved using the p and v operations
+introduced by dijkstra unless conditional 
+statements are used.  an examination of patil's proof
+shows that he has established this claim only under 
+strong restrictions on the use of p and v.  these restrictions
+eliminate programming techniques used 
+by dijkstra and others since the first introduction
+of the semaphore concept.  this 
+************************
+
+************************
+Document:  CACM-2958.html
+************************
+
+
+abstract data types and the development 
+************************
+ and the development of data structures
+
+abstract data types can play a significant 
+************************
+ can play a significant role
+in the development of software that is reliable, 
+efficient, and flexible.  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types.  among
+the examples 
+************************
+.  among
+the examples presented is a top-down development 
+of a symbol table for a block structured language; a discussion
+of the proof of its correctness is given. 
+ the paper also contains a brief discussion of the problems
+involved in constructing algebraic specifications 
+that are both consistent and complete.
+
+cacm june, 1977
+
+guttag, j.
+
+abstract data type, correctness proof, 
+************************
+ type, correctness proof, data type,
+data structure, 
+************************
+
+************************
+Document:  CACM-3014.html
+************************
+
+
+is "sometime" sometimes better than "always"? (intermittent
+assertions in proving program correctness)
+
+this paper explores a technique for proving the
+correctness and termination of programs simultaneously. 
+ this approach, the intermittent-assertion method, involves
+documenting the program with assertions that 
+must be true at some time when control passes through
+the corresponding point, but that need not be true 
+every time.  the method, introduced by burstall, promises
+to provide a valuable complement to the more 
+conventional methods.  the intermittent-assertion method
+is presented with a number of examples of correctness 
+and termination proofs.  some of these proofs are markedly
+simpler than their 
+************************
+rkedly
+simpler than their conventional counterparts. 
+ on the other hand, it is shown that a proof of correctness
+or termination by any of the conventional 
+techniques can be rephrased directly as a proof using
+intermittent assertions.  finally, it is shown 
+how the intermittent-assertion method can be applied
+to prove the validity of program transformations 
+and the correctness 
+************************
+tions 
+and the correctness of continuously operating programs.
+
+cacm february, 1978
+
+manna, z.
+waldinger, r.
+
+************************
+nna, z.
+waldinger, r.
+
+intermittent assertions, correctness of programs,
+termination of programs, program verification, 
+program transformation, continuously operating 
+************************
+
+************************
+Document:  CACM-2865.html
+************************
+
+
+verifying properties of parallel programs: an axiomatic approach
+
+an axiomatic method for proving a number
+of properties of parallel programs is presented.  
+hoare has given a set of axioms for partial correctness,
+but they are not strong enough in most cases. 
+ this paper defines a more powerful deductive system which
+is in some sense complete for partial correctness. 
+ a crucial axiom provides for the use of auxiliary variables,
+which are added to a parallel program as 
+an aid to proving it correct.  the information in a partial
+correctness proof can be used to prove such 
+properties as mutual exclusion, freedom from deadlock,
+and program termination.  techniques for verifying 
+these properties are presented and illustrated by
+application to the dining philosophers problem.
+
+cacm may, 1976
+
+owicki, s.
+gries, d.
+
+structured multiprogramming correctness proofs, program
+verification, 
+************************
+
+************************
+Document:  CACM-2701.html
+************************
+
+
+a fast and usually linear algorithm for global
+flow analysis (abstract only--complete paper jacm 
+23,1 january, 1976)
+
+a new algorithm for global flow analysis on
+reducible graphs is presented. the algorithm is 
+shown to treat a very general class of function spaces.
+ for a graph of e edges, the algorithm has a 
+worst case time bound of o(e log e) function operations.
+ it is also shown that in programming terms, 
+the number of operations is proportional to e plus the
+number of exits from program loops.  consequently 
+a restriction to one-entry one-exit control structures
+linearity.  the algorithm can be extended to yet 
+larger classes of function spaces and graphs by relaxing
+the time bound.  examples are given of code 
+improvement problems which can be solved using the algorithm.
+
+cacm december, 1975
+
+graham, s. l.
+wegman, m.
+
+global flow analysis, data flow, code optimization,
+
+************************
+ flow, code optimization,
+common subexpression elimination, live-dead 
+analysis, information propagation, flow graph, reducibility,
+go-to-less programming, depth-first search, 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major 
+************************
+
+
+in this paper the major components of every
+programming language are identified 
+************************
+ language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently 
+************************
+ny examples,
+frequently from list processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+cacm february, 1966
+
+************************
+
+************************
+Document:  CACM-2971.html
+************************
+
+
+sp/k: a system for teaching computer programming
+
+sp/k is a compatible subset of the pl/i  language
+that has been designed for teaching programming. 
+the features of the sp/k language were chosen to encourage
+structured problem solving by computers, to 
+make the language easy to learn and use, to eliminate
+confusing and redundant constructs, and to make 
+the language easy to compile.  the resulting language
+is suitable for in troducing programming concepts 
+used in various applications, including business data
+processing, scientific 
+************************
+
+processing, scientific calculations and non-numeric 
+computation.  sp/k is actually a sequence of language
+subsets called sp/1, sp/2,..p/8.  each subset 
+in troduces new programming language constructs while
+retaining all the constructs of preceding subsets. 
+each subset is precisely defined and can be learned
+or implemented without the following subsets.
+
+cacm may, 1977
+
+holt, r. c.
+
+************************
+y, 1977
+
+holt, r. c.
+wortman, d. b.
+barnard, d. t.
+cordy, j. r.
+
+programmer education, universities, community colleges,
+high schools, pl/i, sp/k, minicomputers, 
+programming language design, teaching 
+************************
+
+************************
+Document:  CACM-0822.html
+************************
+
+
+real-time programming specifications
+
+problems in the implementation 
+************************
+
+
+problems in the implementation of large real-time
+applications are treated, and suggested guidelines 
+for both program and file specifications are developed.
+ the problems delineated also occur in systems 
+programming.
+
+cacm july, 1963
+
+head, 
+************************
+
+************************
+Document:  CACM-2957.html
+************************
+
+
+database abstractions: aggregation
+
+aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  aggregation transforms a relationship between
+objects into a higher-level object.  a new data 
+type, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  relational databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  to main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  well-defined relations are
+distinct from relations in third normal form.  it 
+is shown that these notions are complementary and both are
+important in database design.  a top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  it is
+suggested that aggregate types, and other types 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+into programming languages.
+
+cacm june, 1977
+
+smith, 
+************************
+.
+
+cacm june, 1977
+
+smith, j. m.
+smith, d. c. p.
+
+data abstraction, relational database, 
+************************
+
+************************
+Document:  CACM-1703.html
+************************
+
+
+accommodating standards and identification of programming languages
+
+the user public wants 
+************************
+
+
+the user public wants standardization and
+reliable identification of programming languages 
+and related services. 
+************************
+ 
+and related services.  one way of achieving these goals
+illustrated by the methods adopted for trac t-64 
+interactive language, and its related family of languages.
+ oppressive rigidity usually associated with 
+standardization is avoided by a new accommodation technique
+accessible to the user to allow local variations 
+with the language.  explicit standardization of the language
+is undertaken at the organizational source 
+of the language.  use of the organizational trademark
+(trac) on the published standards, and services 
+relying upon them, provides a reliable public identification.
+ these methods can be usefully applied 
+to other programming languages and computer 
+************************
+ languages and computer services.
+
+cacm august, 1968
+
+mooers, c. n.
+
+standardization, programming languages, trac t-64
+language, tranemark, public identification 
+************************
+rk, public identification of 
+programming languages, standards which accommodate
+
+************************
+
+************************
+Document:  CACM-1099.html
+************************
+
+
+professional computer work for the blind
+
+developments in computer technology have opened
+new professional opportunities for the intelligent 
+blind.  since there are few if any occupations in which the
+blind can participate without serious disadvantage, 
+the opportunities offered them to gain entrance into
+various occupations through computer use including 
+that of programmer, is important for future rehabilitation
+planning. also of immediate interest is the 
+fact that the blind may be especially suited 
+************************
+y be especially suited for programming
+work.  because of intense training in and 
+constant experience with locating objects in the unseen
+environment and also because of superbly trained 
+memory, the blind brings to the work of programming skills
+which the sighted has had little need to acquire. 
+ these qualifications should result in fewer debugging
+problems and make the blind a valuable 
+************************
+ke the blind a valuable addition 
+to any systems group.  before the blind could become a
+serious professional, a number of aids and techniques 
+had to be developed that can mediate between machines
+and programmer.  this paper describes the techniques 
+and aids which were designed by the staff of the medical
+computing center of the university of cincinnati 
+college 
+************************
+
+************************
+Document:  CACM-3077.html
+************************
+
+
+can programming be liberated from the von neumann
+style?  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous, but not stronger.  inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs. an 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs. 
+ functional programs deal with structured data, are often
+nonrepetitive and nonrecursive, are hierarchically 
+constructed, do not name their arguments, and do not require
+the complex machinery of procedure declarations 
+to become generally applicable.  combining forms can
+use high level programs to build still higher level
+ones in a style not possible in conventional languages.
+ associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms. 
+ this algebra can be used to transform programs and
+to solve equations whose "unknowns" are programs 
+in much the same way one transforms equations in high
+school algebra.  these transformations are given 
+by algebraic laws and are carried out in the same language
+in which programs are written.  combining 
+forms are chosen not only for their programming power
+but also for the power of their associated algebraic 
+laws.  general theorems of of the algebra give the detailed
+behavior and termination conditions for large 
+classes of programs.  a new class of computing systems
+uses the functional programming style both in 
+its programming language and in its state transition
+rules.  unlike von neumann languages, these systems 
+have semantics loosely coupled to states-only one
+state transition occurs per major computation. 
+
+cacm august, 1978
+
+backus, j.
+
+functional programming, algebra of programs, combining
+forms, functional forms, programming languages, 
+von neumann computers, von neumann languages, models of
+computing systems, applicative computing systems, 
+applicative state transition systems, program transformation,
+program correctness, program termination, 
+************************
+
+************************
+Document:  CACM-0949.html
+************************
+
+
+integer and signed constants in algol
+
+a few remarks are given on the relations between
+syntax and semantics in the programming languages. 
+ the aim is to point 
+************************
+
+************************
+Document:  CACM-3188.html
+************************
+
+
+   semiotics and programming languages
+
+   i have based my 
+************************
+
+
+   i have based my paper on semiotics and its three dimension. i should insert
+at this point that language has many aspects and that pragmatics, semantics and
+syntactics do not 
+************************
+
+************************
+Document:  CACM-2851.html
+************************
+
+
+formal verification of parallel programs
+
+two formal models for parallel computation
+are presented: an abstract conceptual model and 
+a parallel-program model.  the former model does not
+distinguish between control and data states.  the 
+latter model includes the capability for the representation
+of an infinite set of control states by allowing 
+there to be arbitrarily many instruction pointers (or
+processes) executing the program.  an induction 
+principle is presented which treats the control and
+data state sets on the same ground.  through the 
+use of "place variables," it is observed that certain
+correctness conditions can be expressed without 
+enumeration of the set of all possible control states.
+ examples are presented in which the induction 
+principle is used to demonstrate proofs of mutual exclusion.
+
+************************
+ of mutual exclusion.
+ it is shown that assertions-oriented proof 
+methods are special cases of the induction principle.
+a special case of the assertions method, which 
+is called parallel place assertions, is shown to be
+incomplete.  a formalization of "deadlock" is then 
+presented. the concept of a "norm" is introduced, which
+yields an extension, to the deadlock problem, 
+of floyd's technique for proving termination.  also discussed
+is an extension of the program model which 
+allows each process to have its own local variables
+and permits shared global variables.  correctness 
+of certain forms of 
+************************
+
+************************
+Document:  CACM-2703.html
+************************
+
+
+the intrinsically exponential complexity of
+the circularity problem for attribute grammars
+
+attribute grammars are an extension of context-free
+grammars devised by knuth as a mechanism 
+for including the semantics of a context-free language
+
+************************
+ of a context-free language
+with the syntax of the language.  the circularity 
+problem for a grammar is to determine whether the semantics
+for all possible sentences 
+************************
+
+for all possible sentences (programs) in 
+fact will be well defined.  it is proved that this problem
+is, in general, computationally intractable. 
+ specifically, it is shown that any deterministic algorithm
+which solves the problem must for infinitely 
+many cases use an exponential amount of timen improved
+version of knuth's circularity testing algorithm 
+is also given, which actually solves the problem within exponential time.
+
+cacm december, 1975
+
+jazayeri, m.
+ogden, w. f.
+rounds, w. c.
+
+attribute grammars, circularity problem, context-free
+grammars, computational complexity, exponential 
+time, semantics
+
+4.12 5.25
+
+ca751204 
+************************
+
+************************
+Document:  CACM-2887.html
+************************
+
+
+a study of errors, error-proneness, and error diagnosis in cobol
+
+this paper provides data on cobol error frequency
+for correction of errors in student-oriented 
+compilers, improvement of teaching, and changes in programming
+language.  cobol was studied because of 
+economic importance, widespread usage, possible error-including
+design, and lack of research.  the types 
+of errors were identified 
+************************
+ 
+of errors were identified in a pilot study; then, using
+the 132 error types found, 1,777 errors were 
+classified in 1,4000 runs of 73 cobol students.  error
+density was high: 20 percent of the types contained 
+80 percent of the total frequency, which implies high
+potential effectiveness for software based correction 
+of cobol.  surprisingly, only four high-frequency errors
+were error-prone, which implies minimal error 
+inducing design. 
+************************
+l error 
+inducing design. 80 percent of cobol misspellings were classifiable
+in the four error categories of previous 
+researchers, which implies that cobol misspellings
+are correctable by existent algorithms.  reserved 
+word usage was not error-prone, which implies minimal
+interference with usage of reserved words.  over 
+80 percent of error diagnosis was found to be inaccurate.
+ such feedback is not optimal for users, particularly 
+for the learning user of cobol.
+
+cacm january, 1976
+
+litecky, c. r.
+davis, g. b.
+
+errors in programming, error correction, cobol, 
+************************
+
+************************
+Document:  CACM-2178.html
+************************
+
+
+a language extension for graph processing and its formal semantics
+
+a simple programming language "extension,"
+
+************************
+ language "extension,"
+graspe, for processing directed graphs is defined. 
+ graspe consists of a type of directed graph data structure
+and a set of primitive operations for manipulating 
+these structures. 
+************************
+nipulating 
+these structures.  graspe may be most easily implemented
+by embedding it in a host language.  emphasis 
+is placed both on graspe itself and on its method of
+definition.  commonly, the definition of a language 
+involves definition of the syntactic elements and explanation
+of the meaning to be assigned them (the 
+semantics).  the definition of graspe here is solely in
+terms of its semantics; that is, the data structures 
+and operations are defined precisely but without assignment
+of a particular syntactic representation. 
+ only when the language is implemented is assignment
+of an explicit syntax necessary.  an example of 
+an implementation of graspe embedded in lisp is given as
+an illustration.  the advantages and disadvantages 
+of the definition of a language in terms of its semantics are discussed.
+
+cacm july, 1971
+
+pratt, t. w.
+friedman, d. p.
+
+graph processing, programming language, formal semantics,
+
+************************
+ language, formal semantics,
+directed graph, lisp, 
+************************
+
+************************
+Document:  CACM-2871.html
+************************
+
+
+logical analysis of programs
+
+most present systems for verification of computer
+programs are incomplete in that intermediate 
+inductive assertions must be provided manually by the
+user, termination is not proven, and incorrect 
+programs are not treated.  as a unified solution to
+these problems, this paper suggests conducting a 
+logical analysis of programs by using invariants which
+express what is actually occurring in the program. 
+ the first part of the paper is devoted to techniques
+for the automatic generation of invariants.  the 
+second part provides criteria for using the invariants
+to check simultaneously for correctness (including 
+termination) or incorrectness. 
+************************
+ 
+termination) or incorrectness.  a third part examines
+the implications of the approach for the automatic 
+diagnosis and correction 
+************************
+tic 
+diagnosis and correction of logical errors.
+
+cacm april, 1976
+
+katz, s.
+manna, z.
+
+logical analysis, invariants, program verification,
+correctness, incorrectness, termination, 
+************************
+, incorrectness, termination, automatic 
+debugging
+
+3.66 
+************************
+
+************************
+Document:  CACM-3133.html
+************************
+
+
+logic and semantic networks
+
+an extended form of semantic network is defined, which can
+be regarded as a syntactic variant of the clausal form of logic.
+by virtue of its relationship with logic, the extended
+semantic network is provided with a precise semantics,
+inference rules, and a procedural interpretation.  on
+the other hand, by regarding semantic networks as an 
+abstract data structure for the representation 
+************************
+ structure for the representation of clauses, we provide a
+theorem-prover with a potentially useful indexing scheme and path-following
+strategy for guiding the search for a proof.
+
+cacm march, 1979
+
+deliyanni, a.
+kowalski, r.
+
+logic, semantic networks, theorem-proving, indexing, resolution, deduction, 
+logic programming
+
+3.42 3.64 5.21
+
+ca790304 
+************************
+
+************************
+Document:  CACM-2937.html
+************************
+
+
+an experimental evaluation of data type conventions
+
+the language in which programs are written
+can have a substantial effect on the reliability 
+of the resulting programs.  this paper discusses an experiment
+that compares the programming reliability 
+of subjects using a statically typed language and a "typeless"
+language.  analysis of the number of errors 
+and the number of runs containing errors shows that, at
+least in one environment, the use of a statically 
+typed language can increase programming reliability. 
+detailed analysis of the errors made by the subjects 
+in programming solutions to reasonably small problems
+shows that the subjects had difficulty manipulating 
+the representation of data.
+
+cacm august, 1977
+
+gannon, j. d.
+
+data types, experimentation, language
+
+************************
+
+************************
+Document:  CACM-2326.html
+************************
+
+
+fix point approach to the theory of computation 
+
+following the fix point theory of scott, the
+semantics of computer programs are defined in terms 
+of the least fix points of recursive programs.  this
+allows not only the justification of all existing 
+verification techniques, but also their extension to the
+handling, in a uniform manner of various properties 
+of computer programs, including correctness, termination, and equivalence.
+
+cacm july, 1972
+
+manna, z.
+vuillemin, j.
+
+verification techniques, semantics of programming
+languages, least fix points, recursive 
+************************
+
+************************
+Document:  CACM-2732.html
+************************
+
+
+guarded commands, nondeterminacy and formal derivation of programs
+
+so-called "guarded commands" are introduced
+as a building block for alternative and repetitive 
+constructs that allow nondeterministic program components
+for which at least the activity evoked, but 
+possible even the final state, is not necessarily uniquely
+determined by the initial state.  for the 
+formal derivation of programs expressed in terms
+of these constructs, a calculus will be shown.
+
+cacm august, 1975
+
+dijkstra, e. w.
+
+programming languages, sequencing primitives, 
+************************
+, sequencing primitives, program
+semantics, programming language semantics, 
+************************
+ language semantics, 
+nondeterminacy, case-construction, repetition, termination,
+correctness proof, derivation of programs, 
+programming methodology
+
+4.20 4.22
+
+************************
+
+************************
+Document:  CACM-1678.html
+************************
+
+
+automata, formal languages, abstract switching,
+and computability 
+************************
+ switching,
+and computability in a ph. computer science 
+program
+
+a number of courses are listed in the area
+describe as automata, formal languages, abstract 
+switching, and computability, 
+************************
+ 
+switching, and computability, that might be available
+to a ph. student in computer science.  a brief 
+catalog description of each course is applied and the
+role of each of the courses in the graduate program 
+is discussed.
+
+cacm november, 1968
+
+mcnaughton, r.
+
+ph. computer-science curriculum, ph. computer
+science program, automata, formal languages, 
+switching theory, 
+************************
+
+************************
+Document:  CACM-2945.html
+************************
+
+
+certification of programs for secure information flow
+
+this paper presents a certification mechanism
+for verifying the secure flow of information 
+through a program.  because it exploits the properties
+of a lattice structure among security classes, 
+the procedure is sufficiently simple that it can easily
+be included in the analysis phase of most existing 
+compilers.  appropriate semantics are presented and
+proved correct.  an important application is the 
+confinement problem: the mechanism can prove that a program
+cannot cause supposedly nonconfidential results 
+to depend on confidential input data.
+
+cacm july, 1977
+
+denning, 
+************************
+
+************************
+Document:  CACM-2972.html
+************************
+
+
+proof techniques for hierarchically structured programs
+
+a method for describing and structuring programs
+that simplifies proofs of their correctness 
+is presented.  the 
+************************
+ 
+is presented.  the method formally represents a program
+in terms of levels of abstraction, each level 
+of which 
+************************
+ion, each level 
+of which can be described by a self-contained nonprocedural
+specification.  the proofs, like the programs, 
+are structured by levels.  although only manual proofs
+are described in the paper, the method is also 
+applicable to semi-automatic and automatic proofs.  preliminary
+results are encouraging, indicating that 
+the method can be applied to large programs, such as operating systems.
+
+cacm april, 1977
+
+robinson, l.
+levitt, k. n.
+
+hierarchical structure, program verification, structured
+programming, formal specification, abstraction, 
+and programming 
+************************
+
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high 
+************************
+.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base management systems, programming languages,
+data structures, storage 
+************************
+,
+data structures, storage structures, information 
+retrieval, transaction 
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: 
+************************
+ structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+data types such as sets and lists, 
+************************
+ such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient 
+************************
+ were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+************************
+ from a library of implementations 
+is discussed.  this process is discussed in detail for
+an example program.  general issues in data structure 
+selection are also reviewed. 
+
+cacm may, 1978
+
+low, j.
+
+abstract data types, automatic programming, 
+************************
+, automatic programming, data
+structures, optimizing 
+************************
+
+************************
+Document:  CACM-2886.html
+************************
+
+
+semantic evaluation from left to right
+
+this paper describes attribute grammars and their
+use for the definition of programming languages 
+and compilers; a formal 
+************************
+ 
+and compilers; a formal definition of attribute grammars
+and a discussion of some of its important aspects 
+are included. the paper concentrates on the evaluation
+of semantic attributes in a few passes from left 
+to right over the derivation tree of a program.  a
+condition for an attribute grammar is given which 
+assures that the semantics of any program can be evaluated
+in a single pass over the derivation tree, 
+and an algorithm is discussed which decides how many
+passes from left to right are in general necessary, 
+given the attribute grammar. these notions are explained
+in terms of an example grammar which describes 
+the scope rules of algol 60.  practical questions, such
+as the relative efficiency of different evaluation 
+schemes, and the ease of adapting the attribute grammar
+of a given programming language to the left-to-right 
+evaluation scheme are discussed.
+
+cacm february, 1976
+
+bochmann, g. v.
+
+attribute grammars, semantics of programming languages,
+semantic attributes, 
+************************
+
+************************
+Document:  CACM-2155.html
+************************
+
+
+toward an understanding of data structures
+
+this paper presents a notation and formalism
+for describing the 
+************************
+lism
+for describing the semantics of data structures. 
+ this is 
+************************
+ structures. 
+ this is based on directed graphs with named edges and
+transformations on these graphs.  in addition, 
+an implementation facility is described which could
+be part of a programming language, which allows a 
+programmer who has expressed the semantics of an algorithm
+in terms 
+************************
+ of an algorithm
+in terms of the graphs to then specify the 
+implementation of some of his data structures in order to gain efficiency.
+
+cacm october,1971
+
+earley, j.
+
+data structures, graph, implementation,
+semantic formalism, programming 
+************************
+ntic formalism, programming language
+
+4.22 4.9 5.24
+
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+
+
+programming languages, natural languages, 
+************************
+, natural languages, and mathematics
+
+some social aspects of programming are illuminated
+through analogies with similar aspects of 
+mathematics and natural languages.  the split between
+pure and applied mathematics is found similarly 
+in programming. the development of natural languages toward
+flexion less, word-order based language types 
+speaks for programming language design based on general,
+abstract constructs.  by analogy 
+************************
+ constructs.  by analogy with incidents 
+of the history of artificial, auxiliary languages it
+is suggested that fortran and cobol will remain 
+dominant for a long 
+************************
+in 
+dominant for a long time to come.  the most promising
+avenues for further work of wide influence are 
+seen to be high quality program literature (i.e. programs)
+of general utility and studies of questions 
+related to program style.
+
+cacm december, 1975
+
+naur, p.
+
+analogies related to social aspects,pure and applied
+mathematics, language quality, language development, 
+artificial auxiliary languages, literature, style,
+
+************************
+
+************************
+Document:  CACM-3073.html
+************************
+
+
+communicating sequential processes
+
+this paper suggests that input and output are
+basic primitives of programming and that parallel 
+composition of communicating sequential processes is
+a fundamental program structuring method.  when 
+combined with a development of dijkstra's guarded command,
+these concepts are surprisingly versatile. 
+ their use is illustrated by sample solutions of
+a variety of familiar programming exercises.
+
+cacm august, 1978
+
+hoare, c.
+
+programming, programming languages, programming primitives,
+
+************************
+, programming primitives,
+program structures, parallel programming, 
+concurrency, input, output, guarded commands, nondeterminacy,
+
+************************
+
+************************
+Document:  CACM-3185.html
+************************
+
+
+   the humble programmer
+
+   we shall do a much better programming job, provided that we approach the
+task with a full appreciation if its tremendous difficulty, provided that we 
+stick to modest and elegant programming languages, provided that we respect
+
+************************
+, provided that we respect
+the intrinsic limitations of the human mind and approach the task as very
+humble programmers.
+
+cacm october, 1972
+
+dijkstra, e. w.
+
+ca721010 es 
+************************
+
+************************
+Document:  CACM-2148.html
+************************
+
+
+the composition of semantics in algol 68
+
+the main features of algol 68 are explained
+from a semantic point of view.  it is shown how 
+the language permits the composition of values and actions,
+i.e. ultimately programs, from a minimum 
+set of primitives with a few fundamental recursive rules
+of composition.  the associated syntax is briefly 
+reviewed.  an attempt has been made to obtain a structured
+and simple introduction to both algol 68 and 
+its orthogonal design.
+
+cacm november, 1971
+
+branquart, p.
+lewi, j.
+sintzoff, m.
+wodon, p. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive 
+************************
+,
+algol, semantics, recursive composition, design 
+of programming languages, data structures
+
+1.3 
+************************
+
+************************
+Document:  CACM-1471.html
+************************
+
+
+programming semantics for multiprogrammed 
+************************
+ for multiprogrammed computations
+
+the semantics are defined for 
+************************
+
+************************
+Document:  CACM-3039.html
+************************
+
+
+on-the-fly garbage collection: an exercise in cooperation
+
+as an example of cooperation between sequential
+processes with very little mutual interference 
+despite frequent manipulations of a large shared data
+space,  a technique is developed which allows nearly 
+all of the activity needed for garbage detection and collection
+to be performed by an additional processor 
+operating con-currently with the processor devoted to the
+computation proper.  exclusion and synchronization 
+constraints have been kept as weak as could be achieved;
+the severe complexities engendered by doing 
+so are illustrated. 
+
+cacm november, 1978
+
+dijkstra, e.
+lamport, l.
+martin, a.
+scholten, c.
+steffens, e.
+
+multiprocessing, fine-grained interleaving, cooperation
+between sequential processes with minimized 
+mutual exclusion, program correctness for multiprogramming
+tasks, garbage collection 
+************************
+
+************************
+Document:  CACM-2787.html
+************************
+
+
+matrix reduction-an efficient method
+
+the paper describes an efficient method for
+reduction of the binary matrices which arise in 
+some school time-tabling problems.  it is a development
+of that described by john lions.  it has been 
+generalized and adapted to fit into the complete timetabling
+process; to use a more compact data representation 
+and more efficient processing techniques; to take fuller
+advantage of possible available previous knowledge 
+about the matrix.  and it is designed as a structured
+program, which can readily be coded by the reader 
+in the high level or low level programming language
+of his choice.  practical tests of the method have 
+shown it to be a good basis for a realistic timetabling algorithm.
+
+cacm march, 1975
+
+johnston, h. c.
+hoare, c. a. r.
+
+binary matrices, 
+************************
+, c. a. r.
+
+binary matrices, matrix reduction, tight set, school
+timetable construction, structured programming
+
+3.51 4.9 5.39
+
+ca750301 
+************************
+
+************************
+Document:  CACM-1247.html
+************************
+
+
+an operating environment for dynamic-recursive
+computer programming systems
+
+presented in this paper is a brief nontechnical
+introduction to oedipus, a computer programming 
+system which can serve as an operating environment for
+dynamic and/or recursive programs and programming 
+systems.  the available services include dynamic allocation
+of storage for contiguous blocks of arbitrary 
+size, input and output for a hierarchy of data types,
+a public pushdown list 
+************************
+,
+a public pushdown list for automatic recursive 
+programming, a rudimentary compiler 
+************************
+
+************************
+Document:  CACM-2634.html
+************************
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer various types of statistical 
+packages 
+************************
+ of statistical 
+packages for general use.  among those most widely available
+are osiris, spss, bmd, data-text, and tsar. 
+ in order to provide users with a basis for selection
+and use, tests were made for each of these 
+************************
+
+************************
+Document:  CACM-2305.html
+************************
+
+
+the "plankalkul" of konrad zuse: a forerunner
+of today's programming languages
+
+plankalkul was an attempt 
+************************
+
+
+plankalkul was an attempt by korrad zuse in
+the 1940's to devise a notational and conceptual 
+system for writing what today is termed a program.  although
+this early approach to a programming language 
+did not lead to practical use, the plan is described
+here because it contains features that are standard 
+in today's programming languages.  the investigation
+
+************************
+.  the investigation
+is of historical interest; also, it may provide 
+insights that would lead to advancements in the state
+of the art.  using modern programming terminology, 
+the plankalkul is presented to the extent it has possible
+to reconstruct it from the published literature.
+
+cacm july, 1972
+
+bauer, f. l.
+wossner, h.
+
+higher programming languages, programming,
+theory 
+************************
+
+************************
+Document:  CACM-3198.html
+************************
+
+
+   microprogramming, emulators and programming languages
+
+  the problem we have 
+************************
+
+
+  the problem we have been concerned with is that of converting language to
+action - or intellectual energy to mechanical energy. the medium that we use 
+for this purpose is language and therefore we are preoccupied with the subject
+of language. in the areas of language investigation we have concentrated first 
+on formalizing syntax and then on semantics.
+
+cacm march, 1966
+
+
+************************
+
+************************
+Document:  CACM-2939.html
+************************
+
+
+abstraction mechanisms in clu
+
+clu is a new programming language designed to support
+the use of abstractions in program construction. 
+ work in programming methodology has led to the realization
+that three kinds of abstractions-procedural, 
+control, and especially data abstractions-are useful
+in the programming process.  of these, only the 
+procedural abstraction is supported well by conventional
+languages, through the procedure or subroutine. 
+ clu provides, in addition to procedures, novel linguistic
+mechanisms that support the use of data and 
+control abstractions.  this paper provides an in troduction
+to the abstraction mechanisms in clu.  by 
+means of programming examples, the utility of the three
+kinds of abstractions in program construction 
+is illustrated, and it is shown how clu programs may
+be written to use and implement abstractions.  the 
+clu library, which permits incremental program development
+with complete type checking performed at compile 
+time, is also discussed.
+
+cacm august, 1977
+
+liskov, b.
+snyder, a.
+atkinson, r.
+schaffert, c.
+
+programming languages, data types, data abstractions,
+
+************************
+, data abstractions,
+control abstractions, 
+************************
+ions,
+control abstractions, programming methodology, 
+separate 
+************************
+
+************************
+Document:  CACM-1902.html
+************************
+
+
+an automatic grading scheme for simple programming exercises
+
+a discussion is given of alterations that were
+made to a typical university operating system 
+to record the results of programming exercises in three
+different languages, including assembly 
+************************
+, including assembly language. 
+ in this computer-controlled grading scheme provision
+is made for testing with programmer-supplied 
+************************
+de for testing with programmer-supplied data 
+and for final runs with system-supplied data.  exercises
+run under the scheme may be mixed with other 
+************************
+y be mixed with other 
+programs, and no special recognition of exercises by the operators is necessary.
+
+cacm may, 1969
+
+hext, j. b.
+winings, j. w.
+
+automatic grading program, programming exercises
+
+1.5 2.43 
+************************
+
+************************
+Document:  CACM-3055.html
+************************
+
+
+an analysis of algorithms for the dutch national flag problem
+
+solutions to the dutch national flag problem
+have been given by dijkstra [1] and meyer [3]. 
+ dijkstra starts with a simple program and arrives at
+an improved program by refinement.  both of the 
+algorithms given by dijkstra are shown to have an expected number
+of swaps which is 2/3n + 0(1) and that 
+these values differ at most by 1/3 of a swap and asymptotically
+by 1/4 of a swap.  the algorithm of meyer 
+is shown to have expected swap complexity 5/9n.
+
+cacm october, 1978
+
+mcmaster, c.
+
+algorithmic 
+************************
+
+************************
+Document:  CACM-1470.html
+************************
+
+
+the structure of programming languages
+
+the following are identified 
+************************
+
+
+the following are identified as major components
+of every programming language: (1) the elementary 
+program statement, (2) mechanisms for linking elementary
+statements together, (3) the means by which 
+a program can obtain data inputs.  several alternative
+forms of each of these components are described, 
+compared and evaluated.  many examples, frequently from
+list processing languages, illustrate the forms 
+************************
+, illustrate the forms 
+described.  elementary program statements usually take
+the form of commands, requirements, or implicit 
+specifications.  a command is an imperative statement
+that commands the action to be taken.  a requirement 
+describes the effect to be achieved without saying anything
+about the actions to be taken.  an implicit 
+specification is similar to a requirement, but the programmer
+must understand what actions will be taken 
+to achieve the desired effect.  subroutines may be entered
+explicitly, by execute call, or by function 
+composition.  explicitly called subroutines generally
+require special linkage conventions.  an execute 
+subroutine call is syntactically indistinguishable from
+a basic instruction of the programming language. 
+ function composition is a convenient alternative to
+the explicit call.  the three principal ways of 
+getting inputs for routines are (1) by referring to
+the data itself, (2) by referring to the data by 
+a "name", and (3) by referring to it implicitly by means
+of variables or functions.  names are useful 
+entry points into permanent data structures, but can
+be error-causing distractions in other contexts. 
+the author discusses advantages, disadvantages, and factors
+influencing the choice of a form of component 
+for a language.   he concludes by suggesting the evolution
+of programming languages toward one which 
+will 
+************************
+ toward one which 
+will permit all the most convenient ways of structuring
+programs, organizing systems, and referencing 
+data.
+
+cacm march, 1966
+
+raphael, b.
+
+************************
+
+************************
+Document:  CACM-2616.html
+************************
+
+
+on the conversion of programs to decision tables: method and objectives
+
+the problems of converting programs to decision
+tables are investigated.  objectives of these 
+conversions are mainly program debugging and optimization
+in practice.  extensions to the theory of computation 
+and computability are suggested.
+
+cacm august, 1974
+
+cavouras, j. c.
+
+decision tables, program optimization, debugging,
+semantics, theory of programming, systems analysis
+
+4.19 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming 
+************************
+chine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, programming language 
+design, program semantics, programming language 
+************************
+, programming language semantics,
+determinism, reproducibility, 
+************************
+,
+determinism, reproducibility, repeatability, 
+deterministic computers, protection, memory protection,
+information security, information privacy, computing 
+reliability, debugging, program debugging, program testing,
+parallel processing, parallel programming, 
+multiprocessing
+
+2.11 
+************************
+
+************************
+Document:  CACM-2949.html
+************************
+
+
+a correctness proof of a topology information
+main tenance protocol 
+************************
+tion
+main tenance protocol for a distributed computer 
+network
+
+in order for the nodes of a distributed computer
+network to communicate, each node must have 
+information about the network's topology.  since nodes
+and links sometimes crash, a scheme is needed 
+to update this information.  one of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller.  the topology
+information protocol that was implemented on the 
+merit computer network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.  it is based on baran's "hot
+potato heuristic routing doctrine."  a correctness 
+proof of this topology information protocol is also presented.
+
+cacm july, 1977
+
+tajibnapis, w. d.
+
+distributed computer network, correctness proofs,
+computer networks, 
+************************
+
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the ibm 709/7090 computer.  the system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data sets.  both
+data and algorithms may be expressed in a family 
+of command and descriptive languages.  the concept
+of distinct 
+************************
+.  the concept
+of distinct data descriptions and the content and 
+use of such descriptions are discussed in some detail.
+
+cacm january, 1961
+
+cheatham jr., t. e.
+collins jr., g. o.
+leonard, g. f.
+
+ca610105 jb march 17, 1978  1:26 am
+
+************************
+
+************************
+Document:  CACM-3171.html
+************************
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages.  under suitable
+circumstances, 
+************************
+.  under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, during execution of the program. 
+
+cacm october, 1979
+
+klint, p.
+
+line number administration, diagnostic messages, abstract machine code 
+
+4.12 4.13 
+************************
+
+************************
+Document:  CACM-2092.html
+************************
+
+
+a deductive question-answer for natural language inference
+
+the question-answering aspects of the protosynthex iii pro
+totype language processing system are described and exemplified in
+detail.  the system is written in lisp 1.5 and operates on the q-32
+time-sharing system.  the system's data structures and their semantic
+organization, the 
+************************
+ntic
+organization, the deductive question-answering formalism of
+relational properties and complex-relation-forming operators, and
+the question-answering procedures which employ these features in
+their operation are all described and illustrated.  examples of the
+system's performance and of the limitations of its question-answering 
+capability are presented and discussed.  it is shown that the
+use of semantic information in deductive question answering greatly 
+facilitates the process, and that a top-down procedure which works
+from question to answer enables effective use to be made of this
+information.  it is concluded that the development of protosynthex
+iii into a practically useful system to work with large data
+bases is possible but will require changes in both the data
+structures and the algorithms used for question answering.
+
+cacm march, 1970
+
+schwarcz, r. m.
+burger, j. f.
+simmons, r. f.
+
+question answering, natural language, protosynthex iii, lisp,
+semantics, artificial intelligence, 
+************************
+

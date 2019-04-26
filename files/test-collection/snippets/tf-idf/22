@@ -1,0 +1,739 @@
+Snippets for the query:  Q22
+************************
+Total Hits:  27
+************************
+
+************************
+Document:  CACM-1010.html
+************************
+************************
+Document:  CACM-2709.html
+************************
+************************
+Document:  CACM-1588.html
+************************
+************************
+Document:  CACM-0080.html
+************************
+************************
+Document:  CACM-2780.html
+************************
+************************
+Document:  CACM-2884.html
+************************
+************************
+Document:  CACM-1953.html
+************************
+************************
+Document:  CACM-0481.html
+************************
+************************
+Document:  CACM-2997.html
+************************
+************************
+Document:  CACM-1171.html
+************************
+************************
+Document:  CACM-2283.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 1979
+
+************************
+.  
+
+cacm february, 1979
+
+gull,w.
+jenkins, m.
+
+nested arrays, apl arrays, recursive data structures,
+trees, data-driven algorithms, theory of arrays
+
+4.22 
+************************
+
+************************
+Document:  CACM-2146.html
+************************
+************************
+Document:  CACM-2743.html
+************************
+************************
+Document:  CACM-1525.html
+************************
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-1431.html
+************************
+************************
+Document:  CACM-3035.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use 
+************************
+
+************************
+Document:  CACM-2578.html
+************************
+************************
+Document:  CACM-2954.html
+************************
+************************
+Document:  CACM-2311.html
+************************
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-1745.html
+************************
+
+
+a position paper on computing and communications
+
+the effective operation of free enterprise in
+creating the envisioned information service industry 
+is dependent upon three accomplishments: (1) the restructuring
+of our information processing industry 
+so that a clear division of costs is made among computing,
+communications, and the development of information 
+services; (2) the wide use of multiaccess system concepts
+so that information services may share in the 
+use of computer installations and so that the cost of their
+construction is reasonable; and (3) the development 
+of public, message-switched communications services so
+that adequate provisions are made for information 
+security.
+
+cacm may, 1968
+
+dennis, j. b.
+
+information networks, information systems, computing
+and free enterprise, computing economics, 
+computer installation management, government regulation,
+communications services, distributed data base, 
+program 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-1889.html
+************************
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic routing,
+alternate routing, store-and-forward network, 
+distributed network, computer network, 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+bucci, g.
+streeter, d.
+
+distributed processing, system design, cost minimization, distributed
+database, interactive computing, economic modeling, 
+************************
+
+************************
+Document:  CACM-2627.html
+************************
+************************
+Document:  CACM-1275.html
+************************
+************************
+Document:  CACM-2767.html
+************************
+************************
+Document:  CACM-2849.html
+************************
+
+
+ethernet: distributed packet switching for local computer networks
+
+ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. the packet
+
+************************
+ stations. the packet
+transport mechanism provided by ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled multiprocessors. 
+ an ethernet's shared communication facility, its ether,
+is a passive broadcast medium with no central 
+control.  coordination of access to the ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical arbitration.
+ switching of packets to their destinations 
+on the ether is distributed among the receiving stations
+using packet address recognition.  design principles 
+and implementation are described, based on experience
+with an operating ethernet of 100 nodes along a 
+kilometer of coaxial cable.  a model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.
+
+cacm july, 1976
+
+metcalfe, r. m.
+boggs, d. r.
+
+computer networks, packet switching, multiprocessing,
+distributed control, distributed computing, 
+broadcast communication, 
+************************
+
+************************
+Document:  CACM-0069.html
+************************
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial illiac optimization 
+problem.  a satisfactory method of data allocation is
+then presented.  language structures to utilize 
+this storage method and express parallel algorithms are described.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2834.html
+************************
+
+
+efficient generation of the binary
+reflected gray code and its applications
+
+algorithms are presented to generate the n-bit
+binary reflected gray code and codewords of 
+fixed weight in that code.  both algorithms are efficient
+in that the time required to generate the next 
+element from the current one is constant.  applications
+to the generation of the combinations of n things
+taken k at a time, the compositions of integers, and
+the permutations of a multiset are discussed.
+
+cacm september, 1976
+
+bitner, j. r.
+ehrlich, g.
+reingold, e. m.
+
+gray code, combinations, subsets, compositions, combinatorial computing
+
+5.39
+
+ca760905 jb january 
+************************
+
+************************
+Document:  CACM-2594.html
+************************
+************************
+Document:  CACM-1411.html
+************************
+
+
+comparison of several algorithms for computation
+of means, standard deviations and correlation 
+coefficients
+
+several algorithms for computation of basic
+statistics are compared by their performance on 
+systematically generated test data.  the statistics
+calculated were the mean, standard deviation and 
+correlation coefficient.  for each statistic, the algorithm
+included the usual computing formulas, correction 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+************************
+Document:  CACM-2975.html
+************************
+************************
+Document:  CACM-2630.html
+************************
+
+
+on computing sets of shortest paths in a graph
+
+two algorithms are presented that construct
+
+************************
+
+************************
+Document:  CACM-3158.html
+************************
+************************
+Document:  CACM-1224.html
+************************
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products 
+************************
+
+************************
+Document:  CACM-2615.html
+************************
+************************
+Document:  CACM-0147.html
+************************
+************************
+Document:  CACM-2032.html
+************************
+************************
+Document:  CACM-1438.html
+************************
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, as well
+as in advanced data management systems and distributed 
+data bases.  this paper 
+************************
+
+************************
+Document:  CACM-1831.html
+************************
+************************
+Document:  CACM-2426.html
+************************
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+************************
+Document:  CACM-1862.html
+************************
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+************************
+
+************************
+Document:  CACM-2276.html
+************************
+
+
+computer methods for sampling from
+the exponential and normal distributions
+
+various methods are known for transforming uniformly
+distributed random numbers into exponentially
+and normally distributed quantities.  the most efficient
+ones are compared, in terms of memory requirements 
+and speed, with some new algorithms.  a number of procedures
+
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+************************
+Document:  CACM-0270.html
+************************
+************************
+Document:  CACM-2130.html
+************************
+
+
+automatic segmentation of cyclic program structures
+based on connectivity and processor timing
+
+time-shared, multiprogrammed, and overlayed batch systems frequently
+require segmentation of computer programs into discrete portions.  
+these program portions are transferred between executable and
+peripheral storage whenever necessary; segmentation of program
+s in a manner that  reduces the frequency of such transfers is the
+subject of this paper.  segmentation techniques proposed by c. v.
+ramamoorthy are subject to limitations that arise when the preferred
+segment size is not compatible with the physical restrictions
+imposed by the available computing equipment.  a generalization 
+************************
+
+************************
+Document:  CACM-2903.html
+************************
+************************
+Document:  CACM-2197.html
+************************
+************************
+Document:  CACM-3043.html
+************************
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed 
+************************
+
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes an approach
+to distributed computing at the level of general 
+************************
+ at the level of general purpose programming
+languages.  based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  it appears to be useful for
+programming a wide range of tasks.  this is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+cacm june, 1979
+
+feldman, j.
+
+distributed computing, modules, messages, 
+************************
+
+************************
+Document:  CACM-2007.html
+************************
+************************
+Document:  CACM-3132.html
+************************
+************************
+Document:  CACM-3082.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+************************
+Document:  CACM-2198.html
+************************
+************************
+Document:  CACM-0072.html
+************************
+************************
+Document:  CACM-2454.html
+************************
+
+
+computational algorithms for closed queueing
+networks with exponential servers
+
+methods are presented for computing the equilibrium
+distribution 
+************************
+
+************************
+Document:  CACM-0088.html
+************************
+************************
+Document:  CACM-2490.html
+************************
+************************
+Document:  CACM-1529.html
+************************
+************************
+Document:  CACM-1342.html
+************************
+************************
+Document:  CACM-1551.html
+************************
+************************
+Document:  CACM-3166.html
+************************
+
+
+computing standard deviations: accuracy
+
+four algorithms for the numerical computation
+
+************************
+
+************************
+Document:  CACM-2272.html
+************************
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+information structures, as list, tree, ring, 
+************************
+
+************************
+Document:  CACM-3090.html
+************************
+************************
+Document:  CACM-2725.html
+************************
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-3011.html
+************************
+************************
+Document:  CACM-0527.html
+************************
+************************
+Document:  CACM-2576.html
+************************
+************************
+Document:  CACM-2900.html
+************************
+************************
+Document:  CACM-1851.html
+************************
+************************
+Document:  CACM-2830.html
+************************
+************************
+Document:  CACM-2357.html
+************************
+************************
+Document:  CACM-2810.html
+************************
+************************
+Document:  CACM-3058.html
+************************
+************************
+Document:  CACM-2822.html
+************************
+************************
+Document:  CACM-1349.html
+************************
+************************
+Document:  CACM-1031.html
+************************
+************************
+Document:  CACM-2949.html
+************************
+************************
+Document:  CACM-2832.html
+************************
+
+
+faster retrieval from context trees (corrigendum)
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts.  this note presents an algorithm which improves
+on previous context tree retrieval algorithms. 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals, 
+so that data can be cached to speed up retrieval.  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+
+************************
+ are built up to make
+the search rapid.  algorithms for addition and 
+deletion of data and for garbage collection are outlined.
+
+cacm september, 1976
+
+wegbreit, b.
+
+context trees, frame problem, variable bindings, data structures
+
+3.69 3.74 4.10
+
+ca760907 
+************************
+
+************************
+Document:  CACM-2819.html
+************************
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 1978
+
+fredman, m.
+weide, b.
+
+analysis of algorithms, combinatorial problems,
+
+************************
+
+************************
+Document:  CACM-1780.html
+************************
+************************
+Document:  CACM-2963.html
+************************
+
+
+a fast algorithm for computing longest common subsequences
+
+previously published algorithms for finding
+the longest 
+************************
+

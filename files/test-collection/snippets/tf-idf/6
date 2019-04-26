@@ -1,0 +1,1459 @@
+Snippets for the query:  Q6
+************************
+Total Hits:  78
+************************
+
+************************
+Document:  CACM-1623.html
+************************
+
+
+an application of formac
+
+a nonlinear circuit analysis problem is stated
+and the way in which it was solved using formac 
+is indicated.  the solution of the problem using formac
+was notable since several other methods that 
+were tried failed.  the problem is straightforward (although
+untenable by hand) but nevertheless involved 
+an elaborate use of the formac language.  the program
+was fairly large and utilized practically every 
+command.  in particular, it made extensive use of the
+part command.  several tricks were necessary in 
+order to circumvent some of the shortcomings of the
+formac system.  this paper is more concerned with 
+the use of programming techniques in formac than with
+the actual engineering problem, although readers 
+may be interested in the problem because 
+************************
+ed in the problem because it is stated
+in a general (mathematical) sense and could be 
+of interest in areas other than circuit analysis.
+
+************************
+
+************************
+Document:  CACM-3151.html
+************************
+************************
+Document:  CACM-2208.html
+************************
+
+
+storage utilization in a memory hierarchy when storage
+assignment is performed by a hashing algorithm
+
+the utilization of storage is studied in a two-level
+memory hierarchy.  the first storage level, 
+which is the fast store, is divided into a number of
+storage areas.  when an entry is to be filed in 
+the hierarchy, a hashing algorithm will attempt to
+place the entry into one of these areas.  if this 
+particular area is full, then the entry will be placed
+into the slower second-level store, even though 
+other areas in the first-level store may have space
+available.  given the n entries have been filed in 
+the entire hierarchy, an expression is derived for the
+expected number of entries filed in the first-level 
+storehis expression gives a measure of how effectively
+the first-level store is being used.  by means 
+of examples, storage utilization is then studied as a
+function of the hashing algorithm, the number of 
+storage areas into which the first-level store is divided
+and the total size of the first-level store. 
+
+cacm march, 1971
+
+williams, j. g.
+
+hashing algorithms, memory allocation, 
+************************
+
+************************
+Document:  CACM-1243.html
+************************
+************************
+Document:  CACM-2884.html
+************************
+************************
+Document:  CACM-2668.html
+************************
+************************
+Document:  CACM-2692.html
+************************
+************************
+Document:  CACM-1953.html
+************************
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities 
+************************
+
+************************
+Document:  CACM-3104.html
+************************
+
+
+test data as an aid in proving program correctness
+
+proofs of program correctness tend to be long
+and tedious, whereas testing, though useful in 
+detecting errors, usually does not guarantee correctness.
+ this paper introduces a techniques whereby 
+test data can 
+************************
+ whereby 
+test data can be used in proving program correctness.
+ in addition to simplifying the process of proving 
+correctness, this method simplifies the process of providing
+accurate specification for a program.  the 
+applicability of this technique to procedures
+and recursive programs is demonstrated.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2997.html
+************************
+************************
+Document:  CACM-1171.html
+************************
+************************
+Document:  CACM-2368.html
+************************
+
+
+an implemented graph algorithm for winning shannon switching games
+
+in this tutorial paper a computer program
+which wins shannon switching games is described.
+ since these games are played on graphs, the program
+is a good example of the implementation of graph 
+algorithms.  the two players in a shannon switching game,
+connect and cut, have nonsimilar goals.  either 
+connect, cut, or the player moving first is guaranteed
+the existence of a winning strategy.  the simple 
+strategy explained in this paper is valid in all three
+cases.  in fact, the major routines never need 
+to know whether the computer is connect or cut.
+
+cacm april, 1972
+
+chase, s. m.
+
+graph algorithms, graph processing, shannon switching
+games, game playing, graph theory, positional 
+games, demonstration programs, game theory, spinning 
+************************
+
+************************
+Document:  CACM-2283.html
+************************
+************************
+Document:  CACM-2146.html
+************************
+************************
+Document:  CACM-2907.html
+************************
+
+
+the optimal approach to recursive programs
+
+the classical fixed poin t approach toward recursive
+programs suggests choosing the "least defined 
+fixed poin t" as the most appropriate solution to a recursive
+program.  a new approach is described which 
+in troduction an " optimal fixed point," which, in contrast
+to the least defined fixed poin t, embodies the 
+maximal amount of valuable information embedded in the
+program.  the practical implications of this approach 
+are discussed and techniques for proving properties
+
+************************
+ for proving properties
+of optimal fixed poin t are given.  the presentation 
+is informal, with emphasis on examples.
+
+cacm november, 1977
+
+manna, z.
+shamir, a.
+
+recursive programs, fixed poin ts, least fixedpoints,
+optimal fixed poin ts, proof techniques
+
+5.24
+
+ca771109 jb december 
+************************
+
+************************
+Document:  CACM-3128.html
+************************
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling 
+************************
+ requires controlling the relative 
+ordering of events in the processes.
+a new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  the mechanism 
+************************
+
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+
+
+interference between communicating parallel processes
+
+various kinds of interference between communicating
+parallel processes have been examined by 
+dijkstra, knuth, and others.  solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of parallel programs, and informal
+proofs of correctness have been given for 
+these solutions.  in this paper a system of parallel
+processes is regarded as a machine which proceeds 
+from one state s (i.e. a collection of pertinent data
+values and process configurations) to a next state 
+s' in accordance with a transition rule s --> s'.  a
+set of such rules yields sequences of states, which 
+dictate the system's behavior.  the mutual exclusion problem
+and the associated subproblems are formulated 
+as questions of inclusion between sets of states, or
+of the existence of certain sequences.  a mechanical 
+proof procedure is shown, which will either verify (prove
+the correctness of ) or discredit (prove the 
+incorrectness of) an attempted solution, with respect
+to any of the interference properties.  it is shown 
+how to calculate transition rules from the "partial
+rules" by which the individual processes operate. 
+ the formation of partial rules and the calculation of
+transition rules are both applicable to hardware 
+processes as well as to software processes, and
+symmetry between processes is not required.
+
+cacm june, 1972
+
+gilbert, p.
+chandler, w. j.
+
+concurrent programming control, 
+************************
+ programming control, cooperating processes,
+formal programs, interference, mutual 
+************************
+
+************************
+Document:  CACM-2578.html
+************************
+************************
+Document:  CACM-2849.html
+************************
+
+
+ethernet: distributed packet switching for local computer networks
+
+ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. the packet
+transport mechanism provided by ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled multiprocessors. 
+ an ethernet's shared communication facility, its ether,
+is a passive broadcast medium with no central 
+control.  coordination of access to the ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical arbitration.
+ switching of packets to their destinations 
+on the ether is distributed among the receiving stations
+using packet address recognition.  design principles 
+and implementation are described, based on experience
+with an operating ethernet of 100 nodes along a 
+kilometer of coaxial cable.  a model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.
+
+
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-1922.html
+************************
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and the other 
+************************
+ routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic routing,
+alternate routing, store-and-forward network, 
+distributed network, computer network, message switching
+
+3.81 8.0 
+************************
+
+************************
+Document:  CACM-2424.html
+************************
+
+
+dynamic verification of operating system decisions
+
+dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and software.  the dynamic verification 
+of operating system decisions is used on the prime system
+being designed and constructed at the university 
+of california, berkeley.  prime is an experimental time-sharing
+which is to have the properties of continuous 
+availability, data privacy, and cost effectiveness.
+ the technique of dynamic verification allows the 
+construction of an operating system which does not make certain
+decisions improperly even in the presence 
+of a single hardware or software fault.  furthermore,
+multiple faults lead to unreliable operation only 
+if the faults happen to reinforce each other.  on prime,
+dynamic verification is used to ensure that 
+one user's information cannot become available to another
+user gratuitously even in the presence of a 
+single hardware or software fault.the amount of additional
+hardware and software required for dynamic 
+verification can be modest.
+
+cacm november, 1973
+
+fabry, r. s.
+
+operating systems, data security, fault tolerance,
+software reliability, 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-2627.html
+************************
+************************
+Document:  CACM-1282.html
+************************
+
+
+the use of fortran in subroutines with cobol main programs
+
+by using the proper cobol coding techniques and
+accounting for differences 
+************************
+
+************************
+Document:  CACM-2767.html
+************************
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the ibm 709/7090 computer.  the system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data 
+************************
+
+************************
+Document:  CACM-2843.html
+************************
+
+
+tools and philosophy for software education 
+
+this paper describes a set of tools and a philosophy
+for teaching software that have been found 
+very useful in course at mit over the past seven years.
+ the tools include programs such as simulators, 
+************************
+
+************************
+Document:  CACM-2389.html
+************************
+
+
+preliminary report on a system for general space planning
+
+a computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  the language is an extension of algol 
+and includes means to represent 
+************************
+s means to represent spaces and objects, to manipulate
+them, and to test the resulting arrangements 
+according to a variety of constraints.  the algorithms
+used to solve problems expressed in this language 
+rely on heuristic programming.  both the language
+and the search algorithms are detailed.
+
+cacm february, 1972
+
+eastman, c. m.
+
+automated design, architecture, heuristic programs, space planning
+
+3.20 
+************************
+
+************************
+Document:  CACM-3006.html
+************************
+
+
+anomalies with variable partition paging algorithms
+
+five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  one type of anomaly, for example, concerns
+the fact that, with certain reference strings 
+and paging algorithms, an increase in mean memory allocation
+may result in an increase in fault rate. 
+ two paging algorithms, 
+************************
+ rate. 
+ two paging algorithms, are examined in terms of their
+anomaly potential, and reference string examples 
+of various anomalies are presented.  two paging algorithm
+properties, the inclusion property and the 
+generalized inclusion property, are discussed and the
+anomaly implications of these properties presented.
+
+cacm march, 1978
+
+franklin, m.
+graham, g.
+gupta, r.
+
+anomaly, memory management, program behavior, stack
+algorithms, virtual memory, working set, page 
+fault frequency, paging algorithms
+
+************************
+
+************************
+Document:  CACM-1381.html
+************************
+
+
+impact of computers on the undergraduate mathematics curriculum 
+
+the use of computers to permit the widespread application
+of mathematical ideas requiring computation 
+in science and technology is extremely significant for
+the understanding of our current society.  student 
+interest in this development 
+************************
+ in this development is intense and if properly
+utilized should yield a much better understanding 
+of mathematical concepts as well as the ideas of programming
+and logical structure which have been introduced 
+into many fields by the use of computers.  the present
+paper suggests that that portion of the undergraduate 
+mathematical curriculum which is preparation for the use
+of mathematics by persons who are not professional 
+mathematicians be modified to include the extensions
+and clarifications which are possible because of 
+computers.  an early introduction to programming is
+desirable to permit a continuing use of automatic 
+computation to illustrate and clarify mathematical concepts.
+ following the calculus equation stage an 
+intensive introduction to numerical analysis should
+be added to the current curriculum.  in addition 
+to providing competence in the mostly used computing
+techniques, it would permit a more 
+************************
+
+************************
+Document:  CACM-0069.html
+************************
+************************
+Document:  CACM-2862.html
+************************
+************************
+Document:  CACM-2226.html
+************************
+************************
+Document:  CACM-0046.html
+************************
+
+
+multiprogramming stretch: feasibility considerations
+
+the tendency towards increased parallelism in
+computers is noted.  exploitation of this parallelism 
+presents a number of new problems in machine design
+and in programming systems.  minimum requirements 
+for successful concurrent execution of several independent
+problem programs are discussed.  these 
+************************
+ are discussed.  these requirements 
+are met in the stretch system by a carefully balanced
+combination of built-in and programmed logic.  
+techniques are described which place the burden of the
+programmed logic on system programs (supervisory 
+program 
+************************
+
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number 
+************************
+ make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ however, it is possible to compute an upper bound to such
+a cross-correlation.  a simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. model building
+by cross-correlations has intrinsic advantages 
+over usual crystallographic techniques based on the
+autocorrelation or patterson function, especially 
+for large structures.  this is significant, for crystallography
+of biological macromolecules hasbeen 
+and will continue to be a field of intense interest.
+
+cacm january, 1972
+
+************************
+
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-3021.html
+************************
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key.  this has two important consequences: (1) 
+couriers or other secure means are not needed to transmit
+keys, since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient.
+ only he can decipher the message, since 
+only he knows the corresponding decryption key.  (2)
+a message can be "signed" using a privately held 
+decryption key.  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key.  signatures cannot be forged, and a signer cannot
+later deny the validity of his signature.  this 
+has obvious applications in "electronic mail" and "electronic
+funds transfer" systems.  a message is 
+encrypted by representing it as a number m, raising
+m to a publicly specified power e, and then taking 
+the remainder when the result is divided by the publicly
+specified product, n, of two large secret prime 
+numbers p and q.  decryption is similar;only a different,
+secret, power d is used, where e * d = 1 (mod(p-1) 
+* (q-1)).  the security of the system rests in part on
+the difficulty of factoring the published divisor, 
+n.
+
+cacm february, 1978
+
+rivest, r.
+shamir, a.
+adleman, l.
+
+digital signatures, public-key cryptosystems,
+privacy, authentication, security, factorization, 
+prime number, electronic mail, message-passing,
+electronic funds transfer, 
+************************
+
+************************
+Document:  CACM-1851.html
+************************
+************************
+Document:  CACM-2439.html
+************************
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with many remote 
+terminals 
+************************
+
+************************
+Document:  CACM-2426.html
+************************
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly 
+************************
+
+************************
+Document:  CACM-3014.html
+************************
+
+
+is "sometime" sometimes better than "always"? (intermittent
+assertions in proving program correctness)
+
+this paper explores a technique for proving the
+correctness and termination of programs simultaneously. 
+ this 
+************************
+ simultaneously. 
+ this approach, the intermittent-assertion method, involves
+documenting the program with assertions that 
+must be true at some time when control passes through
+the corresponding point, but that need not be true 
+every time.  the method, introduced by burstall, promises
+to provide a valuable complement to the more 
+conventional methods.  the intermittent-assertion method
+is presented with a number of examples of correctness 
+and termination proofs.  some of these proofs are markedly
+simpler than their conventional counterparts. 
+ on the other hand, it is shown that a proof of correctness
+or termination by any of the conventional 
+techniques can be rephrased directly as a proof using
+intermittent assertions.  finally, it is shown 
+how the intermittent-assertion method can be applied
+to prove the validity of program transformations 
+and the correctness of continuously operating programs.
+
+cacm february, 1978
+
+************************
+.
+
+cacm february, 1978
+
+manna, z.
+waldinger, r.
+
+intermittent assertions, correctness of programs,
+termination of programs, 
+************************
+
+************************
+Document:  CACM-2865.html
+************************
+
+
+verifying properties of parallel programs: an axiomatic approach
+
+an axiomatic method for proving a number
+of properties of parallel programs is presented.  
+hoare has given a set of axioms for partial correctness,
+but they are not strong enough in most cases. 
+ this paper defines a more powerful deductive system which
+is in some sense complete for partial correctness. 
+ a crucial axiom provides for the use of auxiliary variables,
+which are added to a parallel program as 
+an aid to proving it correct.  the information in a partial
+correctness proof can be used to prove such 
+properties as mutual exclusion, freedom from deadlock,
+and program termination.  techniques for verifying 
+these properties are presented and illustrated by
+application to the dining philosophers problem.
+
+cacm may, 1976
+
+owicki, s.
+gries, d.
+
+structured multiprogramming correctness proofs, program
+verification, concurrent processes, synchronization, 
+mutual 
+************************
+
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+************************
+
+************************
+Document:  CACM-2267.html
+************************
+************************
+Document:  CACM-0136.html
+************************
+************************
+Document:  CACM-2276.html
+************************
+
+
+computer methods for sampling from
+the exponential and normal distributions
+
+various methods are known for transforming uniformly
+distributed random numbers into exponentially
+and normally distributed quantities.  the most efficient
+ones are compared, in terms of memory requirements 
+and speed, with some new algorithms.  a number of procedures
+
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+************************
+Document:  CACM-0270.html
+************************
+
+
+techniques for storage allocation algorithms 
+
+cacm october, 1961
+
+************************
+
+************************
+Document:  CACM-2903.html
+************************
+
+
+improving programs by the introduction of recursion
+
+a new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern 
+************************
+ which solve pattern matching problems.
+ by using recursion in troduction, algorithms 
+which manipulate a stack are first translated into
+recursive algorithms in which no stack operations 
+occur.  these algorithms are then subjected to a second
+transformation, a method of recursion elimination 
+called "tabulation," to produce programs with a very
+efficient 
+************************
+ with a very
+efficient running time.  in particular, it is shown 
+how the fast linear pattern matching algorithm of knuth,
+morris, and pratt can be derived in a few steps 
+from a simple nonlinear stack algorithm.
+
+cacm november, 1977
+
+bird, r. s.
+
+program transformation, optimization of programs,
+recursion elimination, pattern matching algorithms, 
+stacks, computational 
+************************
+
+************************
+Document:  CACM-3043.html
+************************
+
+
+distributed processes: a concurrent programming concept
+
+a language concept for concurrent processes
+without common variables is introduced.  these 
+processes communicate and synchronize by means of procedure
+
+************************
+ by means of procedure
+calls and guarded regions.  this concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ the paper gives several examples of distributed processes
+and shows that they include procedures, coroutines, 
+************************
+ procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, path
+expressions, and input/output as special cases.
+
+cacm november, 1978
+
+hansen, p.
+
+concurrent programming, distributed processes,
+microprocessor 
+************************
+
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes 
+************************
+.  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  based on primitive notions of module, message,
+and transaction key, 
+************************
+,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  it appears to be useful for
+programming a wide range of tasks.  this is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+cacm june, 1979
+
+feldman, j.
+
+distributed computing, modules, messages, assertions
+
+4.22 4.32
+
+************************
+
+************************
+Document:  CACM-2007.html
+************************
+************************
+Document:  CACM-2324.html
+************************
+
+
+management science: a view from nonlinear programming
+
+a brief history of integer and continuous
+nonlinear programming is presented as well as the 
+current obstacles to practical use of these mathematical
+programming techniques.  it is forecast that 
+the useful contributions to nonlinear programming actually
+made in the next few years are more likely 
+to be consolidations than theoretical breakthroughs.  these
+contributions are likely to be the documentation 
+of standard test problems, construction of user oriented
+software, and comparisons of currently known 
+algorithms to demonstrate which 
+************************
+ to demonstrate which techniques are best for specific problems.
+
+cacm july, 1972
+
+shanno, d. f.
+weil, r. l.
+
+integer programming, linear programming, mathematical
+programming, nonlinear programming, quadratic 
+programming, management science, operations research, algorithms
+
+5.41 8.3
+
+ca720704 
+************************
+
+************************
+Document:  CACM-3082.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+************************
+Document:  CACM-2376.html
+************************
+
+
+synchronization of communicating processes
+
+formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly.
+ this is demonstrated for a system consisting of 
+many sending processes which deposit messages in a buffer
+and many 
+************************
+s in a buffer
+and many receiving processes which remove messages 
+from that buffer. 
+************************
+s 
+from that buffer.  the formal description of the synchronization
+mechanism makes it very easy to prove 
+that the buffer will neither overflow nor underflow,
+that senders and receivers will never operate on 
+the same message frame in the buffer nor will they run into a deadlock. 
+
+cacm march, 1972
+
+habermann, a. n.
+
+parallel programming, multiprogramming, program correctness,
+process communication, 
+************************
+
+************************
+Document:  CACM-3132.html
+************************
+************************
+Document:  CACM-2953.html
+************************
+
+
+notes on recursion elimination
+
+various methods of recursion elimination are
+applied to the schematic recursive procedure: 
+proc s(x); px then n(x); s(fx); s(gx); m(x) fi.  procedures
+with this general form arise in connection 
+with tree traversal and sorting algorithms.  each method
+of recursion removal involves the use of one 
+or more stacks, and the solutions are compared
+on the basis of their running time.
+
+cacm june, 1977
+
+bird, r. s.
+
+recursion elimination, optimization of programs,
+stacks, trees, sorting 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+************************
+Document:  CACM-0740.html
+************************
+************************
+Document:  CACM-1529.html
+************************
+************************
+Document:  CACM-1342.html
+************************
+************************
+Document:  CACM-3170.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+
+
+pseudofiles
+
+an approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  it is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+
+************************
+
+************************
+Document:  CACM-1755.html
+************************
+************************
+Document:  CACM-1736.html
+************************
+************************
+Document:  CACM-1353.html
+************************
+
+
+techniques for automatic tolerance control in linear programming
+
+************************
+
+************************
+Document:  CACM-1551.html
+************************
+************************
+Document:  CACM-2371.html
+************************
+
+
+a system for interprocess communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer 
+************************
+
+************************
+Document:  CACM-3166.html
+************************
+************************
+Document:  CACM-2912.html
+************************
+
+
+concurrent reading and writing
+
+the problem of sharing data among asynchronous
+process is considered.  it is assumed that only 
+one process at a time can modify the data, but concurrent
+reading and writing is permitted.  two general 
+theorems are proved, and some algorithms are presented
+to illustrate their use.  these include a solution 
+to the general problem in which a read is repeated if
+it might have obtained an incorrect result, and 
+two techniques for transmitting messages between processes.
+
+************************
+
+************************
+Document:  CACM-0356.html
+************************
+************************
+Document:  CACM-2623.html
+************************
+
+
+a new technique for compression and storage of data
+
+the widespread tendency toward storage of
+large programs and blocks off text has produced a 
+need for efficient methods of compressing and storing
+data.  this paper describes techniques that can, 
+in most cases, 
+************************
+ that can, 
+in most cases, decrease storage size by a factor of
+from two to four.  the techniques involve special 
+handling of leading and trailing blanks, and the encoding
+of other symbols in groups of fixed size as 
+unique fixed point numbers.  the efficiency of the
+system is considered and pertinent statistics are 
+given and compared with statistics for other information coding techniques.
+
+cacm august, 1974
+
+hahn, b.
+
+file maintenance, information retrieval, utility
+programs, text compression, coding 
+************************
+
+************************
+Document:  CACM-2272.html
+************************
+************************
+Document:  CACM-2725.html
+************************
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-1924.html
+************************
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous 
+************************
+ can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  examination of addition,
+multiplication, and inversion algorithms shows 
+that a partitioned 
+************************
+ shows 
+that a partitioned matrix representation (i.e. one submatrix
+or partition per page) in most cases induced 
+fewer page faults than a row-by-row representation.
+ the number of page-pulls required by these matrix 
+manipulation algorithms is also studied as a 
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+
+
+optimal program and data locations in computer networks
+
+an optimization procedure for the allocation
+of program and data files in a computer network 
+is presented.  this algorithm takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  a search procedure for the file location 
+problem is described, along with an example
+and a possible application of the model.
+
+cacm may, 1977
+
+morgan, h. l.
+levin, k. d.
+
+computer networks, databases, distributed
+databases, optimal file 
+************************
+
+************************
+Document:  CACM-1553.html
+************************
+************************
+Document:  CACM-2830.html
+************************
+************************
+Document:  CACM-2942.html
+************************
+************************
+Document:  CACM-2871.html
+************************
+
+
+logical analysis of programs
+
+most present systems for verification of computer
+programs are incomplete in that intermediate 
+inductive assertions must be provided manually by the
+user, termination is not proven, and incorrect 
+programs are not treated.  as a unified solution to
+these problems, this paper suggests conducting a 
+logical analysis of programs by using invariants which
+express what is actually occurring in the program. 
+ the first part of the paper is devoted to techniques
+for the automatic generation of invariants.  the 
+second part provides criteria for using the invariants
+to check simultaneously for correctness (including 
+termination) 
+************************
+
+************************
+Document:  CACM-2949.html
+************************
+
+
+a correctness proof of a topology information
+main tenance protocol for a distributed computer 
+network
+
+in order for the nodes of a distributed computer
+network to communicate, each node must have 
+************************
+, each node must have 
+information about the network's topology.  since nodes
+and links sometimes crash, a scheme is needed 
+to update this information.  one of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller.  the topology
+information protocol that was implemented on the 
+merit computer network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.  it is based on baran's "hot
+potato heuristic routing doctrine."  a correctness 
+proof of this topology information protocol is also presented.
+
+cacm july, 1977
+
+tajibnapis, w. d.
+
+distributed computer network, correctness proofs,
+computer networks, distributed control, network 
+topology, routing problem in networks, distributed operating
+system, store and forward packet switching, 
+store and forward message switching, traffic control
+
+************************
+
+************************
+Document:  CACM-0243.html
+************************
+
+
+n-dimensional codes for detecting and correcting multiple errors
+
+the paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  the message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  the processes of encoding and error 
+************************
+
+************************
+Document:  CACM-2819.html
+************************
+************************
+Document:  CACM-2902.html
+************************
+
+
+dynamic memory allocation in computer simulation
+
+this paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+
+************************
+ as represented by 18
+test cases.  algorithm performance was measured in
+terms of processing time, memory usage, and external memory
+fragmentation.  algorithms main taining separate 
+free space lists for each size of memory block used
+tended to perform quite well compared with other 
+algorithms.  simple algorithms operating on memory ordered
+lists (without any free list) performed surprisingly 
+well.  algorithms employing power-of-two block sizes
+had favorable processing requirements but generally 
+unfavorable memory usage.  algorithms employing lifo, fifo,
+or memory ordered free lists generally performed 
+poorly compared with others.
+
+cacm november, 1977
+
+nielsen, n. r.
+
+algorithm performance,dynamic memory allocation, dynamic
+memory management, dynamic storage allocation, 
+garbage collection, list processing, memory allocation,
+memory management, programming techniques, simulation, 
+simulation 
+************************
+
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+
+************************
+.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the 
+************************
+
+************************
+Document:  CACM-1948.html
+************************
+
+
+computers in group theory: a survey
+
+computers are being applied to an increasingly
+diverse range of problems in group theory.  
+the most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, character tables, and commutator
+calculus.  group theory programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  in this survey the 
+more important algorithms in use are described and contrasted,
+and results which have been obtained using 
+existing programs are indicated.  an extensive bibliography is included.
+
+cacm january, 1969
+
+************************
+
+************************
+Document:  CACM-2674.html
+************************
+
+
+scan conversion algorithms for a cell organized raster display
+
+raster scan computer graphics with "real time"
+character generators have previously been limited 
+to alphanumeric characters.  a display has been described
+which extends the capabilities of this organization 
+to include general graphics.  two 
+************************
+
+************************
+Document:  CACM-2320.html
+************************
+
+
+structured multiprogramming
+
+this paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  the notation used explicitly associates
+a data structure shared by concurrent processes 
+with operations defined 
+************************
+ 
+with operations defined on it.  this clarifies the meaning
+of programs and permits a large class of time-dependent 
+errors to be caught at compile time.  a combination of
+critical regions and event variables enables the 
+programmer to control scheduling of resources among
+competing processes to any degree desired.  these 
+concepts are sufficiently safe to use not only within
+operating systems but also within user programs.
+
+cacm july, 1972
+
+hansen, p. b.
+
+structured multiprogramming, programming languages,
+operating systems, concurrent processes, shared 
+data, 
+************************
+

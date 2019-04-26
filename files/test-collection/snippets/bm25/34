@@ -1,0 +1,2114 @@
+Snippets for the query:  Q34
+************************
+Total Hits:  163
+************************
+
+************************
+Document:  CACM-0111.html
+************************
+
+
+on programming the numerical solution of polynomial equations
+
+numerical techniques are presented for computing
+the roots of polynomial equations.  by applying 
+the recommended scaling and inversion rules, the basic
+bairstow and newton-raphson iterative techniques 
+can be applied with great reliability.  both a high degree
+of accuracy and rapid convergence are realized. 
+ numerical examples are shown to illustrate 
+************************
+
+************************
+Document:  CACM-1154.html
+************************
+
+
+multi-tape and infinite-state automata -- a survey
+
+a survey of machines which are more powerful
+than finite automata and less powerful than general 
+turing machines is presented.  it is felt that the machines
+in this category are as closely related to 
+digital computers as either the finite automata or the
+unrestricted turing machines.  intermediate machines 
+can be created by adjoining on infinite-state memory
+to a finite-state machine and then performing any 
+or all of the following: (1) restrict the manner in
+which the unbounded portion of the memory can be 
+accessed, (2) bound the number of steps allowed for a
+computation by some increasing recursive function 
+of the length of the input, (3) restrict the total amount
+of memory available in the same manner.  examples 
+from all three classes 
+************************
+
+************************
+Document:  CACM-1394.html
+************************
+
+
+computation of algebraic properties of elementary
+particle reactions using a digital computer
+
+a large number of calculations in high-energy
+elementary particle physics involve the manipulation 
+of complicated algebraic 
+************************
+
+************************
+Document:  CACM-2645.html
+************************
+
+
+two languages for estimating program efficiency
+
+two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ the program whose efficiency one wishes to estimate is written
+in the first language, a go-to-less programming 
+language which includes most of the features of algol
+60.  the second language consists of interactive 
+commands enabling its users to provide additional information
+about the program written in the first 
+language and to output results estimating its efficiency.
+ processors for the two languages are also 
+described.  the first processor is a syntax-directed
+translator which compiles a program into a symbolic 
+formula representing the execution time for that program.
+ the sound processor is a set of procedures 
+for that program.  the second processor is a set of
+procedures for algebraic manipulation which can be 
+called 
+************************
+ which can be 
+called by the user to operate on the formula produced
+by the first processor.  examples of the usage 
+of the two languages are included.  the limitations of
+the present system, its relation to knuth's work 
+on the analysis of algorithms, and some of the directions
+for further research are also discussed.
+
+cacm june, 1974
+
+ccohen, j.
+zuckerman, c.
+
+programming languages, syntax-directed translation,
+symbolic manipulation, program efficiency, 
+************************
+, program efficiency, 
+analysis of algorithms
+
+4.12 4.20 5.24 5.25
+
+************************
+
+************************
+Document:  CACM-2135.html
+************************
+
+
+rapid computation of general interpolation
+formulas and mechanical quadrature rules
+
+let f have n continuous on a closed interval
+[a,b] and let l be a linear functional.  the attempt 
+is made to approximate l (f) with l (q) where q is a polynomial,
+approximating f.  algorithms are developed 
+for 
+************************
+
+************************
+Document:  CACM-2170.html
+************************
+
+
+applications of symbol manipulation in theoretical physics
+
+this paper surveys the applications of symbolic
+computation techniques 
+************************
+
+computation techniques to problems in theoretical 
+physics.  particular emphasis is placed on applications
+in quantum electrodynamics where the most activity 
+has occurred.
+
+cacm august, 1971
+
+hearn, a. c.
+
+symbol manipulation, algebraic simplification,
+computational 
+************************
+
+************************
+Document:  CACM-2692.html
+************************
+
+
+reentrant polygon clipping
+
+a new family of clipping algorithms is described.
+ these 
+************************
+s is described.
+ these algorithms are able to clip polygons 
+************************
+s are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing the parts of the polygon which 
+lie outside the volume.  in two dimensions the algorithms
+permit clipping against 
+************************
+s
+permit clipping against irregular convex windows. 
+ polygons to be clipped are represented as an ordered
+sequence of vertices without repetition of first 
+and last, in marked contrast to representation as a
+collection of edges as was heretofore the common 
+procedure.  output polygons have an identical format,
+with new vertices introduced in sequence to describe 
+any newly-cut edge or edges.  the algorithms easily handle
+the particularly 
+************************
+s easily handle
+the particularly difficult problem of detecting 
+that a new vertex may be required at a corner of the
+clipping window.  the algorithms described achieve 
+
+************************
+
+************************
+Document:  CACM-0393.html
+************************
+
+
+two subroutines for symbol manipulation with an algebraic compiler
+
+cacm february, 
+************************
+
+************************
+Document:  CACM-1681.html
+************************
+
+
+easy english,a language for information
+retrieval through a remote typewriter console
+
+easy english is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  it has been developed
+for retrieval of documents from a computerized 
+data base, the moore school information systems laboratory
+files.  requests are formulated in a standardized 
+syntactical form (examples of which are presented), and
+this form is then transformed into an equivalent 
+query expressed in the retrieval system's original symbolic
+command language, which 
+************************
+
+************************
+Document:  CACM-1706.html
+************************
+
+
+champ-character manipulation procedures
+
+a new programming language facility for symbol
+manipulation is described.  string procedures 
+may be declared and called in a standard algol context.
+ algol procedures can in turn be called by string 
+procedures so that numeric and symbolic processes may
+conveniently 
+************************
+
+************************
+Document:  CACM-2997.html
+************************
+
+
+convex hulls of finite sets of poin ts in two and three dimensions
+
+the convex hulls of sets of n poin ts in two
+and three dimensions can be determined with o(n 
+log n) operations.  the presented algorithms use the "divide
+and 
+************************
+s use the "divide
+and conquer" technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls.
+ since any convex hull algorithm requires at 
+least o(n log n) operations, the time complexity of the
+proposed algorithms is optimal within a 
+************************
+ is optimal within a multiplicative 
+constant.
+
+cacm february, 1977
+
+preparata, f. p.
+hong, s. j.
+
+computational complexity, convex hull, optimal algorithms,
+planar set of poin 
+************************
+
+************************
+Document:  CACM-2090.html
+************************
+
+
+symbolic expansion of algebraic expressions (algorithm 377 $r2))
+
+cacm march, 1970
+
+levine, m. j.
+
+algebra, symbolic algebra, symbolic
+multiplication, algebraic distribution,
+algebraic multiplication, distribution algorithm,
+multiplication algorithm, product 
+algorithm, polynomial distribution, polynomial 
+************************
+
+************************
+Document:  CACM-1667.html
+************************
+
+
+roots of polynomials by a root-squaring
+and resultant routine (algorithm 340 [c2])
+
+cacm november, 1968
+
+noltemeier, a.
+
+root finders, roots of polynomial equations, polynomial
+zeros, root-squaring operations, graeffe 
+method, resultant procedure, subresultant procedure,
+testing of roots, acceptance 
+************************
+
+************************
+Document:  CACM-2567.html
+************************
+
+
+an exponential method for the solution of
+systems of ordinary differential equations 
+
+an explicit, coupled, single-step method for
+the numerical solution of initial value problems 
+for systems of ordinary differential equations is presented.
+ the method was designed to be general purpose 
+in nature but to be especially efficient when dealing
+with stiff systems of 
+************************
+
+************************
+Document:  CACM-1386.html
+************************
+
+
+symbolic factoring of polynomials in several variables
+
+an algorithm for finding the symbolic factors of
+a multi-variate polynomial with integer coefficients 
+is presented.  the algorithm is an extension of a technique
+used by kronecker in a proof that the prime 
+factoring of any polynomial may be found in a finite number
+of steps.  the algorithm consists of factoring 
+single-variable instances of the given polynomial by
+kronecker's method and introducing the remaining 
+variables by interpolation.  techniques for implementing the
+algorithm and several examples are discussed. 
+ the 
+************************
+ are discussed. 
+ the algorithm promises sufficient power to be used efficiently
+in an online system for symbolic mathematics.
+
+cacm august, 
+************************
+
+************************
+Document:  CACM-2165.html
+************************
+
+
+general relativity and the application of algebraic manipulative systems
+
+the paper describes some applications of symbolic
+algebra systems to problems of general relativity 
+including the derivation of the field equations, the
+petrov classification of a metric, and the solution 
+of the field equations in the presence of matter in
+a simple case.  attention is drawn to the strictly 
+algebraic difficulties encountered in this work.
+
+cacm august, 1971
+
+barton, d.
+fitch, j. p.
+
+symbolic mathematics,nonnumerical mathematics, general
+relativity, algebraic manipulation, equation 
+manipulation
+
+************************
+
+************************
+Document:  CACM-2094.html
+************************
+
+
+on an algorithm for nonlinear minimax approximation
+
+certain nonlinear minimax approximation problems are characterize
+d by properties which permit the application of special algorithms,
+mainly based on the exchange algorithms of remes (1934, 1935), for
+their solution.  in this paper the application to problems of this
+type of a general nonlinear algorithm due to osborne and watson
+(1969) is considered.  examples are given to illustrate 
+************************
+
+************************
+Document:  CACM-2266.html
+************************
+
+
+a highly parallel algorithm for approximating
+all zeros of a polynomial with only real zeros
+
+************************
+ with only real zeros
+
+an algorithm is described based on newton's
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros. 
+************************
+ with only real zeros.  the algorithm, which
+is conceptually suitable for parallel computation, 
+determines its own starting values so that convergence
+to the zeros is guaranteed.  multiple zeros and 
+their multiplicity are readily determined.  at no
+point in the method is polynomial deflation used.
+
+cacm november, 1972
+
+patrick, m. l.
+
+parallel numerical algorithms, real polynomials,
+real 
+************************
+
+************************
+Document:  CACM-0937.html
+************************
+
+
+inverse of a finite segment of the hilbert matrix (algorithm 50)
+
+cacm january, 1963
+
+************************
+
+************************
+Document:  CACM-2253.html
+************************
+
+
+index ranges for matrix calculi
+
+the paper describes a scheme for symbolic
+manipulation of index expressions 
+************************
+ of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the 
+************************
+ of expressions
+in the matrix calculi described by the authors 
+in a previous paper.  this scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code.  the goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures.
+ the paper is therefore preoccupied with "indexing 
+by position."  the relationship of "indexing by
+name" and "indexing by position" is discussed.
+
+cacm december, 1972
+
+bayer, r.
+witzgall, c.
+
+address calculations, algorithm transformation,
+compilation, data structures, indexing by name, 
+indexing by position, index domain, index map, index
+range, matrix expressions, normal form, programming 
+languages, program optimization, range operations, symbolic
+manipulation, syntactic analysis, 
+************************
+
+************************
+Document:  CACM-3066.html
+************************
+************************
+Document:  CACM-2169.html
+************************
+
+
+the altran system for rational function manipulation-a survey
+
+altran is a complete system for symbolic computation
+with rational 
+************************
+ computation
+with rational functions in several variables 
+with integer coefficients.  it has been designed and
+implemented to handle large problems with ease and 
+efficiency.  considerable effort has been spent to ensure
+a minimum amount of machine dependence in the 
+implementation, thus permitting the system to be installed
+quickly and easily on a variety of computing 
+machines.  in this paper a brief description of the language,
+run time data structures, and implementation 
+is given.
+
+cacm august, 1971
+
+hall jr., a. d.
+
+symbolic algebra, rational function manipulation,
+polynomial manipulation, 
+************************
+,
+polynomial manipulation, interpreters, translators
+
+************************
+
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use symbol manipulation of matrix expressions 
+************************
+
+************************
+Document:  CACM-1252.html
+************************
+************************
+Document:  CACM-1743.html
+************************
+
+
+reliable full-duplex file transmission over half-duplex telephone lines
+
+a field-proven scheme for achieving reliable
+duplex transmission over a half-duplex communication 
+line is presented, and to demonstrate the difficulty
+of the problem, another similar scheme, which is 
+only slightly unreliable, is also presented.  a flowchart
+for the reliable scheme and some interesting 
+examples are given.
+
+cacm june, 
+************************
+
+************************
+Document:  CACM-0717.html
+************************
+
+
+partitioning algorithms for finite sets
+
+the partitions 
+************************
+
+************************
+Document:  CACM-1144.html
+************************
+
+
+digital computer determination of alpha source activity
+
+a technique is described for determining the
+activity and homogeneity of an alpha source.  
+it is believed that the technique, using a digital computer,
+has many uses and applications in the field 
+of nuclear physics. the technique involves computer
+manipulation of the digital image 
+************************
+
+************************
+Document:  CACM-2946.html
+************************
+
+
+an alternative to event queues for synchronization in monitors
+
+in the monitor concept, as proposed by brinch
+hansen and hoare, event are used for synchronization.
+  this paper describes another synchronizing primitive
+which is nearly as expressive as the conditional 
+wait, but can be implemented more efficiently.  an implementation
+of this primitive in terms of p and 
+v operations is given together with a correctness proof.
+ two examples are presented: the readers and 
+writers problem and the problem of information
+streams sharing a finite buffer pool.
+
+cacm july, 
+************************
+
+************************
+Document:  CACM-1180.html
+************************
+
+
+axle: an axiomatic language for string transformations
+
+axle is a language designed for data manipulation.
+ data arranged in a linear form in a workspace 
+is transformed according to a table of axioms, called imperatives.
+ a transformation consists of a matching 
+procedure, which decides where an imperative is applicable,
+and a replacement procedure that modifies 
+that part of the workspace.  imperatives are applied
+in accordance with definitions of symbolic terms, 
+presented systematically 
+************************
+
+************************
+Document:  CACM-2627.html
+************************
+
+
+scheduling independent tasks to reduce mean finishing time
+
+sequencing to minimize mean finishing time
+(or mean time in system) is not only desirable to 
+the user, but it also tends to minimize at each point
+in time the storage required to hold incomplete 
+tasks.  in this paper a deterministic model of independent
+tasks is introduced and new results are derived 
+which extend and generalize the algorithms known for
+minimizing 
+************************
+s known for
+minimizing mean finishing time.  in addition to 
+presenting and analyzing new algorithms it is shown
+that the 
+************************
+s it is shown
+that the most general mean-finishing-time problem 
+for independent tasks is polynomial complete, and hence unlikely
+to admit of a non-enumerative solution
+
+cacm july, 1974
+
+bruno, j.
+coffman, e. g. jr.
+sethi, r.
+
+minimizing mean finishing time, minimizing mean flow
+time, sequencing algorithms, optimal scheduling 
+************************
+s, optimal scheduling 
+algorithms, deterministic scheduling 
+************************
+
+************************
+Document:  CACM-3031.html
+************************
+
+
+abstract data types and software validation
+
+a data abstraction can be naturally specified
+using algebraic axioms.  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type.  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation.  the  major 
+thrust of the paper is twofold.  first, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an abstract data type.  second, semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to derive an immediate 
+implementation from the axioms.  this implementation
+allows for limited testing of programs at design 
+************************
+
+************************
+Document:  CACM-2560.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would 
+************************
+
+************************
+Document:  CACM-2767.html
+************************
+
+
+a comparison of simulation event list algorithms
+
+four algorithms are 
+************************
+s
+
+four algorithms are considered which 
+************************
+s are considered which can be used
+to schedule events in a general purpose discrete 
+simulation system.  two of the algorithms are new, one
+is based 
+************************
+s are new, one
+is based on an end-order tree structure for event 
+notices, and another uses an indexed linear list. the algorithms
+are tested with a set 
+************************
+s
+are tested with a set of typical stochastic 
+scheduling distributions especially chosen to show
+the advantages and limitations of the algorithms. 
+ the end-order tree 
+************************
+
+************************
+Document:  CACM-1166.html
+************************
+************************
+Document:  CACM-1388.html
+************************
+
+
+automast: automatic mathematical analysis and symbolic translation
+
+a procedure for numerically solving systems
+of ordinary differential equation is shown to also 
+generate symbolic solutions.  the procedure is based
+on a finite taylor series expansion 
+************************
+
+************************
+Document:  CACM-2231.html
+************************
+
+
+the reconstruction of binary patterns from their projections
+
+given the horizontal and vertical projections
+of a finite binary pattern f, can we construct 
+the original pattern f?  in this paper we give a characterization
+of patterns that are reconstructable 
+from their projection.  three algorithms are developed
+to reconstruct 
+************************
+
+************************
+Document:  CACM-2924.html
+************************
+
+
+an interactive computer graphics approach to surface representation
+
+an in teractive computer graphics method has been
+developed for the rapid generation of arbitrary 
+shaped three-dimensional surfaces.  the method is a synthesis
+of spline theory and algorithms, an in teractive 
+means 
+************************
+s, an in teractive 
+means for man-machine communication, and software for
+static or dynamic graphics display.  the basic 
+technique employed is a modified lofting method on
+which sectional curves are represented by uniform 
+b-splines and the surface is in terpolated between sections
+by cardinal splines.  among the features of 
+this method are algorithms which enable in teractive
+
+************************
+
+************************
+Document:  CACM-0892.html
+************************
+
+
+recol-a retrieval command language
+
+an interrogation scheme is described for the
+retrieval and manipulation of data file records. 
+ the language of the interrogation scheme allows for selecting
+file records with the are of logical condition 
+statements, defining record classes, associating file
+records, editing printed output, and summarizing 
+the results of the above operations.  some examples of
+a typical file application 
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded 
+************************
+
+************************
+Document:  CACM-2414.html
+************************
+
+
+arithmetic overa finite field [a1] (algorithm a469)
+
+************************
+
+************************
+Document:  CACM-2646.html
+************************
+
+
+a model for masking rotational latency by dynamic disk allocation
+
+this paper presents the background and algorithms
+for masking the rotational 
+************************
+s
+for masking the rotational latency of a disk 
+or drum.  it discusses the anticipatory input and output
+of blocks of data to buffer and primary memories 
+for a mono-programmed computer system.  a basic permutation
+algorithm and several variations are given. 
+  because of the anticipatory nature of the i/o scheduling,
+these algorithms are restricted to classes 
+************************
+ are restricted to classes 
+of programs with predictable behavior.  while the methods
+are not restricted to numerical computations, 
+matrix and partial differential equation methods are
+typical examples of their use.  it is shown that 
+latency may be masked using a small amount of buffer
+memory.  the methods discussed are independent of 
+the overall size of the data base being considered.
+
+cacm may, 1974
+
+gold, d. e.
+kuck, d. j.
+
+buffer memory, memory hierarchy, permutation algorithm,
+rotational latency, 
+************************
+
+************************
+Document:  CACM-1524.html
+************************
+
+
+a stopping criterion for polynomial root finding
+
+when searching for the root of a polynomial,
+it is generally difficult to know just when to 
+accept a number as an adequate approximation to the root.
+ in this paper an algorithm is presented which 
+allows one to terminate the iteration process on the
+basis of calculated bounds for the roundoff error 
+which occurs in evaluating the polynomial.  this stopping
+criterion has been tested on numerous examples 
+and has been found 
+************************
+
+************************
+Document:  CACM-3071.html
+************************
+
+
+an algorithm using symbolic techniques for the
+bel-petrov 
+************************
+ techniques for the
+bel-petrov classification of gravitational fields
+
+in this note, an algorithm is presented for the
+symbolic calculation of certain algebraic invariants 
+of the weyl 
+************************
+ invariants 
+of the weyl tensor which permits the determination
+of the bel-petrov types of a gravitational field. 
+ this algorithm, although more specialized than that
+of d'inverno and russell-clark, requires neither 
+the use of a special coordinate system nor the spin coefficient
+formalism.  the algorithm has been implemented 
+in formac and is designed to complete the classification
+scheme proposed by petrov in his book.  an appendix 
+contains examples illustrating the use of the algorithm.
+
+cacm september, 1978
+
+harris, r.
+zund, j.
+
+general relativity, bel-petrov types,
+formac, symbolic manipulation, tensors
+
+3.11 3.15 
+************************
+
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every 
+************************
+ labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  iterating the updating
+scheme results in improved estimates that finally lead to
+breaking the cipher.  the method is applies successfully to two examples.
+
+cacm november, 1979
+
+peleg, s.
+rosenfeld, a.
+
+cryptography, substitution ciphers,
+probabilistic classification, relaxation
+
+************************
+
+************************
+Document:  CACM-2722.html
+************************
+
+
+multidimensional binary search trees used for associative searching
+
+this paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a data structure for storage of
+information to be retrieved by associative searches. 
+the k-d tree is defined and examples are given. it
+is shown to be quite in its storage requirements. 
+ a significant advantage of this structure is that a single
+data structure can handle many types of queries 
+very efficiently.  various utility algorithms are developed;
+their 
+************************
+s are developed;
+their proven average running times in an 
+n record file are: insertion, o (log n); deletion of
+the root, o (n^(k-1)/k); deletion of a random node, 
+o (log n); and optimization (guarantees logarithmic performance
+of searches), o (n log n).  search algorithms 
+are given for partial 
+************************
+s 
+are given for partial match queries with t keys specified
+[proven maximum running time of o (n^(k-t)/k)] 
+and for nearest neighbor queries [empirically observed average
+running time of o (log n).]  these performances 
+far surpass the best currently known algorithms for
+these tasks.  an 
+************************
+s for
+these tasks.  an algorithm is presented to handle 
+any general intersection query. the main focus of this
+paper theoretical.  it is felt, however, that 
+k-d trees could be quite useful in many applications,
+and examples of potential uses are 
+************************
+
+************************
+Document:  CACM-1806.html
+************************
+
+
+on the downhill method
+
+the downhill method is a numerical method for
+solving complex equations f(z) = 0 on which the 
+only restriction is that the function w = f(z) must
+be analytical.  an introduction to this method is 
+given and a critical review of relating literature is
+presented.  although in theory the method always 
+converges, it is shown that a fundamental dilemma exists
+which may cause a breakdown in practical applications. 
+ to avoid this difficulty and to improve the rate of
+convergence toward a root, some modifications of 
+the original method are proposed and a program (fortran)
+based on the modified method is given in algorithm 
+365.  some numerical examples are included.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment. 
+************************
+s
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered by the 
+************************
+s is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ however, it is possible to compute an upper bound to such
+a cross-correlation.  a simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. model building
+by cross-correlations has intrinsic advantages 
+over usual crystallographic techniques based on the
+autocorrelation or patterson function, especially 
+for large structures.  this is significant, for crystallography
+of biological macromolecules hasbeen 
+and will continue to be a field of intense interest.
+
+************************
+
+************************
+Document:  CACM-1392.html
+************************
+
+
+experience with formac algorithm design
+
+various facets of the design and implementation
+of mathematical expression manipulation algorithms 
+are discussed.  concrete 
+************************
+ 
+are discussed.  concrete examples are provided by the
+formac expand and differentiation algorithms, a 
+basic formac utility 
+************************
+s, a 
+basic formac utility routine, and an experiment in the
+extraction of the skeletal structure of an expression. 
+ one recurrent theme is the need to avoid excessive
+intermediate expression swell in order to minimize 
+core storage requirements. although many details from
+the formac implementation are presented, an attempt 
+is made to stress principles and ideas of general relevance
+in the design of algorithms for manipulating 
+mathematical 
+************************
+
+************************
+Document:  CACM-1940.html
+************************
+
+
+calculation of a polynomial and its derivative
+values by horner scheme (algorithm 337 [c1])
+
+cacm january, 
+************************
+
+************************
+Document:  CACM-2166.html
+************************
+
+
+automated algebraic manipulation in celestial mechanics
+
+************************
+ in celestial mechanics
+
+in this paper we consider some of the applications
+of automated algebraic manipulation which 
+have been made 
+************************
+ which 
+have been made in celestial mechanics.  particular attention
+is paid to the use of poisson series, and 
+a typical problem in perturbation theory is described.
+ the requirements of processors for use in celestial 
+mechanics are considered and compared with those for general
+manipulation packages.  some future directions 
+for research using these systems are briefly outlined.
+ to illustrate the relative simplicity of the 
+algorithm required in celestial 
+************************
+
+************************
+Document:  CACM-2958.html
+************************
+
+
+abstract data types and the development of data structures
+
+abstract data types can play a significant role
+in the development of software that is reliable, 
+efficient, and flexible.  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types.  among
+the examples presented is a top-down 
+************************
+
+************************
+Document:  CACM-1474.html
+************************
+
+
+tests of probabilistic models for propagation of roundoff errors
+
+in any prolonged computation it is generally
+assumed that the accumulated effect of roundoff 
+errors is in some sense statistical.  the purpose of this
+paper is to give precise descriptions of certain 
+probabilistic models for roundoff error, and then to
+describe a series of experiments for testing the 
+validity of these 
+************************
+
+************************
+Document:  CACM-1696.html
+************************
+
+
+an algorithm for identifying the ergodic subchains
+and transient states of a stochastic matrix
+
+an algorithm for identifying the ergodic subchains
+and transient states of a stochastic matrix
+is presented.  applications in markov renewal programming
+and in the construction of variable length 
+codes are reviewed, and an updating procedure for dealing
+with certain sequences 
+************************
+
+************************
+Document:  CACM-1387.html
+************************
+
+
+solution of systems of polynomial equations by elimination
+
+the elimination procedure as described by williams
+has been coded in lisp and formac and used 
+in solving systems of polynomial equations.  it is found
+that the method is very effective in the case 
+of small systems, where it yields all solutions without
+the need for initial estimates. the method, by 
+itself, appears in appropriate, however, in the solution
+of large systems of equation due to the explosive 
+growth in the intermediate equations and the hazards
+which arise when the coefficients are truncated. 
+ a comparison is made with difficulties found in other
+problems in non-numerical mathematics such as 
+symbolic integration and simplification.
+
+************************
+
+************************
+Document:  CACM-3018.html
+************************
+
+
+covering edges by cliques with regard to
+keyword conflicts and intersection graphs
+
+kellerman has presented a method for determining
+keyword conflicts and described a heuristic 
+algorithm which solves a certain combinatorial optimization
+problem in connection with this method.  
+this optimization problem is here shown to be equivalent
+to the problem of covering the edges of a graph 
+by complete subgraphs with the objective of minimizing
+the number of complete subgraphs.  a relationship 
+between this edge-clique-cover problem and the graph coloring
+problem is established which allows algorithms 
+for either one of these problems to be constructed
+from algorithm for the other.  as consequences of 
+this relationship, the keyword conflict problem and the
+edge-clique-cover problem are shown to be np-complete, 
+and if p=/np then they do not admit polynomial-time approximation
+algorithms 
+************************
+-time approximation
+algorithms which always produce 
+************************
+
+************************
+Document:  CACM-1216.html
+************************
+
+
+symbolic derivatives without list processing, subroutines, or recursion
+
+a routine has been developed which computes and
+prints out the symbolic derivative of an absolutely 
+continuous elementary function of one or several variables.
+ no use is made of list-processing languages. 
+ the chain rule is applied and the result is edited to
+produce results as elegant and efficient as those 
+obtained by hand computation.  a subset may be imbeded
+in a formula translator to introduce a differentiation 
+operator into an "algebraic" programming language.
+
+************************
+
+************************
+Document:  CACM-2437.html
+************************
+
+
+general performance analysis of key-to-address
+transformation methods using an abstract file 
+concept
+
+this paper presents a new approach to the analysis
+of performance of the various key-to-address 
+transformation methods.  in this approach the keys in
+a file are assumed to have been selected from the 
+key space according to a certain probabilistic selection
+algorithm.  all files with the 
+************************
+
+************************
+Document:  CACM-2164.html
+************************
+
+
+symbolic integration: the stormy decade
+
+three approaches to symbolic integration in the
+1960's are described.  the first, from artificial 
+intelligence, led to slagle's saint and to a large
+degree to moses' sin.  the second, from algebraic 
+manipulation, led to manove's implementation 
+************************
+, led to manove's implementation and to
+horowitz' and tobey's reexamination of the hermite 
+algorithm for integrating rational functions.  the third,
+from mathematics, led to richardson's proof 
+of the unsolvability of the problem for a class of functions
+and for risch's decision procedure for the 
+elementary functionseneralizations of risch's algorithm
+to a class of special functions and programs 
+for solving differential equations and for finding
+the definite integral are also described.
+
+cacm august, 1971
+
+moses, j.
+
+integration, symbolic integration, definite 
+************************
+
+************************
+Document:  CACM-1941.html
+************************
+
+
+f-distribution (algorithm 322 [s14])
+
+cacm january, 1969
+
+field, j. b. f.
+
+fisher's 
+************************
+
+************************
+Document:  CACM-2848.html
+************************
+************************
+Document:  CACM-2323.html
+************************
+
+
+toward a general theory of special functions
+
+a list of a number of natural developments
+for the field of algebraic manipulation is given. 
+ then the 
+************************
+ is given. 
+ then the prospects for a general theory of functions
+defined by ordinary differential equations are 
+discussed.  the claim is made that recent developments
+in mathematics indicate that it should be possible 
+to algorithmically generate many properties of solutions
+to differential equations.  such a theory is 
+preferable to a less general effort to make algebraic
+manipulation systems knowledgeable 
+************************
+ systems knowledgeable about the usual 
+special functions (e.g. exponential, hypergeometric).
+
+cacm july, 1972
+
+moses, j.
+
+algebraic manipulation, special functions, 
+************************
+, special functions, algebraic
+simplification, symbolic integration, algebraic 
+************************
+
+************************
+Document:  CACM-2836.html
+************************
+
+
+weighted derivation trees
+
+the nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  an algorithm is presented
+for constructing the optimal derivation tree having 
+the same structure as a given weighted derivation tree.
+ in addition, the correctness of the algorithm 
+is established.  the method may be applied to problems
+involving probabilistic parsing or combinatorial 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation [h] (algorithm a447)
+
+************************
+ [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+
+************************
+ are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, j.
+tarjan, r.
+
+graphs,analysis of algorithms, graph manipulation
+
+5.32
+
+ca730610 jb january 
+************************
+
+************************
+Document:  CACM-1893.html
+************************
+
+
+roots of polynomials by a root-squaring
+and resultant routine (algorithm 340 [c2])
+
+cacm may, 1969
+
+noltemeier, a.
+
+root finders, roots of polynomial equations, polynomial
+zeros, root-squaring operations, graeffe 
+method, resultant procedure, subresultant procedure,
+testing of roots, acceptance 
+************************
+
+************************
+Document:  CACM-2450.html
+************************
+
+
+empirical working set behavior
+
+the working set model for program behavior
+has been proposed in recent years as a basis for 
+the design of scheduling and paging algorithms.  although
+the words 
+************************
+s.  although
+the words "working set" are now commonly encountered 
+in the literature dealing with resource allocation, there
+is a dearth of published data on program measurements, 
+in the hope that workers in the field might find experimental
+
+************************
+
+************************
+Document:  CACM-2325.html
+************************
+
+
+numerical mathematics and computer science
+
+numerical mathematics is viewed as the analysis
+of continuous algorithms.  four of the components 
+************************
+s.  four of the components 
+of numerical mathematics are discussed.  these are: foundations
+(finite precision number systems, computational 
+complexity), synthesis and analysis of algorithms,
+analysis of error, 
+************************
+s,
+analysis of error, programs and program libraries.
+
+cacm july, 1972
+
+traub, j. f.
+
+numerical mathematics, computer science, mathematics
+of computation, algorithms, continuous algorithms
+
+************************
+s, continuous algorithms
+
+1.3 5.0 5.1 5.25
+
+
+************************
+
+************************
+Document:  CACM-1397.html
+************************
+
+
+proceedings of the acm symposium on symbolic and algebraic manipulation
+
+the acm symposium on 
+************************
+
+
+the acm symposium on symbolic and algebraic
+manipulation brought together over 
+************************
+ brought together over four hundred 
+people interested in programming languages designed
+for manipulation of algebraic formulas and symbol 
+************************
+ formulas and symbol 
+strings, in their applications, and in algorithms for
+their implementation.  twenty-eight papers were 
+presented, followed by a lively panel discussion of
+future directions.  evening meetings were arranged 
+for several interest groups.  the conference was sponsored
+by the acm special interest committee on symbolic 
+and algebraic manipulation.  the program committee 
+************************
+
+************************
+Document:  CACM-1664.html
+************************
+
+
+an algorithm for deriving the equations of
+mathematical physics by symbolic manipulation
+
+a method is described 
+************************
+
+
+a method is described whereby a digital computer
+can be used to derive the equations of mathematical 
+physics in any curvilinear coordinate system requested
+by the user.  the effectiveness of the technique 
+is demonstrated by using it to derive the navier-stokes
+equations of fluid motion and the continuity 
+equation.  to derive these equations by this method, the
+user need know only the coordinate transformation 
+equations relating the curvilinear coordinates of interest
+to an orthogonal cartesian triad. when this 
+program is used and the coordinate transformation equations
+are supplied as input, the computer will 
+derive the navier-stokes equations and the continuity
+equation.  the equations obtained will be relative 
+to the curvilinear coordinate system specified by the
+transformation equations used as input.  in this 
+paper the emphasis is on theoretical considerations and
+methodology rather than on programming details. 
+ results are presented for cylindrical polar
+and spherical polar coordinate systems.
+
+cacm december, 1968
+
+howard, j. c.
+tashjian, h.
+
+formac, navier-strokes equations, continuity equation,
+tensor, tensor equation, curvilinear coordinate 
+systems, fortran, symbolic manipulation
+
+3.21 3.25 3.29 4.12 
+************************
+
+************************
+Document:  CACM-1612.html
+************************
+
+
+top-to-bottom parsing rehabilitated?
+
+this note is concerned with the efficiency
+of the top-to-bottom parsing algorithm as used in 
+connection with programming language grammars.  it is
+shown, for instance, that retracing of unprofitable 
+paths can often be eliminated by a suitable rearrangement
+of the productions defining the grammar.  the 
+essential weakness of the method is in dealing with complicated
+syntactic 
+************************
+
+************************
+Document:  CACM-1689.html
+************************
+
+
+calculation of a polynomial and its derivative
+values by horner scheme (algorithm 337 [c1])
+
+cacm september, 
+************************
+
+************************
+Document:  CACM-0265.html
+************************
+
+
+low level language subroutines for use within fortran
+
+this paper describes some subroutines, coded
+in symbolic languages and for use within fortran 
+coded programs, to deal with "special arithmetic" (e.g.
+multi-precision arithmetic), symbol manipulation, 
+bit manipulation and 
+************************
+
+************************
+Document:  CACM-1049.html
+************************
+
+
+numerical solution of nonlinear two-point
+boundary problems by finite difference methods
+
+solution of nonlinear two-point boundary-value
+problems is often an extremely difficult task. 
+ quite apart from questions of reality and uniqueness,
+there is no established numerical technique for 
+this problem.  at present, shooting techniques are the
+easiest method of attacking these problems.  when 
+these fail, the more difficult method of finite differences
+can often be used to obtain a solution.  
+this paper gives examples and discusses the finite 
+************************
+
+************************
+Document:  CACM-3095.html
+************************
+
+
+a selective traversal algorithm for binary search trees
+
+the problem of selecting data items from
+a binary search tree according to a list of range 
+conditions is considered.  the process of visiting a
+minimal number of nodes to retrieve data satisfying 
+the range conditions is called selective traversal.  presented
+in this paper is an algorithm for selective 
+traversal which uses a tag field for each node in the
+
+************************
+ for each node in the
+tree.  the algorithm is particularly useful and 
+efficient when examination of data is more time
+consuming than examination of a tag field. 
+
+cacm june, 1978
+
+
+************************
+
+************************
+Document:  CACM-2167.html
+************************
+
+
+algebraic simplification: a guide for the perplexed
+
+algebraic simplification is examined first from
+the point of view of a user who needs to comprehend 
+a large expression, and second from the point of view
+of a designer who wants to construct a useful and 
+efficient system.  first we describe various techniques
+akin to substitution.  these techniques can be 
+used to decrease thesize of an expression and make it
+more intelligible to a user.  then we delineate 
+the spectrum of approaches to the design of automatic simplification
+capabilities in an algebraic manipulation 
+system.  systems are divided into five types.  each type
+provides different facilities for the manipulation 
+and simplification of expressions. finally we discuss
+some of the theoretical results related to algebraic 
+simplification.  we describe several positive results
+about the existence of powerful simplification 
+algorithms and the number-theoretic 
+************************
+s and the number-theoretic conjectures on which
+they rely.  results about the nonexistence of 
+algorithms for certain classes of expressions are included.
+
+cacm august, 1971
+
+moses, j.
+
+algebraic manipulation, algebraic simplification,
+
+************************
+
+************************
+Document:  CACM-2385.html
+************************
+
+
+zeros of a complex polynomial [c2] (algorithm a419)
+
+cacm february, 
+************************
+
+************************
+Document:  CACM-2516.html
+************************
+************************
+Document:  CACM-0719.html
+************************
+
+
+variable width stacks
+
+character addressable, variable field computers
+permit ready establishment and manipulation 
+of variable width stacks.  single machine commands may
+push variable field items down into such stacks 
+or pop them up.  the availability of a variety of field
+delimiters allows the machine to push down or 
+pop up more than one variable width item with one command.
+ since these stacking operations can be made 
+the basis of compiler decoding algorithms the proper
+use of machines 
+************************
+
+************************
+Document:  CACM-1214.html
+************************
+
+
+some experiments in algebraic manipulation by computer 
+
+a set 
+************************
+ by computer 
+
+a set of subroutines to allow algebraic manipulations
+on the ibm 7094 computer 
+************************
+
+************************
+Document:  CACM-1763.html
+************************
+
+
+roots of low-order polynomial equations (algorithm 326 [c2])
+
+cacm april, 
+************************
+
+************************
+Document:  CACM-1145.html
+************************
+
+
+git-a heuristic program for testing pairs
+of directed line graphs for isomorphism*
+
+given a pair of directed line graphs, the problem
+of ascertaining whether or not they are isomorphic 
+is one for which no efficient algorithmic solution is known.
+
+************************
+ic solution is known.
+ since a straightforward enumerative algorithm 
+might require 40 years of running time on a very high
+speed computer in order to compare two 15-node 
+graphs, a more sophisticated approach seems called
+for.  the situation is similar to that prevailing 
+in areas such as game-playing and theorem-proving, where
+practical algorithms are unknown (for the 
+************************
+
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities 
+************************
+s
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.  in particular, several parallelized 
+algorithms are presented for the 
+************************
+s are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, pert chart analysis,
+and the analysis of many types of networks. 
+ these algorithms exhibit a computation 
+************************
+s exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.  straightforward
+cellular implementations of the well-known 
+serial algorithms for these problems 
+************************
+s for these problems require about n
+steps, and noncellular implementations require from 
+n^2 to n^3 steps.
+
+cacm september, 1972
+
+levitt, k. n.
+kautz, w. h.
+
+graph theory, cellular logic-in-memory arrays,
+parallel processing, special purpose computers, 
+algorithms for distance and spanning 
+************************
+
+************************
+Document:  CACM-1595.html
+************************
+
+
+on the computer enumeration of finite topologies
+
+the problem of enumerating the number of topologies
+which can be formed from a finite point 
+set is considered both theoretically and computationally.
+ certain fundamental results are established, 
+leading to an algorithm for enumerating finite 
+************************
+
+************************
+Document:  CACM-3007.html
+************************
+************************
+Document:  CACM-1924.html
+************************
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous 
+************************
+s can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  examination of addition,
+multiplication, and inversion algorithms shows 
+that a partitioned 
+************************
+s shows 
+that a partitioned matrix representation (i.e. one submatrix
+or partition per page) in most cases induced 
+fewer page faults than a row-by-row representation.
+ the number of page-pulls required by these matrix 
+manipulation algorithms is also studied as a 
+************************
+ is also studied as a function
+of the number of pages of main memory available 
+to the algorithm.
+
+cacm march, 1969
+
+mckellar, a. c.
+coffman jr., e. g.
+
+matrix algorithms, array processing, paging 
+************************
+, array processing, paging algorithms,
+paged memory systems, 
+************************
+
+************************
+Document:  CACM-1935.html
+************************
+************************
+Document:  CACM-1644.html
+************************
+************************
+Document:  CACM-1946.html
+************************
+
+
+computing polynomial resultants: bezout's determinant
+vs. collins' reduced p. algorithm
+
+algorithms for computing the resultant 
+************************
+ for computing the resultant of two
+polynomials in several variables, a key repetitive 
+step of computation in solving systems of polynomial
+equations by elimination, are studied.  determining 
+the best algorithm for computer implementation 
+************************
+ for computer implementation depends
+upon the extent to which extraneous factors are 
+introduced, the extent of propagation of errors caused by
+truncation of real coefficients, memory requirements, 
+and computing speed.  preliminary considerations narrow
+the choice of the best algorithm to bezout's 
+determinant and collins' reduced polynomial remainder sequence
+(p.r.s.) 
+************************
+ remainder sequence
+(p.r.s.) algorithm.  detailed tests performed 
+on sample problems conclusively show that bezout's determinant
+is superior in all respects except for 
+univariate polynomials, in which case collins' 
+************************
+s, in which case collins' reduced
+p.r.s. algorithm is somewhat faster.  in particular 
+bezout's determinant proves to be strikingly superior in
+numerical accuracy, displaying excellent stability 
+with regard to round-off errors. results of tests are reported in detail.
+
+cacm january, 1969
+
+ku, s. y.
+adler, r. j.
+
+resultant algorithm, g.c.d. algorithm, polynomial
+resultant, elimination, 
+************************
+
+resultant, elimination, bezout's determinant, 
+sylvester's determinant, reduced p.r.s. algorithm, euclidean
+algorithm, multivariate polynomial equations
+
+4.40 5.10 
+************************
+
+************************
+Document:  CACM-2410.html
+************************
+
+
+a recurrence scheme for converting from
+one orthogonal expansion into another
+
+a generalization of a scheme of hamming for
+converting a polynomial pn(x) into a chebyshev 
+series is combined with a recurrence scheme of clenshaw
+for summing any finite series whose terms satisfy 
+************************
+
+************************
+Document:  CACM-3203.html
+************************
+
+
+   grad assistant - a program for symbolic algebraic manipulation and 
+differentiation
+
+************************
+ and 
+differentiation
+
+   the general recursive algebra and differentiation assistant (grad assistant)
+now under development is a set of lisp functions which symbolically manipulate
+abd differentiate algebraic expressions. it is designed for use with problemms 
+in which a large amount of routine manipulation is to be done by a program 
+************************
+
+************************
+Document:  CACM-1543.html
+************************
+
+
+computer formulation of the equations of motion using tensor notation
+
+a means is described for extending the area
+of application of digital computers beyond the 
+numerical data processing stage and reducing the need for
+human participation in the formulation of certain 
+types of computer problems.  by the use of tensor calculus
+and a computer language designed to facilitate 
+symbolic mathematical computation, a method has been
+devised whereby a digital computer can be used to 
+do non-numeric work, that is, symbolic algebraic manipulation
+and differentiation. 
+************************
+
+************************
+Document:  CACM-3131.html
+************************
+
+
+focus microcomputer number system
+
+focus is a number system and supporting computational
+algorithms especially useful for microcomputer 
+************************
+ useful for microcomputer control and other
+signal processing applications.  focus has the wide-ranging
+character of floating-point numbers with a uniformity of state distributions
+that give focus better than a twofold accuracy advantage
+over an equal word length floating-point system.  focus computations
+are typically five times faster than single precision fixed-point
+or integer arithmetic for a mixture of operations, comparable in
+speed with hardware arithmetic for many applications.  algorithms
+for 8-bit and 16-bit 
+************************
+
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.  illustrative examples of practical 
+and theoretical significance are given.  directions
+for new research are discussed.
+
+cacm september, 1977
+
+rabin, m. o.
+
+complexity of computations, algebraic complexity,
+in tractable problems, probabilistic algorithms
+
+5.25
+
+ca770901 jb december 
+************************
+
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major 
+************************
+
+************************
+Document:  CACM-2580.html
+************************
+************************
+Document:  CACM-1948.html
+************************
+
+
+computers in group theory: a survey
+
+computers are being applied to an increasingly
+diverse range of problems in group theory.  
+the most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, character tables, and commutator
+calculus.  group theory programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  in this survey the 
+more important algorithms in use are described 
+************************
+
+************************
+Document:  CACM-2850.html
+************************
+
+
+symbolic execution and program testing
+
+this paper describes 
+************************
+
+
+this paper describes the symbolic execution of
+programs.  instead of supplying the normal inputs 
+to a program (e.g. numbers) one supplies symbols representing
+arbitrary values.  the execution proceeds 
+as in a normal execution except that values may be symbolic
+formulas over the input symbols.  the difficult, 
+yet interesting issues arise during the symbolic execution
+of conditional branch type statements.  a 
+particular system called effigy which provides symbolic
+execution for program testing and debugging is 
+also 
+************************
+ and debugging is 
+also described.  it interpretively executes programs written
+in a simple pl/i style programming language. 
+ it includes many standard debugging features, the ability
+to manage and to prove things about symbolic 
+expressions, a simple program testing manager, and a program
+
+************************
+ manager, and a program
+verifier.  a brief discussion of the relationship 
+between symbolic execution and program proving is also included.
+
+cacm july, 1976
+
+king, j. c.
+
+symbolic execution, program testing, program debugging,
+
+************************
+
+************************
+Document:  CACM-2268.html
+************************
+
+
+a comparative study of computer programs
+for integrating differential equations
+
+a study comparing the performance of several computer
+programs for integrating systems of ordinary 
+differential equations is reported.  the integration methods represented
+include multistep methods (predictor-correctors), 
+single-step methods (runge-kutta) and extrapolation methods
+(both polynomial and rational).  the testing 
+procedure is described 
+************************
+
+************************
+Document:  CACM-2681.html
+************************

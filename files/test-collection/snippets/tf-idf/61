@@ -1,0 +1,850 @@
+Snippets for the query:  Q61
+************************
+Total Hits:  30
+************************
+
+************************
+Document:  CACM-2216.html
+************************
+
+
+on the probability distribution of the values of binary trees
+
+an integral equation is derived for the generating
+function for binary tree values, the values 
+reflecting sorting effort. the analysis does not assume
+uniformly distributed branching ratios, and 
+therefore is applicable to a family of sorting algorithms
+discussed by hoare, singleton, and van emden. 
+ the solution to the integral equation indicates that
+using more advanced algorithms in the family makes 
+only minor reductions in the expected sorting effort,
+but substantially reduces the variance in sorting 
+effort.  statistical tests of the values of several
+thousand trees containing up to 10,000 points have 
+given first, second, and third moments of the value distribution
+function in satisfactory agreement with 
+the moments computed from the generating function.  the
+empirical tests, as well as the analytical results, 
+are in agreement with 
+************************
+, 
+are in agreement with previously published results for the
+first moment in the cases of uniform and nonuniform 
+distribution 
+************************
+
+************************
+Document:  CACM-1648.html
+************************
+************************
+Document:  CACM-1101.html
+************************
+************************
+Document:  CACM-2430.html
+************************
+
+
+the elementary circuits of a graph [h] (algorithm a459)
+
+cacm october, 1973
+
+syslo,m. m.
+
+algorithm, graph theory, circuit search
+algorithm, 
+************************
+
+************************
+Document:  CACM-1961.html
+************************
+
+
+an efficient search algorithm to find the elementary circuits of a graph
+
+a theoretically most efficient search algorithm is presented
+which uses an exhaustive search to find all of the elementary
+circuits of a graph.  the algorithm can be easily modified to find all
+of the elementary circuits with a particular attribute such as
+length.  a rigorous proof of the algorithm is given as well as an example
+of its application.  empirical bounds are presented relating
+the speed of the algorithm to the number of vertices and the number
+of arcs.  the speed is also related to the number of circuits
+in the graph to give a relation between speed and complexity.
+extensions to undirected 
+************************
+
+************************
+Document:  CACM-2333.html
+************************
+************************
+Document:  CACM-2649.html
+************************
+************************
+Document:  CACM-1887.html
+************************
+************************
+Document:  CACM-3059.html
+************************
+************************
+Document:  CACM-1795.html
+************************
+************************
+Document:  CACM-2997.html
+************************
+************************
+Document:  CACM-2809.html
+************************
+
+
+positivity and norms
+
+following some lines of joint work with a.
+s. householder, the character and use of algebraic 
+methods in the theory of norms is demonstrated.  new results
+concerning norms with 
+************************
+
+************************
+Document:  CACM-3084.html
+************************
+
+
+interpolation search -a log logn search
+
+interpolation search is a method of retrieving
+a desired record by key in an ordered file by 
+using the value of the key and the statistical distribution
+of the keys.  it is shown that on the average 
+log logn file accesses are required to retrieve a key,
+assuming that the n keys are uniformly distributed. 
+ the number of extra accesses is also estimated and shown
+to be very low.  the same holds if the cumulative 
+distribution function of the keys is known.  computational
+experiments confirm these results.  
+
+cacm july, 1978
+
+************************
+
+************************
+Document:  CACM-2859.html
+************************
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, 
+************************
+
+************************
+Document:  CACM-2266.html
+************************
+************************
+Document:  CACM-1424.html
+************************
+************************
+Document:  CACM-2401.html
+************************
+
+
+on shrinking binary picture patterns
+
+a parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  this procedure
+may be used for counting patterns on a matrix, and 
+a hardware implementation of the algorithm using large
+scale integrated technology is envisioned.  the 
+principal features of this method are the very small
+window employed (two-by-two elements), the parallel 
+nature of the process, and the possibility of shrinking
+any pattern, regardless of the complexity of 
+its configuration. 
+************************
+
+************************
+Document:  CACM-2743.html
+************************
+************************
+Document:  CACM-2476.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+************************
+Document:  CACM-1382.html
+************************
+************************
+Document:  CACM-2469.html
+************************
+************************
+Document:  CACM-2175.html
+************************
+************************
+Document:  CACM-1302.html
+************************
+************************
+Document:  CACM-1566.html
+************************
+
+
+optimal starting values for newton-raphson calculation of sqrt(x)
+
+the problem of obtaining starting values for
+the newton-raphson calculation of sqrt(x) on a 
+digital computer is considered.  it is shown that the
+conventionally used best uniform approximations 
+to sqrt(x) do not provide optimal starting values. 
+the problem of obtaining optimal starting values. 
+ the problem of obtaining optimal starting values is
+stated, and several basic results are proved.  a 
+table 
+************************
+
+************************
+Document:  CACM-2560.html
+************************
+************************
+Document:  CACM-2557.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are 
+************************
+
+************************
+Document:  CACM-1856.html
+************************
+
+
+the teachable language comprehender: 
+a simulation program and theory of language
+
+the teachable language comprehender (tlc) is
+a program designed to be capable of being taught 
+to "comprehend" english text.  when text which the program
+has not seen before is input to it, it comprehends 
+that text by correctly relating each (explicit or implicit)
+
+************************
+ each (explicit or implicit)
+assertion of the new text to a large memory. 
+ this memory is a "semantic network" representing factual
+assertions about the world.  the program also 
+creates copies of the parts of its memory which have
+been found to relate to the new text, adapting and 
+combining these copies to represent the meaning of the
+new text.  by this means, the meaning of all text 
+the program successfully comprehends is encoded into
+the same format as that of the memory.  in this 
+form it can be added into the memory.  both factual
+assertions for the memory and the capabilities for 
+correctly relating text to the memory's prior content
+are to be taught to the program as they are needed. 
+ tlc presently contains a relatively small number of
+examples of such assertions and capabilities, but 
+within the system, notations for expressing either of these
+are provided.  thus the program now corresponds 
+to a general process for comprehending language, and
+it provides a methodology for adding the additional 
+information this process requires to actually comprehend
+text of any particular kind.  the memory structure 
+and comprehension process of tlc allow new factual assertions
+and capabilities for relating text to such 
+stored assertions to generalize automatically.  that
+is, once such an assertion or capability is put 
+into the system, it becomes available to help comprehend
+a great many other sentences in the future. 
+ thus the addition of a single factual assertion or
+linguistic capability will often provide a large 
+increment in tlc's effective knowledge of the world and
+in its overall ability to comprehend text.  the 
+program's strategy is presented as a general theory of language comprehension.
+
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+************************
+Document:  CACM-2720.html
+************************
+
+
+optimal balancing of i/o requests to disks
+
+determining a policy for efficient allocation
+and utilization of a set of disk drives with 
+differing operational characteristics is examined using
+analytical techniques.  using standard queueing 
+theory, each disk drive is characterized by a queueing
+model with service time of a disk drive represented 
+by the probability density function of the sum of two
+uniform distributions. total response time of the 
+set of disk models is then minimized under varying
+load conditions. the results indicate that faster 
+************************
+
+************************
+Document:  CACM-2790.html
+************************
+************************
+Document:  CACM-2337.html
+************************
+************************
+Document:  CACM-0320.html
+************************
+
+
+logic-structure tables
+
+logic tables are an excellent way of developing
+and expressing the logic required in procedures, 
+operations, systems and circuits.  a set of rules for
+writing and using logic tables is explained by 
+means of some simple examples.  then the logic structure
+of a vending machine is given in which two logic 
+tables are used.  logic tables are two-dimensional in
+nature, enabling us to fully express and consider 
+both the sequential and parallel aspects of logic.  they
+
+************************
+
+************************
+Document:  CACM-1934.html
+************************
+************************
+Document:  CACM-1143.html
+************************
+
+
+analysis of decay-type data*
+
+a comparative study has been made of a variety
+of numerical techniques for fitting experimental 
+data of the decay type by forms involving the sums of
+exponentials.  statistical errors of the fitted 
+parameters are also calculated.  these methods have been
+applied to artificially-generated sets of data 
+as well as to the results of experiments with radioactive
+tracers on both human and animal subjects. 
+ results show that the values of the fitted parameters
+are very sensitive to variations in the fitting 
+procedure.  therefore great care very sensitive to variations
+in the fitting procedure.  therefore great 
+care must be exercised in identifying such values with
+physical constants.  although the values of functions 
+derived from these fitted parameters which can definitely
+be associated with physical entities are generally 
+more stable under variations in the fitting techniques,
+error bounds can be so large that no great confidence 
+can be placed even in them.  it would therefore appear
+best to select a uniform technique both for running 
+************************
+
+************************
+Document:  CACM-2702.html
+************************
+
+
+on the complexity of lr(k) testing
+
+the problem of determining whether an arbitrary
+context-free grammar is a member of some easily 
+parsed subclass of grammars such as the lr(k) grammars
+is considered.  the time complexity of this problem 
+is analyzed both when k is considered to be a fixed
+integer and when k is considered to be a parameter 
+of the test.  in the first case, it is shown that for
+every k there exists an o(n(k+2)) algorithm for 
+testing the lr(k) property, where n is the size of the
+grammar in question.  on the other hand, if both 
+k and the subject grammar are problem parameters, then
+the complexity of the problem depends very strongly 
+on the representation chosen for k.  more specifically,
+it is shown that this problem is np-complete 
+when k is expressed in unary.  when k is expressed in
+binary the problem is complete for nondeterministic 
+exponential time.  these results carry over to many
+other 
+************************
+
+************************
+Document:  CACM-0727.html
+************************
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 
+************************
+
+************************
+Document:  CACM-2134.html
+************************
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem, together with munkres
+proposed algorithm for its solution in square 
+matrices, is presented first.  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices.  timing results
+obtained by using an adapted version of silver's 
+algol procedure are discussed, and a relation between
+solution time and problem size is given.
+
+cacm december, 1971
+
+bourgeois, f.
+lassalle, j.
+
+operations research, optimization theory, assignment
+problem, 
+************************
+
+************************
+Document:  CACM-1309.html
+************************
+
+
+a computer user-oriented system
+
+a computer language system has been developed
+which makes possible fast preparation of management 
+reports, regardless of computational complexity or format
+variety.  costs are sufficiently low so that 
+individually tailored reports can be prepared for every
+manager.  the system requires initial preparation 
+of large data banks containing data in elementary form.
+ use of two special languages, extract and matran, 
+permits selective extraction of any data subset, efficient
+processing through any computational sequence, 
+and flexible presentation of results in either tabular
+or 
+************************
+
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  iterating the updating
+scheme results in improved estimates 
+************************
+
+************************
+Document:  CACM-2291.html
+************************
+************************
+Document:  CACM-2975.html
+************************
+************************
+Document:  CACM-1811.html
+************************
+************************
+Document:  CACM-1933.html
+************************
+************************
+Document:  CACM-2938.html
+************************
+************************
+Document:  CACM-1266.html
+************************
+************************
+Document:  CACM-2895.html
+************************
+************************
+Document:  CACM-2189.html
+************************
+
+
+generation of rosary permutations expressed in hamiltonian circuits
+
+systematic generation of a specific class
+of permutations fundamental to scheduling problems 
+is described.  in a nonoriented complete graph with
+n vertices, hamitonian circuits equivalent to .5(n 
+- 1)! specific permutations of n elements, termed rosary
+permutations, can be defined.  each of them 
+corresponds to two circular permutations which mirror-image
+each other, and is generated successively 
+by a number system covering 3*4*...*(n-1) sets of edges.
+ every set of edges {e[k]}, 1 <= e[k] <= k, 
+3 <= k <= (n-1) is determined recursively by constructing
+a hamiltonian circuit with k vertices from 
+a hamiltonian circuit with k-1 vertices, starting with
+the hamiltonian circuit of 3 vertices.  the basic 
+operation consists of transposition of a pair of adjacent
+vertices where the position of the pair in 
+the permutation is determined by {e[k]}.  two algorithms
+treating the same example for five vertices 
+are presented.  it is very easy to derive all possible n!
+permutations  from the .5(n - 1 )! rosary permutations 
+be cycling the permutations and by taking them in the
+reverse order-procedures which can be performed 
+fairly efficiently by computer. 
+
+cacm june, 1971
+
+harada, k.
+
+permutation, graph theory, scheduling, combinatorial 
+************************
+
+************************
+Document:  CACM-2685.html
+************************
+************************
+Document:  CACM-2672.html
+************************
+************************
+Document:  CACM-1009.html
+************************
+************************
+Document:  CACM-2121.html
+************************
+************************
+Document:  CACM-0392.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-2570.html
+************************
+************************
+Document:  CACM-2195.html
+************************
+
+
+on the optimal detection of curves in noisy pictures
+
+a technique for recognizing systems of lines
+is presented.  in this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in a figure of merit.   
+a multistage decision process is then able to recognize
+in the input picture the optimal system of lines 
+according to the given figure of merit.  due to the
+global approach, greater flexibility and adequacy 
+in the particular problem is achieved.  the relation
+between the structure of the figure of merit and 
+the complexity of the optimization process is then discussed.
+ the method described is suitable for parallel 
+processing because 
+************************
+
+************************
+Document:  CACM-1420.html
+************************
+************************
+Document:  CACM-1725.html
+************************
+************************
+Document:  CACM-2851.html
+************************
+************************
+Document:  CACM-2927.html
+************************
+
+
+some new upper bounds on the generation of prime numbers
+
+given an integer n, what is the computational
+complexity of finding all the primes less than 
+n?  a modified sieve of eratosthenes using doubly linked
+lists yields an algorithm of o(n) arithmetic 
+complexity.  this upper bound is shown to be equivalent
+to the theoretical lower bound for sieve methods 
+without preprocessing.  use of preprocessing techniques
+involving space-time and additive-multiplicative 
+tradeoffs reduces this upper bound to o(n/log logn)
+and the bit complexity to o(n logn log log logn). 
+ a storage requirement is described using o(n logn/log logn) bits as well.
+
+cacm september, 1977
+
+mairson, h. g.
+
+computational complexity, sieve, prime number generation,
+number theory, linked list, preprocessing, 
+************************
+
+************************
+Document:  CACM-0335.html
+************************
+************************
+Document:  CACM-2703.html
+************************
+************************
+Document:  CACM-2323.html
+************************
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel computers as can be
+expected to be available in the near future, much 
+of numerical analysis will have to be recast in a more
+"parallel" form.  by this is meant that serial 
+algorithms ought to be replaced by algorithm which
+consist of several subtasks which can be computed 
+without knowledge of the results of the other subtasks. 
+************************
+
+************************
+Document:  CACM-0940.html
+************************
+************************
+Document:  CACM-2368.html
+************************
+************************
+Document:  CACM-2714.html
+************************
+************************
+Document:  CACM-2076.html
+************************
+************************
+Document:  CACM-1888.html
+************************
+
+
+spline function methods for nonlinear boundary-value problems
+
+the solution of the nonlinear differential equation
+y"=f(x,y,y') with two-point boundary conditions 
+is approximated by a quintic or cubic spline function
+y(x).  the method is well suited to nonuniform 
+mesh size and dynamic mesh size allocation.  for uniform
+mesh size h, the error in the quintic spline 
+y(x) is o(h^4), with typical error one-third that from
+numerov's method.  requiring the differential 
+equation to be satisfied at the mesh points results
+in a set of difference 
+************************
+
+************************
+Document:  CACM-1367.html
+************************
+************************
+Document:  CACM-2785.html
+************************
+************************
+Document:  CACM-1199.html
+************************
+************************
+Document:  CACM-1870.html
+************************
+************************
+Document:  CACM-1828.html
+************************
+************************
+Document:  CACM-2648.html
+************************
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of constraints.
+ the results presented may be valuable to 
+designers as useful design concepts, and may serve as
+a basis for developing a formal theory on the subject.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2837.html
+************************
+************************
+Document:  CACM-2255.html
+************************
+************************
+Document:  CACM-1595.html
+************************
+************************
+Document:  CACM-3007.html
+************************
+************************
+Document:  CACM-1048.html
+************************
+************************
+Document:  CACM-1158.html
+************************
+************************
+Document:  CACM-1569.html
+************************
+************************
+Document:  CACM-0141.html
+************************
+************************
+Document:  CACM-0675.html
+************************
+************************
+Document:  CACM-2346.html
+************************
+************************
+Document:  CACM-1368.html
+************************
+************************
+Document:  CACM-2327.html
+************************
+
+
+toward an automata theory of brains
+
+a source of ideas for automata theory-the study
+of the brain-has been pushed aside in mathematical 
+development of the theory.  this paper suggests the ways
+in which automata theory might evolve over the 
+next 25 years if it is to contribute to an understanding
+of how the brain processes information.
+
+cacm july, 1972
+
+arbib, m. a.
+
+automata theory, brain theory, network complexity,
+resolution of redundancy 
+************************
+
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations 
+************************
+
+************************
+Document:  CACM-3075.html
+************************
+************************
+Document:  CACM-1806.html
+************************
+
+
+on the downhill method
+
+the downhill method is a numerical method for
+solving complex equations f(z) = 0 on which the 
+only restriction is that the function w = f(z) must
+be analytical.  an introduction to this method is 
+given and a critical review of relating literature is
+presented.  although in theory the method always 
+converges, 
+************************
+
+************************
+Document:  CACM-2580.html
+************************
+************************
+Document:  CACM-1948.html
+************************
+
+
+computers in group theory: a survey
+
+computers are being applied to an increasingly
+diverse range of problems in group theory.  
+the most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, character tables, and commutator
+calculus.  group theory programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  in this survey the 
+more important algorithms in use are described and contrasted,
+and results which have been obtained 
+************************
+
+************************
+Document:  CACM-1262.html
+************************
+************************
+Document:  CACM-2896.html
+************************

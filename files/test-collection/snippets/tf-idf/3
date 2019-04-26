@@ -1,0 +1,1711 @@
+Snippets for the query:  Q3
+************************
+Total Hits:  108
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-1623.html
+************************
+
+
+an application of formac
+
+a nonlinear circuit analysis problem is stated
+and the way in which it was solved using formac 
+is indicated.  the solution of the problem using formac
+was notable since several other methods that 
+were tried failed.  the problem is straightforward (although
+untenable by hand) but nevertheless involved 
+an elaborate use of the formac language.  the program
+was fairly large and utilized practically every 
+command.  in particular, it made extensive use of the
+part command.  several tricks were necessary in 
+order to circumvent some of the shortcomings of the
+formac system.  this paper is more concerned with 
+the use of programming techniques in formac than with
+the actual engineering problem, although readers 
+may be interested in the problem because 
+************************
+
+************************
+Document:  CACM-1759.html
+************************
+************************
+Document:  CACM-1985.html
+************************
+************************
+Document:  CACM-2742.html
+************************
+
+
+improved event-scanning mechanisms for discrete event simulation
+
+simulation models of large, complex "real-world"
+applications have occasionally earned the 
+reputation of eating up hours of computer time.  this
+problem may be attributed in 
+************************
+ may be attributed in part to difficulties 
+such as slow stochastic convergence.  however, an additional
+problem lies in the fact that a significant 
+amount of bookkeeping time is required to keep future events
+in their proper sequence.  this paper presents 
+a method for significantly reducing the time spent scanning
+future event lists in discrete event simulations. 
+ there models are presented, all of which improve in effectiveness
+as the events-list scan problem becomes 
+more burdensome.
+
+cacm june, 1975
+
+wyman, f. p.
+
+discrete event simulation, simulation, event scanning mechanisms
+
+4.34 5.5 8.1
+
+ca750611 
+************************
+
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  this structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ the approach adopted here departs from conventional mechanical
+language design philosophies.  it stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+formal (i.e., contents-independent) syntactical definitions.
+ it relies exclusively on nonprocedural 
+representation of process as sets (tables) of relations
+between data and results (there are no control 
+statements such as go to, etc.), instead of using procedure
+descriptions (which are one-to-one 
+************************
+ (which are one-to-one translations 
+of flowcharts).  here an invariant pattern of procedure
+is identified as characteristic of the class 
+of all batch file processes.  this new philosophy 
+************************
+
+************************
+Document:  CACM-2519.html
+************************
+
+
+on the problem of communicating complex information
+
+************************
+ complex information
+
+the nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined.  the problem is analyzed in terms of 
+psychological and information-processing processes, and
+what turns out 
+************************
+
+************************
+Document:  CACM-1681.html
+************************
+
+
+easy english,a language for information
+retrieval through a remote typewriter console
+
+easy english is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  it has been developed
+for retrieval of documents from a computerized 
+data base, the moore school information systems laboratory
+files.  requests are formulated in a standardized 
+syntactical form (examples of which are presented), 
+************************
+
+************************
+Document:  CACM-1369.html
+************************
+
+
+half rotations in n-dimensional euclidean space
+
+an iterative procedure is described for determining
+half rotations in n-dimensional euclidean 
+space. the method is a variant of the cyclic jacobi
+procedure and utilizers elementary plane rotations 
+to obtain the half rotation matrix.  numerical examples are given.
+
+cacm september, 
+************************
+
+************************
+Document:  CACM-3020.html
+************************
+************************
+Document:  CACM-0877.html
+************************
+************************
+Document:  CACM-2331.html
+************************
+************************
+Document:  CACM-0883.html
+************************
+************************
+Document:  CACM-3128.html
+************************
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling the relative 
+ordering of events in the processes.
+a new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  the mechanism is defined formally, and then several
+examples of its use are given.  the relationship of the mechanism
+to protection mechanisms in the system is explained; 
+************************
+
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+
+
+interference between communicating parallel processes
+
+various kinds of interference 
+************************
+
+
+various kinds of interference between communicating
+parallel processes have been examined by 
+************************
+ have been examined by 
+dijkstra, knuth, and others.  solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of parallel programs, and informal
+proofs of correctness have been given for 
+these solutions.  in this paper a system of parallel
+processes is regarded as a machine which proceeds 
+from one state s (i.e. a collection of pertinent data
+values and process configurations) to a next state 
+s' in accordance with a transition rule s --> s'.  a
+set of such rules yields sequences of states, which 
+dictate the system's behavior.  the mutual exclusion problem
+and the associated subproblems are formulated 
+as questions of inclusion between sets of states, or
+of the existence of certain sequences.  a mechanical 
+proof procedure is shown, which will 
+************************
+
+************************
+Document:  CACM-1363.html
+************************
+
+
+a general method of systematic interval computation
+for numerical integration of initial value 
+problems
+
+a procedure is given for continuously 
+************************
+ is given for continuously computing
+and monitoring the step size to be used by 
+a self-starting, p-th order numerical integration method
+to solve an initial value problem.  the procedure 
+uses an estimate of 
+************************
+
+************************
+Document:  CACM-2578.html
+************************
+
+
+self-stabilizing systems in spite of distributed control
+
+cacm november, 1974
+
+dijkstra, e. w.
+
+multiprocessing, networks, self-stabilization, 
+************************
+
+************************
+Document:  CACM-2702.html
+************************
+
+
+on the complexity of lr(k) testing
+
+the problem of determining whether an arbitrary
+context-free grammar is a member of some easily 
+parsed subclass of grammars such as the lr(k) grammars
+is considered.  the time complexity of this problem 
+is analyzed both when k is considered to be a fixed
+integer and when k is considered to be a parameter 
+of the test.  in the first case, it is shown that for
+every k there exists an o(n(k+2)) algorithm for 
+testing the lr(k) property, where n is the size of the
+grammar in question.  on the other hand, if both 
+k and the subject grammar are problem parameters, then
+the complexity of the problem depends very strongly 
+on the representation chosen for k.  more specifically,
+it is shown that this problem is np-complete 
+when k is expressed 
+************************
+ 
+when k is expressed in unary.  when k is expressed in
+binary the problem is complete for nondeterministic 
+************************
+ for nondeterministic 
+exponential time.  these results carry over to many
+other parameterized classes of grammars, such as 
+the ll(k), strong ll(k), slr(k), lc(k), and strong lc(k) grammars.
+
+cacm december, 1975
+
+hunt, h. b. iii
+szymanski, t. g.
+ullman, j. d.
+
+computational complexity, context-free grammars,
+parsing, lr(k) grammars, np-complete problems
+
+4.12 5.23 5.25
+
+ca751205 
+************************
+
+************************
+Document:  CACM-1922.html
+************************
+
+
+proposed usa standard (data communication control
+procedures for the usa standarad code for information 
+interchange)
+
+cacm march, 1969
+
+data communication, data communication control procedures,
+data communication establishment/termination 
+procedures, data communication message transfer procedures,
+
+************************
+ transfer procedures,
+data communication error control procedures, 
+data communication polling/selection procedures, communication,
+communication control procedures, communication 
+establishment/termination procedures, communication
+message transfer procedures, 
+************************
+ transfer procedures, communication error 
+control procedures, communication polling/selection procedures,
+link, link control procedures, link establishment/termination 
+procedures, link message transfer procedures, 
+************************
+ transfer procedures, link error
+control procedures, link polling/selection procedures, 
+data link, data link control procedures, data link  establishment/termination
+procedures, data link message 
+transfer procedures, 
+************************
+
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and the other 
+************************
+ routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic routing,
+alternate routing, store-and-forward network, 
+distributed network, computer network, message switching
+
+3.81 8.0 
+************************
+
+************************
+Document:  CACM-2936.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-3031.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of 
+************************
+. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method 
+************************
+ers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can 
+************************
+
+************************
+Document:  CACM-1483.html
+************************
+************************
+Document:  CACM-1279.html
+************************
+************************
+Document:  CACM-2215.html
+************************
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication 
+************************
+
+************************
+Document:  CACM-1943.html
+************************
+************************
+Document:  CACM-1325.html
+************************
+
+
+remote, on-line, real-time computer diagnosis
+of the clinical electrocardiogram
+
+presented in this paper is a brief report on
+the hardware, software, system configuration and 
+function of a system for the remote, online, real-time digital
+computer diagnosis of clinical electrocardiograms. 
+ it seems likely that efforts of this sort will lead
+to a satisfactory solution to the problem of the 
+automatic diagnosis 
+************************
+
+************************
+Document:  CACM-2849.html
+************************
+
+
+ethernet: distributed packet switching for local computer networks
+
+ethernet is a branching 
+************************
+s
+
+ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. the packet
+transport mechanism provided by ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled 
+************************
+s or loosely coupled multiprocessors. 
+ an ethernet's shared communication facility, its ether,
+is a passive broadcast medium with no central 
+control.  coordination of access to the ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical arbitration.
+ switching of packets to their destinations 
+on the ether is distributed among the receiving stations
+using packet address recognition.  design principles 
+and implementation are described, based on experience
+with an operating ethernet of 100 nodes along a 
+kilometer of coaxial cable.  a model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.
+
+cacm july, 1976
+
+************************
+ness.
+
+cacm july, 1976
+
+metcalfe, r. m.
+boggs, d. r.
+
+computer networks, packet switching, multiprocessing,
+distributed control, distributed 
+************************
+
+************************
+Document:  CACM-0069.html
+************************
+************************
+Document:  CACM-0425.html
+************************
+************************
+Document:  CACM-3021.html
+************************
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key.  this has two important consequences: (1) 
+couriers or other secure means are not needed to transmit
+keys, since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient.
+ only he can decipher the message, since 
+only he knows the corresponding decryption key.  (2)
+a message can be "signed" using a privately held 
+decryption key.  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key.  signatures cannot be forged, and a signer cannot
+later deny the validity of his signature.  this 
+has obvious applications in "electronic mail" and "electronic
+funds transfer" systems.  a message is 
+encrypted by representing it as a number m, raising
+m to a publicly specified power e, and then taking 
+the remainder when the result is divided by the publicly
+specified product, n, of two large secret prime 
+numbers p and q.  decryption is similar;only a different,
+secret, power d is used, where e * d = 1 (mod(p-1) 
+* (q-1)).  the security of the system rests in part on
+the difficulty of factoring the published divisor, 
+n.
+
+cacm february, 1978
+
+rivest, r.
+shamir, a.
+adleman, l.
+
+digital signatures, public-key cryptosystems,
+privacy, authentication, security, factorization, 
+prime number, electronic mail, message-passing,
+electronic funds transfer, 
+************************
+
+************************
+Document:  CACM-2134.html
+************************
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem, together with munkres
+proposed algorithm for its solution in square 
+matrices, is presented first.  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices.  timing results
+obtained by using an adapted version of silver's 
+algol procedure are discussed, and a 
+************************
+
+************************
+Document:  CACM-1567.html
+************************
+************************
+Document:  CACM-2895.html
+************************
+
+
+a language for formal problem specification
+
+a language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ the 
+************************
+
+************************
+Document:  CACM-1224.html
+************************
+************************
+Document:  CACM-2377.html
+************************
+
+
+a hardware architecture for implementing protection rings
+
+protection of computations and information
+is an important aspect of a computer utility.  in 
+a system which uses segmentation as a memory addressing
+scheme, protection can be achieved in part by 
+associating concentric rings of decreasing access privilege
+with a computation.  this paper describes 
+hardware processor mechanisms for implementing these rings
+of protection.  the mechanisms for implementing 
+these rings of protection. the mechanisms allow cross-ring
+calls and subsequent returns 
+************************
+ and subsequent returns to occur without 
+trapping to the supervisor.  automatic hardware validation
+of references across ring boundaries is also 
+performed.  thus, a call by a user procedure to a protected
+subsystem (including the supervisor) is identical 
+to a call to a companion user procedure.  the mechanisms
+of passing and referencing arguments 
+************************
+
+************************
+Document:  CACM-0345.html
+************************
+************************
+Document:  CACM-1736.html
+************************
+************************
+Document:  CACM-0253.html
+************************
+************************
+Document:  CACM-1829.html
+************************
+
+
+an interactive graphical display monitor in
+a batch-processing environment with remote entry
+
+a graphic monitor 
+************************
+ entry
+
+a graphic monitor program is described.  it
+was developed at carnegie-mellon university for 
+the cdc g21 computer, which is a general purpose, batch-processing
+system with remote entry.  the existing 
+g21 system and the graphics hardware are described. 
+the graphic monitor is a resident auxiliary monitor 
+which provides comprehensive managerial capability
+over the graphical system in response to commands 
+from the human user.  it also will respond to commands
+from a user program through a similar interface, 
+where routine calls take the place of manual 
+************************
+
+************************
+Document:  CACM-2439.html
+************************
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with many remote 
+terminals simultaneously 
+************************
+
+************************
+Document:  CACM-2958.html
+************************
+
+
+abstract data types and the development of data structures
+
+abstract data types can play a significant role
+in the development of software that is reliable, 
+efficient, and flexible.  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types.  among
+the examples presented is a top-down 
+************************
+ presented is a top-down development 
+of a symbol table for a block structured language; a discussion
+of the proof of its correctness is given. 
+ the paper also contains a brief discussion of the problems
+involved in constructing algebraic specifications 
+that are both consistent and complete.
+
+cacm june, 1977
+
+guttag, j.
+
+abstract data type, correctness 
+************************
+
+************************
+Document:  CACM-1905.html
+************************
+
+
+the simplex method of linear programming using lu decomposition
+
+standard computer implementations of dantzig's
+simplex method for linear programming are based 
+upon forming the inverse of the basic matrix and updating
+the inverse after every step of the method. 
+ these implementations have bad round-off error properties.
+ this paper gives the theoretical background 
+for an implementation 
+************************
+
+************************
+Document:  CACM-1518.html
+************************
+
+
+an experimental model of system/360
+
+the problem of predicting the performance of
+modern computer systems is formidable.  one general 
+technique which can ease this problem is macroscopic simulation.
+ this paper reports on the applicability 
+of that technique to system/360.  the paper describes
+an experimental model of system/360-its hardware, 
+software, and its environment.  the measures of system 
+************************
+
+************************
+Document:  CACM-2703.html
+************************
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+************************
+
+************************
+Document:  CACM-3018.html
+************************
+
+
+covering edges by cliques with regard to
+keyword conflicts and intersection graphs
+
+kellerman has presented a method for determining
+keyword conflicts and described a heuristic 
+algorithm which solves a certain combinatorial optimization
+problem in connection with this method.  
+this optimization problem is here shown to be equivalent
+to the problem of covering the edges of a graph 
+by complete subgraphs with the objective 
+************************
+ subgraphs with the objective of minimizing
+the number of complete subgraphs.  a relationship 
+between this edge-clique-cover problem and the graph coloring
+
+************************
+ and the graph coloring
+problem is established which allows algorithms 
+for either one of these problems to be constructed
+from algorithm for the other.  as consequences of 
+this relationship, the keyword conflict problem and the
+edge-clique-cover problem are shown to be np-complete, 
+and if p=/np then 
+************************
+, 
+and if p=/np then they do not admit polynomial-time approximation
+algorithms which always produce solutions 
+within a factor less than 2 from the optimum.
+
+cacm february, 1978
+
+kou, l.
+stockmeyer, l.
+wong, c.
+watson, t.
+
+keyword conflicts, intersection graphs, node clique
+cover, edge clique cover, computational complexity, 
+np-complete problems, polynomial-time heuristics
+
+************************
+
+************************
+Document:  CACM-1099.html
+************************
+
+
+professional computer work for the blind
+
+developments in computer technology have opened
+new professional opportunities for the intelligent 
+blind.  since there are few if any occupations in which the
+blind can participate without serious disadvantage, 
+the opportunities offered them to gain entrance into
+various occupations through computer use including 
+that of programmer, is important for future rehabilitation
+planning. also of immediate interest is the 
+fact that the blind may be especially suited for programming
+work.  because of intense training in and 
+constant experience with locating objects in the unseen
+environment and also because of superbly trained 
+memory, the blind brings to the work of programming skills
+which the sighted has had little need to acquire. 
+ these qualifications should result in fewer debugging
+problems and make the blind 
+************************
+
+************************
+Document:  CACM-3120.html
+************************
+
+
+an event-driven compiling technique
+
+due to the linear structure of source text, difficulties may arise in a 
+one-pass compilation process.  these difficulties occur when an entity
+cannot be processed because of a forward reference to information
+only obtainable from subsequent entities.  classic solutions
+ask for data structures appropriate for each case.  a technique is
+presented here which uses instead control structures, namely events
+and processes.  the work of the compiler-writer 
+************************
+ of the compiler-writer becomes easier both
+conceptually and in practice because he can forget these problems
+at the outset and he avoids special processing for each problem.
+this technique has been applied to the construction of an algol
+68 compiler.  three examples from that implementation
+
+************************
+
+************************
+Document:  CACM-2096.html
+************************
+
+
+experiments with the m & n tree-searching program
+
+the m & n procedure is an improvement to the mini-max
+backing-up procedure widely used in computer program for game-playing
+and other purposes.  it is based on the principle that it is
+desirable to have many options when making decisions in the face of
+uncertainty.  the mini-max procedure assigns to a max (min) node
+the value of the highest (lowest) valued successor to that node. 
+the m & n procedure assigns to a max (min) node some function of
+the m (n) highest (lowest) valued successors.  an m & n procedure was
+written in lisp to play the game of kalah, and it was demonstrated that 
+the m & n procedure is significantly superior to the mini-max
+procedure.  the statistical significance of important conclusions is given. 
+since information on statistical significance has often been lacking in papers 
+on computer experiments in the artificial intelligence field, these experiments 
+can perhaps serve as a model for future work.
+
+cacm march, 1970
+
+
+************************
+
+************************
+Document:  CACM-3043.html
+************************
+
+
+distributed processes: a concurrent programming 
+************************
+: a concurrent programming concept
+
+a language concept for concurrent processes
+without common variables is introduced.  these 
+processes communicate and synchronize by means of procedure
+calls and guarded regions. 
+************************
+ and guarded regions.  this concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ the paper gives several examples of distributed processes
+and shows that they 
+************************
+
+and shows that they include procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, path
+expressions, and input/output as special cases.
+
+cacm november, 1978
+
+hansen, p.
+
+concurrent programming, distributed processes,
+microprocessor networks, nondeterminism, guarded 
+************************
+
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest. 
+************************
+ of growing interest.  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  based on primitive notions of module, message,
+and transaction key, 
+************************
+,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  it appears to be useful for
+programming a wide range of tasks.  this is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+cacm june, 1979
+
+feldman, j.
+
+distributed computing, modules, messages, assertions
+
+4.22 4.32
+
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components of the system.  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+************************
+
+************************
+Document:  CACM-3082.html
+************************
+
+
+time, clocks, and the ordering of events in a distributed system
+
+the concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+ a distributed algorithm is given for synchronizing 
+a system of logical clocks which can be used to totally
+order the events.  the use of the total ordering 
+is illustrated with a method for solving synchronization
+problems.  the algorithm is then specialized 
+for synchronizing physical clocks, and a bound is derived
+on how far out of synchrony the clocks can 
+become.  
+
+cacm july, 1978
+
+lamport, l.
+
+distributed systems, computer networks,
+clock synchronization, 
+************************
+
+************************
+Document:  CACM-2554.html
+************************
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition. 
+************************
+
+************************
+Document:  CACM-2174.html
+************************
+
+
+the stable marriage problem
+
+the original work of gale and shapley 
+************************
+ of gale and shapley on an assignment
+method using the stable marriage criterion 
+has been extended to find all the stable marriage assignments.
+ the algorithm derived for finding all 
+the stable marriage assignments is proved to satisfy
+all the conditions of the problem.  algorithm 411 
+applies to this paper.
+
+cacm july, 1971
+
+mcvitie, d. g.
+wilson,l. b.
+
+assignment problems, assignment procedures, combinatorics,
+discrete 
+************************
+
+************************
+Document:  CACM-2223.html
+************************
+************************
+Document:  CACM-1344.html
+************************
+
+
+statistical computations based upon algebraically specified models
+
+based upon a machine-readable statistical model
+and related symbolic specifications, an efficient 
+method of performing calculations for statistical models
+of a balanced complete nature is presented. 
+ fixes, mixed, and random analysis of variance models
+are considered.  a procedure for obtaining variance 
+************************
+
+************************
+Document:  CACM-2721.html
+************************
+
+
+the digital simulation of river plankton population dynamics
+
+this paper deals with the development of a
+mathematical model for and the digital simulation 
+in fortran iv of phytoplankton and zooplankton population
+densities in a river using previously developed 
+rate expressions.  in order to study the relationships
+between the ecological mechanisms involved, the 
+simulation parameters were varied illustrating the
+response of the ecosystem to different conditions, 
+including those corresponding to certain types of chemical
+and thermal pollution.  as an investigation 
+of the accuracy of the simulation methods, a simulation
+of the actual population dynamics of asterionella 
+in the columbia river was made based on approximations
+of conditions in that river. although not totally 
+accurate, the simulation was found to predict the general
+annual pattern of plankton growth fairly well 
+and, specifically, revealed the importance of the annual
+velocity cycle in determining such patterns. 
+ in addition, the study demonstrates the usefulness of
+digital simulations in the examinations of certain 
+aquatic ecosystems, as well as in environmental
+planning involving 
+************************
+al
+planning involving such examinations.
+
+cacm september, 1975
+
+claudson, r. m.
+
+digital simulation, mathematical modeling, plankton
+population dynamics, phytoplankton, zooplankton, 
+river ecosystems, ecological mechanisms, environmental simulation,
+modeling 
+************************
+
+************************
+Document:  CACM-2376.html
+************************
+
+
+synchronization of communicating processes
+
+formalization of a 
+************************
+
+
+formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly.
+ this is demonstrated for a system consisting of 
+many sending processes which deposit messages in a buffer
+and many 
+************************
+s in a buffer
+and many receiving processes which remove messages 
+from that buffer. 
+************************
+
+************************
+Document:  CACM-2844.html
+************************
+************************
+Document:  CACM-1893.html
+************************
+************************
+Document:  CACM-1610.html
+************************
+
+
+a method for the solution of transportation problems with tall matrices
+
+a method is presented for the solution of the
+transportation problem having a cost matrix with 
+few columns.  the computer implementation of this method
+shows it to be very fast and efficient.  application 
+are indicted for the personnel classification problem
+as well as the classical transportation problem. 
+ an example is worked out in detail.
+
+cacm 
+************************
+
+************************
+Document:  CACM-0346.html
+************************
+************************
+Document:  CACM-0403.html
+************************
+************************
+Document:  CACM-2536.html
+************************
+
+
+telecommunications using a front-end minicomputer
+
+the use of a front-end minicomputer to provide
+varied remote terminal access to a large scale 
+computer is considered.  the problems of embedding
+telecommunications 
+************************
+s of embedding
+telecommunications i/o within an operating system 
+are discussed, and it is shown how the decentralization
+of intelligence acquired by front-end processing 
+vastly simplifies the problem.  a specific implementation is
+discussed with emphasis on the main processor-minicomputer 
+link, the hardware-software implementation, the effect
+of the main processor operating system, and an 
+assessment of the advantages over a hard wired line controller.
+
+cacm march, 1973
+
+feinroth, y.
+franceschini, e.
+goldstein, m.
+
+telecommunications, minicomputer, front-end
+processor, remote job entry, remote terminals
+
+************************
+
+************************
+Document:  CACM-1527.html
+************************
+
+
+a grammar base question answering procedure
+
+the subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or implicitly represented,
+through questions posed in natural language 
+sentences.  this procedure makes use of a sentence recognition
+device for the class of grammars which 
+will correctly decide between the grammatical and ungrammatical
+sentences of a natural language.  it 
+is possible to make use of a recognition device of this
+sort for the following reason: much data is fully 
+expressible as a set of sentences in a natural language,
+a set which can be exhaustively and exclusively 
+generated by a grammar. 
+************************
+
+************************
+Document:  CACM-2794.html
+************************
+************************
+Document:  CACM-1351.html
+************************
+************************
+Document:  CACM-2371.html
+************************
+
+
+a system for interprocess communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system 
+************************
+ in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer 
+************************
+
+************************
+Document:  CACM-0876.html
+************************
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+data types such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from 
+************************
+
+for abstract types from a library of implementations 
+is discussed.  this 
+************************
+
+************************
+Document:  CACM-1534.html
+************************
+
+
+dad, the c. operating system
+
+the design and implementation of the c.
+operating system, dad, is described in detail. 
+ this system is designed for the control data 3600 using
+a large drum backing store and is intended to 
+allow the integration of a remote console (display) subsystem
+into a conventional job stack environment. 
+ the use of the drums, 
+************************
+
+************************
+Document:  CACM-2870.html
+************************
+
+
+a lattice model of secure information flow
+
+this paper investigates mechanisms that guarantee
+secure information flow in a computer system. 
+these mechanisms are examined within a mathematical framework
+suitable for formulating 
+************************
+
+************************
+Document:  CACM-1459.html
+************************
+
+
+requirements for real-time languages
+
+real-time languages have different requirements
+from other programming languages because of 
+the special nature of their applications, the environment
+in which their object programs are executed 
+and the environment in which they may be compiled.  it
+may not be the language extensions that ultimately 
+advance developments in the field.  progress may be made
+by attacking the special compiling and executing 
+system problems that must be solved.
+
+************************
+
+************************
+Document:  CACM-1595.html
+************************
+
+
+on the computer enumeration of finite topologies
+
+the problem of enumerating the number of topologies
+which can be formed from a finite point 
+set is considered both theoretically and computationally.
+
+************************
+ly and computationally.
+ certain fundamental results are established, 
+leading to an algorithm for enumerating finite topologies,
+and computed results are given for n <= 7. 
+ an interesting side result of the computational work
+was the unearthing of a theoretical error which 
+had been 
+************************
+
+************************
+Document:  CACM-2848.html
+************************
+
+
+synthesis of decision rules
+
+decision tables can be used as an effective
+tool during an interview to record the logic of 
+processes to be automated.  the result of such an interview
+is not a structure of complete decision tables 
+but rather sets of decision rules.  the purpose of this
+paper is to provide a procedure for synthesizing 
+the 
+************************
+
+************************
+Document:  CACM-2900.html
+************************
+
+
+some theorems to aid in solving the file allocation problem
+
+the file allocation problem-i.e. the problem
+of finding the optimal set of network sites at 
+which to locate 
+************************
+ sites at 
+which to locate copies of a file-is known to be, in general,
+polynomial complete.  heuristics and other 
+aids to finding optimal, or near-optimal, solutions are
+therefore much needed.  in this paper we present 
+three theorems which can be applied a priori to indicate
+that certain sites should (or should not) be 
+included in an optimal allocation.
+
+cacm november, 1977
+
+grapa, e.
+belford, g. g.
+
+file allocation, computer networks, distributed data management
+
+4.33
+
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+
+
+optimal program and data locations in computer networks
+
+an optimization procedure for the allocation
+of 
+************************
+ for the allocation
+of program and data files in a computer network 
+is presented.  this algorithm takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  a search procedure for the file location 
+problem is described, along 
+************************
+ is described, along with an example
+and a possible application of the model.
+
+cacm may, 1977
+
+morgan, h. l.
+levin, k. d.
+
+computer networks, databases, distributed
+databases, optimal file 
+************************
+
+************************
+Document:  CACM-1724.html
+************************
+
+
+a generalized partial pass block sort
+
+the design of a partial pass block sort with
+arbitrary range of key and number of work files 
+is described. the design is a generalization of the partial
+pass column sort by ashenhurst and the amphisbaenic 
+sort by nagler. the power of the sort is tabulated for
+various sizes of input file and number of work 
+files. consideration is given to the problem of combining
+a block 
+************************
+
+************************
+Document:  CACM-2877.html
+************************
+
+
+a program data flow analysis procedure
+
+the global data relationships in a program
+can be exposed and codified by the static analysis 
+methods described in this paper.  a procedure is given
+which determines all the definitions which can
+possibly "reach" each node of 
+************************
+
+************************
+Document:  CACM-2939.html
+************************
+
+
+abstraction mechanisms in clu
+
+clu is a new 
+************************
+ in clu
+
+clu is a new programming language designed to support
+the use of abstractions in program construction. 
+ work in programming methodology has led to the realization
+that three kinds of abstractions-procedural, 
+control, and especially data abstractions-are useful
+in the programming process.  of these, only the 
+procedural abstraction is supported well by conventional
+languages, through the procedure or subroutine. 
+ clu provides, in addition to procedures, novel linguistic
+mechanisms that support the use of data and 
+control abstractions.  this paper provides an in troduction
+to the abstraction mechanisms in clu.  by 
+means of programming examples, the utility of the 
+************************
+, the utility of the three
+kinds of abstractions in program construction 
+is illustrated, and it is shown how clu programs may
+be written to use and implement abstractions.  the 
+clu library, which permits incremental program development
+with complete type checking performed 
+************************
+
+************************
+Document:  CACM-1863.html
+************************
+************************
+Document:  CACM-2196.html
+************************
+
+
+a man-machine approach toward solving the traveling salesman problem
+
+the traveling salesman problem belongs to an
+important class of scheduling and routing problems. 
+ it is also a subproblem in solving others, such as
+the warehouse distribution problem.  it has been 
+attacked by many mathematical methods with but meager
+success.  only for special forms of the problem 
+or for problems with a moderate number of points can
+it be solved exactly, even if very large amounts 
+of computer time are used.  heuristic procedures have
+been proposed 
+************************
+s have
+been proposed and tested with only slightly better 
+results.  this paper describes a computer aided heuristic
+technique which uses only a modest amount of 
+computer time in real-time to solve large (100-200)
+point problems.  this technique takes advantage of 
+both the computer's and the human's problem-solving
+abilities.  the computer is not asked to solve the 
+problem in a brute force way as in many of today's heuristics,
+but it is asked to organize the data for 
+the human so that the human can solve the problem easily.
+ the technique used in this paper seems to 
+point to new directions in the field of man-machine interaction
+and in the field of artificial intelligence.
+
+cacm may, 1971
+
+krolak, p.
+felts, w.
+marble, g.
+
+heuristic procedures, computer-aided heuristic 
+************************
+
+************************
+Document:  CACM-1855.html
+************************
+
+
+a program for the syntactic analysis of english sentences
+
+a program is described which produces syntactic
+analyses of english sentences with respect 
+to a transformational grammar.  the main features of the
+analyzer are that it uses only a limited dictionary 
+of english words and that it pursues all analysis paths
+simultaneously while processing the sentence 
+from left to right.  the form of representation used
+for the dictionary and the grammar is indicated 
+and an outline account is given of the analysis procedure.
+ techniques for keeping the size of the analysis 
+record within reasonable limits and for avoiding the need
+for dynamic application of certain transformational 
+rules are described.   a number of examples of output
+produced by 
+************************
+
+************************
+Document:  CACM-1014.html
+************************
+
+
+machine controls for analysis of variance
+
+a major problem in using the analysis of variance,
+as the number of factors increases, is the 
+exponential rise in the number of interactions.  even
+though the experimenter may not be interested in 
+these interactions it is impossible to ignore them in
+most experimental designs because of the problem 
+of getting error terms.  it is natural therefore to look
+to the computer to handle the bulk of work involved 
+in computing 
+************************
+
+************************
+Document:  CACM-2949.html
+************************
+
+
+a correctness proof of a topology information
+main tenance protocol for a distributed computer 
+network
+
+in order for the nodes 
+************************
+
+
+in order for the nodes of a distributed computer
+network to communicate, each 
+************************
+ to communicate, each node must have 
+information about the network's topology.  since nodes
+and links sometimes crash, a scheme is needed 
+to update this information.  one of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller.  the topology
+information protocol that was implemented on the 
+merit computer network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.  it is based on baran's "hot
+potato heuristic routing doctrine."  a correctness 
+proof of this topology information protocol is also presented.
+
+cacm july, 1977
+
+tajibnapis, w. d.
+
+distributed computer network, correctness proofs,
+computer networks, distributed control, network 
+topology, routing problem in networks, distributed operating
+system, store and forward packet switching, 
+store and forward message switching, traffic control
+
+************************
+
+************************
+Document:  CACM-0243.html
+************************
+
+
+n-dimensional codes for detecting and correcting multiple errors
+
+the paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  the message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  the processes of encoding and error 
+************************
+
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.  illustrative examples of practical 
+and theoretical significance are given. 
+************************
+
+************************
+Document:  CACM-2445.html
+************************
+************************
+Document:  CACM-0020.html
+************************
+
+
+accelerating convergence of iterative processes
+
+a technique is discussed which, when applied
+to an iterative procedure for the solution of
+
+************************
+
+************************
+Document:  CACM-1692.html
+************************
+************************
+Document:  CACM-3171.html
+************************
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages.  under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, during execution of the program. 
+
+cacm october, 1979
+
+klint, p.
+
+line number administration, diagnostic messages, abstract machine code 
+
+4.12 
+************************
+
+************************
+Document:  CACM-1672.html
+************************
+************************
+Document:  CACM-1150.html
+************************

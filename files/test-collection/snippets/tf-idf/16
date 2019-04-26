@@ -1,0 +1,904 @@
+Snippets for the query:  Q16
+************************
+Total Hits:  41
+************************
+
+************************
+Document:  CACM-1783.html
+************************
+************************
+Document:  CACM-0091.html
+************************
+************************
+Document:  CACM-1886.html
+************************
+
+
+generation of optimal code for expressions via factorization
+
+given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the expressions, i.e. finding a set of subexpressions 
+each of which occurs in two or more other expressions
+or subexpressions.  once all the factors have been 
+ascertained, a sequencing procedure is applied which
+orders the factors and expressions such that all 
+information is computed in the correct sequence and factors
+need be retained in memory a minimal amount 
+of time.  an assignment algorithm is then executed in
+order to minimize the total number of temporary 
+storage cells required to hold the results of evaluating
+the factors.  in order to make these techniques 
+computationally feasible, heuristic procedures are
+applied, and hence global optimal results are not 
+necessarily generated.  the factorization algorithms
+are also applicable to the problem of factoring 
+boolean switching expressions and of factoring polynomials
+encountered in symbol manipulating systems.
+
+cacm june, 1969
+
+breuer, m. a.
+
+factorization algorithms, code optimization, sequencing
+of operations, 
+************************
+
+************************
+Document:  CACM-1331.html
+************************
+************************
+Document:  CACM-1154.html
+************************
+
+
+multi-tape and infinite-state automata -- a survey
+
+a survey of machines which are more powerful
+than finite automata and less powerful than general 
+turing machines is presented.  it is felt that the machines
+in this category are as closely related to 
+digital computers as either the finite automata or the
+unrestricted turing machines.  intermediate machines 
+can be created 
+************************
+
+************************
+Document:  CACM-1159.html
+************************
+************************
+Document:  CACM-2344.html
+************************
+************************
+Document:  CACM-0079.html
+************************
+************************
+Document:  CACM-1676.html
+************************
+
+
+the lrltran compiler
+
+extensive software problems confront an organization
+which possesses a number of different 
+computers and which frequently acquires new ones. 
+to maintain cohesion, a system must be developed, 
+written in a high level language, which minimizes machine
+dependencies and isolates those which are necessary. 
+ a language and a compiler for the language are discussed
+here.  the language, called lrltran, is a heavily 
+augmented fortran.  the tree-pass compiler makes use
+internally of a postfix polish notation (pass i 
+to pass ii) and a tree representation referred to as
+a "composite blocking table" (pass i to pass iii). 
+ machine-independent optimization occurs in pass ii
+and 
+************************
+ occurs in pass ii
+and do-loop and machine-dependent optimization in 
+pass iii.
+
+cacm 
+************************
+ in 
+pass iii.
+
+cacm november, 1968
+
+mendicino, s. f.
+martin, j. t.
+ranelletti, j. e.
+zwakenberg, r. g.
+
+compiler, compiler-compiler, machine independence,
+scatter storage technique, polish processor, 
+common subsegments, tree representation, optimization
+
+4.12 4.20
+
+ca681103 
+************************
+
+************************
+Document:  CACM-1414.html
+************************
+************************
+Document:  CACM-0241.html
+************************
+************************
+Document:  CACM-0537.html
+************************
+************************
+Document:  CACM-1795.html
+************************
+
+
+optimal code for serial and parallel computation
+
+cacm december, 1969
+
+fateman, r. j.
+
+code optimization, sequencing of operations,
+
+************************
+
+************************
+Document:  CACM-1915.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-1868.html
+************************
+************************
+Document:  CACM-3005.html
+************************
+
+
+implications of structured programming for machine architecture
+
+based on an empirical study of more than 10,000
+lines of program text written in a goto-less 
+language, a machine architecture specifically designed for
+structured programs is proposed.  since assignment, 
+call, return, and if statements together account for
+93 percent of all executable statements, special 
+care is given to ensure that these statements can be implemented
+efficiently.  a highly compact instruction 
+encoding scheme is presented, which can reduce program
+size by a factor of 3.  unlike a huffman code, 
+which utilizes variable 
+************************
+, 
+which utilizes variable length fields, this method uses
+only fixed length (1-byte) op code and address 
+fields.  the most frequent instructions consist of a
+single 1-byte field.  as a consequence, instruction 
+decoding time is minimized, and the machine is
+efficient with respect 
+************************
+
+************************
+Document:  CACM-1204.html
+************************
+************************
+Document:  CACM-1564.html
+************************
+
+
+description of basic algorithm in detab/65 preprocessor
+
+the basic algorithm for the conversion of decision
+tables into cobol code is contained in the
+generator portion of the detab/65 preprocessor.  the
+generator analyzes a decision table and produces 
+simple cobol conditional statements.  core storage is
+saved by using queueing techniques and extensive 
+indexing and also by outputting the code as it is generated,
+a line at a time.  the only optimization 
+attempted is the elimination 
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+************************
+Document:  CACM-2964.html
+************************
+************************
+Document:  CACM-2253.html
+************************
+
+
+index ranges for matrix calculi
+
+the paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described by the authors 
+in a previous paper.  this scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code.  the goal is to automatically
+
+************************
+.  the goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures.
+ the paper is therefore preoccupied with "indexing 
+by position."  the relationship of "indexing by
+name" and "indexing by position" is discussed.
+
+cacm december, 1972
+
+bayer, r.
+witzgall, c.
+
+address calculations, algorithm transformation,
+compilation, data structures, indexing by name, 
+indexing by position, index domain, index map, index
+range, matrix expressions, normal form, programming 
+languages, program optimization, range operations, symbolic
+
+************************
+
+************************
+Document:  CACM-3066.html
+************************
+************************
+Document:  CACM-1016.html
+************************
+************************
+Document:  CACM-0252.html
+************************
+************************
+Document:  CACM-2495.html
+************************
+
+
+adapting optimal code generation for arithmetic
+expressions to the instruction sets available 
+on present-day computers
+
+cacm june, 1973
+
+stockhausen, p. f.
+
+arithmetic expressions, code generation, compilers,
+object-code optimization, register assignment, 
+************************
+
+************************
+Document:  CACM-0333.html
+************************
+************************
+Document:  CACM-3173.html
+************************
+************************
+Document:  CACM-1658.html
+************************
+
+
+analysis of algorithms for the zero-one programming problem
+
+this paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  computational experience
+is summarized.  the machine time and storage 
+requirements of several of the algorithms are compared
+over several test problems of small and intermediate 
+size.  computer experiments still provide little hope
+of solving problems with over 100 variables with 
+a reasonable amount of machine time.
+
+cacm december, 1968
+
+gue, r. l.
+liggett, j. c.
+cain, k. c.
+
+operations research, optimization theory, integer
+programming, 
+************************
+
+************************
+Document:  CACM-0195.html
+************************
+************************
+Document:  CACM-0078.html
+************************
+************************
+Document:  CACM-2748.html
+************************
+
+
+indirect threaded code
+
+an efficient arrangement for interpretive code
+is described.  it is related to bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independent implementations.
+
+************************
+
+************************
+Document:  CACM-0048.html
+************************
+************************
+Document:  CACM-2735.html
+************************
+************************
+Document:  CACM-1167.html
+************************
+************************
+Document:  CACM-2079.html
+************************
+************************
+Document:  CACM-1134.html
+************************
+
+
+some effects of the 6600 computer on language structures*
+
+the problem of compiling efficient 6600 codes
+prompted the development of an intermediate language 
+reflecting the structure of the machine, that is more
+easily 
+************************
+, that is more
+easily manipulated in improving object program 
+efficiency.  the subject of this paper is the intermediate
+language and methods of manipulating it.  
+compilations of a series of arithmetic statements are
+discussed.  it is assumed that all functions and 
+exponentials have been removed from these statements,
+and replaced by simple variables.  for purposes 
+of simplicity the treatment of subscripts is ignored. 
+a simplified 6600 structure is presented to illustrate
+the compiling method.  several assumptions are made
+for purposes of simplification, although there are 
+cases in which the assumptions are violated in the actual machine.
+
+cacm february, 1964
+
+************************
+
+************************
+Document:  CACM-2035.html
+************************
+************************
+Document:  CACM-1275.html
+************************
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial illiac optimization 
+problem.  a satisfactory 
+************************
+
+************************
+Document:  CACM-2834.html
+************************
+************************
+Document:  CACM-0093.html
+************************
+************************
+Document:  CACM-3175.html
+************************
+************************
+Document:  CACM-1183.html
+************************
+************************
+Document:  CACM-2133.html
+************************
+************************
+Document:  CACM-0593.html
+************************
+************************
+Document:  CACM-2801.html
+************************
+************************
+Document:  CACM-2701.html
+************************
+
+
+a fast and usually linear algorithm for global
+flow analysis (abstract only--complete paper jacm 
+23,1 january, 1976)
+
+a new algorithm for global flow analysis on
+reducible graphs is presented. the algorithm is 
+shown to treat a very general class of function spaces.
+ for a graph of e edges, the algorithm has a 
+worst case time bound of o(e log e) function operations.
+ it is also shown that in programming terms, 
+the number of operations is proportional to e plus the
+number of exits from program loops.  consequently 
+a restriction to one-entry one-exit control structures
+linearity.  the algorithm can be extended to yet 
+larger classes of function spaces and graphs by relaxing
+the time bound.  examples are given of code 
+improvement problems which can be solved using the algorithm.
+
+cacm december, 1975
+
+graham, s. l.
+wegman, m.
+
+global flow analysis, data flow, code optimization,
+common subexpression 
+************************
+
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+************************
+Document:  CACM-2624.html
+************************
+************************
+Document:  CACM-1231.html
+************************
+************************
+Document:  CACM-1232.html
+************************
+************************
+Document:  CACM-1064.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+
+
+an algorithm for reduction of operator strength
+
+a simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  several extensions,
+including linear function test replacement, 
+are discussed.  these algorithms should fit well into an
+integrated package of local optimization algorithms.
+
+cacm november, 1977
+
+cocke, j.
+
+compilers, optimization of compiled code, program analysis,
+operator 
+************************
+
+************************
+Document:  CACM-1168.html
+************************
+************************
+Document:  CACM-2106.html
+************************
+************************
+Document:  CACM-2836.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-2897.html
+************************
+
+
+a case study of a new code generation technique for compilers
+
+recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ such a compiler translates the parsed source code into
+lower level code by a sequence of steps.  each 
+step expands higher level statements into blocks of
+lower level code and then performs optimizations 
+on the result.  each 
+************************
+s 
+on the result.  each statement has only one possible
+expansion-the task of tailoring this code to take 
+advantage of any special cases is done by the optimizations.
+ this paper provides 
+************************
+s.
+ this paper provides evidence that this 
+strategy can indeed result in good object code.  the
+traditionally difficult pl/i concatenate statement 
+was investigated as a detailed example.  a set of fairly
+simple optimizations was identified which 
+************************
+s was identified which allow 
+the compiler to produce good code. more elaborate optimizations
+can further improve 
+************************
+s
+can further improve the object code. 
+ for most contexts of the concatenate statement, the code
+produced by a compiler using the expansion-optimization 
+strategy described 
+************************
+ 
+strategy described above compares favorably with the
+code produced by a conventional pl/i optimizing 
+compiler.
+
+cacm december, 1977
+
+carter, j. l.
+
+compiler structure, optimizing compiler, code
+generation, pl/i compiler, concatenation, program 
+optimization, optimization techniques, 
+************************
+
+************************
+Document:  CACM-2464.html
+************************
+************************
+Document:  CACM-2117.html
+************************
+
+
+representation for calen
+dar date for machine-to-machine data interchange*
+(proposed american national standard)
+
+cacm january, 1970
+
+calendar date, machine-to-machine interchange,
+month, year, day, representation coded
+
+3.70 3.73 3.74 3.9
+
+************************
+
+************************
+Document:  CACM-2680.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+************************
+Document:  CACM-3080.html
+************************
+
+
+proving the correctness of heuristically optimized code 
+
+a system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  a primary use of
+the system is as a post optimization step in code 
+generation. 
+************************
+ step in code 
+generation.  the low level language programs need not
+be generated by a compiler and in fact could be 
+hand coded.  examples of the usefulness of such a system
+are given.  some interesting results are the 
+ability to handle programs that implement recursion by
+bypassing the start of the program, and the detection 
+and pinpointing of a wide class of errors in the low
+level language programs.  the examples demonstrate 
+that optimization of the genre of this 
+************************
+ of the genre of this paper can result
+in substantially faster operation and the saving 
+of memory in terms of program and stack sizes.
+
+cacm july, 1978
+
+samet, h.
+
+compilers, correctness, code optimization,
+debugging, program 
+************************
+
+************************
+Document:  CACM-1757.html
+************************
+
+
+data code for calendar date for machine-to-machine
+data interchange* 
+************************
+-to-machine
+data interchange* (proposed usa standard)
+
+cacm april, 1968
+
+usa standard, data code, calendar date, machine-to-machine
+
+************************
+
+************************
+Document:  CACM-1162.html
+************************
+************************
+Document:  CACM-2611.html
+************************
+************************
+Document:  CACM-2246.html
+************************
+
+
+levels of language for portable software
+
+an increasing amount of software is being
+implemented in a portable form.  a popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language 
+************************
+
+************************
+Document:  CACM-0719.html
+************************
+************************
+Document:  CACM-2929.html
+************************
+
+
+an analysis of inline substitution for a structured programming language
+
+an optimization technique known as inline substitution
+is analyzed.  the optimization consists 
+of replacing a procedure invocation by a modified copy
+of the procedure body.  the general problem of 
+using inline substitution to minimize execution time
+subject to size constrain ts is formulated, and an 
+approximate algorithmic solution is proposed.  the algorithm
+depends on run-time statistics about the 
+program to be optimized.  preliminary results for the
+clu structured programming language indicate that, 
+in programs with a low degree of recursion, over 90
+percent of all procedure calls can be eliminated, 
+with little increase in the size of compiled code and a
+small savings 
+************************
+
+************************
+Document:  CACM-1947.html
+************************
+
+
+object code optimization
+
+methods of analyzing 
+************************
+
+
+methods of analyzing the control flow and data
+flow of programs during compilation are applied 
+to transforming the program to improve object time efficiency.
+ dominance relationships, indicating which 
+statements are necessarily executed before others, are
+used to do global common expression elimination 
+and loop identification.  implementation of these and other
+optimizations in os/360 fortran h are described.
+
+cacm january, 1969
+
+lowry, e. s.
+medlock, c. w.
+
+compilers, data flow analysis, dominance, efficiency,
+fortran,  graph theory, loop structure, machine 
+instructions, object code, optimization, redundancy
+
+************************
+
+************************
+Document:  CACM-1289.html
+************************
+************************
+Document:  CACM-2423.html
+************************
+
+
+a parser-generating system for constructing compressed compilers
+
+this paper describes a parser-generating system
+(pgs) currently in use on the cdc-6500 computer 
+at purdue university.  the pgs is a fortran-coded compiler.
+ in the input translation grammar, each bnf 
+syntactic rule corresponds to a (possibly empty) "code
+generator" realizable as an assembly language, 
+fortran or algol, subroutine that is called whenever
+that syntactic rule is applied in the parse of a 
+program.  typical one-pass compilers constructed by the
+pgs translate source programs at speeds approaching 
+14,000 cards per minute.  for an xpl compiler, the parser
+program and its tables currently occupy 288 
+words of 60-bit core memory of which 140 words are parsing
+table entries and 82 words are links to code 
+generators.
+
+cacm november, 1973
+
+mickunas, m. d.
+schneider, v. b.
+
+parser generators, translator writing systems,
+syntactic analysis, normal-form grammars, pushdown 
+automata, translation grammars, translator optimization, compression algorithm
+
+************************
+
+************************
+Document:  CACM-2835.html
+************************
+************************
+Document:  CACM-0618.html
+************************
+************************
+Document:  CACM-1652.html
+************************
+************************
+Document:  CACM-2527.html
+************************
+************************
+Document:  CACM-2533.html
+************************
+************************
+Document:  CACM-3125.html
+************************
+************************
+Document:  CACM-1065.html
+************************
+************************
+Document:  CACM-1187.html
+************************
+************************
+Document:  CACM-2491.html
+************************
+
+
+threaded code
+
+the concept of "threaded code" is presented as
+an alternative to machine language code.  hardware 
+and software realizations of it are given.  in software
+it is realized as interpretive code not needing 
+an interpreter.  extensions and optimizations are mentioned.
+
+cacm 
+************************
+s are mentioned.
+
+cacm june, 1973
+
+bell, j. r.
+
+interpreter, machine code, time tradeoff, space
+
+************************
+
+************************
+Document:  CACM-1756.html
+************************
+************************
+Document:  CACM-2944.html
+************************
+
+
+shifting garbage collection overhead to compile time
+
+this paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  the paper assumes a transaction
+oriented collection scheme, as proposed by 
+deutsch and bobrow, the necessary features of which are
+summarized.  implementing the described optimizations 
+requires global flow analysis to be performed on the
+source program.  it is shown that at compile time 
+certain program actions that affect the reference counts
+of cells can be deduced.  this information is 
+used to find actions that cancel when the code is executed
+and those 
+************************
+
+************************
+Document:  CACM-2586.html
+************************
+************************
+Document:  CACM-0797.html
+************************
+************************
+Document:  CACM-2979.html
+************************
+************************
+Document:  CACM-2858.html
+************************
+
+
+a process for the determination of
+addresses in variable length addressing
+
+an algorithm is presented for the assignment
+of instruction addresses and formats under the 
+following conditions: (1) the length of the instruction varies
+as a function of the distance of the instruction 
+from its target; (2) there exists an optimality criterion
+which implies some preferential choices subject 
+to the addressing constraints.  this may be, for example,
+achieving the smallest number of long instructions, 
+in which case the total code length is minimized, or
+minimizing the assigned address of a specified point 
+in the program.  the algorithm is suitable for arbitrary
+program structure and a choice of optimization 
+criteria.
+
+cacm june, 
+************************
+
+************************
+Document:  CACM-1362.html
+************************
+************************
+Document:  CACM-0693.html
+************************
+************************
+Document:  CACM-1651.html
+************************
+************************
+Document:  CACM-2616.html
+************************
+************************
+Document:  CACM-0031.html
+************************
+************************
+Document:  CACM-3171.html
+************************
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages.  under suitable
+circumstances, this method requires absolutely no overhead,
+in either time or space, during execution of the program. 
+
+cacm october, 1979
+
+klint, p.
+
+line number administration, diagnostic messages, abstract machine code 
+
+4.12 4.13 4.20 4.42
+
+************************
+
+************************
+Document:  CACM-2746.html
+************************
+************************
+Document:  CACM-0066.html
+************************
+************************
+Document:  CACM-1402.html
+************************
+************************
+Document:  CACM-1670.html
+************************
+************************
+Document:  CACM-0230.html
+************************

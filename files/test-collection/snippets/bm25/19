@@ -1,0 +1,1116 @@
+Snippets for the query:  Q19
+************************
+Total Hits:  52
+************************
+
+************************
+Document:  CACM-0511.html
+************************
+************************
+Document:  CACM-1886.html
+************************
+
+
+generation of optimal code for expressions via factorization
+
+given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the expressions, i.e. finding a set of subexpressions 
+each of which occurs in two or more other expressions
+or subexpressions.  once all the factors have been 
+ascertained, a sequencing procedure is applied which
+orders the factors and expressions such that all 
+information is computed in the correct sequence and factors
+need be retained in memory a minimal amount 
+of time.  an assignment algorithm is then executed in
+order to minimize the total number of temporary 
+storage cells required to hold the results of evaluating
+the factors.  in order to make these techniques 
+computationally feasible, heuristic procedures are
+applied, and hence global optimal results are not 
+necessarily generated.  the factorization algorithms
+are also applicable to the problem of factoring 
+************************
+
+************************
+Document:  CACM-2805.html
+************************
+************************
+Document:  CACM-0828.html
+************************
+************************
+Document:  CACM-0955.html
+************************
+************************
+Document:  CACM-2780.html
+************************
+
+
+on computing certain elements of the inverse of a sparse matrix
+
+a recursive algorithm for computing the inverse
+of a matrix from the lu factors based on relationships 
+in takahashi, et al., is examined.  the formulas for the
+algorithm are given; the dependency relationships 
+are derived; the computational costs are developed; and some
+general comments on application and stability 
+are made.
+
+cacm march, 1975
+
+erisman, e. m.
+tinney, w. f.
+
+sparse matrices, triangular factorization, 
+************************
+
+************************
+Document:  CACM-2430.html
+************************
+************************
+Document:  CACM-1961.html
+************************
+
+
+an efficient search algorithm to find the elementary circuits of a graph
+
+a theoretically most efficient search 
+************************
+
+************************
+Document:  CACM-2284.html
+************************
+************************
+Document:  CACM-0751.html
+************************
+************************
+Document:  CACM-0777.html
+************************
+************************
+Document:  CACM-2273.html
+************************
+
+
+conversion of decision tables by rule mask method without rule mask
+
+two algorithms for generating computer programs
+from decision tables are described.  the algorithms 
+allow handling limited entry, extended entry, and mixed
+entry tables.  the algorithms are based on the 
+rule mask method but need not have the masks at execution
+time.  they perform the logical operations 
+immediately rather than at the end of the interpreting
+process.  execution time can be considerably reduced 
+by instantly marking rules which are not applicable (algorithms
+1 and 2) 
+************************
+
+************************
+Document:  CACM-3152.html
+************************
+
+
+storage reorganization techniques for
+matrix computation in a paging environment
+
+in order to multiply matrices while minimizing
+the number of page fetches required, it is often more efficient to
+reorganize the data into submatrix form and to use block multiplication 
+rather than to use the best known algorithms which leave the
+matrices 
+************************
+
+************************
+Document:  CACM-1822.html
+************************
+************************
+Document:  CACM-1504.html
+************************
+
+
+algorithms for finding a fundamental set
+of cycles for an undirected linear graph
+
+given the adjacency 
+************************
+
+************************
+Document:  CACM-2216.html
+************************
+
+
+on the probability distribution of the values of binary trees
+
+an integral equation is derived for the generating
+function for binary tree values, the values 
+reflecting sorting effort. the analysis does not assume
+uniformly distributed branching ratios, and 
+therefore is applicable to a family of sorting algorithms
+discussed by hoare, 
+************************
+
+************************
+Document:  CACM-0285.html
+************************
+************************
+Document:  CACM-2368.html
+************************
+
+
+an implemented graph algorithm for winning shannon switching games
+
+in this tutorial paper a computer program
+which wins shannon switching games is described.
+ since these games are played on graphs, the program
+is a good example of the implementation of graph 
+algorithms.  the two players in 
+************************
+.  the two players in a shannon switching game,
+connect and cut, have nonsimilar goals.  either 
+connect, cut, or the player moving first is guaranteed
+the existence of a winning strategy.  the simple 
+strategy explained in this paper is valid in all three
+cases.  in fact, the major routines never need 
+to know whether the computer is connect or cut.
+
+cacm april, 1972
+
+chase, s. m.
+
+graph algorithms, graph processing, shannon 
+************************
+
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 1979
+
+************************
+
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, algorithms,
+transitive closure, 
+************************
+
+************************
+Document:  CACM-0301.html
+************************
+************************
+Document:  CACM-1563.html
+************************
+
+
+a method for finding hamilton paths and knight's tours
+
+the use of warnsdorff's rule for finding a
+knight's tour is generalized and applied to the 
+problem of finding a hamilton path in a graph.  a graph-theoretic
+justification for the 
+************************
+
+************************
+Document:  CACM-2778.html
+************************
+************************
+Document:  CACM-2335.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use 
+************************
+
+************************
+Document:  CACM-0496.html
+************************
+************************
+Document:  CACM-2506.html
+************************
+************************
+Document:  CACM-2699.html
+************************
+************************
+Document:  CACM-0956.html
+************************
+************************
+Document:  CACM-2405.html
+************************
+************************
+Document:  CACM-0749.html
+************************
+************************
+Document:  CACM-2557.html
+************************
+
+
+on the time required for a sequence of matrix products
+
+this paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.  the minimum time required to evaluate
+such products on ordinary serial computers 
+as well as parallel computers is discussed.  algorithms
+are presented which 
+************************
+
+************************
+Document:  CACM-2177.html
+************************
+************************
+Document:  CACM-1924.html
+************************
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous 
+************************
+
+************************
+Document:  CACM-2790.html
+************************
+************************
+Document:  CACM-2697.html
+************************
+************************
+Document:  CACM-0494.html
+************************
+************************
+Document:  CACM-1876.html
+************************
+************************
+Document:  CACM-2444.html
+************************
+************************
+Document:  CACM-1727.html
+************************
+
+
+one way of estimating frequencies of jumps in a program
+
+for the segmentation of a program it is useful
+to have a reasonable estimation of the values 
+of s(ij), where s(ij) is the mean value of the number
+of jumps from the i-th instruction on to the j-th 
+instruction in the run time.  in the cases where the
+s(ij) are estimated directly, the structure of the 
+whole program must be generally taken into account;
+therefore it is very difficult for the programmer 
+and/or the translator to obtain a good estimation of
+the s(ij).  it is easier to estimate not s(ij) but 
+the quantities p(ij)=s(ij)*c(i)/sum[s(ij), j=1,n], where
+c(i) is an arbitrary positive constant for each 
+i.  although the p(ij) are, for each i, proportional to
+s(ij), the estimation of p(ij) is easier, because 
+we must estimate only the "probabilities" of events
+where instruction i is executed after instruction 
+i(i).  this estimation can often be done without considering
+the structure of the whole program.  in 
+the first part of the paper, using the theory of the
+markov chains, an algorithm for the computation 
+of the s(ij) from the p(ij) is found, and some ways
+of obtaining estimates of the p(ij) are given.  in 
+the second part a variant of this algorithm is derived,
+avoiding the necessity of computation involving 
+large matrices.
+
+cacm july, 1968
+
+kral, j.
+
+object program reduction, supervisor calls decreasing,
+jump frequencies estimation, control transfers 
+estimation, optimal program segmentation, markov chain
+program correspondence, program graph, one-entry 
+subgraph, 
+************************
+
+************************
+Document:  CACM-0661.html
+************************
+************************
+Document:  CACM-2134.html
+************************
+************************
+Document:  CACM-2905.html
+************************
+
+
+perfect hashing functions: a single
+probe retrieving method for static sets
+
+a refinement of hashing which allows retrieval
+of an item in a static table with a single probe 
+is considered.  given a set i of identifiers, two methods
+are presented for building, in a mechanical 
+way, perfect hashing functions, i.e. functions transforming
+the elements of i into unique addresses. 
+ the first method, the "quotient reduction" method, is
+shown to be complete in the sense that for every 
+set i the smallest table in which the elements of i
+can be stored and from which they can be retrieved 
+by using a perfect hashing function constructed by this
+method can be found.  however, for nonuniformly 
+distributed sets, this method can give rather sparse tables.
+ the second method, the "remainder reduction" 
+method, is not complete in the above sense, but it seems
+to give minimal (or almost minimal) tables for 
+every kind of set.  the two techniques are applicable
+directly to small sets. 
+************************
+
+************************
+Document:  CACM-2630.html
+************************
+
+
+on computing sets of shortest paths in a graph
+
+two algorithms are presented that construct
+
+************************
+ are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.  these algorithms generalize the floyd
+
+************************
+
+************************
+Document:  CACM-2752.html
+************************
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation [h] (algorithm 
+************************
+ manipulation [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+a graph into connected components, 
+************************
+ into connected components, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, j.
+tarjan, r.
+
+graphs,analysis of algorithms, graph manipulation
+
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures. 
+************************
+
+************************
+Document:  CACM-3115.html
+************************
+************************
+Document:  CACM-2161.html
+************************
+************************
+Document:  CACM-2695.html
+************************
+
+
+tridiagonalization by permutations
+
+tridiagonalizing a matrix by similarity transformations
+is an important computational tool 
+in numerical linear algebra. consider the class of sparse
+matrices which can be tridiagonalized using 
+only row and corresponding column permutations.  the
+advantages of using such a transformation include 
+the absence of round-off errors and improved computation time
+when compared with standard transformations. 
+ a graph theoretic algorithm which examines 
+************************
+ algorithm which examines an arbitrary
+n x n matrix and determines whether or not it 
+can be permuted into tridiagonal form is given.  the
+algorithm requires no arithmetic while the number 
+of comparisons, the number of assignments, and the number
+of increments are linear in n.  this compares 
+very favorably with standard transformation methods.
+ if the matrix is permutable into tridiagonal form, 
+the algorithm gives the explicit tridiagonal form.
+ otherwise, early rejection will occur.
+
+cacm january, 1974
+
+gibbs, n. e.
+poole, w. g. jr.
+
+tridiagonal matrix, permutation, algorithm,
+eigenvalues, graph, bandwidth, sparse matrix
+
+5.14 5.32
+
+ca740104 
+************************
+
+************************
+Document:  CACM-3040.html
+************************
+
+
+synthesizing constraint expressions
+
+a constraint network representation is presented
+for a combinatorial search problem: finding 
+values for a set of variables subject to a set of constraints.
+ a theory of consistency levels in such 
+networks is formulated, which is related to problems
+of backtrack tree search efficiency.  an algorithm 
+is developed that can achieve any level of consistency
+desired, in order to preprocess the problem for 
+subsequent backtrack search, or to function as an alternative
+to backtrack search by explicitly determining 
+all solutions.
+
+cacm november, 1978
+
+freuder, e.
+
+backtrack, combinatorial algorithms, constraint
+networks, constraint satisfaction, graph coloring, 
+network consistency, 
+************************
+
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-2461.html
+************************
+************************
+Document:  CACM-2524.html
+************************
+
+
+some approaches to best-match file searching
+
+the problem of searching the set of keys in
+a file to find a key which is closest to a given 
+query key is discussed.  after "closest," in terms of
+a metric on the the key space, is suitably defined, 
+three file structures are presented together with their
+corresponding search algorithms, which are intended 
+to reduce the number of comparisons required to achieve
+the desired result. these methods are derived 
+using certain inequalities satisfied by metrics and by
+graph-theoretic concepts.  some empirical 
+************************
+
+************************
+Document:  CACM-3094.html
+************************
+
+
+analyses of deterministic parsing algorithms
+
+this paper describes an approach for determining
+the minimum, maximum, and average times to 
+parse sentences acceptable by a deterministic parser.
+ these quantities are presented in the form of 
+symbolic formulas, called time-formulas.  the variables
+in these formulas represent not only the length 
+of the input string but also the time to perform elementary
+operations such as pushing, popping, subscripting, 
+iterating, etc.  by binding to the  variables actual numerical
+values corresponding to a given compiler-machine 
+configuration, one can determine the execution time
+for that configuration.  time-formulas are derived 
+by examining the grammar rules and the program representing
+the algorithm one wishes to analyze.  the 
+approach is described by using a specific grammar that defines
+simple arithmetic expressions.  two deterministic
+parsers are analyzed: a top-down recursive descent
+ll(1) parser, and a bottom-up slr(1) parser.  the 
+paper provides estimates for the relative efficiencies
+of the two parsers.  the estimates applicable 
+to a specific machine, 
+************************
+
+************************
+Document:  CACM-2619.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+
+
+covering edges by cliques with regard to
+keyword conflicts and intersection graphs
+
+kellerman has presented a method for determining
+keyword conflicts and described a heuristic 
+algorithm which solves a certain combinatorial optimization
+problem in connection with this method.  
+this optimization problem is here shown to be equivalent
+to the problem of covering the edges of a graph 
+by complete subgraphs with the objective of minimizing
+the number of complete subgraphs.  a relationship 
+between this edge-clique-cover problem and the graph coloring
+problem is established which allows algorithms 
+for either one of these 
+************************
+ 
+for either one of these problems to be constructed
+from algorithm for the other.  as consequences of 
+this relationship, the keyword conflict problem and the
+edge-clique-cover problem are shown to be np-complete, 
+and if p=/np then they do not admit polynomial-time approximation
+algorithms which always produce solutions 
+within a factor less than 2 from the optimum.
+
+cacm february, 1978
+
+kou, l.
+stockmeyer, l.
+wong, c.
+watson, t.
+
+keyword conflicts, intersection graphs, node clique
+cover, 
+************************
+
+************************
+Document:  CACM-2199.html
+************************
+************************
+Document:  CACM-2766.html
+************************
+
+
+copying cyclic list structures in linear time using bounded workspace
+
+a bounded workspace copying algorithm for arbitrary
+list structures is given.  this algorithm 
+operates in linear time and does not require tag bits. 
+the best previous bounded workspace copying algorithms 
+achieved n^2 time without tag bits and n log n time with
+one tag.  the only restriction on the algorithm 
+given here is that the copy must be placed into a contiguous
+section of memory.  the method is applicable 
+to fixed or variable 
+************************
+
+************************
+Document:  CACM-1983.html
+************************
+************************
+Document:  CACM-1423.html
+************************
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices.
+ it also has many applications in numerical 
+analysis, but it is not widely used because the existing
+algorithms are fairly complicated 
+************************
+
+************************
+Document:  CACM-2290.html
+************************
+************************
+Document:  CACM-2554.html
+************************
+************************
+Document:  CACM-1630.html
+************************
+************************
+Document:  CACM-2442.html
+************************
+************************
+Document:  CACM-2142.html
+************************
+
+
+reconstruction of pictures from their projections
+
+there are situations in the natural sciences
+and medicine (e.g. in electron microscopy and 
+x-ray photography) in which it is desirable to estimate the
+gray levels of a digital picture at the individual 
+points from the sums of the gray levels along straight
+lines (projections) at a few angles.  usually, 
+in such situations, the picture is far from determined
+and the problem is to find the "most representative" 
+picture.  three algorithms are described (all using
+monte carlo methods) which were designed to solve 
+this problem.  the algorithms are applicable in a large
+and varied 
+************************
+
+************************
+Document:  CACM-3139.html
+************************
+************************
+Document:  CACM-3176.html
+************************
+************************
+Document:  CACM-0936.html
+************************
+************************
+Document:  CACM-0315.html
+************************
+************************
+Document:  CACM-2189.html
+************************
+
+
+generation of rosary permutations expressed in hamiltonian circuits
+
+systematic generation of a specific class
+of permutations fundamental to scheduling problems 
+is described.  in a nonoriented complete graph with
+n vertices, hamitonian circuits equivalent to .5(n 
+- 1)! specific permutations of n elements, termed rosary
+permutations, can be defined.  each of them 
+corresponds to two circular permutations which mirror-image
+each other, and is generated successively 
+by a number system covering 3*4*...*(n-1) sets of edges.
+ every set of edges {e[k]}, 1 <= e[k] <= k, 
+3 <= k <= (n-1) is determined recursively by constructing
+a hamiltonian circuit with k vertices from 
+a hamiltonian circuit with k-1 vertices, starting with
+the hamiltonian circuit of 3 vertices.  the basic 
+operation consists of transposition of a pair of adjacent
+vertices where the position of the pair in 
+the permutation is determined by {e[k]}.  two algorithms
+treating the same example 
+************************
+
+************************
+Document:  CACM-1116.html
+************************
+
+
+tests on a computer method for constructing school timetables*
+
+a previously proposed computer method for constructing
+timetables, based on an iteration involving 
+boolean matrices, is described.  in limited tests the
+method has successfully produced timetables on 
+every trial.  references are given which relate the
+timetable problem to theorems on matrices of zeros 
+and ones, and to theorems on bipartite graphs.  some
+problems of 
+************************
+
+************************
+Document:  CACM-0070.html
+************************
+************************
+Document:  CACM-0660.html
+************************
+************************
+Document:  CACM-2980.html
+************************
+************************
+Document:  CACM-2052.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1963.html
+************************
+************************
+Document:  CACM-2167.html
+************************
+
+
+algebraic simplification: a guide for the perplexed
+
+algebraic simplification is examined first from
+the point of view of a user who needs to comprehend 
+a large expression, and second from the point of view
+of a designer who wants to construct a useful and 
+efficient system.  first we describe various techniques
+akin to substitution.  these techniques can be 
+used to decrease thesize of an expression and make it
+more intelligible to a user.  then we delineate 
+the spectrum of approaches to the design of automatic simplification
+capabilities in an algebraic manipulation 
+system.  systems are divided into five types.  each type
+provides different facilities for the manipulation 
+and simplification of expressions. finally we discuss
+some of the theoretical results related to algebraic 
+simplification.  we describe several positive results
+about the existence of powerful simplification 
+algorithms and the number-theoretic 
+************************
+ and the number-theoretic conjectures on which
+they rely.  results about the nonexistence of 
+algorithms for certain classes 
+************************
+
+************************
+Document:  CACM-2883.html
+************************
+
+
+an application of heuristic search methods to edge and contour detection
+
+this paper presents a method for detecting edges
+and contours in noisy pictures.  the properties 
+of an edge are embedded in a figure of merit and the edge
+detection problem becomes the problem of minimizing 
+the given figure of merit.  this problem can be represented
+as a shortest path problem on a graph and 
+can be solved using well-known graph search algorithms.
+ the relations between 
+************************
+
+************************
+Document:  CACM-0144.html
+************************
+************************
+Document:  CACM-0896.html
+************************
+************************
+Document:  CACM-1707.html
+************************
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+
+************************
+ results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of constraints.
+ the results presented may be valuable to 
+designers as useful design concepts, and may serve as
+a basis for developing a formal theory on the subject.
+
+cacm july, 1973
+
+huang, j. c.
+
+data base, data-base management, information retrieval,
+information structure, file organization, 
+storage allocation, tree, graph
+
+3.70 3.73 3.74 5.32
+
+************************
+
+************************
+Document:  CACM-2172.html
+************************
+************************
+Document:  CACM-1047.html
+************************
+************************
+Document:  CACM-1145.html
+************************
+
+
+git-a heuristic program for testing pairs
+of directed line graphs for isomorphism*
+
+given a pair of directed line graphs, the problem
+of ascertaining whether or not they are isomorphic 
+is one for which no efficient algorithmic solution is known.
+ since a straightforward enumerative algorithm 
+might require 40 years of running time on a very high
+speed computer in order to compare two 15-node 
+graphs, a more sophisticated approach seems called
+for.  the situation is similar to that prevailing 
+in areas such as game-playing and theorem-proving, where
+practical algorithms are unknown (for the 
+************************
+
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities 
+************************
+
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.  in particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, pert chart analysis,
+and the analysis of many types of networks. 
+ these algorithms exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.  straightforward
+cellular 
+************************
+.  straightforward
+cellular implementations of the well-known 
+serial algorithms for these problems require about n
+steps, and noncellular implementations require from 
+n^2 to n^3 steps.
+
+cacm september, 1972
+
+levitt, k. n.
+kautz, w. h.
+
+graph theory, cellular logic-in-memory 
+************************
+
+************************
+Document:  CACM-2769.html
+************************
+
+
+a modification of warshall's algorithm for
+the transitive closure of binary relations
+
+an algorithm is given for computing the transitive
+closure of a binary relation that is represented 
+by a boolean matrix. the algorithm is similar to warshall's
+although it executes faster for sparse matrices
+on most computers, particularly 
+************************
+
+************************
+Document:  CACM-2877.html
+************************
+
+
+a program data flow analysis procedure
+
+the global data relationships in a program
+can be exposed and codified by the static analysis 
+methods described in this paper.  a procedure is given
+which determines all the definitions which can
+possibly "reach" each node of the control flow graph
+of the program and all the definitions that are 
+"live" on each edge of the graph.  the procedure uses
+an "interval" ordered edge listing data structure 
+and handles reducible and irreducible graphs indistinguishably.
+
+cacm march, 1976
+
+allen, j. e.
+cocke, j.
+
+program optimization, data flow analysis,
+flow graphs, algorithms, compilers
+
+4.12 5.24
+
+************************
+
+************************
+Document:  CACM-3164.html
+************************
+
+
+progressive acyclic digraphs-a tool for database integrity
+
+a progressive acyclic digraph (pad) algorithm accepts are requests and
+maintains a graph in an acyclic state.  when a request creates a cycle,
+nodes are, "detached" until the new are can be entered acyclically
+this process is important in certain areas of database implementation
+in which there are constraints on the permissible sequences
+of actions. two pad algorithms are presented; one uses 
+************************
+
+************************
+Document:  CACM-3085.html
+************************
+************************
+Document:  CACM-0349.html
+************************
+************************
+Document:  CACM-2806.html
+************************
+************************
+Document:  CACM-1481.html
+************************
+************************
+Document:  CACM-0256.html
+************************
+************************
+Document:  CACM-2133.html
+************************
+************************
+Document:  CACM-2986.html
+************************
+
+
+operations on sparse relations
+
+various computations on relations, boolean matrices,
+or directed graphs, 
+************************
+,
+or directed graphs, such as the computation 
+of precedence relations for a context-free grammar, can be
+done by a practical algorithm that is asymptotically 
+faster than those in common use.  for example, how to compute
+operator precedence or wirth-weber precedence 
+relations in o(n^2) steps is shown, as well as how to
+compute linear precedence functions in o(n^2) steps 
+is shown, as well as how to compute linear precedence
+functions in o(n) steps, where n is the size of 
+a grammer.  the heart of the algorithms is a general
+theorem giving sufficient conditions under which 
+an expression whose operands are sparse relations and
+whose 
+************************
+ relations and
+whose operators are composition, transitive closure, 
+union, and inverse, can be computed efficiently.
+
+cacm march, 1977
+
+hunt, h. b. iii
+szymanski, t. g.
+ullman, j. d.
+
+computational complexity, sparse relation, boolean
+matrix, directed graph, wirth-weber precedence 
+************************
+
+************************
+Document:  CACM-1501.html
+************************
+************************
+Document:  CACM-2232.html
+************************
+
+
+pattern width at a given angle
+
+that the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  the object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  
+************************
+al 
+subject matter.  the results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the pattern boundary radius vector, and descriptions
+of alternate widths.  all widths are calculated 
+for an illustrative example; graphical and tabular comparisons
+
+************************
+

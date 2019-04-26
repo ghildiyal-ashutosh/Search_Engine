@@ -1,0 +1,74 @@
+Evaluation Scores
+************************
+binary-independence
+************************
+Mean Average Precision:  1.0
+Mean Reciprocal Rank:  1.0
+
+************************
+Query Information
+************************
+Q1  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q2  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q3  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q4  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q5  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q6  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q7  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q8  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q9  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q10  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q11  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q12  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q13  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q14  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q15  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q16  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q17  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q18  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q19  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q20  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q21  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q22  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q23  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q24  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q25  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q26  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q27  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q28  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q29  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q30  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q31  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q32  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q33  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q34  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q35  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q36  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q37  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q38  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q39  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q40  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q41  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q42  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q43  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q44  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q45  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q46  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q47  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q48  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q49  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q50  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q51  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q52  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q53  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q54  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q55  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q56  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q57  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q58  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q59  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q60  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q61  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q62  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q63  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0
+Q64  |  Recall:  100  |  Precision:  100  |  Precision@K=5:  1.0  |  Precision@K=20:  1.0

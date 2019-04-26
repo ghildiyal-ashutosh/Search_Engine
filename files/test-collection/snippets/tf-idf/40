@@ -1,0 +1,1924 @@
+Snippets for the query:  Q40
+************************
+Total Hits:  130
+************************
+
+************************
+Document:  CACM-1780.html
+************************
+************************
+Document:  CACM-1101.html
+************************
+************************
+Document:  CACM-2750.html
+************************
+
+
+a cost oriented algorithm for data set allocation in storage hierarchies
+
+data set allocation in today's multilevel
+storage systems is usually based on 
+************************
+
+************************
+Document:  CACM-2519.html
+************************
+
+
+on the problem of communicating complex information
+
+the nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined.  the problem is analyzed in terms of 
+psychological and information-processing processes, and
+what turns out 
+************************
+, and
+what turns out to be a vicious circle of effects 
+is described.  these include ways of augmenting written
+natural language by various notational and linguistic 
+devices, the exhibition of the structure inherent in the
+information we are communicating, and a sophisticated 
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+
+************************
+ processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual 
+************************
+
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated in terms of cpu:i/o and i/o:i/o overlap
+and applied to the analysis of these problems. 
+ the percentage performance improvement from cpu:i/o
+overlap is found to be greatest for systems which 
+are in approximate 
+************************
+ which 
+are in approximate cpu:i/o utilization balance and for
+low degrees of multiprogramming.  the percentage 
+improvement from i/o:i/o overlap is found to be greatest
+for systemtems in which the i/o system is more 
+utilized than the cpu.
+
+cacm october, 1978
+
+towsley, d.
+chandy, k.
+browne, j.
+
+multiprogramming, parallel processing, queueing
+network models, multiprocessing of 
+************************
+
+************************
+Document:  CACM-2372.html
+************************
+************************
+Document:  CACM-2567.html
+************************
+
+
+an exponential method for the solution of
+systems of ordinary differential equations 
+
+an explicit, coupled, single-step method for
+the numerical solution of initial value problems 
+for systems of ordinary differential equations is presented.
+ the method was designed to be general purpose 
+in nature but to be especially efficient when dealing
+
+************************
+
+************************
+Document:  CACM-0239.html
+************************
+************************
+Document:  CACM-0104.html
+************************
+************************
+Document:  CACM-1912.html
+************************
+************************
+Document:  CACM-2158.html
+************************
+
+
+a stopping criterion for the newton-raphson method
+in implicit multistep integration algorithms 
+for nonlinear systems of ordinary differential 
+************************
+
+************************
+Document:  CACM-0597.html
+************************
+************************
+Document:  CACM-3128.html
+************************
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling the relative 
+ordering of events in the processes.
+a new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  the mechanism is defined 
+************************
+.  the mechanism is defined formally, and then several
+examples of its use are given.  the relationship of the mechanism
+to protection mechanisms in the system is explained; in particular,
+eventcounts are shown to be applicable to situations where confinement
+of information matters.  an implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+cacm february, 1979
+
+reed, d.
+kanodia, r.
+
+process synchronization, interprocess communication, distributed
+systems, security models, mutual 
+************************
+
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+
+
+interference between communicating parallel processes
+
+various kinds of interference 
+************************
+
+
+various kinds of interference between communicating
+parallel processes have been examined by 
+************************
+ have been examined by 
+dijkstra, knuth, and others.  solutions have been given
+for the mutual exclusion problem and associated 
+subproblems, in the form of parallel programs, and informal
+proofs of correctness have been given for 
+these solutions.  in this paper a system of parallel
+processes is regarded as a machine 
+************************
+ is regarded as a machine which proceeds 
+from one state s (i.e. a collection of pertinent data
+values and process configurations) to a next state 
+s' in accordance with a transition rule s --> s'.  a
+set of such rules yields sequences of states, which 
+dictate the system's behavior.  the mutual exclusion problem
+and the associated subproblems are formulated 
+as questions of inclusion between sets of states, or
+of the existence of certain sequences.  a mechanical 
+proof procedure is shown, which will either verify (prove
+the correctness of ) or discredit (prove the 
+incorrectness of) an attempted solution, with respect
+to any of the interference properties.  it is shown 
+how to calculate transition rules from the "partial
+rules" by which the individual processes operate. 
+ the formation of partial rules and the calculation of
+transition rules are both applicable to hardware 
+processes as well as to software processes, and
+symmetry between processes is not required.
+
+cacm june, 1972
+
+gilbert, p.
+chandler, w. j.
+
+concurrent programming control, cooperating processes,
+formal programs, interference, mutual exclusion, 
+operating systems, parallel processes
+
+4.0 4.10 
+************************
+
+************************
+Document:  CACM-2522.html
+************************
+
+
+the design, implementation, and evaluation of a working set dispatcher
+
+the behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing 
+************************
+s to the processes competing for them.
+ recent research in time-sharing paging systems 
+has developed the working 
+************************
+ 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  two implementations
+along these principles have been reported, but it 
+seems that in neither case have further results been
+announced.  this report discusses the design and 
+implementation of a dispatcher based on the working set
+principle, presents data to permit analysis of 
+its behavior, and indicates future directions of research
+on methods of controlling a computer system.
+
+cacm april, 1973
+
+rodriguez-rosell, j.
+dupuy, j. p.
+
+working set, dispatcher, scheduler, time-sharing
+systems, resource allocation, software 
+************************
+ allocation, software evaluation, 
+operating systems, supervisory systems
+
+************************
+
+************************
+Document:  CACM-2578.html
+************************
+
+
+self-stabilizing systems in spite of distributed control
+
+cacm november, 
+************************
+ control
+
+cacm november, 1974
+
+dijkstra, e. w.
+
+multiprocessing, networks, self-stabilization, synchronization,
+mutual exclusion, robustness, sharing, 
+error recovery, distributed control, harmonious 
+************************
+
+************************
+Document:  CACM-1910.html
+************************
+
+
+an algorithm for solving a special class
+of tridiagonal systems of linear equations
+
+************************
+ of linear equations
+
+an algorithm is presented for solving a system
+of linear equation bu=k where b is tridiagonal 
+and of a special form.  it is shown that this algorithm
+is almost twice as fast as the gaussian elimination 
+method usually suggested for solving such systems. 
+in addition, explicit 
+************************
+
+************************
+Document:  CACM-2479.html
+************************
+
+
+curriculum recommendations for graduate professional
+programs in information systems: recommended 
+addendum on information systems administration
+
+an addendum to the report of the acm curriculum
+committee on computer education for management 
+is proposed. the proposed addendum is to include in the curriculum
+a 
+************************
+
+************************
+Document:  CACM-1844.html
+************************
+
+
+a modular computer sharing system
+
+an alternative approach to the design and organization
+of a general purpose interactive multiterminal 
+computing system is presented.  the system organization described
+is a conceptually simple arrangement 
+of a bank of interchangeable computers, each of which
+is a memory/processor pair, that are assigned to 
+process terminal jobs as they arrive.  one of the computers
+serves as the master or control computer 
+and supervises the collection and distribution of messages
+from and to the remote terminals.  in the 
+simplest form there is a disk drive for each connected
+terminal.  a crosspoint switching network allows 
+any such disk drive to be connected to any computer.
+ thus, while each active terminal user "occupies" 
+a dedicated disk drive, he may share the computer with
+many other terminal users in a simple manner. 
+ the ratio of users to computers is dependent on both
+the size and power of the machines used and the 
+computation requirements of the particular mix of users.
+ this system organization is inherently a simpler 
+and therefore more reliable approach to time-sharing computers
+and has the potential of a highly available 
+system at relatively low cost.  economic configurations
+are possible for a range of systems sizes that 
+span at 
+************************
+
+************************
+Document:  CACM-1196.html
+************************
+************************
+Document:  CACM-3072.html
+************************
+
+
+feedback coupled resource allocation policies
+in the multiprogramming- 
+************************
+ policies
+in the multiprogramming- multiprocessor computer 
+system
+
+model studies of some integrated, feedback-driven
+scheduling systems for multiprogrammed- multiprocessor 
+computer systems are presented.  the basic control variables
+used are the data-flow rates for the processes 
+executing on the cpu.  the model systems feature simulated
+continuous-flow and preempt-resume scheduling 
+of input-output activity.  attention is given to the
+amount of memory resource required for effective 
+************************
+
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward 
+************************
+ of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic routing,
+alternate routing, store-and-forward network, 
+distributed network, computer network, 
+************************
+
+************************
+Document:  CACM-2424.html
+************************
+
+
+dynamic verification of operating system decisions
+
+dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and software.  the dynamic verification 
+of operating system decisions is used on the prime system
+being designed and constructed at the university 
+of california, berkeley.  prime is an experimental time-sharing
+which is to have the properties of continuous 
+availability, data privacy, and cost effectiveness.
+ the technique of dynamic verification allows the 
+construction of an operating system which does not make certain
+decisions improperly even in the presence 
+of a single hardware or software fault.  furthermore,
+multiple faults lead to unreliable operation only 
+if the faults happen to reinforce each other.  on prime,
+dynamic verification is used to ensure that 
+one user's information cannot become available to another
+user gratuitously even in the presence of a 
+single hardware or software fault.the amount of additional
+hardware and software required for dynamic 
+verification can be modest.
+
+cacm november, 1973
+
+fabry, r. s.
+
+operating systems, data security, fault tolerance,
+software reliability, 
+************************
+,
+software reliability, data privacy, program 
+verification, modular computer systems
+
+4.32
+
+ca731102 jb january 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a 
+************************
+
+************************
+Document:  CACM-0322.html
+************************
+
+
+operational compatibility of systems-conventions
+
+the general standards committee of the share
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view of the growing number of programming systems 
+available.  each of these programming systems has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first.  these 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required. 
+ the following set of conventions is being considered
+to minimize computer set-up time.  they are of 
+sufficiently broad interest that we feel other computer
+
+************************
+
+************************
+Document:  CACM-1233.html
+************************
+************************
+Document:  CACM-2020.html
+************************
+
+
+the allocation of computer resources-is pricing the answer?
+
+************************
+s-is pricing the answer?
+
+the widespread use of complex third generation computing systems has led to a 
+much broader concern about the means by which the resources of these systems
+are 
+************************
+s of these systems
+are allocated among the user community.  one means that is suggested
+more and more frequently is a pricing procedure.  in this
+paper the manner in which one would like to allocate computing resources
+is considered, and 
+************************
+s
+is considered, and then the extent to which a pricing mechanism fits this mold 
+is discussed.  inasmuch as pricing must serve as a rationing mechanism at 
+times, consideration is given to the means by which prices can be adjusted 
+flexibly in order to make a dynamic allocation of resources.  consideration is 
+************************
+s.  consideration is 
+also given to the means by which users can be insulated from the harmful 
+effects of frequent price fluctuations.  although the subject of pricing has
+been given a lot of attention recently, a number of misconceptions
+persist about its purpose and its operation.  an attempt is made to clarify 
+some of these misunderstandings and to highlight the advantages and 
+disadvantages and to highlight the advantages and disadvantages of pricing. two
+illustrative pricing systems are also discussed in order to demonstrate the 
+applicability of pricing in quite different environments.
+
+cacm august, 1970
+
+nielsen, n. r.
+
+allocation mechanisms, charging, computer pricing,
+costing, flexible pricing, pricing, priority charges,
+resource allocation, user motivation
+
+************************
+
+************************
+Document:  CACM-3150.html
+************************
+
+
+beyond programming languages
+
+as computer technology matures, our growing ability to create large systems is 
+leading to basic changes in the nature of programming.  current programming 
+language concepts will not be adequate for building and maintaining
+systems of the complexity called for by the tasks we attempt.  just
+as high level languages enabled the programmer to escape from the
+intricacies of a machine's order code, higher level programming systems
+can provide the means to understand and manipulate complex
+systems and components.  in order to develop such systems, we need
+to shift our attention away from the detailed specification of
+algorithms, towards the description 
+************************
+
+************************
+Document:  CACM-2818.html
+************************
+************************
+Document:  CACM-2849.html
+************************
+
+
+ethernet: distributed packet switching for local computer networks
+
+ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. the packet
+transport 
+************************
+s. the packet
+transport mechanism provided by ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled multiprocessors. 
+ an ethernet's shared communication facility, its ether,
+is a passive broadcast medium with no central 
+control.  coordination of access to the ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical 
+************************
+s using controlled statistical arbitration.
+ switching of packets to their destinations 
+on the ether is distributed among the receiving stations
+using packet address 
+************************
+s
+using packet address recognition.  design principles 
+and implementation are described, based on experience
+with an operating ethernet of 100 nodes along a 
+kilometer of coaxial cable.  a model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.
+
+cacm july, 1976
+
+metcalfe, r. m.
+boggs, d. r.
+
+computer networks, packet switching, multiprocessing,
+distributed control, distributed 
+************************
+
+************************
+Document:  CACM-2499.html
+************************
+
+
+efficient multiprogramming resource allocation and accounting
+
+although 
+************************
+ and accounting
+
+although sometimes thought of as only a component
+of time-sharing operation, multiprogramming 
+can involve broader questions of resource allocation,
+since fairness is not 
+************************
+,
+since fairness is not required to meet a response 
+criterion.  in a multiprogrammed system, it may serve
+maximal resource use to be unfair, for example 
+by holding an input/output channel idle for a program
+while it completes a small amount of processor 
+usage, enabling further use of the channel.  several
+applications of this principle are given, and it 
+is suggested that a multiprogramming executive might
+dynamically adjust its allocation algorithms to 
+gain efficiency. 
+************************
+ to 
+gain efficiency.  allocation of resources is closely connected
+
+************************
+s is closely connected
+to accounting for those resources, raising 
+the problems of repeatability, minimal uncharged overhead,
+and relative weighting of charges for dependent 
+resources.  since weightings may depend on allocation
+algorithms, these are not arbitrary 
+************************
+, these are not arbitrary accounting 
+parameters.  often the only repeatable accounting is
+one which omits an extensive overhead will be paid, 
+and should multiprogramming prove efficient, overcharges
+will result.  multiprogramming turns on allocation 
+of the memory resource essential to control 
+************************
+ essential to control of other
+resources.  the general suggestions for allocation 
+and accounting are 
+************************
+ 
+and accounting are applied to this question, and some
+details provided for the case of a monitor which 
+controls a virtual-memory machine.
+
+cacm june, 1973
+
+hamlet, r. g.
+
+monitor, executive, multiprogramming, efficiency,
+resource allocation, resource accounting
+
+************************
+
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 1978
+
+fredman, m.
+weide, b.
+
+analysis of algorithms, combinatorial problems,
+computational complexity, computational models, 
+decision tree programs, lower bounds
+
+5.25 5.26 5.30 5.39
+
+************************
+
+************************
+Document:  CACM-2862.html
+************************
+
+
+analysis of the pff replacement algorithm via a semi-markov model
+
+an analytical model is presented to estimate
+the performance of the page fault frequency (pff) 
+replacement algorithm.  in this model, program behavior
+is represented by the lru stack distance model 
+and the pff replacement algorithm is represented by a semi-markov
+model.  using these models, such parameters 
+as 
+************************
+, such parameters 
+as the inter-page-fault interval distribution, the
+probability of the number of distinct pages being 
+referenced during an inter-page-fault interval, etc. are
+able to be analytically determined.  using these 
+models to evaluate these parameter 
+************************
+
+************************
+Document:  CACM-2995.html
+************************
+************************
+Document:  CACM-1071.html
+************************
+************************
+Document:  CACM-2311.html
+************************
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  for each generation,
+the scope of development projects and the 
+technological world view of the system developer are examined.
+
+cacm july, 1972
+
+benjamin, r. i.
+
+computing milieu, management data processing, hardware
+systems, software systems, systems 
+************************
+
+************************
+Document:  CACM-1811.html
+************************
+
+
+a case study in programming for parallel-processors
+
+an affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+
+************************
+ to efficiently decrease
+execution time for useful problems.  parallel-processor 
+systems are multiprocessor systems 
+************************
+ are multiprocessor systems in which several of
+the processors can simultaneously execute separate 
+tasks of a single job, thus cooperating to decrease
+the solution time of a computational problem. the 
+processors have independent instruction counters, meaning
+that each processor executes its own task program 
+relatively independently of the other processors.  communication
+between cooperating processors is by 
+means of data in storage shared by all processors.  a
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing 
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes circumstances 
+************************
+
+************************
+Document:  CACM-1859.html
+************************
+************************
+Document:  CACM-2895.html
+************************
+
+
+a language for formal problem specification
+
+a language for specifying the in tended behavior
+of communicating parallel processes is described. 
+ the 
+************************
+ is described. 
+ the specifications are constrain ts on the order in which
+events of a computation can occur.  the language 
+is used to write specifications of the readers/writers
+problem and the writer priority of the second 
+readers/writers problem.
+
+cacm december, 1977 
+
+greif, i.
+
+formal specifications,program correctness, parallel
+processing, synchronization, readers/writers 
+problem
+
+************************
+
+************************
+Document:  CACM-2685.html
+************************
+
+
+the parallel execution of do loops
+
+methods are developed for the parallel execution
+of different iterations of a do loop.  both 
+asynchronous multiprocessor computers 
+************************
+
+************************
+Document:  CACM-1951.html
+************************
+
+
+estimates of distributions of random variables
+for certain computer communications traffic models
+
+a study of multiaccess computer communications has
+characterized the distributions underlying an elementary
+ model of the user-computer interactive process.  the model used is
+elementary in the sense that many of the random variables that
+generally are of interest in computer communications studies can be
+decomposed into the elements of this model.  data were examined
+from four operational multiaccess systems, and the model is shown 
+************************
+, and the model is shown to
+be robust; that is each of the variables of the model has the
+same distribution independent of which of the four systems is being examined. 
+it is shown that the gamma distribution can be used to
+describe the discrete variables.  approximations to the gamma distribution
+by the exponential distribution are discussed for the systems studied.
+
+cacm december 1970
+
+fuchs, e.
+jackson, p. e.
+
+computer communications, time-sharing,
+operating systems, optimization models
+
+3.80 3.81 6.20
+
+ca701212 
+************************
+
+************************
+Document:  CACM-2672.html
+************************
+
+
+emotional content considered dangerous
+
+cacm march, 1974
+
+smoliar, s. w.
+
+artificial intelligence, heuristic programming, models
+of cognitive processes, computer music, computer 
+************************
+
+************************
+Document:  CACM-2121.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+
+
+sorting on a mesh-connected parallel computer
+
+two algorithms are presented for sorting 
+************************
+ are presented for sorting n^2
+elements on an n x n mesh-connected processor 
+array that require o(n) routing and comparison steps.
+ the best previous algorithm takes time o(n log 
+n).  the algorithms of this paper are shown to be optimal
+in time within small constant factors.  extensions 
+to higher-dimensional arrays are also given.
+
+cacm april, 1977
+
+thompson, c. d.
+kung, h. t.
+
+parallel computer, parallel sorting, 
+************************
+ computer, parallel sorting, parallel merge,
+routing and comparison steps, perfect shuffle. 
+processor in terconnection pattern
+
+4.32 
+************************
+
+************************
+Document:  CACM-2583.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven 
+************************
+.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, priority,
+operating 
+************************
+
+************************
+Document:  CACM-1474.html
+************************
+
+
+tests of probabilistic models for propagation of roundoff errors
+
+in any prolonged computation it is generally
+assumed that the accumulated effect of roundoff 
+errors is in some sense statistical.  the purpose of this
+paper is to give precise descriptions of certain 
+probabilistic models for roundoff error, and then to
+describe a series of experiments for testing the 
+validity of these models.  it is concluded that the models
+are in general very good.  discrepancies are 
+both rare and mild.  the test techniques can also be
+used to experiment with various types of special 
+arithmetic.
+
+cacm february, 
+************************
+
+************************
+Document:  CACM-1465.html
+************************
+
+
+program translation viewed as a general data processing problem
+
+efficiency dictates that the overall effectiveness
+of a compiler be increased by all means 
+available.  for a compiler to have a substantial useful
+life it needs a clear logical structure, reliability 
+and sound data processing techniques.  a compiler must
+be based on fixed conventions to preserve efficiency 
+and reliability; empty options and default conventions
+violate 
+************************
+
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+
+************************
+
+************************
+Document:  CACM-1587.html
+************************
+
+
+storage allocation in a certain iterative process
+
+a method of core storage allocation in a certain
+iterative process is described and estimates 
+of the machine time required are given.  the method is
+applicable to iterative processes in which input 
+data 
+************************
+
+************************
+Document:  CACM-3038.html
+************************
+
+
+using encryption for authentication in large networks of computers
+
+use of encryption to achieve authenticated
+communication in computer networks is discussed. 
+ example protocols are presented for the establishment
+of authenticated connections, for the management 
+************************
+ections, for the management 
+of authenticated mail, and for signature verification
+and document integrity guarantee.  both conventional 
+and public-key encryption algorithms are considered as the basis for protocols.
+
+cacm december, 1978
+
+************************
+.
+
+cacm december, 1978
+
+needham, r.
+schroeder, m.
+
+encryption, security, authentication, networks, protocols,
+public-key cryptosystems, data encryption 
+standard
+
+************************
+
+************************
+Document:  CACM-1360.html
+************************
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-2276.html
+************************
+
+
+computer methods for sampling from
+the exponential and normal distributions
+
+various methods are known for transforming uniformly
+distributed random numbers into exponentially
+and normally distributed quantities.  the most efficient
+ones are compared, in terms of memory requirements 
+and speed, with some new algorithms.  a number of procedures
+
+************************
+.  a number of procedures
+convert taylor series expansions directly 
+into sampling steps, an approach which may be used for
+sampling from any continuous distribution.  for 
+the exponential distribution a definite recommendation
+can be made, whereas in the case of the normal 
+distribution there remains a choice between slower and
+shorter algorithms and faster but space 
+************************
+
+************************
+Document:  CACM-3043.html
+************************
+
+
+distributed processes: a concurrent programming 
+************************
+: a concurrent programming concept
+
+a language concept for concurrent processes
+without common variables is introduced.  these 
+processes communicate and synchronize by means of procedure
+calls and guarded regions.  this concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ the paper gives several examples of distributed processes
+and shows that they include procedures, coroutines, 
+************************
+ procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, path
+expressions, and input/output as special cases.
+
+cacm november, 1978
+
+hansen, p.
+
+concurrent programming, distributed processes,
+microprocessor 
+************************
+
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes 
+************************
+
+************************
+Document:  CACM-1505.html
+************************
+
+
+a system organization for resource allocation 
+
+this paper introduces 
+************************
+ 
+
+this paper introduces a system for resource management
+using the concepts of "process," facility," 
+and "event."  except for the processor no attempt has
+been made to give serious suggestions for the policy 
+to be followed for resource allocation.  however, a basic
+framework 
+************************
+
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+in which simultaneous 
+************************
+
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are 
+************************
+.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events in separate processes is introduced. 
+ an abstraction of this problem is developed which admits
+solution for a majority of commonly encountered
+problems.  the technique will either find a method of
+simulating the parallel events or report that 
+************************
+ events or report that none 
+can be found.  in some of the latter cases it is shown
+to be possible to find a solution by extending 
+the information available to the solution technique, but
+in many cases the technique becomes computationally 
+unfeasible when the additional information is provided.
+
+cacm september, 1969
+
+parnas, d. l.
+
+simulation, parallel processes, simultaneous events,
+
+************************
+
+************************
+Document:  CACM-1959.html
+************************
+
+
+an interrupt based organization for management information systems
+
+a programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.  the
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.  an algorithm for resolving
+conflicts which arise in scheduling the interrupt processing routines
+is presented.  dpl, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+cacm december, 1970
+
+morgan, h. l.
+
+management information systems, integrated data processing,
+supervisors, interrupts monitoring systems, supervisory
+systems, interrupt scheduling, parallel processing
+
+3.51 4.22 
+************************
+
+************************
+Document:  CACM-1928.html
+************************
+
+
+exclusive simulation of activity in digital networks
+
+a technique for simulating the detailed logic
+networks of large and active digital systems 
+is described.  essential objectives sought are improved
+ease and economy in model generation, economy 
+in execution time and space, and a facility for handling
+simultaneous activities.  the main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.  the passage of
+time is simulated in a precise, quantitative fashion 
+and systems to be simulated may be combinations of synchronous
+and asynchronous logic.  certain aspects 
+of the techniques described may be used for the simulation
+of network structures other than digital networks.
+
+cacm february, 1969
+
+ulrich, e. g.
+
+simulation, logical simulation, digital simulation,
+large systems simulation, network structures, 
+scheduling, queuing, simultaneous activities, parallel events
+
+4.22 4.29 6.9
+
+************************
+
+************************
+Document:  CACM-2321.html
+************************
+
+
+on the interface between computers and data communications systems
+
+future systems that combine computers, digital
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.  several "standard" interfaces,
+by means of which computers and digital 
+terminals connect to the communications systems will
+be required.  when specifying these interfaces, 
+consideration must be given to problems of coordination,
+synchronization, error control, signaling, 
+************************
+
+************************
+Document:  CACM-3082.html
+************************
+
+
+time, clocks, and the ordering of events in a distributed system
+
+the concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+ a distributed algorithm is given for synchronizing 
+a system of logical clocks which can be used to totally
+order the events.  the use of the total ordering 
+is illustrated with a method for solving synchronization
+problems.  the algorithm is then specialized 
+for synchronizing 
+************************
+ized 
+for synchronizing physical clocks, and a bound is derived
+on how far out of synchrony the clocks can 
+become.  
+
+cacm july, 1978
+
+lamport, l.
+
+distributed systems, computer networks,
+
+************************
+, computer networks,
+clock synchronization, multiprocess systems
+
+4.32 5.29
+
+ca780706 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+************************
+Document:  CACM-2323.html
+************************
+
+
+toward a general theory of special functions
+
+a list of 
+************************
+ functions
+
+a list of a number of natural developments
+for the field of algebraic manipulation is given. 
+ then the prospects for a general theory of functions
+defined by ordinary differential equations are 
+discussed.  the claim is made that recent developments
+in mathematics indicate that it should be possible 
+to algorithmically generate many properties of solutions
+to differential equations.  such a theory is 
+preferable to a less general effort to make algebraic
+manipulation systems knowledgeable about the usual 
+special functions (e.g. exponential, 
+************************
+
+************************
+Document:  CACM-0088.html
+************************
+************************
+Document:  CACM-2504.html
+************************
+
+
+concerning music and computer composition in computational linguistics
+
+cacm may, 1973
+
+mcmorrow, c. h.
+
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer 
+************************
+
+************************
+Document:  CACM-1755.html
+************************
+
+
+proceedings of the acm symposium on operating system principles
+
+cacm may, 1968
+
+acm special interest committee
+
+ca680501 
+************************
+
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals 
+************************
+
+************************
+Document:  CACM-1808.html
+************************
+
+
+advanced cryptographic techniques for computers
+
+cryptographic techniques which can be used to
+maintain the confidentiality of information processed 
+by computers are dealt with.  special emphasis is paid
+to the unique characteristics of computer files 
+that make many cryptographic methods of little use.
+ relative security, costs, and preferred methods 
+are included in this paper.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2371.html
+************************
+
+
+a system for interprocess communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer 
+************************
+
+************************
+Document:  CACM-2912.html
+************************
+
+
+concurrent reading and writing
+
+the problem of sharing data among asynchronous
+process is considered.  it is assumed that only 
+one process at a time can modify the data, but concurrent
+reading and writing is permitted.  two general 
+theorems are proved, and some algorithms are presented
+to illustrate their use.  these include a solution 
+to the general 
+************************
+ a solution 
+to the general problem in which a read is repeated if
+it might have obtained an incorrect result, and 
+two techniques for transmitting messages between processes.
+ these solutions do not assume any synchronizing 
+mechanism other than data which can be written
+by one process and read by other processes.
+
+cacm november, 1977
+
+lamport, l.
+
+asynchronous multiprocessing, multiprocess synchronization,
+readers/writers problem, 
+************************
+
+************************
+Document:  CACM-1828.html
+************************
+
+
+synchronization in a parallel-accessed data base
+
+
+************************
+-accessed data base
+
+the following problem is considered:  given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for synchronization
+which will maximize the amount of parallel 
+activity allowed.  
+************************
+ 
+activity allowed.  it is assumed that the data base
+can be represented as a graph.  an example of such 
+a data base is a hierarchy of directories for an on-line
+file system.  methods for synchronization of 
+processes are examined; their 
+************************
+ are examined; their validity is
+discussed and their performance compared.
+
+cacm november, 1969
+
+shoshani, a.
+bernstein, a. j.
+
+parallel accessing, parallel search, file search,
+data base, synchronization, locking, deadlock
+
+
+************************
+
+************************
+Document:  CACM-2648.html
+************************
+************************
+Document:  CACM-1461.html
+************************
+************************
+Document:  CACM-3090.html
+************************
+************************
+Document:  CACM-0618.html
+************************
+
+
+computers- the key to total systems control: an industrial viewpoint
+
+man-man-machine processes are characterized in 
+************************
+
+************************
+Document:  CACM-2255.html
+************************
+
+
+comments on moorer's music and computer composition
+
+cacm november, 1972
+
+smoliar, s. w.
+
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer 
+************************
+
+************************
+Document:  CACM-2621.html
+************************
+************************
+Document:  CACM-2900.html
+************************
+
+
+some theorems to aid in solving the file allocation problem
+
+the file allocation problem-i.e. the problem
+of finding the optimal set of network sites at 
+which to locate copies of a file-is known to be, in general,
+polynomial complete.  heuristics and other 
+aids to finding optimal, or near-optimal, solutions are
+therefore much needed.  in this paper we present 
+three theorems which can be applied a priori to indicate
+that certain sites should (or should not) be 
+included in an optimal allocation.
+
+************************
+d in an optimal allocation.
+
+cacm november, 1977
+
+grapa, e.
+belford, g. g.
+
+file allocation, computer networks, distributed data management
+
+4.33
+
+************************
+
+************************
+Document:  CACM-3119.html
+************************
+
+
+the impact of distributions and disciplines
+on multiple processor systems
+
+simple queueing models are used to study the 
+************************
+ are used to study the performance tradeoffs of 
+multiple processor systems.  issues considered include the impact of cpu
+service 
+************************
+
+************************
+Document:  CACM-0025.html
+************************
+************************
+Document:  CACM-2969.html
+************************
+
+
+optimal program and data locations in computer networks
+
+an optimization procedure for the allocation
+of program and data files in a computer network 
+is presented.  this algorithm takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  a search procedure for the file location 
+problem is described, along with an example
+and a possible application of the model.
+
+cacm may, 1977
+
+morgan, h. l.
+levin, k. d.
+
+computer networks, databases, distributed
+databases, optimal file 
+************************
+
+************************
+Document:  CACM-2985.html
+************************
+************************
+Document:  CACM-1341.html
+************************
+
+
+levels of computer systems
+
+in building current computer systems, we tend
+to break them down into "levels" of control, 
+command and communication; in using the system, we break
+our problems down correspondingly.  the continued 
+use of such a structure raises questions about its effects
+on the usefulness of future systems, particularly 
+with regard to such trends as time sharing, parallel
+programming, and, eventually, 
+************************
+
+************************
+Document:  CACM-0018.html
+************************
+************************
+Document:  CACM-2128.html
+************************
+
+
+a processor allocation method for time-sharing
+
+a scheduling algorithm is proposed which is intended to minimize changes of 
+tasks on processors and thereby reduce over-head.  the algorithm also has
+application to more general resource allocation problems.  it is implemented 
+by means of a method for efficiently handling dynamically changing segmented 
+lists.
+
+cacm january, 1970
+
+mullery, a. p.
+driscoll, g. c.
+
+time sharing, resource allocation, scheduling algorithms,
+monitors, dynamic allocation, 
+************************
+,
+monitors, dynamic allocation, processor
+allocation, multiprogramming, multiprocessing, time
+slicing, scheduling, conversational systems, 
+interactive systems 
+************************
+
+************************
+Document:  CACM-1048.html
+************************
+
+
+approximate solution of axially symmetric problems
+
+a variety of physical problems in such diverse
+fields as electrostatic  field theory, heat 
+and ideal fluid flow, and stress concentration theory
+reduce, under the assumption of axial symmetry, 
+to the study of an elliptic partial differential equation.
+ dirichlet-type problems associated with this 
+equation are studied on regions whose boundaries include
+a nondegenerate portion 
+************************
+
+************************
+Document:  CACM-2806.html
+************************
+************************
+Document:  CACM-2346.html
+************************
+************************
+Document:  CACM-2714.html
+************************
+
+
+merging with parallel processors
+
+consider two linearly ordered sets a, b, |a|=m,
+|b|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously.  the paper presents an algorithm
+for merging a and b with the p parallel processors, 
+which requires at most 2[log2 (2m+1)]+[3m/p] + [m/p][log2
+(n/m)] steps.  if n = (2^b)m (b an integer), 
+the algorithm requires at most 2[log2 (m+1)] + [m/p](2+b)
+steps.  in the case where m and n are of the 
+same order of magnitude, i.e. n=km with k being a constant,
+the algorithm requires 2[log2 (m+1)] + [m/p](3+k) 
+steps.  these performances compare very favorably with
+the previous best parallel merging algorithm, 
+batcher's algorithm, which requires n/p + ((m+n)/2p)log2 m
+steps in the general case and km/p + ((k+1)/2)(m/p)log2 
+m in the special case where n=km.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2327.html
+************************
+
+
+toward an automata theory of brains
+
+a source of ideas for automata theory-the study
+of the brain-has been pushed aside in mathematical 
+development of the theory.  this paper suggests the ways
+in which automata theory might evolve over the 
+next 25 years if it is to contribute to an understanding
+of how the brain processes information.
+
+cacm july, 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed 
+************************
+, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, programming language 
+design, program semantics, programming language semantics,
+determinism, reproducibility, repeatability, 
+deterministic computers, protection, memory protection,
+information security, information privacy, computing 
+reliability, debugging, program debugging, program testing,
+parallel processing, parallel 
+************************
+
+************************
+Document:  CACM-2949.html
+************************
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here.
+
+cacm july, 1978
+
+chattergy, r.
+pooch, u.
+
+computer-aided algebra, symbol manipulation, markov
+process, reliability, redundant structures, 
+************************
+
+************************
+Document:  CACM-2580.html
+************************
+
+
+a method for composing simple traditional music by computer
+
+a method is described for composing musical
+rounds by computer.  this method uses some music 
+theory plus additional heuristics.  fundamental to the
+method is a set of productions together with sets 
+of applicability rules and weight rules which operate
+on the productions deciding when and to what extent 
+they are available for use.  several rounds generated
+by the computer implementation of the method are 
+presented.  generally, the resultant music sounds mediocre
+to the professional although usually pleasing 
+to the layman.  it appears that full-blown music theory
+is not needed for rounds--all the hardware required 
+for structural levels is not necessary for these pieces.
+ the author has tried to address both musicians 
+and computer scientists.
+
+cacm november, 1974
+
+rader, g. m.
+
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer 
+************************
+
+************************
+Document:  CACM-1948.html
+************************
+
+
+computers in group theory: a survey
+
+computers are being applied to an increasingly
+diverse range of problems in group theory.  
+the most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, character tables, and commutator
+calculus.  group theory programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  in this survey the 
+more important algorithms in use are described and contrasted,
+and results which have been obtained using 
+existing programs are indicated.  an extensive bibliography is included.
+
+cacm january, 1969
+
+************************
+
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including availability, 
+response time, and the system saturation point.   
+
+cacm june, 1978
+
+gelenbe, e.
+derochette, d.
+
+database reliability, file systems, checkpoints, 
+************************
+, file systems, checkpoints, recovery
+procedures, checking techniques, reliability 
+and system performance 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models of the u. computer market 
+************************
+ of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market is 
+************************
+

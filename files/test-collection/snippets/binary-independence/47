@@ -1,0 +1,864 @@
+Snippets for the query:  Q47
+************************
+Total Hits:  40
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+
+
+neater2: a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version.  when in the logical mode, neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs.  a number of options are
+available to give the user full control over the output format and
+to maximize the utility of neater2 as an aid during the early
+stages of development of a pl/i source deck.  one option, usage, causes
+neater2 to insert into each logical unit of coding a statement
+which will case the number of times each one is executed to be recorded
+during execution.  this feature is expected to provide a
+major aid in optimization of pl/i programs.
+
+cacm november, 1970
+
+conrow, k.
+smith, r. g.
+
+logical analysis of pl/i source, reformatting of pl/i
+source, documentation aid, execution time usage data
+
+1.52 4.12 4.19 4.42
+
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+
+
+   generating permutations by nested cycling
+
+   the purpose of this letter is two_fold: first to give due credit to the
+tompkins-paige algorithm, and second to clarify 
+************************
+
+************************
+Document:  CACM-2889.html
+************************
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely 
+************************
+
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+************************
+Document:  CACM-1179.html
+************************
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+
+
+a compiler-building system developed by brooker and morris
+
+in a number of articles published during the
+past two years, r. a. brooker and d. morris (joined 
+by j. rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the ferranti atlas computer.  the
+present paper 
+************************
+
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic 
+************************
+ systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage of algol.  
+a hand calculation result of the application of the algorithm
+to all of algol is given, thus expressing 
+the revised algol 1960 syntax in completely nonrecursive
+terms, as far as its context-free portion is 
+concerned.  this description in many ways is far more
+intuitively understood than the previous recursive 
+description, it is suggested.  the paper also includes
+results of the machine 
+************************
+
+************************
+Document:  CACM-0963.html
+************************
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical 
+************************
+ in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 
+************************
+s.  
+
+cacm february, 1979
+
+gull,w.
+jenkins, m.
+
+nested arrays, apl arrays, recursive data structures,
+trees, data-driven 
+************************
+,
+trees, data-driven algorithms, theory of arrays
+
+
+************************
+
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+
+
+a stochastic approach to the grammatical coding of english
+
+a computer program is described which will
+assign each word in an english text to its form 
+class or part of speech.  the program operates at relatively
+high speed in only a limited storage space. 
+ about half of the word-events in a corpus are identified
+through the use of a small dictionary of function 
+words and frequently occurring lexical words.  some suffix
+tests and logical-decision rules are employed 
+to code additional words.  finally, the remaining words
+are assigned to one class or another on the basis 
+of the most probable form classes to occur within the already
+identified contexts.  the conditional probabilities 
+used as a basis for this coding were empirically derived
+from a separate hand-coded corpusn preliminary 
+trials, the accuracy of the coder was 91% to 93%, with
+obvious ways of improving the algorithm being 
+suggested by 
+************************
+
+************************
+Document:  CACM-2573.html
+************************
+
+
+computer programming as an art
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+
+
+systems of hyperbolic pde $d3) (algorithm 392)
+
+cacm september, 1970
+
+smith, r. r.
+mccall, d.
+
+hyperbolic p.d.e., characteristic, extrapolation,
+second order p.d.e., quasilinear p. d. e.
+
+5.17
+
+ca700909 
+************************
+
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  a number of old babylonian 
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-1425.html
+************************
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.
+
+cacm may, 1968
+
+randell, b.
+kuehner, c. j.
+
+segmentation, paging, multiprogramming, storage
+allocation, 
+************************
+
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+
+
+permutation of data blocks in a bubble memory
+
+a common internal organization of bubble memories consists of a set of (minor) 
+loops, connected through another (major) loop.  the problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied
+in this paper.  a lower bound to the number of steps required buy
+a permutation algorithm is derived, and the class of optimum algorithms is 
+identified.
+
+cacm 
+************************
+ is 
+identified.
+
+cacm january, 1979
+
+bongiovanni, g.
+luccio, f.
+
+bubble memory, memory loops, permutation algorithm, data block shift
+
+4.34 5.30 
+************************
+
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+************************
+Document:  CACM-1415.html
+************************
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+programmer-defined 
+************************
+
+************************
+Document:  CACM-2691.html
+************************
+
+
+comments on the algorithms of verhelst for the
+
+************************
+
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+
+
+optimal surface reconstruction from planar contours
+
+in many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  this paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+this surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  a new fast algorithm for finding such
+cycles is utilized.  also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  an illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.
+
+cacm october, 1977
+
+fuchs, h.
+kedem,z. m.
+uselton, s. p.
+
+surface reconstruction, contour data, serial sections,
+three-dimensional computer graphics, minimum 
+cost 
+************************
+
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+************************
+Document:  CACM-1801.html
+************************
+
+
+analysis of variance for balanced experiments (algorithm 367 [g2])
+
+cacm december, 1969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance, regression
+analysis, experimental design, balanced 
+experiment, missing data, interblock estimate, 
+************************
+
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+
+************************
+
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization 
+************************
+s for the organization an
+d retrieval of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness 
+************************
+
+************************
+Document:  CACM-2670.html
+************************
+
+
+efficient implementation of a variable projection
+algorithm for nonlinear least squares problems
+
+************************
+ least squares problems
+
+nonlinear least squares frequently arise for which
+the variables to be solved for can be separated 
+into a linear and a nonlinear part.  a variable projection
+algorithm has been developed recently 
+************************
+ has been developed recently which 
+is designed to take advantage of the structure of a problem
+whose variables separate in this way.  this 
+paper gives a slightly more efficient and slightly more
+general version of this algorithm than has appeared 
+earlier.
+
+cacm march, 1974
+
+krogh, f. t.
+
+nonlinear least squares, parameter 
+************************
+
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of lp algorithms.  other lp applications are indicated.
+
+cacm july, 1969
+
+fox, b. l.
+
+linear programming, revised simplex
+method, 
+************************
+
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+
+
+a simple user-oriented compiler source language
+for programming automatic test equipment
+
+for the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  a simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  the language described in this paper is
+used to write computer programs which test 
+************************
+ programs which test electronic 
+equipment.  because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ a simple and direct language will suffice for the 
+problem.  the eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or significant 
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  the model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer 
+************************
+ model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may be derived from
+it by an appropriate selection of its parameters. 
+ this model has already been used in the optimization of
+library routines' 
+************************
+
+************************
+Document:  CACM-2083.html
+************************
+
+
+creation and control of internal data bases
+under a fortran programming environment
+
+a method 
+************************
+
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process. 
+ methods are described for an 
+************************
+
+************************
+Document:  CACM-0185.html
+************************
+
+
+multiprogram scheduling parts 1 and 2.  introduction and theory*
+
+in order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ the scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ the construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+with respect to each other.  a concise 
+scheduling algorithm is described which tends 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major components of every
+programming language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative 
+************************
+ inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently from list processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+cacm february, 1966
+
+************************
+
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+
+
+product type trapezoidal integration (algorithm a436)
+
+cacm december, 1972
+
+boland, w. r.
+
+numerical integration, product 
+************************
+
+************************
+Document:  CACM-1614.html
+************************
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+
+
+the programmer's workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  it is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered.  in this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated 
+************************
+
+************************
+Document:  CACM-1930.html
+************************
+
+
+extremely portable random number generator
+
+extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  typically, this occurs for library functions
+(like random number generation and in core sorting) 
+which are not entirely universal or are not used in a
+standardized way.  the literature on random number 
+generators does not seem to contain an algorithm that
+meets requirements of this sort.  an extremely 
+portable 8-line fortran program is provided which based
+on an important paper by coveyou and macpherson 
+(1967)sing their methods, fourier analysis is 
+************************
+
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************

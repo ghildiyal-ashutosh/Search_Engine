@@ -1,0 +1,799 @@
+Snippets for the query:  Q54
+************************
+Total Hits:  25
+************************
+
+************************
+Document:  CACM-1886.html
+************************
+************************
+Document:  CACM-2839.html
+************************
+************************
+Document:  CACM-1898.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+************************
+Document:  CACM-3009.html
+************************
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-3163.html
+************************
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  this structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ the approach adopted here departs from conventional mechanical
+language design philosophies.  it stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+************************
+
+************************
+Document:  CACM-1706.html
+************************
+************************
+Document:  CACM-1665.html
+************************
+
+
+automatic generation of efficient lexical
+processors using finite state techniques
+
+the practical application of the theory of
+finite-state automata to automatically generate 
+lexical processors is dealt with in this tutorial article
+by the use of the aed rword system, developed 
+at m. as part of the aed-1 system.  this system
+accepts as input description of the multicharacter 
+items or of words allowable in a language given in terms
+of a subset of regular expressions. the output 
+of the 
+************************
+. the output 
+of the system is a lexical processor which reads a string
+of characters and combines them into the items 
+as defined by the regular expressions.  each output
+item is 
+************************
+.  each output
+item is identified by a code number together with 
+a pointer to a block of storage containing the characters
+and character count in the item.  the processors 
+produced by the system are based on finite-state machines.
+ each state of a "machine" corresponds to 
+a unique condition in the lexical processing of a character
+string.  at each state a character is read, 
+and the machine changes to a new state.  at each transition
+appropriate actions are taken based on the 
+particular character read.  the system has been in operation
+since 1966, and processors generated have 
+compared favorably in speed to carefully hand-coded programs
+to accomplish the same task.  lexical processors 
+for aed-o and mad are among the many which have been
+produced.  the techniques employed are independent 
+of the nature of the items being evaluated.  if the
+word "events" is substituted for character string, 
+these processors may be described as generalized decision-making
+mechanisms based upon an ordered sequence 
+of events.  this allows the system to be used in a
+range of applications outside the area of lexical 
+processing.  however convenient these advantages may
+be, speed is the most important consideration.  
+in designing a system for automatic generation of a
+lexical processor, the goal was a processor which 
+completely eliminated backup or rereading, which was nearly
+as fast as hand-coded processors, which would 
+analyze the language and detect errors, and
+which would be convenient and easy to use.
+
+cacm december, 1968
+
+johnson, w. l.
+porter, j. h.
+ackley, s. i.
+ross, d. t.
+
+character string, compiler, finite-state automata, finite-state
+machine, lexical processor, nondeterministic 
+machine, parsing, plex structure, regular expressions,sequential
+machine, 
+************************
+
+************************
+Document:  CACM-2090.html
+************************
+************************
+Document:  CACM-2567.html
+************************
+************************
+Document:  CACM-2719.html
+************************
+
+
+mechanical program analysis
+
+one means of analyzing program performance
+is by deriving closed-form expressions for their 
+execution behavior.  this paper discusses the mechanization
+of such analysis, and describes a system, 
+metric, which is able to analyze simple lisp programs
+and produce, for example, closed-form expressions
+for their running time expressed in terms of size of input.
+ this paper presents the reasons for mechanizing 
+program analysis, describes the operation of metric, explains
+its implementation, and discusses its limitations.
+
+cacm september, 1975
+
+wegbreit, b.
+
+analysis of programs, performance analysis, execution
+time, execution behavior, difference equations, 
+generating functions, list processing, lisp, algebraic
+manipulation, programming languages, analysis 
+of algorithms
+
+************************
+
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+************************
+Document:  CACM-2253.html
+************************
+
+
+index ranges for matrix calculi
+
+the paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described by the authors 
+in a previous paper.  this scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code.  the goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures.
+ the paper is therefore preoccupied with "indexing 
+by position."  the relationship of "indexing by
+name" and "indexing by position" is discussed.
+
+cacm december, 1972
+
+bayer, r.
+witzgall, c.
+
+address calculations, algorithm transformation,
+compilation, data structures, indexing by name, 
+indexing by position, index domain, index map, index
+range, matrix expressions, normal form, programming 
+languages, program optimization, 
+************************
+
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure 
+************************
+.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+expression, context-free languages, translation, recognizers,
+
+************************
+
+************************
+Document:  CACM-3128.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage 
+************************
+
+************************
+Document:  CACM-3168.html
+************************
+************************
+Document:  CACM-2495.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use symbol manipulation of matrix expressions so
+as to find the forms best suited for computation.  these forms are
+called normal forms.  several completeness results are obtained
+in the sense that for each expression an equivalent expression
+in normal form can be found within a specified calculus.
+
+cacm april, 1970
+
+bayer, r.
+witzgall, c.
+
+complete calculus, data structures, linear
+programming, matrix, matrix concatenation,
+matrix sequences, programming languages,
+sequence operations, 
+************************
+
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-1896.html
+************************
+************************
+Document:  CACM-2617.html
+************************
+************************
+Document:  CACM-1254.html
+************************
+************************
+Document:  CACM-2838.html
+************************
+************************
+Document:  CACM-2316.html
+************************
+************************
+Document:  CACM-1694.html
+************************
+************************
+Document:  CACM-2560.html
+************************
+************************
+Document:  CACM-0413.html
+************************
+************************
+Document:  CACM-3199.html
+************************
+************************
+Document:  CACM-1098.html
+************************
+************************
+Document:  CACM-2413.html
+************************
+************************
+Document:  CACM-3042.html
+************************
+************************
+Document:  CACM-3150.html
+************************
+************************
+Document:  CACM-1934.html
+************************
+************************
+Document:  CACM-3065.html
+************************
+************************
+Document:  CACM-2175.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+************************
+
+************************
+Document:  CACM-1366.html
+************************
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must 
+************************
+
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-1355.html
+************************
+************************
+Document:  CACM-1739.html
+************************
+************************
+Document:  CACM-2895.html
+************************
+************************
+Document:  CACM-1324.html
+************************
+
+
+answering english questions by computer: a survey
+
+fifteen experimental english language question-answering
+systems which are programmed and operating 
+are described and reviewed.  the systems range from a conversation
+machine to programs which make sentences 
+about pictures and systems which translate from english
+into logical calculi.  systems are classified 
+as list-structured data-based, graphic data-based, text-based
+and inferential.  principles and methods 
+of operations are detailed and discussed.  it is concluded
+that the data-base question-answer has passed 
+from initial research into the early developmental
+phase.  the most difficult and important research 
+questions for the advancement of general-purpose language
+processors are seen to be concerned with measuring, 
+dealing with ambiguities, translating into formal
+languages and searching large 
+************************
+
+************************
+Document:  CACM-2254.html
+************************
+************************
+Document:  CACM-2802.html
+************************
+************************
+Document:  CACM-2305.html
+************************
+************************
+Document:  CACM-2930.html
+************************
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-3194.html
+************************
+************************
+Document:  CACM-2710.html
+************************
+
+
+specifying queries as relational expressions:
+the square data sublanguage
+
+this paper presents a data sublanguage called
+square, intended for use in ad hoc, interactive 
+problem solving by non-computer specialists. square
+is based on the relational model of data, and is 
+shown to be relationally complete; however, it avoids
+the quantifiers and bound variables required by 
+languages based on the relational 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-1696.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-3120.html
+************************
+************************
+Document:  CACM-3077.html
+************************
+
+
+can programming be liberated from the von neumann
+style?  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous, but not stronger.  inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, 
+************************
+
+************************
+Document:  CACM-2921.html
+************************
+
+
+regular right part grammars and their parsers
+
+this paper in troduces an alternative to context-free
+grammars called regular right part (rrp) 
+grammars, which resemble pascal syntax diagrams.  formally,
+rrp grammars have production right parts, 
+which are nondeterministic finite state machines (fsms),
+and, as a special case, regular expressions, 
+since these can be 
+************************
+, 
+since these can be converted to fsms.  rrp grammars
+describe the syntax of programming languages more 
+concisely and more understandably than is possible with
+cf grammars.  also in troduced is a class of parsers, 
+rrp lr(m, k) parsers, which includes the cf lr(k) parsers
+and provides the same advantages.  informally, 
+an rrp lr(m, k) parser can determine the right end of
+each handle by considering at most k symbols to 
+the right of the handle and the left end, after the
+right end has been found, by considering at most 
+m symbols to the left of the handle.  a mechanism for
+determining the left end is required because there 
+is no bound on the length of the handle.
+
+cacm october, 1977
+
+lalonde, w. r.
+
+finite state machines (automata), regular expressions,
+syntax diagrams,lr(k) 
+************************
+
+************************
+Document:  CACM-1807.html
+************************
+************************
+Document:  CACM-3043.html
+************************
+
+
+distributed processes: a concurrent programming concept
+
+a language concept for concurrent processes
+without common variables is introduced.  these 
+processes communicate and synchronize by means of procedure
+calls and guarded regions.  this concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ the paper gives several examples of distributed processes
+and shows that they include procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, path
+expressions, and input/output as special cases.
+
+cacm november, 1978
+
+hansen, p.
+
+concurrent programming, distributed processes,
+microprocessor networks, nondeterminism, guarded 
+regions, programming languages, process communication
+
+************************
+
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events 
+************************
+
+************************
+Document:  CACM-2450.html
+************************
+************************
+Document:  CACM-3082.html
+************************
+************************
+Document:  CACM-3056.html
+************************
+************************
+Document:  CACM-1827.html
+************************
+************************
+Document:  CACM-2799.html
+************************
+************************
+Document:  CACM-2304.html
+************************
+************************
+Document:  CACM-3169.html
+************************
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-1993.html
+************************
+************************
+Document:  CACM-1678.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+************************
+Document:  CACM-1259.html
+************************
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2052.html
+************************
+************************
+Document:  CACM-2704.html
+************************
+
+
+exception handling: issues and a proposed notation
+
+this paper defines exception conditions, discusses
+the requirements exception handling language 
+features must satisfy, and proposes some new language
+features for dealing with exceptions in an orderly 
+and reliable way.  the proposed language features serve
+to highlight exception handling issues by showing 
+how deficiencies in current approaches can be remedied.
+
+cacm december, 1975
+
+goodenough, j. b.
+
+multilevel exit, goto statement, error conditions,
+structured programming, on conditions, programming 
+languages
+
+4.22
+
+ca751203 jb january 
+************************
+
+************************
+Document:  CACM-1551.html
+************************
+************************
+Document:  CACM-1305.html
+************************
+************************
+Document:  CACM-3096.html
+************************
+************************
+Document:  CACM-2586.html
+************************
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-2968.html
+************************
+************************
+Document:  CACM-2742.html
+************************
+************************
+Document:  CACM-2650.html
+************************
+
+
+order-n correction for regular languages
+
+a method is presented 
+************************
+
+
+a method is presented for calculating a string
+b, belonging to a given regular language l, 
+which is "nearest" (in number of edit operations) to a
+given input string a.  b is viewed as a reasonable 
+"correction" for the possibly erroneous string a, where
+a was originally intended to be a string of l. 
+ the calculation of b by the method presented requires
+time proportional to |a|, the number of characters 
+in a.  the method should find applications in information
+retrieval, artificial intelligence, and spelling 
+correction systems.
+
+cacm may, 1974
+
+wagner, r. a.
+
+error correction, regular languages, regular events,
+finite state automata, 
+************************
+
+************************
+Document:  CACM-0154.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-2767.html
+************************
+
+
+a comparison of simulation event list algorithms
+
+four algorithms are considered which can be used
+to schedule events in a general purpose discrete 
+simulation system.  two of the algorithms are new, one
+is based on an end-order tree structure for event 
+notices, and another uses an indexed linear list. the algorithms
+are tested with a set of typical stochastic 
+scheduling distributions especially chosen to show
+the advantages and limitations of the algorithms. 
+ the end-order tree algorithm is shown to be an advantageous,
+immediate replacement for the algorithm 
+in use with current simulation languages.  the most
+promising 
+************************
+
+************************
+Document:  CACM-2712.html
+************************
+************************
+Document:  CACM-1906.html
+************************
+************************
+Document:  CACM-0284.html
+************************
+************************
+Document:  CACM-3203.html
+************************
+************************
+Document:  CACM-1503.html
+************************
+************************
+Document:  CACM-1612.html
+************************
+
+
+top-to-bottom parsing rehabilitated?
+
+this note is concerned with the efficiency
+of the top-to-bottom parsing algorithm as used in 
+connection with programming language grammars.  it is
+shown, for instance, that retracing of unprofitable 
+paths can often be eliminated by a suitable rearrangement
+of the productions defining the grammar.  the 
+essential weakness of the method is in dealing with complicated
+syntactic structures which are in practice 
+only sparsely occupied, e.g., arithmetic expressions.
+
+cacm april, 1967
+
+
+************************
+
+************************
+Document:  CACM-3064.html
+************************
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-2320.html
+************************
+
+
+structured multiprogramming
+
+this paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  the notation used explicitly associates
+a data structure shared by concurrent processes 
+with operations defined on it.  this clarifies the meaning
+of programs and permits a large class of time-dependent 
+errors to be caught at compile time.  a combination of
+critical regions and event variables enables the 
+programmer to control scheduling of resources among
+competing processes to any degree desired.  these 
+concepts are sufficiently safe to use not only within
+operating systems but also within user programs.
+
+cacm july, 1972
+
+hansen, p. b.
+
+structured multiprogramming, programming languages,
+operating systems, concurrent processes, shared 
+data, mutual exclusion, critical regions, process
+communication, synchronizing events.
+
+4.2 4.3
+
+ca720708 
+************************
+

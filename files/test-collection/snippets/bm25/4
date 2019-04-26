@@ -1,0 +1,2200 @@
+Snippets for the query:  Q4
+************************
+Total Hits:  124
+************************
+
+************************
+Document:  CACM-1746.html
+************************
+
+
+protection in an information processing utility
+
+one of the critical problems in the design
+of an information processing utility that permits 
+flexible sharing of user information is privacy.
+
+************************
+
+************************
+Document:  CACM-2978.html
+************************
+************************
+Document:  CACM-2622.html
+************************
+
+
+a user authentication scheme not requiring secrecy in the computer
+
+in many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  the system compares
+this password with one recorded in a password 
+table which is available to only the authentication
+program.  the integrity of the system depends on 
+keeping the table secret.  in this paper a password
+scheme is presented which does not require secrecy 
+in the computer.    all aspects of the system, including
+all relevant code and data bases, may be known 
+by anyone attempting to intrude.  the scheme is based
+on using a function h which the would-be intruder 
+is unable to invert.  this function is applied to the
+user's password and the result compared to a table 
+entry, a match being interpreted as authentication of
+the user.  the intruder may know all about h and 
+have access to the table, but he can penetrate the system
+only if he can invert h to determine an input 
+that produces a given output.  this paper discusses
+issues surrounding selection of a suitable h.  two 
+different plausible arguments are given that penetration
+would be exceedingly difficult, and it is then 
+argued that more rigorous results are unlikely.  finally,
+some human engineering problems 
+************************
+
+************************
+Document:  CACM-2604.html
+************************
+
+
+an interactive graphic display for region
+partitioning by linear programming
+
+using linear programming, an interactive graphic
+display system has been implemented to solve 
+the region design problem of partitioning a region into
+n nonoverlapping subregions in such a way that 
+their areas are in specified proportions and that the
+total cost of servicing them is a minimum.  in 
+a conversational manner, a user can easily obtain different
+
+************************
+
+************************
+Document:  CACM-2181.html
+************************
+
+
+the state of computer oriented curricula in business schools 1970
+
+the acm committee on computer education for management,
+supported by a national science foundation 
+grant, is established to appraise the state of the art
+and to develop a series of recommendations for 
+improving computer education for management.  to provide
+the committee with material for its study of 
+curricular needs, five regional meetings in the united
+states were held in 1970, at each of which a broad 
+cross section of invited academicians and practitioners
+considered the state of curricula in business 
+schools.  three topics were covered: curricula for
+the general manager; computer-related material in 
+required and functional courses; and curricula for students
+concentrating on computer-based information 
+systems.  an analysis of the minutes of the meetings
+revealed a common set of experiences which raised 
+similar pedagogic and economic issues.  this presentation
+gives a summary of the discussions; a condensation
+of the pedagogic and substantive concerns raised; and
+consideration of the resource allocation issues 
+involved.  preliminary to the committee's recommendations
+for improving computer education for management, 
+this report has been prepared to provide the participants
+and the administrators of their institutions 
+with background information for the ongoing task of course
+development.  chairman of the ten-man committee 
+is daniel teichroew (the university of michigan).
+
+cacm july, 1971
+
+mckenney, j. l.
+tonge, f. m.
+
+university programs, management education, curriculum
+design, business administration 
+************************
+
+************************
+Document:  CACM-2483.html
+************************
+
+
+coko iii: the cooper-koz chess program
+
+coko iii is a chess player written entirely
+in fortran.  on the ibm 360-65, coko iii plays 
+a minimal chess game at the rate of .2 sec cpu time
+per move, with a level close to lower chess club 
+play.  a selective tree searching procedure controlled
+by tactical chess logistics allows a deployment 
+of multiple minimal game calculations to achieve some optimal
+move selection.  the tree searching algorithms 
+are the heart of coko's effectiveness, yet they are
+conceptually simple.  in addition, an interesting 
+phenomenon called a tree searching catastrophe has plagued
+coko's entire development just as it troubles 
+a human player.  standard exponential growth is curbed
+to a large extent by the definition and trimming 
+of the fischer set.  a clear distinction between tree
+pruning and selective tree searching is also made. 
+ representation of the chess environment is described
+along with a strategical preanalysis procedure 
+that maps the lasker regions.  specific chess algorithms
+are described which could be used as a command 
+structure by anyone 
+************************
+ 
+structure by anyone desiring to do some chess program
+experimentation.  a comparison is made of some 
+mysterious actions of human players and coko iii.
+
+cacm july, 1973
+
+kozdrowicki, e. w.
+cooper, d. w.
+
+artificial intelligence, selective searching, tree
+searching, tree searching catastrophe, heuristic 
+programming,chess algorithms, lasker regions, fischer
+set, minimal chess game, strategical, tactical, 
+tactical control mode, game playing, alpha beta, machine
+learning, concept formation, command structure, 
+minimax, 
+************************
+
+************************
+Document:  CACM-2003.html
+************************
+
+
+an interactive software system for computers-aided
+design:  an application to circuit project
+
+the characteristics of an interactive software system, intended to constitute 
+an interface between designer and computer during various steps of
+the design process, are presented.  the main emphasis is given to the
+description of the features of the two high level user oriented
+languages, operating at different levels, on which the interaction
+is based.  the first one is imol, an interactive monitor language,
+which is designed to perform the overall and control functions
+of the software system; its design criteria provide the user with
+commands which are both simple 
+************************
+
+************************
+Document:  CACM-1281.html
+************************
+
+
+data input by question and answer
+
+a data input scheme for a time-sharing computer
+is described in this paper.  instead of using
+format statements to determine the input, the computer
+asks the user for the required values one at a 
+time.  the computer converses with the user during the
+input process, checks for errors, provides standard 
+data, and allows editing of values input.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1272.html
+************************
+
+
+expanding the editing function in language data processing
+
+in automatic abstracting, citation indexing,
+mechanical translation and other such procedures, 
+editing is required whenever the automatic method leaves
+something to be desired.  this paper discusses 
+the economy of editing as a function of the amount of condensation
+of text in language processing operations, 
+and then contends that editing can be regarded as an
+opportunity rather than as an unwelcome necessity. 
+ "heavy editing," which goes beyond mere correction
+and improvement of computer output, is exemplified 
+by the use of a concordance in preparing a survey article
+or lecture.  other opportunities for heavy 
+editing are described, chief among them being interpretation and
+expansion of computer output in such 
+processes as factor analysis.  applications are described,
+such processes as factor analysis.  applications 
+are described, such as the quick, unbiased evaluation
+of a large volume of incoming mail or telegrams, 
+yielding summary reports not possible for either
+humans or computers to produce 
+************************
+
+************************
+Document:  CACM-2247.html
+************************
+
+
+on the criteria to be used in decomposing systems into modules
+
+this paper discusses modularization as a mechanism
+for improving the flexibility ad comprehensibility 
+of a system while allowing the shortening of its development
+time.  the effectiveness of a "modularization" 
+is dependent upon the criteria used in dividing the
+system into modules.  a system design problem is
+presented 
+************************
+ problem is
+presented and both a conventional and unconventional
+decomposition are described.  it is shown that the 
+unconventional decompositions have distinct advantages
+for the goals outlined.  the criteria used in 
+arriving at the decompositions are discussed.  the
+unconventional decomposition, if implemented with 
+the conventional assumption that a module consists of
+one or more subroutines, will be less efficient 
+in most cases.  an alternative approach to implementation
+which does not have this effect is sketched.
+
+cacm december, 1972
+
+parnas, d. l.
+
+software, modules, modularity, software
+engineering, kwic index, software design
+
+4.0
+
+ca721208 jb january 
+************************
+
+************************
+Document:  CACM-2692.html
+************************
+************************
+Document:  CACM-1698.html
+************************
+
+
+a statistical model for console behavior in multiuser computers
+
+the ability of a computer system to communicate
+with the outside world efficiently is as important 
+as its ability to perform computations efficiently. 
+it is quite difficult to characterize a particular 
+user, but rather easy to characterize the entire user community.
+ based on the properties of this community 
+we have postulated a hypothetical "virtual console."
+ no claim is made that a virtual console behaves 
+like any actual console, but the entire collection of
+virtual consoles models the collection of actual 
+consoles.  using the model we answer questions like: 
+how many processes are suspended waiting for console 
+input?  what is the maximum rate at which a process can
+execute?  what bounds can be set on overall buffer 
+requirements?  answers to these and similar questions
+are needed in certain aspects of operating system 
+design.
+
+cacm september, 1968
+
+************************
+
+************************
+Document:  CACM-1188.html
+************************
+
+
+an algol-like computer design language
+
+the idea of constructing a computer design
+language by making use of an algol-like programming 
+language is presented.  a computer designer can benefit
+from using a design language at a higher level 
+just as a computer user can benefit from a higher 
+************************
+
+************************
+Document:  CACM-2990.html
+************************
+
+
+effective information retrieval using term accuracy
+
+the performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user query.  unfortunately, formal proofs are difficult
+to construct for the average case.  in the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query.  the concept 
+of query term accuracy is in troduced as the probability
+of occurrence of a query term in the documents 
+relevant to that query.  by relating term accuracy
+to the frequency of occurrence of the term in the 
+documents of a collection it is possible to give formal
+proofs of the effectiveness with respect to a 
+given 
+************************
+
+************************
+Document:  CACM-1912.html
+************************
+
+
+simulation of outpatient appointment systems
+
+an experimental computer program is described
+which simulates appointment systems employed 
+by outpatient departments of hospitals.  both major kinds
+of appointment systems-individual and block-can 
+be simulated.  the purpose of the simulator is to enable
+the user to evaluate the effectiveness of alternative 
+appointment 
+************************
+
+************************
+Document:  CACM-3102.html
+************************
+
+
+incorporation of units into programming languages
+
+the issues of how a programming language might
+aid in keeping track of physical units (feet, 
+sec, etc.) are discussed.  a method is given for the
+introduction of relationships among units (a watt 
+is volts*amps, a yard is three feet) and subsequent automatic
+conversion based upon these relationships.
+ various proposals for syntax are considered.
+
+cacm may, 1978
+
+karr, m.
+loveman iii, d.
+
+units, language design, compiler construction, 
+************************
+
+************************
+Document:  CACM-1671.html
+************************
+
+
+a phonological rule tester
+
+the design and implementation of a system to
+alleviate 
+************************
+ of a system to
+alleviate the problem of rule evaluation for the 
+linguist in the area of phonology are presented.  it
+permits the user to define, on-line, sets of rules 
+statable within the framework presented in the sound
+patterns of english by chomsky and halle, 1968, 
+to define phonemes as bundles of specified distinctive
+features, to define data as strings of phonemes 
+with associated grammatical structure, to test the effect
+of applying rules to the data, and to store 
+both the definitions and results.  the rule application
+facility described in detail was implemented 
+by translating linguistic rules to rules in flip, a
+format-directed list processor embedded in lisp. 
+ this made the system construction easy while providing
+sophisticated capabilities for the linguist. 
+ the system is written in bbn lisp on the scientific
+data system 940 computer and is designed to be used 
+on-line in interactive fashion, with control returned
+to the user after each command is executed.
+
+cacm november, 
+************************
+
+************************
+Document:  CACM-3087.html
+************************
+
+
+an english language question answering system
+for a large relational database
+
+by typing requests in english, casual users
+will be able to obtain explicit answers from a 
+large relational database of aircraft flight and maintenance
+data using a system called planes.  the 
+design and implementation of this system is described 
+************************
+
+************************
+Document:  CACM-2401.html
+************************
+
+
+on shrinking binary picture patterns
+
+a parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  this procedure
+may be used for counting patterns on a matrix, and 
+a hardware implementation of the algorithm using large
+scale integrated technology is envisioned.  the 
+principal features of this method are the very small
+window employed (two-by-two 
+************************
+
+************************
+Document:  CACM-1030.html
+************************
+
+
+techniques for the simulation of computer logic
+
+the simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  the evaluation of the boolean functions which
+characterize the computer being simulated constitutes 
+one major portion of a simulation system.  four general
+procedural classes for evaluating these functions 
+are defined.  toward greatly increased efficiency of a simulation
+system, 
+************************
+
+************************
+Document:  CACM-2299.html
+************************
+
+
+an extensible editor for a small machine with disk storage
+
+a design philosophy for developing a sophisticated
+utility program is illustrated by the actual 
+design and implementation of a text editor.  a 
+************************
+ of a text editor.  a versatile
+data structure is employed so that only a small 
+number of programmed subroutines are necessary for all
+types of data manipulation.  such a data structure 
+is described, and its merits are illustrated by the ease
+with which powerful extensions can be implemented 
+in terms of a few basic editing function.
+
+cacm august, 1972
+
+benjamin, a. j.
+
+command processing, context 
+************************
+
+************************
+Document:  CACM-2169.html
+************************
+
+
+the altran system for rational function manipulation-a survey
+
+altran is a complete system for symbolic computation
+with rational functions in several variables 
+with integer coefficients.  it has been designed and
+implemented to handle large problems with ease and 
+efficiency.  considerable effort 
+************************
+.  considerable effort has been spent to ensure
+a minimum amount of machine dependence in the 
+implementation, thus permitting the system to be installed
+quickly and easily on a variety of computing 
+machines.  in this paper a brief description of the language,
+run time data structures, and implementation 
+is given.
+
+cacm august, 1971
+
+hall jr., a. d.
+
+symbolic algebra, rational function manipulation,
+polynomial manipulation, interpreters, translators
+
+4.13 4.29
+
+************************
+
+************************
+Document:  CACM-2308.html
+************************
+
+
+computers and urban society
+
+this brief survey of the use of computers in
+urban society covers the broad range of activities 
+found in any city.  the future scope of applications is
+limited only by the imagination and inventiveness 
+of future system designers, programmers, analysts, and
+decision makers.  the computer can be, if properly 
+used, with respect for human dignity and civil liberty,
+a significant factor in improving the efficiency 
+of the urban process. 
+************************
+
+************************
+Document:  CACM-3035.html
+************************
+
+
+a strategic planning methodology for the computing
+effort in higher education: an empirical evaluation
+
+the findings of a study designed to address
+the pressing problems associated with the strategic 
+planning of the computing effort in higher education
+are presented here.  a planning methodology was 
+developed and tested through implementation at a university.
+ two years after the methodology was implemented, 
+the effectiveness of the planning methodology 
+************************
+
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user.  a relational algebra 
+************************
+.  a relational algebra interface, called 
+squiral, which was designed using this approach, 
+************************
+
+************************
+Document:  CACM-3147.html
+************************
+
+
+a model for automating file and program design in business application systems
+
+this paper discusses a model for finding an efficient implementation of a 
+business application system whose logical specifications have been determined
+in advance.  the model views file and program design 
+************************
+
+************************
+Document:  CACM-2469.html
+************************
+
+
+petri nets and speed independent design
+
+petri nets are investigated as one method of
+modeling speed independent asynchronous circuits. 
+ a study of circuit realizations of petri nets leads
+to a demonstration of their usefulness in modeling 
+speed independent operation.  this usefulness is emphasized
+by the design of a speed independent processor 
+from modules developed in the investigation of petri net implementation.
+
+cacm august, 1973
+
+************************
+
+************************
+Document:  CACM-2873.html
+************************
+
+
+lg: a language for analytic geometry
+
+a conversational programming language for analytic
+geometry is described, together with some 
+aspects of its implementation.  the language allows
+the flexible definition of geometric objects and 
+elements, computes their parameters, and displays the results.
+it also provides the capability of specifying 
+a geometric figure via a collection of parameters and
+displaying various loci corresponding to these 
+parameters. a third characteristic consists of the possibility
+of using this language to design other 
+user oriented languages. 
+************************
+ oriented languages.  lg has been specifically designed
+for use by nonprogrammers; it is easy to 
+learn and very close to the natural language used in geometry.
+
+cacm april, 1976
+
+raymond, j.
+
+interactive programming, problem oriented languages,
+computer graphics, interpreters, analytic 
+geometry
+
+************************
+
+************************
+Document:  CACM-0251.html
+************************
+
+
+ballistic cam design 
+
+this paper presents a digital computer program
+for the rapid calculation of manufacturing data 
+essential to the design of preproduction 
+************************
+
+************************
+Document:  CACM-2522.html
+************************
+
+
+the design, implementation, and evaluation of a 
+************************
+, and evaluation of a working set dispatcher
+
+the behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing for them.
+ recent research in time-sharing paging systems 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  two implementations
+along these principles have been reported, but it 
+seems that in neither case have further results been
+announced.  this report discusses the design and 
+implementation 
+************************
+
+************************
+Document:  CACM-2959.html
+************************
+
+
+the system for business automation (sba): programming language
+
+the system for business automation (sba) is a system
+within which application experts-nonprogrammers-can 
+describe and execute their applications on a computer. 
+the user of sba views his application as manipulation 
+************************
+
+************************
+Document:  CACM-2321.html
+************************
+
+
+on the interface between computers and data communications systems
+
+future systems that combine computers, digital
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.  several "standard" interfaces,
+by means of which computers 
+************************
+,
+by means of which computers and digital 
+terminals connect to the communications systems will
+be required.  when specifying these interfaces, 
+consideration must 
+************************
+s, 
+consideration must be given to problems of coordination,
+synchronization, error control, signaling, stream 
+multiplexing, and switch control, in addition to minimizing
+the technological interdependence of specific 
+subsystem designs.  a focus on some of the problems is
+obtained in a discussion of a detailed specification 
+for a particular computer-communications system interface.
+
+cacm july, 1972
+
+fraser, 
+************************
+
+************************
+Document:  CACM-1605.html
+************************
+
+
+an experimental comparison of time sharing and batch processing
+
+the effectiveness for program development
+of the mit compatible time-sharing system (ctss) 
+was compared with that of the ibm ibsys batch-processing
+system by means of a statistically designed 
+experiment.  an identical 
+************************
+ed 
+experiment.  an identical set of four programming problems
+was assigned to each of a group of four programming 
+subjects.  influences external to the systems, such as
+the sequence of problem solution, and programmer 
+and problem characteristics, were specified as design
+factors in the experiment.  data was obtained for 
+six variables (e.g., programmer time, computer time,
+elapsed time, etc.) which were considered to be 
+definitive of "system effectiveness," and analysis of
+variance 
+************************
+
+************************
+Document:  CACM-3031.html
+************************
+
+
+abstract data types and software validation
+
+a data abstraction can be naturally specified
+using algebraic axioms.  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type.  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation.  the  major 
+thrust of the paper is twofold.  first, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an abstract data type.  second, semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to derive an immediate 
+implementation from the axioms.  this implementation
+allows for limited testing of programs at design 
+time, before a conventional 
+************************
+
+************************
+Document:  CACM-2035.html
+************************
+
+
+conversational access to a 2048-word machine
+
+lap6 is an on-line system running on a 2048-word linc which provides full 
+facilities for text editing, automatic filing and file maintenance, and 
+program preparation and assembly.  it focuses on the preparation and editing 
+of continuously displayed 23,040-character text strings (manuscripts) which
+can be positioned anywhere by the user and edited by simply adding
+and deleting lines as though working directly on an elastic scroll.
+other features are available through a uniform command set which itself can 
+be augmented by the user.  the machine, although small,
+aids program design by providing display scope and premarked
+randomly addressable linc tapes as standard items, in an environment
+similar to that of a sophisticated terminal.  the tapes are logically 
+similar to a disk.  priority was given to the design of efficient
+tape algorithms to minimize the limitations of the small memory.  techniques 
+developed for handling scroll editing, filing, and the layered system 
+structure are outlined.  lap6 is used by about 2000 people in 11 countries.  
+its design was strongly influenced by performance criteria established in 
+interviews held with linc users 
+************************
+ held with linc users themselves during the specification period.
+
+cacm july, 1970
+
+wilkes, m. a.
+
+conversational computer access,
+display editing, display oriented system, filing algorithms, lap6,
+layering, linc, man-machine communication, on-line editing, on-line efficiency,
+on-line environment, 
+************************
+
+************************
+Document:  CACM-1252.html
+************************
+
+
+symbolic notations for statistical tables
+and an approach towards automatic system design
+
+the preparation of statistical tables is an
+important function of the data processing systems 
+of some organizations, and a symbolic notation for the
+description of tables has been shown to be a useful 
+aid to documentation.  such a notation also provides
+the first step towards making automatic a tedious 
+and time-consuming part of system design and programming
+in many computer applications.  one notation 
+is described and suggestions are made for the implementation of the larger goal.
+
+************************
+
+************************
+Document:  CACM-2572.html
+************************
+
+
+arguments for a moratorium on the construction
+of a community information utility
+
+in this article the author urges a prudent
+and decentralized approach to the question of the 
+design and desirability of computerized community information
+utilities.  before accepting the inevitability 
+and desirability of this or any technology, we should:
+(1) be sure of the feasibility (internally and 
+externally) of what is proposed; (2) project and perhaps
+wait for changes in complementary techniques; 
+(3) evaluate current and projected supplementary techniques;
+(4) establish the existence of demand for 
+what is proposed; (5) take steps to involve a representative
+group of ultimate users in systems design, 
+************************
+s in systems design, 
+and (6) carefully think through possible side effects
+on man and his world view.  current proposals for 
+community information utilities are examined in this
+framework, and the conclusion is drawn that society 
+is not yet in a position to justify either the construction
+of an information utility in a prototype 
+community or the acceptance of a policy in
+favor of its widespread implementation.
+
+cacm december, 1974
+
+************************
+
+************************
+Document:  CACM-2957.html
+************************
+
+
+database abstractions: aggregation
+
+aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  aggregation transforms a relationship between
+objects into a higher-level object.  a new data 
+type, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  relational databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  to main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  well-defined relations are
+distinct from relations in third normal form.  it 
+is shown that these notions are complementary and both are
+important in database design.  a top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  it is
+suggested that aggregate types, and other types 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+************************
+
+************************
+Document:  CACM-0892.html
+************************
+
+
+recol-a retrieval command language
+
+an interrogation scheme is described for the
+retrieval and manipulation of data file records. 
+ the language of the interrogation scheme allows for selecting
+file records with the are of logical condition 
+statements, defining record classes, associating file
+records, editing printed output, and summarizing 
+the results of the above operations.  some examples of
+a typical file application and the more significant 
+features of a particular machine implementation are given.
+
+cacm march, 
+************************
+
+************************
+Document:  CACM-1682.html
+************************
+
+
+the implementation of a basic system in a multiprogramming environment
+
+the implementation of a remote terminal basic system
+within the context of an existing multiprogramming 
+computer system, the burroughs b5500, is described.
+ this implementation combines a unique mixture of 
+machine language and interpretive techniques with an incremental compiler.
+
+cacm october, 1968
+
+braden, h. v.
+wulf, w. a.
+
+multiprogramming, incremental compilation, compilers, interpreters
+
+4.1 4.12 4.2 4.22 4.3 
+************************
+
+************************
+Document:  CACM-2718.html
+************************
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+
+************************
+
+************************
+Document:  CACM-1978.html
+************************
+
+
+the use of interactive graphics to solve numerical problems
+
+with the advent of on-line (time-sharing) computer systems
+and graphic terminals, we have available a new dimension
+in numerical problem solving capabilities.  rather than simply use
+the new power to achieve fast turnaround, we can develop interactive
+routines which are easy to use and also take advantage of the
+insight and visual capabilities of the human problem solver.  several
+on-line systems for general purpose mathematical problem solving
+have already been implemented as well as some special purpose
+systems for solving problems in a particular area such as ordinary
+differential equations.  the advantage of restricting the problem
+area is that the interface with a user can be greatly simplified.
+
+************************
+ can be greatly simplified.
+in this paper we discuss some of the advantages accrued by such
+systems and design considerations for interactive routines.  furthermore,
+an implementation of an on-line least 
+************************
+
+************************
+Document:  CACM-3146.html
+************************
+
+
+an academic program providing realistic training in software engineering
+
+an academic program at harvey mudd college, called
+the clinic program, brings projects from industry on
+ campus to be studied and solved by student teams.  the objective of
+the clinic is to provide students, working as small teams under
+ careful faculty supervision, an opportunity to work on real world
+problems of sufficient magnitude and complexity.  under this program,
+students can acquire essential skills of software engineering,
+such as team work, software project management, software design
+methodology, and communication 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.  advantages of these programming languages
+for the retrieval application are examined, 
+and suggestions are made for the design of programming
+facilities 
+************************
+
+************************
+Document:  CACM-1392.html
+************************
+
+
+experience with formac algorithm design
+
+various facets of the design and implementation
+of mathematical expression 
+************************
+
+of mathematical expression manipulation algorithms 
+are discussed.  concrete examples are provided by the
+formac expand and differentiation algorithms, a 
+basic formac utility routine, and an experiment in the
+extraction of the skeletal structure of an expression. 
+ one recurrent theme is the need to avoid excessive
+intermediate expression swell in order to minimize 
+core storage requirements. although many details from
+the formac implementation are presented, an attempt 
+is made to stress principles and ideas of general relevance
+in the design of algorithms for manipulating 
+************************
+
+************************
+Document:  CACM-3050.html
+************************
+
+
+systems design education: a gaming approach
+
+one of the problems facing managers of computer
+installations 
+************************
+
+************************
+Document:  CACM-1454.html
+************************
+
+
+a simple user-oriented compiler source language
+for programming automatic test equipment
+
+for the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  a simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  the language described in this paper is
+used to write computer programs which test electronic 
+equipment.  because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ a simple and direct language will suffice for the 
+problem.  the eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or significant programming
+training.  for this nonprogramming-oriented 
+user, it was essential to create a language 
+************************
+
+************************
+Document:  CACM-2841.html
+************************
+
+
+designing surfaces in 3-d
+
+an experimental system for computer-aided
+design of free-form surfaces in three dimensions 
+is described. the surfaces are represented in the system
+as parametric basis splines. the principal features 
+of the system are: (1) the surfaces are rendered as isoparametric
+line drawings on a head-mounted display, 
+and they are designed with the aid of a three-dimensional
+"wand," which allows 3-d movements of the points 
+controlling the shapes of the surfaces, (2) all of the
+interactions with the surfaces are in real-time, 
+and (3) the mathematical formulations used assume no
+knowledge of them by the user of the system.  also 
+************************
+
+************************
+Document:  CACM-1829.html
+************************
+
+
+an interactive graphical display monitor in
+a batch-processing environment with remote entry
+
+a graphic monitor program is described.  it
+was developed at carnegie-mellon university for 
+the cdc g21 computer, which is a general purpose, batch-processing
+system with remote entry.  the existing 
+g21 system and the graphics hardware are described. 
+the graphic monitor is a resident auxiliary monitor 
+which provides comprehensive managerial capability
+over the graphical system in response to commands 
+from the human user.  it also will respond 
+************************
+.  it also will respond to commands
+from a user program through a similar interface, 
+where routine calls 
+************************
+, 
+where routine calls take the place of manual actions.  thus
+the human and program can interact on a symmetrical 
+and equal basis through the medium of the graphic monitor.
+ the choice made in designing the graphic 
+monitor, given the constraints of the existing hardware
+and computer system, are discussed.  the structure 
+of the monitor program and the human and program interfaces
+are described.  there 
+************************
+s
+are described.  there is also a transient 
+swapping version with a small resident part,
+and provision for swapped used submonitors.
+
+cacm november, 1969
+
+bond, a. h.
+rightnour, j.
+
+graphic monitor, man/machine interaction, graphic
+interface, graphic in batch environment, design 
+of graphical system
+
+************************
+
+************************
+Document:  CACM-2105.html
+************************
+
+
+an interactive computer system using graphical flowchart input
+
+an interactive computer system operational on a graphical computer terminal is 
+described.  this system was designed to demonstrate a method of programming by 
+computer interpretation of a flowchart.  the user draws a description 
+************************
+
+************************
+Document:  CACM-2439.html
+************************
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with many remote 
+terminals simultaneously and can control the interactions
+between these terminals.  such programs can 
+be written using standard input and output instructions
+in any language available on the system.  this 
+paper describes how this multiple-terminal facility
+was implemented without requiring any changes in 
+the system executive or in any of the system's compilers or interpreters.
+
+cacm october, 1973
+
+************************
+
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is 
+************************
+ of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, priority,
+operating systems,processor sharing, implementation 
+efficiency
+
+4.31 4.32 4.34 4.35 
+************************
+
+************************
+Document:  CACM-1465.html
+************************
+
+
+program translation viewed as a general data processing problem
+
+efficiency dictates that the overall effectiveness
+of a compiler be increased 
+************************
+
+************************
+Document:  CACM-2786.html
+************************
+
+
+a system for typesetting mathematics
+
+this paper describes the design and implementation
+of a system for typesetting 
+************************
+
+of a system for typesetting mathematics. 
+ the language has been designed to be easy to learn
+and to use by people (for example, secretaries and 
+mathematical typists) who know neither mathematics nor
+typesetting.  experience indicates that the language 
+can be learned in an hour or so, for it has few rules
+and fewer exceptions.  for typical expressions, 
+the size and font changes, positioning, line drawing, and
+the like necessary to print according to mathematical 
+conventions are all done automatically.  for example,
+the input sum from i=o to infinity x sub i=pi over 
+2 produces (formula).  the syntax of the language is specified
+by a small context-free grammar; a compiler-compiler 
+is used to make a compiler that translates this language
+into typesetting commands.  output maybe produced 
+on either a phototypesetter or on a terminal with forward
+and reverse half-line motions.  the system 
+interfaces directly with text 
+************************
+
+************************
+Document:  CACM-1053.html
+************************
+
+
+design and implementation of a general-purpose 
+************************
+
+************************
+Document:  CACM-2514.html
+************************
+
+
+an array grammar programming system
+
+a package of fortran programs has been developed
+that permits a user to interactively design 
+and test array grammars. 
+************************
+
+************************
+Document:  CACM-3040.html
+************************
+
+
+synthesizing constraint expressions
+
+a constraint network representation is presented
+for a combinatorial search problem: finding 
+values for a set of variables subject to a set of constraints.
+ a theory of consistency levels in such 
+networks is formulated, which is related to problems
+of backtrack tree search efficiency.  an algorithm 
+is developed that can achieve any level of consistency
+desired, in order to preprocess the problem for 
+subsequent backtrack search, or to function as an alternative
+to backtrack search by explicitly determining 
+all solutions.
+
+cacm november, 1978
+
+freuder, e.
+
+backtrack, combinatorial algorithms, constraint
+networks, constraint satisfaction, graph coloring, 
+network 
+************************
+
+************************
+Document:  CACM-1519.html
+************************
+
+
+george 3-a general purpose time sharing and operating system
+
+an operating system is described which will
+run on a wide variety of configurations of the 
+i. 1900, and can handle a large number of online console
+users while at the same time running several 
+off line (background) jobs.  the system is not oriented
+towards either mode and can be either a batch 
+processing system (such as the atlas supervisor, ibsys,
+or gecos), or a multiaccess system (resembling, 
+to the user, ctss or multics), or both simultaneously,
+depending on the installation, which can adjust 
+the schedulers.  both online users and off line jobs use
+a common command language.  the system 
+************************
+
+************************
+Document:  CACM-2078.html
+************************
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+************************
+ methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is described. 
+ this 
+************************
+
+************************
+Document:  CACM-1853.html
+************************
+
+
+compact list representation: definition,
+garbage collection, and system implementation
+
+compact lists are stored sequentially in memory,
+rather than chained with pointers.  since 
+this is not always convenient, the swym system permits
+a list to be chained, compact, or any combination 
+of the two.  a description is given of that list representation
+and the operators implemented (most are 
+similar to those of lisp 1.5).  the system garbage collector
+attempts to make all lists compact; it relocates 
+and rearranges all of list storage using temporary storage.
+ this unique list-compacting garbage collection 
+algorithm is presented in detail.  several classes of the
+macros used to implement the system are described. 
+ finally, consideration is given to those design factors
+essential to the success of a 
+************************
+
+************************
+Document:  CACM-1742.html
+************************
+
+
+on the design of display processors
+
+the flexibility and power needed in the data
+channel for a computer display are considered. 
+ to work efficiently, such a channel must have a sufficient number
+of instructions that it is best understood 
+as a small processor rather than a powerful channel.
+ as it was found that successive improvements to 
+the display processor 
+************************
+ to 
+the display processor design lie on a circular path, by
+making improvements one can return to the 
+************************
+
+************************
+Document:  CACM-1238.html
+************************
+
+
+a technique for integrated reports from a multi-run system
+
+the requirements of a requisition accounting
+system for the san francisco overseas supply agency 
+(osa) included exception reporting to osa itself.  the simultaneous
+satisfaction of the reporting requirement 
+and the accounting requirements posed definite problems
+in system design, particularly the handling 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident 
+************************
+
+************************
+Document:  CACM-2947.html
+************************
+
+
+sitar: an interactive text processing system for small computers
+
+sitar, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems, but has several 
+additional features. it is implemented on a pdp/11 time-sharing
+computer invoked by a crt with microprogrammed 
+editing functions.  it uses a simple command language designating
+a function, a file, 
+************************
+ating
+a function, a file, and a search template 
+consisting of the textual string desired and strings
+delimiting the context in which the hit is to be 
+delivered.  extensive experience with sitar shows that
+the combined powers of simple commands, string 
+orientation, circular file structure, a crt with local
+memory, and conversational computing produce a 
+system much more powerful than the sum of its parts.
+
+cacm july, 1977
+
+schneider, b. r. jr.
+watts, r. m.
+
+information retrieval, text editing, minicomputers,
+crts,time 
+************************
+
+************************
+Document:  CACM-2960.html
+************************
+************************
+Document:  CACM-1699.html
+************************
+
+
+experimental evaluation of information
+retrieval through a teletypewriter
+
+experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis on interactive (man-machine) language and on
+some of the mechanical and psychological limitations 
+in their design, were conducted at the moore school information
+systems laboratory.  the basic assumption 
+of the research is that an information retrieval system
+that provides for man-machine dialogue at a remote 
+inquiry terminal should provide a searcher with many
+of the tools which would be available to him were 
+he actually performing his search at a library or repository
+of documents.  factors involved in evaluation 
+of such a system include ease of use, learning time, and
+effectiveness of actual retrieval.  three experiments 
+and the conclusions resulting from them are detailed.
+
+cacm september, 1968
+
+rubinoff, m.
+bergman, s.
+franks, w.
+rubinoff, e.
+
+information retrieval testing,  information system
+evaluation, experimental document retrieval, 
+document retrieval, document perusal, man-machine communication,
+remote console communication, teletypewriter 
+communication, remote terminal communication, retrieval
+command language, symbolic command language, 
+interactive systems, user learning factors, on-line 
+************************
+
+************************
+Document:  CACM-1764.html
+************************
+
+
+panel discussion on computer appreciation
+
+session 19 of the acm 20 th anniversary conference
+on august 31, 1967, was entitled education, 
+design experiments, and computer appreciation.  its second
+half consisted of a panel discussion on computer 
+appreciation, organized and chaired by elliot i. organick.
+ the four panelists were charles h. davidson, 
+bernard a. galler, richard, w. hamming, and alan j. perlis.
+ after making prepared statements, the panelists 
+were joined in discussion by andries van dam and arthur
+bohn, who had presented papers in the first 
+half. 
+************************
+
+************************
+Document:  CACM-2106.html
+************************
+
+
+computer education in a graduate school of management
+
+several years of experience have led to the belief that the creative
+design and evaluation of management information systems requires
+a thorough understanding of the related computer technology.  concepts
+such as paging and priority interrupt systems can best be explained at the 
+machine language level.  any machine used for exposition
+should fulfill several criteria.  it should: (1) raise as few
+spurious issues as possible; (2) allow, without undue effort, the
+solution of interesting problems; (3) be capable of exposing all
+outstanding issues of significance, capable of exposing all outstanding
+issues of significance, within the chosen machine; (4) be
+seful for pursuing issues in great depth when appropriate; (5) not
+be committed to the equipment provided by any manufacturer; (6) be able to 
+provide the student with diagnostic aids to a great depth;
+(7) allow the student ready access to the machine; (8) be capable
+of extension to expose new issues as they come along.  we have
+constructed a simulated machine and its associated software which
+meets these criteria.  this system, called the prism system,
+is documented by a primer and a reference manual.
+
+cacm february, 1970
+
+ness, d. n.
+green, r. s.
+martin, w. a.
+moulton, g. a.
+
+education, simulation, machine language,
+management information systems, interpreters
+
+1.52 3.51 4.13 4.21
+
+************************
+
+************************
+Document:  CACM-2887.html
+************************
+
+
+a study of errors, error-proneness, and error diagnosis in cobol
+
+this paper provides data on cobol error frequency
+for correction of errors in student-oriented 
+compilers, improvement of teaching, and changes in programming
+language.  cobol was studied because of 
+economic importance, widespread usage, possible error-including
+design, and lack of research.  the types 
+of errors were identified in a pilot study; then, using
+the 132 error types found, 1,777 errors were 
+classified in 1,4000 runs of 73 cobol students.  error
+density was high: 20 percent of the types contained 
+80 percent of the total frequency, which implies high
+potential effectiveness for software based correction 
+of cobol.  surprisingly, only four high-frequency errors
+were error-prone, which implies minimal error 
+inducing design. 80 percent of cobol misspellings were classifiable
+in the four error categories of previous 
+researchers, which implies that cobol misspellings
+are correctable by existent algorithms.  reserved 
+word usage was not error-prone, which implies minimal
+interference with usage of reserved words.  over 
+80 percent of error diagnosis was found to be inaccurate.
+ such feedback is not optimal for users, particularly 
+for 
+************************
+
+************************
+Document:  CACM-1502.html
+************************
+
+
+an online editor
+
+an online, interactive system for test editing
+is described in detail, with remarks on the 
+theoretical and experimental justification for its form.
+ emphasis throughout the system is on providing 
+maximum convenience and power for the user.  notable
+features are 
+************************
+
+************************
+Document:  CACM-1307.html
+************************
+
+
+a lightpen-controlled program for on-line data analysis
+
+this paper describes a technique designed
+to ease the use of a data processing system by a 
+person, in particular, a scientist, who is intimately and
+primarily concerned with interpreting the significance 
+of data handled by the system.  since such a person is
+often unable to spend the time necessary to master 
+a programming language, it is essential that he be aided
+in composing commands to the computer.  in 
+************************
+s to the computer.  in the 
+system described, the user is not required to learn
+or remember the vocabulary of the language because 
+the vocabulary is displayed before him on"menus" by
+means of a computer-drive scope.  he selects the 
+various vocabulary elements required by pointing with
+the light pen.  by use of a small unordered set 
+of rewriting rules applied as a result of light pen
+selections, the user generates only syntactically
+correct commands to the system.  he 
+************************
+
+************************
+Document:  CACM-2753.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+
+
+pseudofiles
+
+an approach to system interfaces for high
+level languages 
+************************
+s for high
+level languages using basic input/output support 
+facilities is described.  it is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+facilities such as command language processors.
+
+cacm march, 1969
+
+rosin, r. f.
+
+operating systems, interfaces input-output,
+high 
+************************
+
+************************
+Document:  CACM-1962.html
+************************
+
+
+groove-a program to compose, store, and edit functions of time
+
+a program which makes possible creating, storing, reproducing,
+and editing functions of time is described.  the functions are typical
+of those generated by human beings.  multiple functions 
+************************
+
+************************
+Document:  CACM-1960.html
+************************
+
+
+process management and resource sharing in the multiaccess system esope
+
+the main design principles of the multiaccess system esope are described.
+emphasis is placed on basic ideas underlying the design rather
+than on implementation details.  the main features of the system
+include the ability given to any user to schedule his own 
+************************
+
+************************
+Document:  CACM-2534.html
+************************
+
+
+design and implementation of a diagnostic compiler 
+************************
+ of a diagnostic compiler for pl/i
+
+pl/c is a compiler for a dialect for pl/i.  the
+design objective was to provide a maximum degree 
+of diagnostic assistance in a batch processing environment.
+ for the most part this assistance is implicit 
+and is provided automatically by the compiler. the most remarkable
+characteristic of pl/c is its perseverance-it 
+completes translation of every program submitted and
+continues execution until a user-established error 
+limit 
+************************
+-established error 
+limit is reached. this requires that the compiler repair
+errors encountered during both translation 
+and execution, and the design of pl/c is dominated by
+this consideration.  pl/c also introduces several 
+explicit user-controlled facilities 
+************************
+
+************************
+Document:  CACM-2399.html
+************************
+
+
+a crt editing system
+
+a test-editing and manipulation program is described.
+ the program operates from low-cost cathode-ray 
+tube entry and display stations with keyboard and 13
+function buttons. applications, potential economy 
+of operation, and some aspects of implementation are discussed.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2246.html
+************************
+
+
+levels of language for portable software
+
+an increasing amount of software is being
+implemented in a portable form.  a popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language and 
+then to map this language, often using a macro processor,
+into the assembly language of each desired 
+object machine.  the design of the machine-independent
+language is the key factor in this operation. 
+ this paper discusses the relative merits of pitching
+this language at a high level or a low level, and 
+presents some comparative results.
+
+cacm december, 1972
+
+brown, p. j.
+
+portable software, level of language, machine
+independent, macro processor, efficiency
+
+4.12 4.21 4.22
+
+ca721209 
+************************
+
+************************
+Document:  CACM-1408.html
+************************
+
+
+the eschenbach drum scheme
+
+the prime function of a drum, operating in
+real time, is to perform accesses quickly.  the 
+usual means for increasing this capacity is to incorporate
+engineering or hardware improvements.  in 
+this paper the problem is attacked not by changing the
+drum, but rather by modifying the manner in which 
+it operates.  at the outset, a drum is given a functional
+definition.  then a simple design scheme (eschenbach) 
+is introduced which enormously increases the rate of
+accessing for drums so defined.  this is shown to 
+enable a system to perform a job by employing fewer or
+less expensive drums.  it is suggested that although 
+the design scheme has a specific use, the method underlying it
+has more general applicability.  the question 
+of the efficacy of the drum scheme is then raised.  to
+deal with this, a standard of efficiency is developed 
+in light 
+************************
+
+************************
+Document:  CACM-3025.html
+************************
+
+
+the evolution of the dec system 10
+
+the dec system 10, also known as the pdp-10, evolved
+from the pdp-6 (circa 1963) over five generations 
+of implementations to presently include systems covering
+a price range of five to one.  the origin and 
+evolution of the hardware, operating system, and languages
+are described in terms of technological change, 
+user requirements, and user developments. the pdp-10's
+contributions to computing technology include: 
+accelerating the transition from batch oriented to time
+sharing computing systems; transferring hardware 
+technology within dec (and elsewhere) to minicomputer
+design and manufacturing; supporting 
+************************
+
+************************
+Document:  CACM-3012.html
+************************
+
+
+the use of an interactive information storage
+and retrieval system in medical research
+
+this paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system.  a monitor built into the computer
+system provided usage data for the study.  additional 
+data on user reactions were gathe red from a questionnaire.
+ the results show the important role played 
+by frequently chosen laboratory reference leaders in influencing
+the use of this system.  the implications 
+of the study for the design of similar systems are discussed.
+
+cacm march, 1978
+
+lucas, hr.
+
+implementation, system use, information 
+************************
+
+************************
+Document:  CACM-0972.html
+************************
+
+
+an executive system implemented as a finite-state automaton
+
+the 473l command and control system used by
+the air force permits many operators to access 
+large data files through the use of a computer.  the man-machine
+interface is satisfied by several 
+************************
+
+************************
+Document:  CACM-1534.html
+************************
+
+
+dad, the c. operating system
+
+the design and implementation of the c.
+operating 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa). 
+************************
+
+************************
+Document:  CACM-3011.html
+************************
+
+
+management utilization of computers in american local governments
+
+traditional concepts of management information
+systems (mis) bear little relation to the information 
+systems currently in use by top management in most us local
+governments.  what exists is management-oriented 
+computing, involving the use of relatively unsophisticated
+applications.  despite the unsophisticated 
+nature of these systems, management use of computing is
+surprisingly common, but also varied in its extent 
+among local governments.  management computing is most
+prevalent in those governments with professional 
+management practices where top management is supportive
+of computing and tends to control computing decisions 
+and where department users have less control over design
+and implementation activities.  finally, 
+************************
+ activities.  finally, management 
+computing clearly has impacts for top managers, mostly
+involving improvements in decision information.
+
+************************
+
+************************
+Document:  CACM-2527.html
+************************
+
+
+implementation of high level language machine
+
+computing machines which directly execute
+the statements of a high level language have been 
+proposed in the past.  this report describes the actual
+implementation of such a machine: it is a computer 
+whose "machine language" is apl.  the machine is fully
+operational and correctly executes almost all 
+of the apl operations on scalars, vectors, and arrays.
+ the machine automatically allocates memory, executes 
+statements, calls functions, converts numbers from one
+type to another, checks subscripts, and automatically 
+detects many types of programmer errors.
+
+cacm april, 1973
+
+hassitt, a.
+lageschulte, j. w.
+lyon, l. e.
+
+computer architecture, high level language machine,
+emulators, microprogramming, interpreters, 
+execution speed, apl
+
+************************
+
+************************
+Document:  CACM-2820.html
+************************
+
+
+the design and implementation of a table driven,
+interactive 
+************************
+ of a table driven,
+interactive diagnostic programming system
+
+caps is a highly interactive diagnostic compiler/interpreter
+that allows beginning programmers 
+to prepare, debug, and execute fairly simple programs
+at a graphics display terminal.  complete syntax 
+checking and most semantic analysis is performed as
+the program is entered and as it is subsequently
+edited.  analysis is performed character by character.
+ the most remarkable feature of caps is its ability 
+to automatically diagnose errors both at compile time
+and at run time.  errors are not automatically 
+corrected.  instead, caps interacts with the student to help
+him find the cause of his error.  most components 
+of caps are table driven, both to reduce the space needed
+for implementation and to increase the flexibility 
+of the multilingual system.  over 500 students have used
+caps to learn fortran, pl/i, or cobolin conjunction 
+with a computer assisted course on introductory computer science.
+
+cacm november, 1976
+
+wilcox, t. r.
+davis, a. m.
+tindall, m. h.
+
+interactive programming, table driven compilers,
+error correction, interpreters, debugging, computer 
+************************
+
+************************
+Document:  CACM-1937.html
+************************
+
+
+codas: a data display system
+
+codas, a customer oriented data system, is
+a user-oriented data retrieval and display system. 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  data is displayed as tables and
+graphs produced in a format ready for publication. 
+ in this paper the statements of the request language
+and the general system design are described.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1571.html
+************************
+
+
+a user-oriented time-shared online system
+
+an existing system and planned additions within
+the data processing laboratory of the brain 
+research institute at ucla is described.  the system
+represents an attempt to provide research workers 
+of the institute with the ability to interact directly
+with a highly sophisticated digital computing 
+complex in the most direct and simple fashion possible.
+ it is anticipated that, with the accumulation 
+of experience using the present system, significant advances
+will be possible in the system design through 
+determination of interface parameters between the
+
+************************
+
+************************
+Document:  CACM-2357.html
+************************
+
+
+mux, a simple approach to on-line computing
+
+an on-line system operating as part of a normal
+batch system for the cdc 6600 computer is described. 
+ the system, which required one man-year for initial
+software implementation, although basically simple,
+provides the necessary elements to input and modify files,
+submit them for batch execution, and provide 
+results at the user's terminal.  a multiplexer designed
+and developed as part 
+************************
+ed
+and developed as part of the project cost one 
+man-year for design and checkout, and $16,000 for parts
+and fabrication.  all aspects of the system are 
+described, including design criteria, implementation,
+cost, overhead, and 
+************************
+,
+cost, overhead, and user reactions.
+
+cacm may, 1972
+
+christman, r. d.
+
+time-sharing, remote computing, on-line access,
+on-line computing, remote file manager, real time, 
+multiplexer, implementation effort, operating overhead,
+
+************************
+
+************************
+Document:  CACM-1409.html
+************************
+
+
+nebula: a digital computer using a 20 mc glass delay line memory
+
+oregon state university has designed and constructed
+a medium-speed serial digital computer 
+using glass delay lines circulating at 22 mc as memory.
+ the design objectives as originally conceived 
+in a special seminar were: (1) to be a research project
+in computer design; (2) to be usable as an educational 
+machine;and (3) to have easily modifiable hardware for
+basic research in computer systems design.  an 
+unusual arrangement of information within the 22 mc
+memory allows a simple interface with the 340 kc 
+arithmetic unit, which results in an effective zero latency
+time and provides possibilities for an associative 
+memory.  the arithmetic unit has a command structure similar
+to 
+************************
+
+************************
+Document:  CACM-1435.html
+************************
+************************
+Document:  CACM-2036.html
+************************
+
+
+an interactive command generating facility
+
+a facility to permit conversationally controlled tasks
+to be executed in a noninteractive environment is proposed.
+a means by which programs can generate interactive time-sharing commands
+and receive the corresponding output response is presented.  the commands 
+will be invoked as if they had been typed at a console keyboard.  it is 
+argued that this facility will help overcome some of the current limitations 
+in man-computer communication. a set of functions to accomplish the above 
+which could be embedded into any string processing language is suggested, 
+and necessary information pertinent to implementation of the facility on 
+
+************************
+
+************************
+Document:  CACM-1603.html
+************************
+
+
+a multiprogramming monitor for small machines
+
+int, a combination hardware/software monitor
+designed to control a wide variety of real-time 
+input/output devices, is described.  the simple hardware
+additions provide a uniform device to machine 
+interface for such elements as keyboards graphic input
+devices, and interval timers.  the software relieves 
+the user program from the details 
+************************
+
+************************
+Document:  CACM-2145.html
+************************
+
+
+automation of etching-pattern layout
+
+help (heuristic etching-pattern layout program)
+is an application program developed to computerize 
+the tedious and error-prone although vitally important
+wiring design of printed circuit boards.  help 
+helps automate a design stage one step closer to production
+than logical design.  it can be used to design 
+wiring patterns of two-layer circuit boards on which
+ics in dual-in-line packages as well as discrete 
+components such as transistors and resistors have been
+placed.  help employs two methods of wiring.  
+one is the heuristic method, which simulates human
+approaches to wiring 
+************************
+
+************************
+Document:  CACM-1612.html
+************************
+
+
+top-to-bottom parsing rehabilitated?
+
+this note is concerned with the efficiency
+of the top-to-bottom parsing algorithm as used in 
+connection with programming language grammars.  it is
+shown, for instance, that retracing of unprofitable 
+paths can often be eliminated by a suitable rearrangement
+of the productions defining the grammar.  the 
+essential weakness of the method 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, 
+************************
+
+************************
+Document:  CACM-2629.html
+************************
+
+
+the unix time-sharing system 
+
+unix is a general-purpose, multi-user, interactive
+operating system for the digital equipment 
+corporation pdp-11/40 and 11/45 computers.  it offers
+a number of features seldom found even in larger 
+operating systems, including: (1) a hierarchical file system
+incorporating demountable volumes; (2) compatible 
+file, device, and inter-process i/o; (3) the ability to
+initiate asynchronous processes; (4) system command 
+language selectable on a per-user basis; and (5) over
+100 subsystems including a dozen languageshis 
+paper discusses the nature and implementation of the
+file system and of the user command interface.
+
+cacm july, 1974
+
+ritchie, 
+************************
+

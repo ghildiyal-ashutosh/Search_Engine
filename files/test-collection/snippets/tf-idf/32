@@ -1,0 +1,6028 @@
+Snippets for the query:  Q32
+************************
+Total Hits:  759
+************************
+
+************************
+Document:  CACM-0111.html
+************************
+
+
+on programming the numerical solution of polynomial equations
+
+numerical techniques are presented for computing
+the roots of polynomial equations.  by applying 
+the recommended scaling and inversion rules, the basic
+bairstow and newton-raphson iterative techniques 
+can be applied with great reliability.  both a high degree
+of accuracy and rapid convergence are realized. 
+ numerical examples are shown to illustrate the pitfalls
+and to show how these are circumvented by application 
+of the recommended procedures.
+
+cacm december, 1960
+
+ellenberger, k. w.
+
+ca601205 jb march 20, 1978  6:41 pm
+
+111	5	111
+
+************************
+  6:41 pm
+
+111	5	111
+111	5	111
+
+************************
+
+************************
+Document:  CACM-1047.html
+************************
+
+
+generation of test matrices by similarity transformations
+
+a method for obtaining test matrices with
+a prescribed distribution of characteristic roots 
+is given.  the process consists of using particularly
+simple similarity transformations to generate full 
+matrices from canonical forms.  the matrices generated
+also have known characteristic vectors, inverses 
+and determinants.
+
+cacm june, 1964
+
+ortega, j. m.
+
+ca640620 jb march 9, 1978  8:50 pm
+
+1047	4	1047
+
+************************
+  8:50 pm
+
+1047	4	1047
+1047	5	1047
+1047	5	1047
+
+************************
+	4	1047
+1047	5	1047
+1047	5	1047
+
+************************
+047
+1047	5	1047
+1047	5	1047
+
+************************
+047	5	1047
+1047	5	1047
+1047	5	1047
+
+************************
+	5	1047
+1047	5	1047
+1047	5	1047
+
+************************
+
+1047	5	1047
+1047	5	1047
+1707	5	1047
+
+************************
+	5	1047
+1047	5	1047
+1707	5	1047
+
+************************
+
+1047	5	1047
+1707	5	1047
+496	5	1047
+
+************************
+	5	1047
+1707	5	1047
+496	5	1047
+
+************************
+
+1707	5	1047
+496	5	1047
+
+************************
+07	5	1047
+496	5	1047
+1047	6	1047
+
+************************
+047
+496	5	1047
+1047	6	1047
+
+************************
+
+496	5	1047
+1047	6	1047
+511	6	1047
+
+************************
+
+1047	6	1047
+511	6	1047
+
+
+************************
+	6	1047
+511	6	1047
+
+
+************************
+
+511	6	1047
+
+
+************************
+
+************************
+Document:  CACM-2047.html
+************************
+
+
+incorporating origin shifts into the qr
+algorithm for symmetric tridiagonal matrices
+
+the qr iteration for the eigenvalues of a symmetric tridiagonal matrix can 
+be accelerated by incorporating a sequence of origin shifts.  the origin shift
+may be either subtracted directly from the diagonal elements of
+the matrix or incorporated by means of an implicit algorithm.  both
+methods have drawbacks: the direct method can unnecessarily degrade small 
+eigenvalues, while the implicit method can effectively loose the shift and 
+thereby retard the convergence.  this paper presents a new method which has 
+neither drawback.
+
+cacm june, 1970
+
+stewart, g. w.
+
+eigenvalues, 
+************************
+, g. w.
+
+eigenvalues, eigenvectors, qr method, origin
+shifts, symmetric tridiagonal matrix
+
+5.14
+
+ca700608 jb february 
+************************
+
+
+ca700608 jb february 13, 1978  11:02 am
+
+2047	5	2047
+
+************************
+3, 1978  11:02 am
+
+2047	5	2047
+
+************************
+  11:02 am
+
+2047	5	2047
+2047	5	2047
+2047	5	2047
+
+************************
+	5	2047
+2047	5	2047
+2047	5	2047
+
+************************
+
+2047	5	2047
+2047	5	2047
+
+
+************************
+	5	2047
+2047	5	2047
+
+
+************************
+
+2047	5	2047
+
+
+************************
+	5	2047
+
+
+************************
+
+************************
+Document:  CACM-2805.html
+************************
+
+
+perturbations of eigenvalues of non-normal matrices
+
+the problem considered 
+************************
+
+
+the problem considered is to give bounds for finite
+perturbations of simple and multiple eigenvalues 
+of nonnormal matrices, where these bounds 
+************************
+, where these bounds are in terms
+of the eigenvalues, the departure from 
+************************
+, the departure from normality, 
+and the frobenius norm of the perturbation matrix, but
+not in terms of the eigen system.  the bounds which 
+are derived are shown to be almost attainable for any set of matrices. 
+
+cacm january, 1975
+
+van der sluis, a.
+
+perturbation of eigenvalues, non-normal matrices,
+
+************************
+, non-normal matrices,
+departure from normality, gershgorin circles
+
+5.14
+
+ca750106 jb january 
+************************
+
+
+ca750106 jb january 12, 1978 
+************************
+06 jb january 12, 1978  10:31 am
+
+2805	5	2805
+
+************************
+  10:31 am
+
+2805	5	2805
+2805	5	2805
+
+************************
+
+************************
+Document:  CACM-2447.html
+************************
+
+
+sard kernels for certain bivariate cubatures
+
+an error analysis for some bivariate cubatures
+
+************************
+ for some bivariate cubatures
+is given.  the remainders are obtained by the 
+use of sard kernels.  numerical results and computer
+graphs are given for some of the kernel functions.
+
+cacm september, 1973
+
+barnhill, r. e.
+pilcher, 
+************************
+3
+
+barnhill, r. e.
+pilcher, d. t.
+
+cubatures, sard kernels, numerical integration, remainder formulas
+
+5.13 5.16
+
+ca730908 jb january 
+************************
+3 5.16
+
+ca730908 jb january 23, 1978 
+************************
+ jb january 23, 1978  8:52 am
+
+2447	5	2447
+
+************************
+  8:52 am
+
+2447	5	2447
+2447	5	2447
+2447	5	2447
+
+************************
+	5	2447
+2447	5	2447
+2447	5	2447
+
+************************
+
+2447	5	2447
+2447	5	2447
+
+
+************************
+	5	2447
+2447	5	2447
+
+
+************************
+
+2447	5	2447
+
+
+************************
+	5	2447
+
+
+************************
+
+************************
+Document:  CACM-2284.html
+************************
+
+
+solution of the matrix equation ax+xb=c [f4] (algorithm a432)
+
+cacm september, 1972
+
+bartels, r. h.
+stewart, g. w.
+
+linear algebra, matrices, linear equations
+
+5.14
+
+************************
+, linear equations
+
+5.14
+
+ca720906 jb january 
+************************
+
+
+ca720906 jb january 27, 1978  4:31 pm
+
+2284	5	2284
+2284	5	2284
+
+************************
+:31 pm
+
+2284	5	2284
+2284	5	2284
+2284	5	2284
+
+************************
+	5	2284
+2284	5	2284
+2284	5	2284
+
+************************
+
+2284	5	2284
+2284	5	2284
+
+
+************************
+	5	2284
+2284	5	2284
+
+
+************************
+
+2284	5	2284
+
+
+************************
+	5	2284
+
+
+************************
+
+************************
+Document:  CACM-0751.html
+************************
+
+
+a note on a set of test matrices for inversion
+
+cacm september, 1963
+
+rodman, r. d.
+
+ca630907 
+************************
+963
+
+rodman, r. d.
+
+ca630907 jb march 13, 1978  7:38 pm
+
+751	5	751
+
+************************
+3, 1978  7:38 pm
+
+751	5	751
+
+************************
+  7:38 pm
+
+751	5	751
+751	5	751
+751	5	751
+
+************************
+	5	751
+751	5	751
+751	5	751
+
+************************
+
+751	5	751
+751	5	751
+
+
+************************
+	5	751
+751	5	751
+
+
+************************
+
+751	5	751
+
+
+************************
+	5	751
+
+
+************************
+
+************************
+Document:  CACM-1887.html
+************************
+
+
+a recursive relation for the determinant of a pentadiagonal matrix
+
+a recursive relation, relating leading principal
+minors, is developed for the determinant of 
+a pentadiagonal matrix.  a numerical example is included
+to indicate its use in calculating eigenvalues.
+
+cacm june, 1969
+
+sweet, r. a.
+
+pentadiagonal matrix, quindiagonal matrix, quindiagonal
+matrix, band matrix, determinant, characteristic 
+polynomial, eigenvalues
+
+5.14
+
+ca690606 jb february 17, 1978  11:00 am
+
+1887	5	1887
+
+************************
+, 1978  11:00 am
+
+1887	5	1887
+
+************************
+  11:00 am
+
+1887	5	1887
+1887	5	1887
+
+************************
+87	5	1887
+1887	5	1887
+1887	5	1887
+
+************************
+	5	1887
+1887	5	1887
+1887	5	1887
+
+************************
+87
+1887	5	1887
+1887	5	1887
+
+************************
+887	5	1887
+1887	5	1887
+
+
+************************
+887
+1887	5	1887
+
+
+************************
+887	5	1887
+
+
+************************
+887
+
+
+************************
+
+************************
+Document:  CACM-0537.html
+************************
+
+
+a machine program for theorem-proving
+
+the program of a proof procedure is discussed in
+connection with trial runs and possible improvements.
+
+cacm july, 1962
+
+davis, m.
+logemann, g.
+loveland, d.
+
+ca620724 jb march 17, 1978  8:11 pm
+
+537	5	537
+
+************************
+  8:11 pm
+
+537	5	537
+537	5	537
+
+************************
+1 pm
+
+537	5	537
+537	5	537
+537	5	537
+
+************************
+
+************************
+Document:  CACM-1968.html
+************************
+
+
+eigenvalues and eigenvectors of a real
+general matrix (algorithm 
+************************
+
+general matrix (algorithm 343 $f1))
+
+cacm november, 1970
+
+knight, w.
+mersereau, w.
+
+eigenvalues, eigenvectors, latent 
+************************
+, eigenvectors, latent roots, householder's
+method, qr algorithm, inverse iteration
+
+5.14
+
+ca701111 jb february 
+************************
+
+
+ca701111 jb february 9, 1978  4:30 pm
+
+1968	4	1968
+1968	4	1968
+
+************************
+:30 pm
+
+1968	4	1968
+1968	4	1968
+2099	4	1968
+
+************************
+	1968
+1968	4	1968
+2099	4	1968
+2335	4	1968
+
+************************
+	1968
+2099	4	1968
+2335	4	1968
+1662	5	1968
+
+************************
+	1968
+2335	4	1968
+1662	5	1968
+1968	5	1968
+
+************************
+	1968
+1662	5	1968
+1968	5	1968
+
+************************
+
+1662	5	1968
+1968	5	1968
+1968	5	1968
+
+************************
+
+1968	5	1968
+1968	5	1968
+1968	5	1968
+
+************************
+	5	1968
+1968	5	1968
+1968	5	1968
+
+************************
+
+1968	5	1968
+1968	5	1968
+2099	5	1968
+
+************************
+	5	1968
+1968	5	1968
+2099	5	1968
+
+************************
+
+1968	5	1968
+2099	5	1968
+
+
+************************
+	5	1968
+2099	5	1968
+
+
+************************
+
+2099	5	1968
+
+
+************************
+
+************************
+Document:  CACM-1260.html
+************************
+
+
+least-squares analysis of resonance spectra on small computers
+
+the problem of analyzing data from a mossbauer
+effect experiment is discussed.  by using the 
+cut step procedure for convergence and by imposing physical
+constraints on the functional form of the 
+calculation it is possible to make the analysis on a
+small computer.  the analysis has been carried out 
+on an ibm 1410 computer with a 40,000 
+************************
+10 computer with a 40,000 bcd core memory.
+
+cacm may, 1965
+
+marshall, s. w.
+nelson, j. a.
+wilenzick, r. m.
+
+ca650511 jb march 7, 1978  1:10 pm
+
+1260	5	1260
+
+************************
+
+************************
+Document:  CACM-2825.html
+************************
+
+
+the bmd and bmdp series of statistical computer programs
+
+cacm october, 1976
+
+frane, j. w.
+
+analysis 
+************************
+6
+
+frane, j. w.
+
+analysis of variance, cluster analysis, contingency
+tables, data analysis, discriminant analysis, 
+factor analysis, graphics, outliers, regression, time series, transformations
+
+1.3 3.3 4.0 5.5
+
+ca761006 jb january 
+************************
+.0 5.5
+
+ca761006 jb january 3, 1978  4:18 pm
+
+2825	4	2825
+2419	5	2825
+
+************************
+:18 pm
+
+2825	4	2825
+2419	5	2825
+
+************************
+ pm
+
+2825	4	2825
+2419	5	2825
+2825	5	2825
+
+************************
+
+************************
+Document:  CACM-3152.html
+************************
+
+
+storage reorganization techniques for
+matrix computation in a paging environment
+
+in order to multiply matrices while minimizing
+the number of page fetches required, it is often more efficient to
+reorganize the data into submatrix form and to use block multiplication 
+rather than to use the best known algorithms which leave the
+matrices stored in row-(or column-)oriented form.  an efficient
+method for accomplishing this reorganization is given.  this also
+makes possible the derivation of an asymptotically better bound
+for multiplication of matrices given in row-oriented form by adapting
+the technique of strassen to the reorganized data.  the reorganization/block 
+multiplication scheme is shown to be advantageous for
+matrices and pages of realistic size; the strassen adaptation is
+not.  the former scheme is also shown to be advantageous even if
+the transpose of one of the matrices is available at no additional cost.
+
+cacm july, 1979
+
+fischer, p.
+probert, 
+************************
+9
+
+fischer, p.
+probert, r.
+
+matrix multiplication, paging, virtual memory,
+data reorganization, pagination, transpose.
+
+4.34 5.14 5.25
+
+ca790703 dh august 22, 1979  2:29 pm
+
+2365	4	3152
+2362	4	3152
+2582	4	3152
+3152	4	3152
+
+************************
+2	4	3152
+3152	4	3152
+3152	4	3152
+
+************************
+52
+3152	4	3152
+3152	4	3152
+1924	5	3152
+
+************************
+	3152
+3152	4	3152
+1924	5	3152
+2365	5	3152
+
+************************
+	3152
+1924	5	3152
+2365	5	3152
+3152	5	3152
+
+************************
+
+************************
+Document:  CACM-0758.html
+************************
+
+
+skeletal structure of pert and cpa computer programs
+
+an introduction to the inner mechanics of
+pert and cpa computer programs is provided.  the 
+major components of these programs as well as their
+purposes and interrelationships are outlined.
+
+cacm august, 1963 
+
+kahn, a. b.
+
+ca630840 jb march 13, 1978  
+************************
+0 jb march 13, 1978  7:58 pm
+
+1050	4	758
+
+************************
+  7:58 pm
+
+1050	4	758
+1226	4	758
+
+************************
+050	4	758
+1226	4	758
+1723	4	758
+
+************************
+58
+1226	4	758
+1723	4	758
+441	4	758
+
+************************
+58
+1723	4	758
+441	4	758
+758	4	758
+
+************************
+23	4	758
+441	4	758
+758	4	758
+
+************************
+58
+441	4	758
+758	4	758
+758	4	758
+
+************************
+58
+758	4	758
+758	4	758
+367	5	758
+
+************************
+58	4	758
+758	4	758
+367	5	758
+
+************************
+58
+758	4	758
+367	5	758
+441	5	758
+
+************************
+58	4	758
+367	5	758
+441	5	758
+
+************************
+58
+367	5	758
+441	5	758
+758	5	758
+
+************************
+	5	758
+441	5	758
+758	5	758
+758	5	758
+
+************************
+41	5	758
+758	5	758
+758	5	758
+
+************************
+	5	758
+758	5	758
+758	5	758
+
+************************
+
+758	5	758
+758	5	758
+758	5	758
+
+************************
+	5	758
+758	5	758
+758	5	758
+
+************************
+
+758	5	758
+758	5	758
+
+
+************************
+	5	758
+758	5	758
+
+
+************************
+
+758	5	758
+
+
+************************
+	5	758
+
+
+************************
+
+************************
+Document:  CACM-0777.html
+************************
+
+
+a set of test matrices (algorithm 52)
+
+cacm august, 1963
+
+naur, p.
+
+ca630821 
+************************
+963
+
+naur, p.
+
+ca630821 jb march 13, 1978  8:24 pm
+
+777	5	777
+
+************************
+8  8:24 pm
+
+777	5	777
+777	5	777
+777	5	777
+
+************************
+
+************************
+Document:  CACM-0285.html
+************************
+
+
+solution of tridiagonal matrices
+
+cacm september, 1961
+
+wenrick, r. c.
+houghton, a. v.
+
+ca610909 jb march 16, 1978  9:39 pm
+
+285	5	285
+
+************************
+
+************************
+Document:  CACM-2494.html
+************************
+
+
+a computer generated aid for cluster analysis
+
+a computer generated graphic method, which
+can be used in conjunction with any hierarchical 
+scheme of cluster analysis, is described and illustrated.
+ the graphic principle used is the representation 
+of the elements of a data matrix of similarities or dissimilarities
+by computer printed symbols (of character 
+overstrikes) of various shades of darkness, where a
+dark symbol corresponds to a small dissimilarity. 
+ the plots, applied to a data matrix before clustering
+and to the rearranged matrix after clustering, 
+show at a glance whether clustering brought forth any
+distinctive clusters.  a well-known set of data 
+consisting of the correlations of 24 psychological tests
+is used to illustrate the comparison of groupings 
+by four methods of factor analysis and two methods of cluster analysis.
+
+cacm june, 1973
+
+ling, r. f.
+
+computer graphics, cluster analysis, numerical
+taxonomy, hierarchical clustering, factor analysis
+
+3.10 3.30 3.36 4.49
+
+ca730606 jb january 23, 1978  2:20 pm
+
+2494	5	2494
+
+************************
+
+************************
+Document:  CACM-1529.html
+************************
+
+
+decomposition programming an analysis of matrix substructure 
+************************
+ of matrix substructure 
+
+a petroleum blending problem was analyzed in order
+to compare the primal and primal-dual decomposition 
+algorithms.  in the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute performance as compared with a standard 
+primal-simplex solution without decomposition.
+
+cacm october, 1967
+
+bell, e. j.
+
+ca671004 jb february 27, 1978 
+************************
+ jb february 27, 1978  2:33 pm
+
+1529	5	1529
+
+************************
+978  2:33 pm
+
+1529	5	1529
+
+************************
+
+************************
+Document:  CACM-1809.html
+************************
+
+
+numerical analysis in a ph. computer science 
+************************
+ in a ph. computer science program
+
+numerical analysis is the study of methods 
+************************
+ is the study of methods and
+procedures used to obtain "approximate solutions" 
+to mathematical problems.  much of the emphasis is on scientific
+calculation.  the difficulties of education 
+in such a broad area center around the question of background
+and emphasis.  the numerical analysis program 
+in the computer 
+************************
+ program 
+in the computer science department should emphasize an
+awareness of the problems of computer implementation 
+and experimental procedures.  nevertheless, there is a
+need for a solid background in applied mathematics.
+
+cacm december, 1969
+
+parter, s. v.
+
+ph. program, numerical analysis, course separation, 
+************************
+, course separation, education
+
+1.52
+
+ca691203 jb february 15, 1978  4:25 pm
+
+1809	5	1809
+
+************************
+  4:25 pm
+
+1809	5	1809
+1809	5	1809
+
+************************
+09	5	1809
+1809	5	1809
+1809	5	1809
+
+************************
+09
+1809	5	1809
+1809	5	1809
+
+************************
+09	5	1809
+1809	5	1809
+
+
+************************
+09
+1809	5	1809
+
+
+************************
+09	5	1809
+
+
+************************
+
+************************
+Document:  CACM-2050.html
+************************
+
+
+automatic parsing for content analysis
+
+although automatic syntactic and semantic analysis is not yet possible for
+all of an unrestricted natural language text, some applications, of which 
+content analysis is one, do not have such a stringent coverage requirement.
+preliminary studies show that the harvard syntactic analyzer can
+produce correct and unambiguous identification of the subject and
+object of certain verbs for approximately half of the relevant occurrences. 
+this provides a degree of coverage for content analysis variables which 
+compares favorably to manual methods, in variables which compares favorably 
+to manual methods, in which only a sample of the total available text is 
+normally processed.
+
+cacm june, 1970
+
+damerau, f. j.
+
+content 
+************************
+
+
+damerau, f. j.
+
+content analysis, parsing, syntactic analysis, natural language processing,
+information retrieval, language analysis, text processing
+
+3.42 3.71
+
+ca700605 jb february 
+************************
+
+
+ca700605 jb february 13, 1978  11:43 am
+
+1350	4	2050
+1659	4	2050
+
+************************
+3 am
+
+1350	4	2050
+1659	4	2050
+1856	4	2050
+2050	4	2050
+
+************************
+56	4	2050
+2050	4	2050
+1225	5	2050
+2050	5	2050
+
+************************
+
+************************
+Document:  CACM-2778.html
+************************
+
+
+perturbations of eigenvalues of non-normal matrices (corrigendum)
+
+cacm march, 1975
+
+sluis, a.
+
+ca750310 jb january 9, 1978  4:26 pm
+
+2778	5	2778
+2778	5	2778
+
+************************
+:26 pm
+
+2778	5	2778
+2778	5	2778
+2778	5	2778
+
+************************
+	5	2778
+2778	5	2778
+2778	5	2778
+
+************************
+
+2778	5	2778
+2778	5	2778
+
+
+************************
+	5	2778
+2778	5	2778
+
+
+************************
+
+2778	5	2778
+
+
+************************
+	5	2778
+
+
+************************
+
+************************
+Document:  CACM-1363.html
+************************
+
+
+a general method of systematic interval computation
+for numerical integration of initial value 
+problems
+
+a procedure is given for continuously computing
+and monitoring the step size to be used by 
+a self-starting, p-th order numerical integration method
+to solve an initial value problem.  the procedure 
+uses an estimate of the truncation error to calculate the step size.
+
+cacm october, 1966
+
+martin, w. c.
+paulson, k. c.
+sashkin, l.
+
+ca661004 jb march 2, 1978  4:05 pm
+
+1363	5	1363
+
+************************
+  4:05 pm
+
+1363	5	1363
+1363	5	1363
+
+************************
+
+************************
+Document:  CACM-1990.html
+************************
+
+
+numerical constants (algorithm)
+
+cacm september, 1970
+
+dunham, c. b.
+
+numerical algorithm, numerical constants
+
+5.10
+
+ca700915 jb february 10, 1978  9:48 am
+
+1990	5	1990
+1990	5	1990
+
+************************
+8 am
+
+1990	5	1990
+1990	5	1990
+
+************************
+
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use symbol manipulation of matrix expressions so
+as to find the forms best suited for computation.  these forms are
+called normal forms.  several completeness results are obtained
+in the sense that for each expression an equivalent expression
+in normal form can be found within a specified calculus.
+
+cacm april, 1970
+
+bayer, r.
+witzgall, 
+************************
+
+
+bayer, r.
+witzgall, c.
+
+complete calculus, data structures, linear
+programming, matrix, matrix concatenation,
+matrix sequences, programming languages,
+sequence operations, symbol manipulation
+
+4.12 4.22 5.14 5.41
+
+ca700403 
+************************
+2 4.22 5.14 5.41
+
+ca700403 jb february 
+************************
+4 5.41
+
+ca700403 jb february 13, 
+************************
+00403 jb february 13, 1978  3:18 pm
+
+2081	5	2081
+
+************************
+  3:18 pm
+
+2081	5	2081
+2081	5	2081
+
+************************
+ pm
+
+2081	5	2081
+2081	5	2081
+2081	5	2081
+
+************************
+	5	2081
+2081	5	2081
+2081	5	2081
+
+************************
+
+2081	5	2081
+2081	5	2081
+2253	5	2081
+
+************************
+	5	2081
+2081	5	2081
+2253	5	2081
+
+************************
+
+2081	5	2081
+2253	5	2081
+2254	5	2081
+
+************************
+	5	2081
+2253	5	2081
+2254	5	2081
+
+************************
+
+2253	5	2081
+2254	5	2081
+2081	6	2081
+
+************************
+
+2254	5	2081
+2081	6	2081
+2081	6	2081
+
+************************
+
+2081	6	2081
+2081	6	2081
+437	6	2081
+
+************************
+	6	2081
+2081	6	2081
+437	6	2081
+
+************************
+
+2081	6	2081
+437	6	2081
+
+
+************************
+	6	2081
+437	6	2081
+
+
+************************
+
+437	6	2081
+
+
+************************
+
+************************
+Document:  CACM-2186.html
+************************
+
+
+numerical properties of the ritz-trefftz algorithm for optimal control
+
+in this paper the ritz-trefftz algorithm is applied
+to the computer solution of the state regulator 
+problem.  the algorithm represents a modification of
+the ritz direct method and is designed to improve 
+the speed of solution and the storage requirements to
+the point where real-time implementation becomes 
+feasible.  the modification is shown to be more stable
+computationally than the traditional ritz approach. 
+ the first concern of the paper is to describe the
+algorithm and establish its properties as a valid 
+and useful numerical technique.  in particular such useful
+properties as definiteness and reasonableness 
+of condition are established for the method.  the second
+part of the paper is devoted to a comparison 
+of the new techniques with the standard procedure of
+numerically integrating a matrix riccati equation 
+to determine a feedback matrix.  the new technique is
+shown to be significantly faster for comparable 
+accuracy.
+
+cacm june, 1971
+
+bosarge jr., w. e.
+johnson, o. g.
+
+splines, regulator problem, control theory, numerical analysis
+
+5.1
+
+ca710604 jb february 3, 1978 
+************************
+ jb february 3, 1978  10:12 am
+
+2186	5	2186
+
+************************
+  10:12 am
+
+2186	5	2186
+2186	5	2186
+
+************************
+6	5	2186
+2186	5	2186
+2186	5	2186
+
+************************
+6
+2186	5	2186
+2186	5	2186
+
+************************
+6	5	2186
+2186	5	2186
+
+
+************************
+6
+2186	5	2186
+
+
+************************
+6	5	2186
+
+
+************************
+
+************************
+Document:  CACM-0956.html
+************************
+
+
+a family of test matrices
+
+cacm december, 1964
+
+newbery, a. c. r.
+
+ca641215 jb march 9, 1978  3:17 pm
+
+956	5	956
+
+************************
+  3:17 pm
+
+956	5	956
+956	5	956
+
+************************
+
+************************
+Document:  CACM-1952.html
+************************
+
+
+index by subject to algorithms, 1970
+
+cacm december, 1970
+
+ca701211 jb february 9, 1978  2:50 pm
+
+1952	5	1952
+
+************************
+
+************************
+Document:  CACM-1954.html
+************************
+
+
+eigenvalues and eigenvectors of a real
+symmetric matrix (algorithm 384 $f2))
+
+cacm december, 1970
+
+stewart, g. w.	
+
+real symmetric 
+************************
+, g. w.	
+
+real symmetric matrix, eigenvalues, eigenvectors, qr algorithm
+
+5.14
+
+ca701209 jb february 
+************************
+
+
+ca701209 jb february 9, 1978  3:08 pm
+
+1954	5	1954
+1954	5	1954
+1954	5	1954
+
+************************
+	5	1954
+1954	5	1954
+1954	5	1954
+
+************************
+
+1954	5	1954
+1954	5	1954
+
+
+************************
+	5	1954
+1954	5	1954
+
+
+************************
+
+1954	5	1954
+
+
+************************
+	5	1954
+
+
+************************
+
+************************
+Document:  CACM-2735.html
+************************
+
+
+discrimination in the employment of women in the computer industry
+
+cacm july, 1975
+
+weber, r. e.
+gilchrist, b.
+
+discrimination against women, salaries, employment,
+programmers, systems analysis, keypunch operators, 
+machine operators
+
+2.40 2.41 2.42
+
+ca750707 
+************************
+0 2.41 2.42
+
+ca750707 jb january 
+************************
+ 2.42
+
+ca750707 jb january 9, 1978  9:55 am
+
+2735	5	2735
+
+************************
+  9:55 am
+
+2735	5	2735
+2735	5	2735
+2735	5	2735
+2823	5	2735
+2735	6	2735
+
+************************
+
+************************
+Document:  CACM-0749.html
+************************
+
+
+note onstochastic matrices
+
+cacm september, 1963
+
+dumey, a. i.
+
+ca630909 jb march 13, 1978  7:35 pm
+
+749	5	749
+
+************************
+  7:35 pm
+
+749	5	749
+749	5	749
+749	5	749
+
+************************
+9	5	749
+749	5	749
+749	5	749
+
+************************
+9
+749	5	749
+749	5	749
+
+
+************************
+9	5	749
+749	5	749
+
+
+************************
+9
+749	5	749
+
+
+************************
+9	5	749
+
+
+************************
+
+************************
+Document:  CACM-2408.html
+************************
+
+
+solving the biharmonic equation in a square:
+a direct versus a semidirect method
+
+two methods for solving the biharmonic equation
+are compared.  one method is direct, using 
+eigenvalue-eigenvector decomposition.  the other method
+is iterative, solving a poisson equation directly 
+at each iteration.
+
+cacm november, 1973
+
+ehrlich, l. w.
+
+biharmonic, direct method, block iterative,
+eigenvector-eigenvalue decomposition
+
+5.14 5.17
+
+ca731118 jb january 19, 1978 
+************************
+ jb january 19, 1978  3:28 pm
+
+2408	5	2408
+
+************************
+  3:28 pm
+
+2408	5	2408
+2408	5	2408
+
+************************
+08	5	2408
+2408	5	2408
+2408	5	2408
+
+************************
+08
+2408	5	2408
+2408	5	2408
+
+************************
+08	5	2408
+2408	5	2408
+
+
+************************
+08
+2408	5	2408
+
+
+************************
+08	5	2408
+
+
+************************
+
+************************
+Document:  CACM-2697.html
+************************
+
+
+a fast method for solving a class of tridiagonal linear systems
+
+the solution of linear systems having real, symmetric,
+diagonally 
+************************
+, symmetric,
+diagonally dominant,tridiagonal coefficient 
+matrices with constant diagonals is considered.  it is
+proved that the diagonals of the lu decomposition 
+converges when floating-point precision.  it is also
+proved that the computed lu decomposition converges 
+when floating-point arithmetic is used and that the limits
+of the lu diagonals using floating point are 
+roughly within machine precision of the limits using
+real arithmetic.  this fact is exploited to reduce 
+the number of floating-point operations required to
+solve a linear system from 8n-7 to 5n+2k-3, where 
+************************
+n-7 to 5n+2k-3, where 
+k is much less than n, the order of the matrix.  if the
+elements of the subdiagonals and superdiagonals 
+are 1, then only 4n+2k-3 operations are needed.  the
+entire lu decomposition takes k words of storage, 
+and considerable savings in array subscripting are achieved.
+ upper and lower bounds on k are obtained 
+in terms of the ratio of the coefficient matrix diagonal
+constants and parameters of the floating-point 
+number system.  various generalizations of these results are discussed.
+
+cacm january, 1974
+
+malcolm, m. a.
+palmer, j.
+
+numerical linear algebra, linear systems,
+toeplitz matrices, tridiagonal matrices
+
+************************
+, tridiagonal matrices
+
+5 5.1 5.11 5.14 5.17
+
+ca740102 jb january 18, 1978  2:50 pm
+
+2697	5	2697
+
+************************
+, 1978  2:50 pm
+
+2697	5	2697
+
+************************
+
+************************
+Document:  CACM-1876.html
+************************
+
+
+generation of test matrices having certain
+sign patterns and prescribed positive spectra
+
+a class of orthogonal transformations is presented
+whose members transform a given positive 
+diagonal matrix into a matrix having one of four special sign patterns.
+
+cacm july, 1969
+
+schneider, a. j.
+
+test matrices, positive matrices, sign patterns,
+orthogonal transformations, positive eigenvalues
+
+5.1 5.14
+
+ca690704 jb february 17, 1978 
+************************
+04 jb february 17, 1978  9:26 am
+
+1876	4	1876
+
+************************
+, 1978  9:26 am
+
+1876	4	1876
+
+************************
+  9:26 am
+
+1876	4	1876
+2099	4	1876
+
+************************
+6	4	1876
+2099	4	1876
+1707	5	1876
+
+************************
+76
+2099	4	1876
+1707	5	1876
+1876	5	1876
+
+************************
+76
+1707	5	1876
+1876	5	1876
+1876	5	1876
+
+************************
+76
+1876	5	1876
+1876	5	1876
+
+************************
+76	5	1876
+1876	5	1876
+1876	5	1876
+
+************************
+76
+1876	5	1876
+1876	5	1876
+
+************************
+76	5	1876
+1876	5	1876
+
+
+************************
+76
+1876	5	1876
+
+
+************************
+76	5	1876
+
+
+************************
+
+************************
+Document:  CACM-1732.html
+************************
+
+
+factorial analysis of variance (algorithm 330 [g1])
+
+cacm june, 1968
+
+oliver,i.
+
+factorial variance analysis, variance, statistical analysis
+
+5.5
+
+ca680613 jb february 22, 1978  3:21 pm
+
+1732	5	1732
+
+************************
+8  3:21 pm
+
+1732	5	1732
+1732	5	1732
+
+************************
+32	5	1732
+1732	5	1732
+1732	5	1732
+
+************************
+32
+1732	5	1732
+1732	5	1732
+
+************************
+32	5	1732
+1732	5	1732
+
+
+************************
+32
+1732	5	1732
+
+
+************************
+32	5	1732
+
+
+************************
+
+************************
+Document:  CACM-1899.html
+************************
+
+
+simplex method procedure employing lu decomposition (algorithm 350 [h])
+
+cacm may, 1969
+
+bartels, r. h.
+golub, g. h.
+
+simplex method, linear programming, lu decomposition,
+round-off errors, computational stability
+
+5.41
+
+ca690510 jb february 17, 1978  3:21 pm
+
+1899	5	1899
+
+************************
+, 1978  3:21 pm
+
+1899	5	1899
+
+************************
+  3:21 pm
+
+1899	5	1899
+1899	5	1899
+
+************************
+99	5	1899
+1899	5	1899
+1899	5	1899
+
+************************
+99
+1899	5	1899
+1899	5	1899
+
+************************
+99	5	1899
+1899	5	1899
+
+
+************************
+99
+1899	5	1899
+
+
+************************
+99	5	1899
+
+
+************************
+
+************************
+Document:  CACM-1802.html
+************************
+
+
+regression using certain direct product matrices (algorithm 366 [g2])
+
+cacm december, 1969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance,
+regression analysis, experimental design, matrix 
+direct product, protection operator, orthogonal matrix
+
+5.14 5.5
+
+ca691210 jb february 15, 1978  2:23 pm
+
+1801	5	1802
+
+************************
+  2:23 pm
+
+1801	5	1802
+1802	5	1802
+
+************************
+01	5	1802
+1802	5	1802
+1802	5	1802
+
+************************
+02
+1802	5	1802
+1802	5	1802
+
+************************
+02	5	1802
+1802	5	1802
+1802	5	1802
+
+************************
+02
+1802	5	1802
+1802	5	1802
+
+************************
+02	5	1802
+1802	5	1802
+1802	6	1802
+
+************************
+02
+1802	5	1802
+1802	6	1802
+
+************************
+02	5	1802
+1802	6	1802
+
+
+************************
+02
+1802	6	1802
+
+
+************************
+02	6	1802
+
+
+************************
+
+************************
+Document:  CACM-2134.html
+************************
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem, together with munkres
+proposed algorithm for its solution in square 
+matrices, is presented first.  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices.  timing results
+obtained by using an adapted version of silver's 
+algol procedure are discussed, and a relation between
+solution time and problem size is given.
+
+cacm december, 1971
+
+bourgeois, f.
+lassalle, 
+************************
+
+
+bourgeois, f.
+lassalle, j.
+
+operations research, optimization theory, assignment
+problem, rectangular matrices, algorithm
+
+5.39 5.40
+
+ca711209 jb february 2, 1978 
+************************
+1209 jb february 2, 1978  9:46 am
+
+2133	4	2134
+
+************************
+  9:46 am
+
+2133	4	2134
+2134	4	2134
+
+************************
+33	4	2134
+2134	4	2134
+124	5	2134
+
+************************
+34
+2134	4	2134
+124	5	2134
+
+************************
+34	4	2134
+124	5	2134
+2133	5	2134
+
+************************
+34
+124	5	2134
+2133	5	2134
+
+************************
+24	5	2134
+2133	5	2134
+2134	5	2134
+
+************************
+34
+2133	5	2134
+2134	5	2134
+
+************************
+33	5	2134
+2134	5	2134
+2134	5	2134
+
+************************
+
+2134	5	2134
+2134	5	2134
+2134	5	2134
+
+************************
+	5	2134
+2134	5	2134
+2134	5	2134
+
+************************
+
+2134	5	2134
+2134	5	2134
+124	6	2134
+
+************************
+	5	2134
+2134	5	2134
+124	6	2134
+
+************************
+
+2134	5	2134
+124	6	2134
+2134	6	2134
+
+************************
+	5	2134
+124	6	2134
+2134	6	2134
+
+************************
+
+124	6	2134
+2134	6	2134
+
+
+************************
+	6	2134
+2134	6	2134
+
+
+************************
+
+2134	6	2134
+
+
+************************
+	6	2134
+
+
+************************
+
+************************
+Document:  CACM-1147.html
+************************
+
+
+on the numerical solution of boundary value problems
+for linear ordinary differential equations*
+
+a numerical method is presented for the solution
+of boundary value problems involving linear 
+ordinary differential equations.  the method described
+is noniterative and makes use of any one-step 
+numerical integration scheme to reduce the problem from
+one of boundary values to one of initial values. 
+ comments are made concerning some numerical results
+of applying the method to a specific problem.  in 
+addition an extension of the algorithm described
+to more general problems is discussed.
+
+cacm january, 1964
+
+day, j. t.
+collins ii, g. w.
+
+ca640108 jb march 10, 1978  5:32 am
+
+1147	5	1147
+
+************************
+8  5:32 am
+
+1147	5	1147
+1147	5	1147
+1147	5	1147
+
+************************
+	5	1147
+1147	5	1147
+1147	5	1147
+
+************************
+
+1147	5	1147
+1147	5	1147
+1274	5	1147
+
+************************
+	5	1147
+1147	5	1147
+1274	5	1147
+
+************************
+
+1147	5	1147
+1274	5	1147
+1147	6	1147
+
+************************
+	5	1147
+1274	5	1147
+1147	6	1147
+
+************************
+
+1274	5	1147
+1147	6	1147
+
+
+************************
+	5	1147
+1147	6	1147
+
+
+************************
+
+1147	6	1147
+
+
+************************
+	6	1147
+
+
+************************
+
+************************
+Document:  CACM-1801.html
+************************
+
+
+analysis of variance for balanced experiments (algorithm 367 [g2])
+
+cacm december, 1969
+
+claringbold, p. 
+************************
+969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance, regression
+analysis, experimental design, balanced 
+experiment, missing data, interblock estimate, intra block estimate
+
+5.14 5.5
+
+ca691211 jb february 15, 1978  2:14 pm
+
+1801	4	1801
+
+************************
+  2:14 pm
+
+1801	4	1801
+1801	5	1801
+
+************************
+01	4	1801
+1801	5	1801
+1801	5	1801
+
+************************
+01
+1801	5	1801
+1801	5	1801
+
+************************
+01	5	1801
+1801	5	1801
+1801	5	1801
+
+************************
+01
+1801	5	1801
+1801	5	1801
+
+************************
+01	5	1801
+1801	5	1801
+1802	5	1801
+
+************************
+01
+1801	5	1801
+1802	5	1801
+
+************************
+01	5	1801
+1802	5	1801
+
+
+************************
+01
+1802	5	1801
+
+
+************************
+02	5	1801
+
+
+************************
+
+************************
+Document:  CACM-2281.html
+************************
+
+
+the eigen problem of block tridiagonal matrices
+
+cacm september, 1972
+
+khalil, h. m.
+
+linear algebra, eigenvalues and eigenvectors,
+partial differential 
+************************
+,
+partial differential equations
+
+5.14 5.17
+
+ca720909 jb january 
+************************
+ 5.17
+
+ca720909 jb january 
+************************
+
+
+ca720909 jb january 27, 1978  4:18 pm
+
+2281	5	2281
+2281	5	2281
+
+************************
+:18 pm
+
+2281	5	2281
+2281	5	2281
+
+************************
+ pm
+
+2281	5	2281
+2281	5	2281
+2281	5	2281
+
+************************
+	5	2281
+2281	5	2281
+2281	5	2281
+
+************************
+
+2281	5	2281
+2281	5	2281
+
+
+************************
+	5	2281
+2281	5	2281
+
+
+************************
+
+2281	5	2281
+
+
+************************
+	5	2281
+
+
+************************
+
+************************
+Document:  CACM-1784.html
+************************
+
+
+practical error coefficients for estimating
+quadrature errors for analytic functions
+
+all published error coefficients for estimating
+quadrature errors for analytic functions were 
+computed on the assumption that the quadrature rule
+was exact for polynomials up to a given degree.  
+since these rules use rounded values for the abscissas and
+weights and since the true values of the integrals 
+of some of the polynomials in question have an infinite
+binary expression, the quadrature rule is not 
+exact.  hence these errors must be taken into consideration
+in computing practical error coefficients.
+
+cacm january, 1968
+
+rabinowitz, p.
+
+numerical integration, quadrature, truncation
+error, theoretical error coefficients, practical 
+error coefficients, integration analytical functions, roundoff error
+
+5.11 5.16
+
+ca680110 jb february 23, 1978  2:22 pm
+
+1672	5	1784
+
+************************
+8  2:22 pm
+
+1672	5	1784
+1784	5	1784
+
+************************
+672	5	1784
+1784	5	1784
+1784	5	1784
+
+************************
+
+1784	5	1784
+1784	5	1784
+
+************************
+84	5	1784
+1784	5	1784
+1784	5	1784
+
+************************
+84
+1784	5	1784
+1784	5	1784
+
+************************
+84	5	1784
+1784	5	1784
+1784	6	1784
+
+************************
+84
+1784	5	1784
+1784	6	1784
+
+************************
+84	5	1784
+1784	6	1784
+
+
+************************
+84
+1784	6	1784
+
+
+************************
+84	6	1784
+
+
+************************
+84
+
+
+************************
+
+************************
+Document:  CACM-1617.html
+************************
+
+
+eigenvalues and eigenvectors of the
+symmetric system 
+************************
+ of the
+symmetric system (algorithm 297 [f2])
+
+cacm march, 1967
+
+boothroyd, j.
+
+ca670311a 
+************************
+967
+
+boothroyd, j.
+
+ca670311a jb february 28, 1978 
+************************
+1a jb february 28, 1978  12:59 pm
+
+1617	5	1617
+
+************************
+8  12:59 pm
+
+1617	5	1617
+
+************************
+2:59 pm
+
+1617	5	1617
+1617	5	1617
+1617	5	1617
+
+************************
+	5	1617
+1617	5	1617
+1617	5	1617
+
+************************
+
+1617	5	1617
+1617	5	1617
+
+
+************************
+	5	1617
+1617	5	1617
+
+
+************************
+
+1617	5	1617
+
+
+************************
+	5	1617
+
+
+************************
+
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel computers as can be
+expected to be available in the near future, much 
+of numerical analysis will have to be recast 
+************************
+ will have to be recast in a more
+"parallel" form.  by this is meant that serial 
+algorithms ought to be replaced by algorithm which
+consist of several subtasks which can be computed 
+without knowledge of the results of the other subtasks. 
+as an example, a method is proposed for "parallelizing" 
+the numerical integration of an ordinary differential
+equation, which process, by all standard methods, 
+is entirely serial.
+
+cacm december, 1964
+
+nievergelt, j.
+
+ca641221 jb march 9, 1978  3:09 pm
+
+950	5	950
+
+************************
+
+************************
+Document:  CACM-1662.html
+************************
+
+
+eigenvalues and eigenvectors of a real general matrix [f2])
+
+************************
+ general matrix [f2])
+
+cacm december, 1968
+
+grad, j.
+brebner, m. a.
+
+eigenvalues, eigenvectors, latent 
+************************
+, eigenvectors, latent roots, latent
+vectors, householder's method, qr algorithm, inverse 
+iteration
+
+5.14
+
+ca681204 jb february 
+************************
+
+
+ca681204 jb february 21, 1978 
+************************
+204 jb february 21, 1978  1:42 pm
+
+1662	5	1662
+
+************************
+  1:42 pm
+
+1662	5	1662
+1662	5	1662
+
+************************
+2 pm
+
+1662	5	1662
+1662	5	1662
+1662	5	1662
+1968	5	1662
+2099	5	1662
+2335	5	1662
+1662	6	1662
+1662	6	1662
+1662	6	1662
+1707	6	1662
+2099	6	1662
+
+************************
+07	6	1662
+2099	6	1662
+
+
+************************
+
+************************
+Document:  CACM-3115.html
+************************
+
+
+orderly enumeration of nonsingular binary
+matrices applied to text encryption
+
+nonsingular binary matrices of order n, i.e.,
+nonsingular over the field {0, 1}, and an initial 
+segment of the natural numbers are placed in one-to-one
+correspondence.  each natural number corresponds 
+to two intermediate vectors.  these vectors are mapped into
+a nonsingular binary matrix.  examples of 
+complete enumeration of all 2 x 2 and 3 x 3 nonsingular
+binary matrices were produced by mapping the 
+intermediate vectors to the matrices.  the mapping
+has application to the vernam encipherment method 
+using pseudorandom number sequences.  a bit string formed
+form bytes of text of a data encryption key 
+can be used as a representation of a natural number. 
+this natural number is transformed to a nonsingular 
+binary matrix.  key leverage is obtained by using the
+matrix as a"seed" in a shift register sequence 
+pseudorandom number generator.  
+
+cacm april, 1978
+
+payne, w.
+mcmillen, 
+************************
+
+
+payne, w.
+mcmillen, k.
+
+binary matrices, combinatorics, combinations, nonsingular
+matrices, encryption, vernam, pseudorandom 
+numbers, feedback shiftregister sequences, random numbers.
+
+3.7 5.3
+
+ca780401 dh february 27, 1979 
+************************
+ dh february 27, 1979  11:05 am
+
+2269	4	3115
+2466	4	3115
+2690	4	3115
+2834	4	3115
+2834	4	3115
+
+************************
+34	4	3115
+2834	4	3115
+2834	4	3115
+2853	4	3115
+2884	4	3115
+2908	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+3115	4	3115
+907	5	3115
+2045	5	3115
+2417	5	3115
+
+************************
+	5	3115
+2045	5	3115
+2417	5	3115
+2466	5	3115
+2884	5	3115
+579	5	3115
+
+************************
+84	5	3115
+579	5	3115
+3115	5	3115
+
+************************
+	5	3115
+579	5	3115
+3115	5	3115
+
+************************
+9	5	3115
+3115	5	3115
+3115	5	3115
+3115	5	3115
+785	5	3115
+
+
+************************
+
+************************
+Document:  CACM-2335.html
+************************
+
+
+eigenvalues and eigenvectors of a real general matrix (algorithm 
+************************
+ general matrix (algorithm r343)
+
+cacm june, 1972
+
+niessner, h.
+
+eigenvalues, eigenvectors, qr-algorithm,
+
+************************
+, eigenvectors, qr-algorithm,
+nonsymmetric matrices, general matrices 
+
+5.14
+
+ca720610 jb january 
+************************
+
+
+ca720610 jb january 30, 1978  4:11 pm
+
+1968	4	2335
+2099	4	2335
+
+************************
+:11 pm
+
+1968	4	2335
+2099	4	2335
+2335	4	2335
+
+************************
+	2335
+2099	4	2335
+2335	4	2335
+1662	5	2335
+2335	5	2335
+
+************************
+
+************************
+Document:  CACM-1636.html
+************************
+
+
+invariant imbeding and the numerical integration
+of boundary-value 
+************************
+ integration
+of boundary-value problems for unstable linear 
+systems of ordinary differential equations
+
+in such diverse areas as radiative transfer
+in planetary atmospheres and optimal guidance and 
+control, two-point boundary-value problems for unstable
+systems arise, greatly complicating the numerical 
+solution.  an invariant imbeding technique is 
+************************
+ imbeding technique is presented
+which is useful in overcoming these frequently 
+encountered instabilities, and the results
+of some numerical experiments are given.
+
+cacm february, 1967
+
+belman, r. e.
+kagiwada, 
+************************
+967
+
+belman, r. e.
+kagiwada, h. h.
+kalaba, r. e.
+
+ca670206 jb february 28, 1978  3:28 pm
+
+1636	5	1636
+
+************************
+978  3:28 pm
+
+1636	5	1636
+
+************************
+  3:28 pm
+
+1636	5	1636
+1636	5	1636
+
+************************
+636	5	1636
+1636	5	1636
+1636	5	1636
+2427	5	1636
+1581	6	1636
+1636	6	1636
+
+************************
+
+************************
+Document:  CACM-1904.html
+************************
+
+
+rough and ready error estimates in gaussian
+integration of analytic functions
+
+cacm may, 1969
+
+rabinowitz, p.
+
+numerical integration, analytic functions, error
+estimates, gaussian integration, tabulated error 
+coefficients, computable error coefficients, cauchy
+integral formula, chebyshev polynomials
+
+5.11 5.16
+
+ca690505 jb february 17, 1978  3:44 pm
+
+1904	5	1904
+
+************************
+, 1978  3:44 pm
+
+1904	5	1904
+
+************************
+  3:44 pm
+
+1904	5	1904
+1904	5	1904
+
+************************
+904	5	1904
+1904	5	1904
+1904	5	1904
+
+************************
+904
+1904	5	1904
+1904	5	1904
+
+************************
+904	5	1904
+1904	5	1904
+
+
+************************
+904
+1904	5	1904
+
+
+************************
+904	5	1904
+
+
+************************
+
+************************
+Document:  CACM-1104.html
+************************
+
+
+an undergraduate curriculum in numerical analysis
+
+cacm april, 1964
+
+forsythe, 
+************************
+
+
+cacm april, 1964
+
+forsythe, g. e.
+
+ca640404 jb march 10, 1978  1:51 am
+
+1104	5	1104
+
+************************
+  1:51 am
+
+1104	5	1104
+1104	5	1104
+1104	5	1104
+1205	5	1104
+1100	6	1104
+1104	6	1104
+1107	6	1104
+68	6	1104
+
+
+************************
+	6	1104
+
+
+************************
+
+************************
+Document:  CACM-1905.html
+************************
+
+
+the simplex method of linear programming using lu decomposition
+
+standard computer implementations 
+************************
+
+
+standard computer implementations of dantzig's
+simplex method for linear programming are based 
+upon forming the inverse of the basic matrix and updating
+the inverse after every step of the method. 
+ these implementations have bad round-off error properties.
+ this paper gives the theoretical background 
+for an implementation which is based upon the lu decomposition,
+computed with row interchanges, of the 
+basic matrix.  the implementation is slow, but has good
+round-off error behavior.  the implementation 
+appears as cacm algorithm 350.
+
+cacm may, 1969
+
+bartels, r. h.
+goulub, g. h.
+
+simplex method, linear programming, lu decomposition,
+round-off errors, computational stability
+
+5.41
+
+ca690504 jb february 17, 1978  3:49 pm
+
+1905	4	1905
+
+************************
+, 1978  3:49 pm
+
+1905	4	1905
+
+************************
+  3:49 pm
+
+1905	4	1905
+1744	5	1905
+1905	5	1905
+
+************************
+44	5	1905
+1905	5	1905
+1905	5	1905
+
+************************
+
+************************
+Document:  CACM-1274.html
+************************
+
+
+on the numerical solution of an n-point boundary
+value problem for linear ordinary differential 
+equations
+
+a method for the numerical solution of then-point
+boundary value problem for homogeneous linear 
+ordinary differential equations is developed.  the
+method requires two runge-kutta integrations over 
+the interval under consideration and the solution of
+a linear system of equations with n-1 unknowns.
+
+cacm april, 1965
+
+day, j. t.
+
+ca650417 jb march 7, 1978  3:30 pm
+
+1274	4	1274
+
+************************
+  3:30 pm
+
+1274	4	1274
+1147	5	1274
+1274	5	1274
+
+************************
+	4	1274
+1147	5	1274
+1274	5	1274
+
+************************
+274
+1147	5	1274
+1274	5	1274
+
+************************
+
+1147	5	1274
+1274	5	1274
+1274	5	1274
+
+************************
+	5	1274
+1274	5	1274
+1274	5	1274
+
+************************
+
+1274	5	1274
+1274	5	1274
+1274	5	1274
+
+************************
+	5	1274
+1274	5	1274
+1274	5	1274
+
+************************
+
+1274	5	1274
+1274	5	1274
+
+
+************************
+	5	1274
+1274	5	1274
+
+
+************************
+
+1274	5	1274
+
+
+************************
+	5	1274
+
+
+************************
+
+************************
+Document:  CACM-2369.html
+************************
+
+
+hidden lines elimination for a rotating object
+
+a method is presented of determining which
+parts of three-dimensional objects are visible and 
+which are invisible when the objects are rotated about
+some axis.  this paper describes a polygon comparison 
+scheme in which the relationships of two polygons can
+be classified into tree types, and also discusses 
+how the relationship is changed for each pair of polygons
+under rotation about some axis.  a rotation 
+table is defined for each pair of polygons, which remains
+fixed as long as rotation is about one axis 
+and provides a means of rapidly determining the visible
+and hidden line relationship between two polygons. 
+ additional work must be done to extend this approach
+to simultaneous rotation about several axes.
+
+cacm april, 1972
+
+matsushita, y.
+
+hidden 
+************************
+2
+
+matsushita, y.
+
+hidden line problem, display programming, computer
+graphics, displays, graphics, computer drawn 
+picture
+
+4.40 4.41 4.49
+
+ca720404 jb january 31, 
+************************
+20404 jb january 31, 1978  1:40 pm
+
+2369	5	2369
+
+************************
+  1:40 pm
+
+2369	5	2369
+2369	5	2369
+
+************************
+
+************************
+Document:  CACM-1766.html
+************************
+
+
+quasilinearization and the estimation
+of differential operators from eigenvalues
+
+given a linear ordinary 
+************************
+s
+
+given a linear ordinary differential operator
+containing several unknown constants and a number 
+of its eigenvalues, the values of the unknown 
+************************
+, the values of the unknown constants
+are estimated.  a precise formulation is provided, 
+and an effective numerical procedure for solution is indicated.
+  the results of some computational experiments 
+are given.
+
+cacm april, 1968
+
+bellman, r. e.
+kagiwada, h. h.
+kalaba, r. e.
+vasudenvan, r.
+
+quasilinearization, eigenvalues, differential operators,
+
+************************
+, differential operators,
+nonlinear boundary-value problems, inverse 
+problems,differential equations, system identification
+
+3.15 3.17 5.17
+
+ca680404 jb february 23, 
+************************
+0404 jb february 23, 1978  11:12 am
+
+1766	4	1766
+
+************************
+  11:12 am
+
+1766	4	1766
+1401	5	1766
+
+************************
+66	4	1766
+1401	5	1766
+1766	5	1766
+
+************************
+66
+1401	5	1766
+1766	5	1766
+
+************************
+01	5	1766
+1766	5	1766
+1766	5	1766
+
+************************
+66
+1766	5	1766
+1766	5	1766
+
+************************
+66	5	1766
+1766	5	1766
+1766	5	1766
+
+************************
+66
+1766	5	1766
+1766	5	1766
+
+************************
+66	5	1766
+1766	5	1766
+
+
+************************
+66
+1766	5	1766
+
+
+************************
+66	5	1766
+
+
+************************
+
+************************
+Document:  CACM-1971.html
+************************
+
+
+recorded magnetic tape for information interchange (1600
+cpi, phase encoded)* (proposed american national standard)
+
+cacm november, 1970
+
+input-output, magnetic tape, information interchange,
+measurement, instrumentation, phase encoded recording 
+
+2.49 6.35
+
+ca701107 jb february 9, 1978  4:49 pm
+
+1971	5	1971
+1971	5	1971
+1971	5	1971
+
+************************
+	5	1971
+1971	5	1971
+1971	5	1971
+
+************************
+
+1971	5	1971
+1971	5	1971
+
+
+************************
+	5	1971
+1971	5	1971
+
+
+************************
+
+1971	5	1971
+
+
+************************
+	5	1971
+
+
+************************
+
+************************
+Document:  CACM-0001.html
+************************
+
+
+preliminary report-international algebraic language
+
+cacm december, 1958
+
+perlis, a. j.
+samelson,k.
+
+ca581203 jb march 22, 1978  8:28 pm
+
+100	5	1
+123	5	1
+164	5	1
+1	5	1
+1	5	1
+1	5	1
+
+************************
+	5	1
+1	5	1
+1	5	1
+1	5	1
+205	5	1
+210	5	1
+214	5	1
+1982	5	1
+398	5	1
+642	5	1
+669	5	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+1	6	1
+165	6	1
+196	6	1
+196	6	1
+1273	6	1
+1883	6	1
+324	6	1
+
+************************
+3	6	1
+1883	6	1
+324	6	1
+43	6	1
+
+************************
+83	6	1
+324	6	1
+43	6	1
+53	6	1
+91	6	1
+
+************************
+	6	1
+43	6	1
+53	6	1
+91	6	1
+410	6	1
+3184	6	1
+
+
+************************
+4	6	1
+
+
+************************
+
+************************
+Document:  CACM-2409.html
+************************
+
+
+an algorithm for the approximate solution
+of wiener-hopf integral equations
+
+an explicit approximate solution is given for
+an equation.  where it is assumed that the classical 
+wiener-hopf technique may be applied.  it is furthermore
+assumed that fourier transforms are known explicitly. 
+ the approximate solution depends on two positive parameters.
+
+cacm november, 1973
+
+stenger, f.
+
+integral equations, wiener-hopf, convolution, approximate solution
+
+5.18
+
+ca731117 jb january 
+************************
+
+
+ca731117 jb january 19, 1978  3:36 pm
+
+2409	5	2409
+2409	5	2409
+
+************************
+
+************************
+Document:  CACM-2043.html
+************************
+
+
+eigenvalues and eigenvectors of a real
+symmetric matrix $f2) (algorithm 384)
+
+cacm june, 1970
+
+stewart, g. w.
+
+real symmetric 
+************************
+, g. w.
+
+real symmetric matrix, eigenvalues, eigenvectors, qr algorithm
+
+5.14
+
+ca700612 jb february 
+************************
+
+
+ca700612 jb february 13, 1978  10:34 am
+
+2043	5	2043
+2043	5	2043
+
+************************
+ am
+
+2043	5	2043
+2043	5	2043
+2043	5	2043
+2349	5	2043
+1648	6	2043
+1716	6	2043
+1794	6	2043
+
+************************
+16	6	2043
+1794	6	2043
+1894	6	2043
+
+************************
+94	6	2043
+1894	6	2043
+2043	6	2043
+
+************************
+94	6	2043
+2043	6	2043
+501	6	2043
+613	6	2043
+774	6	2043
+
+
+************************
+74	6	2043
+
+
+************************
+
+************************
+Document:  CACM-2239.html
+************************
+
+
+squank (algorithm c379)
+
+cacm december, 1972
+
+hallet, p.
+mund, e.
+
+numerical integration, integration rule, adaptive
+integration, automatic integration, simpson's 
+rule, numerical quadrature, quadrature rule, adaptive
+quadrature, automatic quadrature, round-off error 
+control
+
+5.16
+
+ca721216 jb january 27, 1978  9:01 am
+
+2239	5	2239
+
+************************
+
+************************
+Document:  CACM-2133.html
+************************
+
+
+algorithm for the assignment problem
+(rectangular matrices) [h] (algorithm 415)
+
+cacm december, 1971
+
+************************
+5)
+
+cacm december, 1971
+
+bourgeois, f.
+lassalle, j. c.
+
+operations research, optimization theory,
+assignment problem, rectangular matrices
+
+5.39 5.40
+
+ca711210 jb february 
+************************
+0
+
+ca711210 jb february 2, 1978 
+************************
+1210 jb february 2, 1978  9:38 am
+
+2133	4	2133
+
+************************
+  9:38 am
+
+2133	4	2133
+2133	4	2133
+
+************************
+33	4	2133
+2133	4	2133
+2134	4	2133
+
+************************
+33
+2133	4	2133
+2134	4	2133
+124	5	2133
+
+************************
+	2133
+2134	4	2133
+124	5	2133
+2133	5	2133
+
+************************
+	4	2133
+124	5	2133
+2133	5	2133
+
+************************
+33
+124	5	2133
+2133	5	2133
+2133	5	2133
+
+************************
+	5	2133
+2133	5	2133
+2133	5	2133
+2133	5	2133
+2134	5	2133
+
+
+************************
+
+************************
+Document:  CACM-0008.html
+************************
+
+
+on the equivalence and transformation of program schemes
+
+cacm october, 1958
+
+friedman, m. d.
+
+ca581002 
+************************
+
+
+friedman, m. d.
+
+ca581002 jb march 22, 1978 
+************************
+002 jb march 22, 1978  8:36 pm
+
+8	5	8
+8	5	8
+
+************************
+
+************************
+Document:  CACM-1423.html
+************************
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices.
+ it also has many applications in numerical 
+analysis, but it is not widely used because the existing
+algorithms are fairly complicated and require 
+considerable storage space.  a simple extension has
+been found to the conventional orthogonalization 
+method for inverting non-singular matrices, which gives
+the generalized inverse with little extra effort 
+and with no additional storage requirements.  the algorithm
+gives the generalized inverse for any m by 
+n matrix a, including the special case when m+n and a
+is non-singular and the case when m>n and rank(a) 
+= n.  in the first case the algorithm gives the ordinary
+inverse of a.  in the second case the algorithm 
+yields the ordinary least squares transformation matrix
+inv(a'a)a' and has the advantage of avoiding 
+the loss of significance which results in forming the product a'a explicitly.
+
+cacm may, 1966
+
+rust, r.
+burrus, w. r.
+schneeberger, c.
+
+ca660514 jb march 3, 1978  9:22 am
+
+1423	5	1423
+
+************************
+  9:22 am
+
+1423	5	1423
+1423	5	1423
+
+************************
+23	5	1423
+1423	5	1423
+1423	5	1423
+
+************************
+23
+1423	5	1423
+1423	5	1423
+
+************************
+23	5	1423
+1423	5	1423
+
+
+************************
+23
+1423	5	1423
+
+
+************************
+23	5	1423
+
+
+************************
+
+************************
+Document:  CACM-1859.html
+************************
+
+
+error bounds for periodic quintic 
+************************
+ for periodic quintic splines
+
+explicit error bounds for periodic quintic 
+************************
+ for periodic quintic spline
+interpolation are developed.  the first (third) 
+derivative of the periodic spline is shown to be a sixth
+(fourth) order approximation at the mesh points 
+to the first (third) derivative of the function being interpolated.
+
+cacm august, 1969
+
+hall, c. a.
+
+spline, interpolation, error bounds
+
+5.1 5.13
+
+ca690804 
+************************
+
+
+5.1 5.13
+
+ca690804 jb february 15, 1978 
+************************
+04 jb february 15, 1978  5:58 pm
+
+1859	5	1859
+
+************************
+  5:58 pm
+
+1859	5	1859
+1859	5	1859
+
+************************
+859	5	1859
+1859	5	1859
+1859	5	1859
+
+************************
+859
+1859	5	1859
+1859	5	1859
+
+************************
+859	5	1859
+1859	5	1859
+
+
+************************
+859
+1859	5	1859
+
+
+************************
+859	5	1859
+
+
+************************
+
+************************
+Document:  CACM-1285.html
+************************
+
+
+eigenvalues and eigenvectors of a real symmetric
+matrix by 
+************************
+ symmetric
+matrix by the qr method (algorithm 254 [f2])
+
+cacm april, 1965
+
+businger, p. a.
+
+************************
+965
+
+businger, p. a.
+
+ca650406 jb march 7, 1978  3:55 pm
+
+1285	5	1285
+
+************************
+978  3:55 pm
+
+1285	5	1285
+
+************************
+  3:55 pm
+
+1285	5	1285
+1285	5	1285
+
+************************
+5	5	1285
+1285	5	1285
+1285	5	1285
+
+************************
+5
+1285	5	1285
+1285	5	1285
+
+************************
+5	5	1285
+1285	5	1285
+
+
+************************
+5
+1285	5	1285
+
+
+************************
+5	5	1285
+
+
+************************
+
+************************
+Document:  CACM-2554.html
+************************
+
+
+reduction of a band-symmetric generalized eigenvalue problem
+
+an algorithm is described for reducing the
+generalized eigenvalue problem ax = lambda bx to 
+an ordinary problem, in case a and b are symmetric band
+matrices with b positive definite.  if n is the 
+order of the matrix and m the bandwidth, the matrices
+a and b are partitioned into m-by-m blocks; and 
+the algorithm is described in terms of these blocks.
+ the algorithm reduces the generalized problem to 
+an ordinary eigenvalue problem for a symmetric band
+matrix c whose bandwidth is the same as a and b. 
+ the algorithm is similar to those of rutishauser and
+schwartz for the reduction of symmetric matrices 
+to band form.  the calculation c requires order mn^2
+operation.  the round-off error in the calculation 
+of c is of the same order as the sum of the errors at
+each of the n/m steps of the algorithm, the latter 
+errors being largely determined by the condition of b with respect to inversion.
+
+cacm january, 1973
+
+crawford, c. r.
+
+generalized eigenvalues, symmetric band matrices
+
+5.14
+
+ca730107 jb january 
+************************
+
+
+ca730107 jb january 24, 1978 
+************************
+07 jb january 24, 1978  4:26 pm
+
+2554	5	2554
+
+************************
+978  4:26 pm
+
+2554	5	2554
+
+************************
+
+************************
+Document:  CACM-2223.html
+************************
+
+
+minit algorithm for linear programming (algorithm 222 [h])
+
+cacm january, 1971
+
+kolm, a.
+dahlstrand, 
+************************
+
+
+kolm, a.
+dahlstrand, t.
+
+linear programming, dual simplex method, primal problem, dual problem
+
+5.41
+
+ca710111 jb february 
+************************
+
+
+ca710111 jb february 8, 1978 
+************************
+0111 jb february 8, 1978  10:22 am
+
+2223	5	2223
+
+************************
+8  10:22 am
+
+2223	5	2223
+
+************************
+
+************************
+Document:  CACM-2887.html
+************************
+
+
+a study of errors, error-proneness, and error diagnosis in cobol
+
+this paper provides data on cobol error frequency
+for correction of errors in student-oriented 
+compilers, improvement of teaching, and changes in programming
+language.  cobol was studied because of 
+economic importance, widespread usage, possible error-including
+design, and lack of research.  the types 
+of errors were identified in a pilot study; then, using
+the 132 error types found, 1,777 errors were 
+classified 
+************************
+77 errors were 
+classified in 1,4000 runs of 73 cobol students.  error
+density was high: 20 percent of the types contained 
+80 percent of the total frequency, which implies high
+potential effectiveness for software based correction 
+of cobol.  surprisingly, only four high-frequency errors
+were error-prone, which implies minimal error 
+inducing design. 80 percent of cobol misspellings were classifiable
+in the four error categories of previous 
+researchers, which implies that cobol misspellings
+are correctable by existent algorithms.  reserved 
+word usage was not error-prone, which implies minimal
+interference with usage of reserved words.  over 
+80 percent of error diagnosis was found to be inaccurate.
+ such feedback is not optimal for users, particularly 
+for the learning user of cobol.
+
+cacm january, 1976
+
+litecky, c. r.
+davis, g. b.
+
+errors in programming, error correction, cobol, programming
+language errors, error analysis, diagnostics, 
+error-proneness, 
+************************
+, diagnostics, 
+error-proneness, error frequency, spelling errors, syntactic
+errors, learning of programming, teaching 
+of programming
+
+4.22 4.2 4.6
+
+ca760106 jb january 5, 1978 
+************************
+06 jb january 5, 1978  10:06 am
+
+2534	4	2887
+
+************************
+  10:06 am
+
+2534	4	2887
+2556	4	2887
+2650	4	2887
+
+************************
+
+2556	4	2887
+2650	4	2887
+2708	4	2887
+2887	4	2887
+2887	4	2887
+1646	5	2887
+2111	5	2887
+
+************************
+646	5	2887
+2111	5	2887
+2887	5	2887
+
+************************
+11	5	2887
+2887	5	2887
+2887	5	2887
+
+************************
+
+2887	5	2887
+2887	5	2887
+2887	5	2887
+3145	5	2887
+2887	6	2887
+
+************************
+5	5	2887
+2887	6	2887
+
+
+************************
+
+2887	6	2887
+
+
+************************
+	6	2887
+
+
+************************
+
+************************
+Document:  CACM-0315.html
+************************
+
+
+solution of tridiagonal matrices
+
+cacm july, 1961
+
+wenrick, r. c.
+
+
+************************
+961
+
+wenrick, r. c.
+
+ca610702 jb march 16, 1978 
+************************
+02 jb march 16, 1978  10:28 pm
+
+315	5	315
+
+************************
+  10:28 pm
+
+315	5	315
+315	5	315
+
+************************
+
+************************
+Document:  CACM-2758.html
+************************
+
+
+a note on the lu factorization of a symmetric matrix
+
+cacm may, 1975
+
+evans, d. j.
+hatzopoulos, m.
+
+symmetric matrices, factorization, test matrices,
+matrix inversion, separable systems
+
+5.14
+
+ca750509 jb january 9, 1978  2:26 pm
+
+2758	5	2758
+
+************************
+  2:26 pm
+
+2758	5	2758
+2758	5	2758
+2758	5	2758
+
+************************
+	5	2758
+2758	5	2758
+2758	5	2758
+
+************************
+
+2758	5	2758
+2758	5	2758
+
+
+************************
+	5	2758
+2758	5	2758
+
+
+************************
+
+2758	5	2758
+
+
+************************
+	5	2758
+
+
+************************
+
+************************
+Document:  CACM-2325.html
+************************
+
+
+numerical mathematics and computer science
+
+numerical mathematics is viewed as the analysis
+of continuous algorithms.  four of the components 
+of numerical mathematics are discussed.  these are: foundations
+(finite precision number systems, computational 
+complexity), synthesis and analysis of algorithms,
+analysis of error, programs and program 
+************************
+, programs and program libraries.
+
+cacm july, 1972
+
+traub, j. f.
+
+numerical mathematics, computer science, mathematics
+of computation, algorithms, continuous algorithms
+
+1.3 5.0 5.1 5.25
+
+ca720703 jb january 30, 1978  3:17 pm
+
+1086	4	2325
+1132	4	2325
+1234	4	2325
+
+************************
+	2325
+1132	4	2325
+1234	4	2325
+1263	4	2325
+1265	4	2325
+1270	4	2325
+1323	4	2325
+1358	4	2325
+1379	4	2325
+1380	4	2325
+
+************************
+	4	2325
+1379	4	2325
+1380	4	2325
+
+************************
+379	4	2325
+1380	4	2325
+1453	4	2325
+
+************************
+380	4	2325
+1453	4	2325
+1464	4	2325
+1484	4	2325
+1491	4	2325
+1498	4	2325
+1613	4	2325
+1614	4	2325
+1781	4	2325
+1825	4	2325
+
+************************
+81	4	2325
+1825	4	2325
+1860	4	2325
+2083	4	2325
+2178	4	2325
+2179	4	2325
+
+************************
+8	4	2325
+2179	4	2325
+2252	4	2325
+
+************************
+9	4	2325
+2252	4	2325
+2325	4	2325
+2341	4	2325
+2546	4	2325
+2645	4	2325
+2652	4	2325
+2684	4	2325
+2842	4	2325
+2929	4	2325
+2934	4	2325
+3069	4	2325
+669	4	2325
+679	4	2325
+691	4	2325
+761	4	2325
+
+************************
+9	4	2325
+691	4	2325
+761	4	2325
+949	4	2325
+989	4	2325
+2325	5	2325
+
+************************
+9	4	2325
+2325	5	2325
+2325	5	2325
+2325	5	2325
+3184	5	2325
+
+
+************************
+
+************************
+Document:  CACM-0070.html
+************************
+
+
+construction of a set of test matrices
+
+this paper develops the equations and properties
+of a set of test matrices which are useful 
+in the determination of the accuracy of routines for
+finding the inverse, determinant and/or eigenvalues 
+of a matrix.
+
+cacm 
+************************
+ 
+of a matrix.
+
+cacm august, 1959
+
+aegerter, m. j.
+
+ca590803 jb march 22, 1978  6:09 pm
+
+70	5	70
+70	5	70
+
+************************
+8  6:09 pm
+
+70	5	70
+70	5	70
+70	5	70
+
+************************
+
+************************
+Document:  CACM-0559.html
+************************
+
+
+solution of eigenvalue problems with approximately known eigenvectors
+
+cacm july, 1962
+
+appel, k.
+
+ca620702 
+************************
+962
+
+appel, k.
+
+ca620702 jb march 17, 1978  9:10 pm
+
+559	5	559
+
+************************
+
+************************
+Document:  CACM-1709.html
+************************
+
+
+a modification of efroymson's technique for stepwise regression analysis
+
+the computational technique conventionally used
+for stepwise multiple linear regression requires 
+the storage of an n x n matrix of data.  when the number
+of variables, n, is large, this requirement 
+taxes the storage capacity of presently used machinery.
+ the near symmetry of the matrices involved permits 
+a modification 
+************************
+ved permits 
+a modification requiring only half the storage and computations
+of the conventional algorithm and this 
+additional storage allows the analysis of problems containing
+more variables.  alternatively, it permits 
+the analysis of problems containing the same number
+of variables but with all computations performed 
+in double precision.
+
+cacm august, 1968
+
+breaux, h. j.
+
+multiple linear regression, statistical recurrence
+formulas, correlation, linear statistical models, 
+statistical computer programs, curve fitting
+
+4.0 4.40 5.0 5.5 5.10 
+************************
+.0 4.40 5.0 5.5 5.10 5.13
+
+ca680805 jb february 22, 
+************************
+0805 jb february 22, 1978  10:52 am
+
+1709	5	1709
+
+************************
+8  10:52 am
+
+1709	5	1709
+
+************************
+0:52 am
+
+1709	5	1709
+1709	5	1709
+
+************************
+09	5	1709
+1709	5	1709
+1709	5	1709
+
+************************
+09
+1709	5	1709
+1709	5	1709
+
+************************
+09	5	1709
+1709	5	1709
+
+
+************************
+09
+1709	5	1709
+
+
+************************
+09	5	1709
+
+
+************************
+
+************************
+Document:  CACM-2415.html
+************************
+
+
+algorithm for automatic numerical integration
+over a finite interval [d1] (algorithm a468)
+
+cacm 
+************************
+] (algorithm a468)
+
+cacm november, 1973
+
+patterson, t. n. l.
+
+************************
+3
+
+patterson, t. n. l.
+
+automatic integration, numerical integration,
+automatic quadrature, numerical quadrature
+
+5.16
+
+ca731111 jb january 
+************************
+6
+
+ca731111 jb january 20, 1978  9:51 am
+
+1352	4	2415
+2415	4	2415
+2415	4	2415
+
+************************
+	2415
+2415	4	2415
+2415	4	2415
+
+************************
+5
+2415	4	2415
+2415	4	2415
+
+************************
+5	4	2415
+2415	4	2415
+2415	4	2415
+2550	4	2415
+1040	5	2415
+1982	5	2415
+2074	5	2415
+
+************************
+2	5	2415
+2074	5	2415
+2415	5	2415
+
+************************
+5
+2074	5	2415
+2415	5	2415
+2415	5	2415
+
+************************
+	5	2415
+2415	5	2415
+2415	5	2415
+
+************************
+5
+2415	5	2415
+2415	5	2415
+
+************************
+5	5	2415
+2415	5	2415
+2415	5	2415
+
+************************
+5
+2415	5	2415
+2415	5	2415
+
+************************
+5	5	2415
+2415	5	2415
+
+
+************************
+5
+2415	5	2415
+
+
+************************
+5	5	2415
+
+
+************************
+
+************************
+Document:  CACM-1351.html
+************************
+
+
+automatic error bounds on real zeros of rational functions
+
+************************
+ zeros of rational functions
+
+a procedure for implementing an interval arithmetic
+version of the newton-raphson method is 
+proposed.  the procedure require only a starting interval
+over which the zeros of a given rational function 
+are to be located.  the method automatically provides bounds 
+for roundoff error.
+
+cacm november, 1966
+
+************************
+.
+
+cacm november, 1966
+
+dargel, r. h.
+loscalzo, f. r.
+witt, t. h.
+
+ca661107 jb march 2, 1978  3:31 pm
+
+1351	5	1351
+
+************************
+
+************************
+Document:  CACM-1353.html
+************************
+
+
+techniques for automatic tolerance control in linear programming
+
+in this technical note, the numerical steps
+for the simplex method of linear programming are 
+reviewed and the tolerances needed in the numerical procedure
+are defined.  objective criteria are given 
+for accomplishing the numerical steps of the method
+and the calculation of necessary tolerances.
+
+cacm november, 1966
+
+clasen, r. j.
+
+ca661105 jb march 2, 1978  3:37 pm
+
+1353	5	1353
+
+************************
+  3:37 pm
+
+1353	5	1353
+1353	5	1353
+
+************************
+353	5	1353
+1353	5	1353
+1353	5	1353
+2589	5	1353
+1353	6	1353
+
+************************
+
+************************
+Document:  CACM-1970.html
+************************
+
+
+unrecorded magnetic tape for information interchange (9 track-200 and
+800 cpi, nrzi and 1600 cpi, pe)* (proposed american national standard)
+
+cacm november, 1970
+
+input-output, magnetic 
+************************
+0
+
+input-output, magnetic tape, information interchange,
+measurement, instrumentation, phase encoded recording 
+
+2.49 6.35
+
+ca701108 jb february 9, 1978 
+************************
+108 jb february 9, 1978  4:42 pm
+
+1970	5	1970
+
+************************
+8  4:42 pm
+
+1970	5	1970
+1970	5	1970
+
+************************
+:42 pm
+
+1970	5	1970
+1970	5	1970
+1970	5	1970
+
+************************
+	5	1970
+1970	5	1970
+1970	5	1970
+
+************************
+
+1970	5	1970
+1970	5	1970
+
+
+************************
+	5	1970
+1970	5	1970
+
+
+************************
+
+1970	5	1970
+
+
+************************
+	5	1970
+
+
+************************
+
+************************
+Document:  CACM-1963.html
+************************
+
+
+condition numbers of pei matrices
+
+cacm november, 1970
+
+rokne, j.
+
+matrices, condition numbers, pei matrices, eigenvectors, eigenvalues
+
+5.14
+
+ca701116 jb february 
+************************
+
+
+ca701116 jb february 9, 1978  4:21 pm
+
+1963	4	1963
+1963	4	1963
+
+************************
+:21 pm
+
+1963	4	1963
+1963	4	1963
+1963	4	1963
+909	5	1963
+1963	5	1963
+1963	5	1963
+1963	5	1963
+475	5	1963
+750	5	1963
+
+
+************************
+5	5	1963
+750	5	1963
+
+
+************************
+
+************************
+Document:  CACM-2213.html
+************************
+
+
+roots of matrix pencils: the generalized
+eigenvalue problem [f2] (algorithm 405)
+
+cacm february, 1971
+
+dell, a. m.
+weil, r. 
+************************
+
+
+dell, a. m.
+weil, r. l.
+thompson, g. l.
+
+eigenvalues, matrix roots, pencil 
+************************
+, matrix roots, pencil roots
+
+5.1 5.3
+
+ca710208 jb february 8, 
+************************
+10208 jb february 8, 1978  8:37 am
+
+2213	5	2213
+
+************************
+8  8:37 am
+
+2213	5	2213
+2213	5	2213
+
+************************
+
+************************
+Document:  CACM-0007.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm october, 1958
+
+ca581003 jb march 22, 1978  8:35 pm
+
+7	5	7
+7	5	7
+
+************************
+8  8:35 pm
+
+7	5	7
+7	5	7
+7	5	7
+
+
+************************
+
+************************
+Document:  CACM-1791.html
+************************
+
+
+triangular factors of modified matrices (algorithm 319 [f1])
+
+cacm january, 
+************************
+9 [f1])
+
+cacm january, 1968
+
+green, d. r.
+
+matrix decomposition, matrix factors,
+matrix 
+************************
+, matrix factors,
+matrix modifier, matrix perturbation
+
+5.14
+
+ca680102 jb february 
+************************
+
+
+ca680102 jb february 23, 1978 
+************************
+02 jb february 23, 1978  2:50 pm
+
+1791	5	1791
+
+************************
+  2:50 pm
+
+1791	5	1791
+1791	5	1791
+
+************************
+91	5	1791
+1791	5	1791
+1791	5	1791
+
+************************
+91
+1791	5	1791
+1791	5	1791
+
+************************
+91	5	1791
+1791	5	1791
+
+
+************************
+91
+1791	5	1791
+
+
+************************
+91	5	1791
+
+
+************************
+
+************************
+Document:  CACM-2072.html
+************************
+
+
+modified romberg quadrature (algorithm 351 $d1))
+
+cacm april, 1970
+
+cook, n. d.
+
+numerical integration, romberg quadrature,
+trapezoid values, rectangle values, error bound
+
+5.16
+
+ca700412 jb february 13, 1978 
+************************
+12 jb february 13, 1978  2:42 pm
+
+2072	5	2072
+
+************************
+  2:42 pm
+
+2072	5	2072
+2072	5	2072
+
+************************
+
+************************
+Document:  CACM-1707.html
+************************
+
+
+generation of positive test matrices with known positive spectra
+
+sufficient conditions are given for a real
+matrix to be similar to a positive matrix.  this 
+result is used to construct a similarity transformation
+which, when applied to a particular upper triangular 
+matrix, yields a positive matrix with a preassigned positive spectrum.
+
+cacm august, 1968
+
+hall, c. a.
+porsching, t. a.
+
+test matrices, positive matrices, similarity
+transformation, positive eigenvalues
+
+5.1 5.14
+
+ca680807 jb february 22, 1978 
+************************
+ jb february 22, 1978  10:42 am
+
+1707	4	1707
+
+************************
+  10:42 am
+
+1707	4	1707
+1707	4	1707
+
+************************
+07	4	1707
+1707	4	1707
+1047	5	1707
+
+************************
+707
+1707	4	1707
+1047	5	1707
+1707	5	1707
+1707	5	1707
+1707	5	1707
+1876	5	1707
+2099	5	1707
+
+************************
+76	5	1707
+2099	5	1707
+511	5	1707
+
+************************
+707
+2099	5	1707
+511	5	1707
+1662	6	1707
+
+************************
+707
+511	5	1707
+1662	6	1707
+
+************************
+1	5	1707
+1662	6	1707
+1707	6	1707
+
+************************
+07
+1662	6	1707
+1707	6	1707
+
+************************
+662	6	1707
+1707	6	1707
+1707	6	1707
+
+************************
+07
+1707	6	1707
+1707	6	1707
+
+************************
+707	6	1707
+1707	6	1707
+
+
+************************
+707
+1707	6	1707
+
+
+************************
+707	6	1707
+
+
+************************
+
+************************
+Document:  CACM-2419.html
+************************
+
+
+eigenvalues of a real, symmetric, tridiagonal
+
+************************
+, symmetric, tridiagonal
+matrix [f2] (algorithm a464)
+
+cacm november, 1973
+
+reinsch, c. h.
+
+eigenvalues, qr algorithm
+
+5.14
+
+************************
+, qr algorithm
+
+5.14
+
+ca731107 jb january 
+************************
+
+
+ca731107 jb january 20, 1978  10:03 am
+
+2419	5	2419
+2419	5	2419
+
+************************
+19	5	2419
+2419	5	2419
+2419	5	2419
+
+************************
+19
+2419	5	2419
+2419	5	2419
+
+************************
+19	5	2419
+2419	5	2419
+2825	5	2419
+
+************************
+19
+2419	5	2419
+2825	5	2419
+
+************************
+19	5	2419
+2825	5	2419
+2419	6	2419
+
+************************
+25	5	2419
+2419	6	2419
+
+
+************************
+9
+2419	6	2419
+
+
+************************
+9	6	2419
+
+
+************************
+
+************************
+Document:  CACM-1577.html
+************************
+
+
+eigenvalues and eigenvectors of a real symmetric
+matrix by 
+************************
+ symmetric
+matrix by the qr method (algorithm 254 [f2])
+
+cacm june, 1967
+
+welsch, j. h.
+
+ca670607e 
+************************
+967
+
+welsch, j. h.
+
+ca670607e jb march 23, 1978  3:31 pm
+
+1577	5	1577
+
+************************
+  3:31 pm
+
+1577	5	1577
+1577	5	1577
+
+************************
+7	5	1577
+1577	5	1577
+1577	5	1577
+
+************************
+577
+1577	5	1577
+1577	5	1577
+
+************************
+577	5	1577
+1577	5	1577
+
+
+************************
+577
+1577	5	1577
+
+
+************************
+577	5	1577
+
+
+************************
+
+************************
+Document:  CACM-1909.html
+************************
+
+
+computation of jn(x) by numerical integration
+
+it is shown to be practical to compute jn(x) by
+numerical integration of its integral representation 
+using the trapezoidal rule. the error in this
+approximation was studied empirically.
+
+cacm april, 1969
+
+stroud, a. h.
+kohli, j. p.
+
+bessel function, numerical integration, trapezoidal rule
+
+5.11 5.12 5.16
+
+ca690408 jb february 17, 1978  4:13 pm
+
+1909	4	1909
+
+************************
+, 1978  4:13 pm
+
+1909	4	1909
+
+************************
+  4:13 pm
+
+1909	4	1909
+1909	4	1909
+1909	4	1909
+1909	4	1909
+2119	4	1909
+134	5	1909
+1023	5	1909
+1284	5	1909
+1316	5	1909
+
+************************
+4	5	1909
+1316	5	1909
+1909	5	1909
+
+************************
+
+************************
+Document:  CACM-3016.html
+************************
+
+
+a comparison of numerical techniques in markov modeling
+
+this paper presents several numerical methods which
+may be used to obtain the stationary probability 
+vectors of markovian models.  an example of a nearly
+decomposable system is considered, and the results 
+obtained by the different methods examined.  a post
+mortem reveals why standard techniques often fail 
+to yield the correct results.  finally, a means of estimating
+the error inherent in the decomposition 
+of certain models is presented.
+
+cacm february, 1978
+
+stewart, w.
+
+markov 
+************************
+
+
+stewart, w.
+
+markov models, numerical techniques, simultaneous
+iteration, near-decomposability
+
+4.6 5.14 8.1
+
+ca780207 
+************************
+.6 5.14 8.1
+
+ca780207 jb march 
+************************
+ 8.1
+
+ca780207 jb march 28, 1978 
+************************
+80207 jb march 28, 1978  3:43 pm
+
+2374	4	3016
+
+************************
+978  3:43 pm
+
+2374	4	3016
+
+************************
+  3:43 pm
+
+2374	4	3016
+2481	4	3016
+2669	4	3016
+
+************************
+6
+2481	4	3016
+2669	4	3016
+2863	4	3016
+3016	4	3016
+3016	4	3016
+3052	4	3016
+3070	4	3016
+3153	4	3016
+
+************************
+0	4	3016
+3153	4	3016
+1901	5	3016
+
+************************
+6
+3153	4	3016
+1901	5	3016
+2741	5	3016
+3016	5	3016
+
+************************
+41	5	3016
+3016	5	3016
+3016	5	3016
+
+************************
+
+************************
+Document:  CACM-1998.html
+************************
+
+
+complex matrix inversion versus real
+
+a comparison of complex matrix with real matrix inversion
+is made.  it is shown that the complex inversion can be up to 
+twice as fast as the real inversion.  further, the rounding error
+bound for complex inversion is about one-eighth that of real,
+for gaussian elimination.  using extended inner product
+accumulation the bound is half of the real system.
+
+cacm september, 1970
+
+ehrlich, l. w.
+
+complex matrix inversion, matrix inversion, inversion, rounding errors,
+rounding error bound, error bounds, complex rounding error bounds
+
+5.14 5.11 5.10
+
+ca700907 
+************************
+ 5.11 5.10
+
+ca700907 jb february 10, 
+************************
+00907 jb february 10, 1978  10:19 am
+
+1998	5	1998
+
+************************
+0, 1978  10:19 am
+
+1998	5	1998
+
+************************
+  10:19 am
+
+1998	5	1998
+1998	5	1998
+1998	5	1998
+
+************************
+	5	1998
+1998	5	1998
+1998	5	1998
+
+************************
+
+1998	5	1998
+1998	5	1998
+
+
+************************
+	5	1998
+1998	5	1998
+
+
+************************
+
+1998	5	1998
+
+
+************************
+	5	1998
+
+
+************************
+
+************************
+Document:  CACM-1286.html
+************************
+
+
+eigenvalues of a real symmetric matrix
+by 
+************************
+ symmetric matrix
+by the qr method (algorithm 253 [f2])
+
+cacm april, 1965
+
+businger, p. a.
+
+ca650405 jb march 7, 1978  3:56 pm
+
+1286	5	1286
+
+************************
+  3:56 pm
+
+1286	5	1286
+1286	5	1286
+
+************************
+6	5	1286
+1286	5	1286
+1286	5	1286
+
+************************
+6
+1286	5	1286
+1286	5	1286
+
+************************
+6	5	1286
+1286	5	1286
+
+
+************************
+6
+1286	5	1286
+
+
+************************
+6	5	1286
+
+
+************************
+
+************************
+Document:  CACM-3085.html
+************************
+
+
+an o(n) algorithm for determining a near-optimal
+computation order of matrix chain products
+
+this paper discusses the computation of matrix
+chain products of the form m1 x m2 x ... x mn 
+where mi's are matrices.  the order in which the matrices
+are computed affects the number of operations. 
+ a sufficient condition about the association of the
+matrices in the optimal order is presented.  an 
+o(n) algorithm to find an order of computation which
+takes less than 25 percent longer than the optimal 
+time topt is also presented.  in most cases, the algorithm
+yields the optimal order or an order which 
+takes only a few percent longer than topt (less than 1 percent on the average).
+
+cacm july, 1978
+
+chin, f.
+
+approximate 
+************************
+
+
+chin, f.
+
+approximate algorithm, heuristic algorithm,
+matrix multiplication, matrix chain product
+
+5.14
+
+ca780703 dh february 8, 1979 
+************************
+0703 dh february 8, 1979  2:46 pm
+
+3075	4	3085
+
+************************
+979  2:46 pm
+
+3075	4	3085
+3085	4	3085
+2557	5	3085
+
+************************
+5
+3085	4	3085
+2557	5	3085
+3085	5	3085
+3085	5	3085
+
+************************
+
+************************
+Document:  CACM-0349.html
+************************
+
+
+a set of test matrices
+
+cacm april, 1961
+
+herndon, j. r.
+
+ca610419 jb march 16, 1978  11:47 pm
+
+349	5	349
+
+************************
+  11:47 pm
+
+349	5	349
+349	5	349
+
+************************
+
+************************
+Document:  CACM-2806.html
+************************
+
+
+two hadamard numbers for matrices
+
+a discussion is given of two functions of the entries
+of a square matrix, both related to hadamard's 
+determinant theorem, which have some merits as alternatives
+to norm-bound "condition numbers."  one (for 
+linear systems) is known; the other (for eigen systems) seems to be new.
+
+cacm january, 1975
+
+birkhoff, g.
+
+matrices, eigenvalues, norms, condition numbers,
+error analysis, gram-schmidt orthogonalization
+
+************************
+, gram-schmidt orthogonalization
+
+5.11 5.14
+
+ca750105 jb january 12, 
+************************
+50105 jb january 12, 1978  10:37 am
+
+2806	5	2806
+
+************************
+  10:37 am
+
+2806	5	2806
+2806	5	2806
+
+************************
+
+************************
+Document:  CACM-1855.html
+************************
+
+
+a program for the syntactic analysis of english sentences
+
+a program is described which produces syntactic
+analyses of english sentences with respect 
+to a transformational grammar.  the main features of the
+analyzer are that it uses only a limited dictionary 
+of english words and that it pursues all analysis paths
+simultaneously while processing the sentence 
+from left to right.  the form of representation used
+for the dictionary and the grammar is indicated 
+and an outline account is given of the analysis procedure.
+ techniques for keeping the size of the analysis 
+record within reasonable limits and for avoiding the need
+for dynamic application of certain transformational 
+rules are described.   a number of examples of output
+produced by the program are given.  the output 
+includes timing information.
+
+cacm august, 1969
+
+dewar, h.
+bratley, p.
+
+syntactic analysis, language processing, language
+analysis, parsing, analysis procedure, recognition 
+procedure, english sentences, linguistics, psycholinguistics,
+transformational grammar, limited dictionary, 
+predictive analysis
+
+3.42 3.36
+
+ca690808 jb february 
+************************
+2 3.36
+
+ca690808 jb february 15, 1978  5:24 pm
+
+1855	5	1855
+
+************************
+8  5:24 pm
+
+1855	5	1855
+1855	5	1855
+
+************************
+855	5	1855
+1855	5	1855
+1855	5	1855
+
+************************
+855
+1855	5	1855
+1855	5	1855
+
+************************
+855	5	1855
+1855	5	1855
+
+
+************************
+855
+1855	5	1855
+
+
+************************
+855	5	1855
+
+
+************************
+
+************************
+Document:  CACM-1014.html
+************************
+
+
+machine controls for analysis of variance
+
+a major problem in using the analysis of variance,
+as the number of factors increases, is the 
+exponential rise in the number of interactions.  even
+though the experimenter may not be interested in 
+these interactions it is impossible to ignore them in
+most experimental designs because of the problem 
+of getting error terms.  it is natural therefore to look
+to the computer to handle the bulk of work involved 
+in computing the interactions.  a program device
+to get the computer to do this is described.
+
+cacm august, 1964
+
+weldon, r. j.
+
+ca640816 jb march 9, 1978  
+************************
+16 jb march 9, 1978  6:37 pm
+
+1014	4	1014
+
+************************
+  6:37 pm
+
+1014	4	1014
+912	5	1014
+
+************************
+014	4	1014
+912	5	1014
+1014	5	1014
+
+************************
+	4	1014
+912	5	1014
+1014	5	1014
+
+************************
+014
+912	5	1014
+1014	5	1014
+
+************************
+
+912	5	1014
+1014	5	1014
+1014	5	1014
+
+************************
+
+1014	5	1014
+1014	5	1014
+1014	5	1014
+
+************************
+	5	1014
+1014	5	1014
+1014	5	1014
+
+************************
+
+1014	5	1014
+1014	5	1014
+
+
+************************
+	5	1014
+1014	5	1014
+
+
+************************
+
+1014	5	1014
+
+
+************************
+	5	1014
+
+
+************************
+
+************************
+Document:  CACM-1045.html
+************************
+
+
+programming analysis of variance by sequences
+of operators and isomorphic mappings
+
+a special operator calculus developed by hartley
+in 1956 together with a new mapping scheme 
+has been found to be efficient in programming analysis
+of variance for multifactor experiments. the operator 
+calculus and the mapping scheme are described in detail.
+
+cacm july, 1964
+
+peng, k. c.
+
+ca640702 jb march 9, 1978  
+************************
+02 jb march 9, 1978  8:30 pm
+
+1045	5	1045
+
+************************
+  8:30 pm
+
+1045	5	1045
+1045	5	1045
+
+************************
+5	5	1045
+1045	5	1045
+1045	5	1045
+
+************************
+5
+1045	5	1045
+1045	5	1045
+
+************************
+5	5	1045
+1045	5	1045
+1404	5	1045
+
+************************
+5
+1045	5	1045
+1404	5	1045
+
+************************
+5	5	1045
+1404	5	1045
+1045	6	1045
+
+************************
+5
+1404	5	1045
+1045	6	1045
+
+************************
+04	5	1045
+1045	6	1045
+
+
+************************
+045
+1045	6	1045
+
+
+************************
+045	6	1045
+
+
+************************
+
+************************
+Document:  CACM-1404.html
+************************
+
+
+computational aspects of multiple covariance
+analysis on a multifactor structure
+
+the computational procedure for the analysis
+of multiple covariance in statistics is discussed 
+with reference to the analysis of variance.  a special
+operator calculus developed by hartly for programming 
+analysis of variance for multifactor experiments is extended
+to cover the analysis of covariance.  this 
+extension is accomplished by utilizing the connection
+between the analysis of covariance and the analysis 
+of variance and by introducing a new operator.  the
+results are illustrated by a numerical example for 
+analysis of covariance, in which the basic computations
+are shown to be carried out by an analysis-of-variance 
+program.
+
+cacm july, 1966
+
+peng, k. c.
+
+ca660708 jb march 2, 1978  9:18 pm
+
+1404	4	1404
+1045	5	1404
+
+************************
+04	4	1404
+1045	5	1404
+1404	5	1404
+
+************************
+404
+1045	5	1404
+1404	5	1404
+
+************************
+045	5	1404
+1404	5	1404
+1404	5	1404
+
+************************
+404
+1404	5	1404
+1404	5	1404
+
+************************
+404	5	1404
+1404	5	1404
+1404	5	1404
+
+************************
+404
+1404	5	1404
+1404	5	1404
+
+************************
+404	5	1404
+1404	5	1404
+
+
+************************
+404
+1404	5	1404
+
+
+************************
+404	5	1404
+
+
+************************
+
+************************
+Document:  CACM-1823.html
+************************
+
+
+factorial analysis of variance (algorithm [g1])
+
+cacm november, 1969
+
+************************
+])
+
+cacm november, 1969
+
+howell, j. r.
+
+factorial variance analysis, variance, statistical analysis
+
+5.5
+
+ca691107 jb february 15, 1978  12:22 pm
+
+1823	5	1823
+
+************************
+  12:22 pm
+
+1823	5	1823
+1823	5	1823
+
+************************
+23	5	1823
+1823	5	1823
+1823	5	1823
+
+************************
+23
+1823	5	1823
+1823	5	1823
+
+************************
+23	5	1823
+1823	5	1823
+
+
+************************
+23
+1823	5	1823
+
+
+************************
+23	5	1823
+
+
+************************
+
+************************
+Document:  CACM-1692.html
+************************
+
+
+numerical solution of a thin plate heat transfer problem
+
+the numerical solution of a system of linear
+equations resulting from a discrete approximation 
+to a thin plate heat transfer problem is considered.
+ the slow convergence of point iterative methods 
+is analyzed and shown to be caused by one of the boundary
+conditions. the difficulty may be removed by 
+a standard line iterative technique.
+
+cacm september, 1968
+
+stewart iii, g.
+lick, d. w.
+
+************************
+ iii, g.
+lick, d. w.
+
+heat transfer problem, poisson equation, boundary
+value problem, thin domain, successive overrelaxation 
+(sor), block sor
+
+3.20 5.17
+
+ca680909 jb february 
+************************
+
+
+ca680909 jb february 21, 1978  4:48 pm
+
+1692	5	1692
+1692	5	1692
+
+************************
+:48 pm
+
+1692	5	1692
+1692	5	1692
+
+************************
+
+************************
+Document:  CACM-1501.html
+************************
+
+
+eigenvectors of a 2n x 2n matrix
+
+it has been known that the eigenvalues of a
+certain 2n x 2n 
+************************
+ of a
+certain 2n x 2n matrix can be obtained by use of 
+two smaller matrices of order n which can be easily
+constructed.  an algorithm is given to obtain the 
+eigenvectors of the 2n x 2n matrix by use of
+the eigenvectors of the smaller matrices.
+
+cacm december, 1967
+
+charmonman, s.
+
+ca671207 
+************************
+
+
+charmonman, s.
+
+ca671207 jb february 26, 1978 
+************************
+207 jb february 26, 1978  2:22 pm
+
+1501	5	1501
+
+************************
+978  2:22 pm
+
+1501	5	1501
+
+************************
+
+************************
+Document:  CACM-1782.html
+************************
+
+
+a numerical integration formula useful in fourier analysis
+
+a numerical integration formula is presented which
+uses unequal sampling intervals.  the intervals 
+are equally spaced on a log scale.  such a formulation
+is useful in fourier analysis to improve accuracy 
+and ease of usage.  a complete set of formulas
+for numerical fourier analysis is given.
+
+cacm january, 1968
+
+meisel, w. s.
+
+numerical integration, fourier analysis, integration
+
+5.16
+
+ca680112 jb february 23, 1978  2:05 pm
+
+1782	5	1782
+
+************************
+8  2:05 pm
+
+1782	5	1782
+1782	5	1782
+
+************************
+82	5	1782
+1782	5	1782
+1782	5	1782
+
+************************
+82
+1782	5	1782
+1782	5	1782
+
+************************
+82	5	1782
+1782	5	1782
+
+
+************************
+82
+1782	5	1782
+
+
+************************
+82	5	1782
+
+
+************************
+
+************************
+Document:  CACM-1672.html
+************************
+
+
+practical error coefficients in the integration
+of periodic analytic functions by the trapezoidal 
+rule
+
+theoretical and practical values of error coefficients
+useful in bounding the error in integrating 
+periodic analytic functions with the trapezoidal rule
+are tabulated for various ranges of the parameters.
+
+cacm november, 1968
+
+rabinowitz, p.
+
+theoretical error coefficients, practical error coefficients,
+numerical integration, periodic 
+************************
+ integration, periodic analytic 
+functions, trapezoidal rule, roundoff error,
+truncation error, integration algorithm
+
+5.11 5.16
+
+ca681107 jb february 21, 1978  2:45 pm
+
+1672	4	1672
+1672	5	1672
+
+************************
+5 pm
+
+1672	4	1672
+1672	5	1672
+
+************************
+2	4	1672
+1672	5	1672
+1672	5	1672
+
+************************
+672
+1672	5	1672
+1672	5	1672
+1672	5	1672
+1784	5	1672
+
+
+************************
+	5	1672
+
+
+************************
+

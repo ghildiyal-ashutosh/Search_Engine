@@ -1,0 +1,2757 @@
+Snippets for the query:  Q26
+************************
+Total Hits:  161
+************************
+
+************************
+Document:  CACM-2622.html
+************************
+
+
+a user authentication scheme not requiring secrecy in the computer
+
+in many computer operating systems a user authenticates
+
+************************
+ a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  the system compares
+this password with one recorded in a password 
+table which is available to only the authentication
+program.  the integrity of the system depends on 
+keeping the table secret.  in this paper a password
+scheme is presented which does not require secrecy 
+in the computer.    all aspects of the system, including
+all relevant code and data bases, may be known 
+by anyone attempting to intrude.  the scheme is based
+on using a function h which the would-be intruder 
+is unable to invert.  this function is applied to the
+user's password and the result compared to a table 
+entry, a match being interpreted as authentication of
+the user.  the intruder may know all about h and 
+have access to the table, but he can penetrate the system
+only if he can invert h to determine an input 
+that produces a given output.  this paper discusses
+issues surrounding selection of a suitable h.  two 
+different plausible arguments are given that penetration
+would be exceedingly difficult, and it is then 
+argued that more rigorous results are unlikely.  finally,
+some human engineering problems relating to 
+the scheme are discussed.
+
+cacm august, 1974
+
+evans, a. jr.
+kantrowitz, w.
+weiss, e.
+
+operating system security, security, 
+************************
+
+************************
+Document:  CACM-1901.html
+************************
+
+
+dynamic space-sharing in computer systems
+
+a formalization of relationships between space-shading
+program behavior, and processor efficiency 
+in computer systems is presented.  concepts of value and
+cost of space allocation per task are defined 
+and then value and cost are combined to develop a single
+parameter termed value per unit cost.  the intent 
+is to illustrate a possible analytic approach to the
+investigation of the problems of space-sharing and 
+to demonstrate the method on sample problems.
+
+cacm may, 1969
+
+belady, l. a.
+kuehner, c. j.
+
+space-sharing, storage allocation, memory allocation,
+storage management, memory management, 
+************************
+, memory management, program 
+behavior, 
+************************
+
+************************
+Document:  CACM-2181.html
+************************
+
+
+the state of computer oriented curricula in business schools 1970
+
+the acm committee on computer education for management,
+supported by a national science foundation 
+grant, is established to appraise the state of the art
+and to develop a series of recommendations for 
+improving computer education for management.  to provide
+the committee with material for its study of 
+curricular needs, five regional meetings in the united
+states were held in 1970, at each of which a broad 
+cross section of invited academicians and practitioners
+considered the state of curricula in business 
+schools.  three topics were covered: curricula for
+the general manager; computer-related material in 
+required and functional courses; and curricula for students
+concentrating on computer-based information 
+systems.  an analysis of the 
+************************
+
+************************
+Document:  CACM-2668.html
+************************
+
+
+computation of page fault probability from program transition diagram
+
+an algorithm is given for calculating page fault
+probability in a virtual memory system operating 
+under demand paging 
+************************
+
+************************
+Document:  CACM-2379.html
+************************
+
+
+the design of the venus operating system
+
+the venus operating system is an experimental
+multiprogramming system which supports five or 
+six concurrent users on a small computer.  the system was
+produced to test the effect of machine architecture 
+on complexity of software.  the system is defined by
+a combination of microprograms and software.  the 
+microprogram defines a machine with some unusual architectural
+feature; the software exploits these features 
+to define the operating system as simply as possible.
+ in this paper the development of the system is 
+described, with particular emphasis on the principles which guided the design.
+
+cacm march, 1972
+
+liskov, b. h.
+
+operating systems, system design, levels 
+************************
+
+************************
+Document:  CACM-1750.html
+************************
+
+
+considerations in the design of a multiple
+computer system with extended core storage
+
+the use of large quantities of addressable
+(but not executable) fast random access memory to 
+heighten the multiprogramming performance of a multicomputer system
+is discussed.  the general design 
+of the hardware arrangement and the software components
+and functions of such a system are based on a 
+planned configuration of dual cdc 6600's that share one
+million words of extended core storage.  in the 
+generalization of such a design, special emphasis is
+placed on estimating expected gains when compared 
+with the traditional configuration of separate and independent
+computers without extended core storage. 
+ an observation is made on the use of conventional, slower
+speed, random access storage devices in place 
+of the faster memory.
+
+cacm may, 1968
+
+fuchel, k.
+heller, s.
+
+multiple computer systems, extended core storage,
+multiprogrammed operating systems, multiprocessor 
+************************
+ systems, multiprocessor 
+operating systems, control data 
+************************
+ systems, control data corporation 6600, operating system with ecs
+
+4.30 
+************************
+
+************************
+Document:  CACM-2319.html
+************************
+
+
+operating system performance
+
+an overview of the current and future positions
+with respect to operating system performance 
+is given.  while a great deal of information and a large
+number of models for subsystems have been developed, 
+gaps still exist in out knowledge.  because of the
+severe interactions between the various subsystems 
+of an operating system, an overall model of the total
+system must be developed to be able to analyze 
+and design the performance aspects of an operating system
+although such total system designs are exceptional 
+today, it is projected that they will become increasingly
+more common and necessary in the near future. 
+ such a design philosophy will clearly have a severe impact
+on the way we go about modularizing operating 
+and computer systems.
+
+cacm july, 1972
+
+lynch, w. c.
+
+computer system, operating system, performance
+evaluation, performance measurement, measurement, 
+techniques, modularity, layering, structured programming,
+paging, virtual memory, input/output, disk 
+************************
+
+************************
+Document:  CACM-0084.html
+************************
+
+
+survey of progress and trend of development
+and use of automatic data processing in business
+and management control systems of the federal government,
+
+************************
+
+************************
+Document:  CACM-2852.html
+************************
+
+
+the technology of computer center management: a
+proposed course for graduate professional programs 
+in computer science or in information systems
+
+mcfarlan and nolan 
+************************
+
+
+mcfarlan and nolan have made a strong case for
+adding a course on information systems administration 
+to the 13 courses proposed by the acm curriculum committee
+on computer education for management for graduate 
+professional 
+************************
+ for graduate 
+professional programs in information systems.  this paper
+is a report on a course entitled, "the technology 
+of computer center management," which has been offered
+
+************************
+," which has been offered
+at purdue for the past four years.  the course 
+is suitable either for graduate professional programs
+in information systems or for graduate professional 
+programs in computer science.
+
+cacm july, 1976
+
+conte, s. d.
+halstead, m. h.
+
+education, information systems administration, computer
+center management, computer system performance
+
+************************
+
+************************
+Document:  CACM-1698.html
+************************
+
+
+a statistical model for console behavior in multiuser computers
+
+the ability of a computer system to communicate
+with the outside world efficiently is as important 
+as its ability to perform computations efficiently. 
+it is quite difficult to characterize a particular 
+user, but rather easy to characterize the entire user community.
+ based on the properties of this community 
+we have postulated a hypothetical "virtual console."
+ no claim is made that a virtual console behaves 
+like any actual console, but the entire collection of
+virtual consoles models the collection of actual 
+consoles.  using the model we answer questions like: 
+how many processes are suspended waiting for console 
+input?  what is the maximum rate at which a process can
+execute?  what bounds can be set on overall buffer 
+requirements?  answers to these and similar questions
+are needed in certain aspects of operating system 
+design.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2372.html
+************************
+
+
+on the implementation of security measures in information systems
+
+the security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and column indices are
+users and data items respectively.  a set of four 
+functions is used to access this matrix at translation
+and execution time.  distinguishing between data 
+dependent and data independent decision rules enables
+one to perform much of the checking of security 
+only once at translation time rather than repeatedly
+at execution time.  the model is used to explain 
+security features of several existing systems, and serves
+as a framework for a proposal for general security 
+system implementation within today's languages and operating systems.
+
+cacm april, 1972
+
+conway, r. w.
+maxwell, w. l.
+morgan, h. l.
+
+security, privacy, access control confidentiality,
+operating systems, access management, data banks, 
+management 
+************************
+, data banks, 
+management information systems
+
+3.50 3.73 4.12 4.22 
+************************
+
+************************
+Document:  CACM-2481.html
+************************
+
+
+the distribution of a program in primary and fast buffer storage
+
+a virtual memory computer system with a fast
+buffer (cache) memory between primary memory and 
+the central processing unit is considered.  the optimal
+distribution of a program between the buffer 
+and primary memory is studied using the program's lifetime
+function.  expressions for the distribution 
+of a program which maximizes the useful fraction of
+the cost-time integral of primary and fast buffer 
+storage are obtained for swapping and nonswapping buffer management policies.
+
+cacm july 
+************************
+
+************************
+Document:  CACM-2859.html
+************************
+
+
+interference in multiprocessor computer systems with interleaved memory
+
+this paper analyzes 
+************************
+
+
+this paper analyzes the memory interference
+caused by several processors simultaneously using 
+several memory modules.  exect results are computed for
+a simple model of such a system.   the limiting 
+value is derived for the relative degree of memory interference
+as the system size increases.  the model 
+of the limiting behavior of the system yields approximate
+results for the simple model and also suggests 
+that the results are valid for a much larger class of models,
+including those more nearly like real systems 
+that the simple model 
+************************
+ 
+that the simple model are tested against some measurements
+of program behavior and simulations of systems 
+using memory references from real 
+************************
+
+************************
+Document:  CACM-1912.html
+************************
+
+
+simulation of outpatient appointment systems
+
+an experimental computer program is described
+which simulates appointment systems employed 
+by outpatient departments of hospitals.  both major kinds
+of appointment systems-individual and block-can 
+be simulated.  the purpose of the simulator is to enable
+the user to evaluate the effectiveness of alternative 
+appointment systems in a given clinical environment.
+
+cacm april, 1969
+
+katz, j. h.
+
+simulation, scheduling, appointment system, outpatient
+department, medicine, health, management
+science, operations 
+************************
+
+************************
+Document:  CACM-1409.html
+************************
+
+
+nebula: a digital computer using a 20 mc glass delay line memory
+
+oregon state university has designed and constructed
+a medium-speed serial digital computer 
+using glass delay lines circulating at 22 mc as memory.
+ the design objectives as originally conceived 
+in a special seminar were: (1) to be a research project
+in computer design; (2) to be usable as an educational 
+machine;and (3) to have easily modifiable hardware for
+basic research in computer systems design.  an 
+unusual 
+************************
+
+************************
+Document:  CACM-3177.html
+************************
+
+
+how to share a secret
+
+in this paper we show how to divide data d into
+n pieces in such a way that d is easily reconstructable from any
+k pieces, but even complete knowledge of k - 1 pieces reveals
+olutely no information about d.  this technique enables the construction
+of robust key management schemes for cryptographic systems
+that can function securely 
+************************
+
+************************
+Document:  CACM-1267.html
+************************
+
+
+performance of systems used for data transmission
+transfer rate of information bits -an asa tutorial 
+standard
+
+information thruput as a characteristic of
+systems performance is discussed.  this discussion 
+includes the pertinent aspects of information transfer,
+
+************************
+
+************************
+Document:  CACM-2308.html
+************************
+
+
+computers and urban society
+
+this brief survey of the use of computers in
+urban society covers the broad range of activities 
+found in any city.  the future scope of applications is
+limited only by the imagination and inventiveness 
+of future system designers, programmers, analysts, and
+decision makers.  the computer can be, if properly 
+used, with respect for human dignity and civil liberty,
+a significant factor in improving the efficiency 
+of the urban process.  it is expected that the benefits
+of such computer usage will outweigh the costs 
+and that we may look forward to an expansion of such usage.
+
+cacm july, 1972
+
+sturman, g. m.
+
+urban systems, urban applications, data acquisition,
+data management, engineering analysis, 
+************************
+
+************************
+Document:  CACM-1226.html
+************************
+
+
+the organization of structured files
+
+a data file is an integral part of a data processing
+system.  in many systems, the selection 
+of an organization for the data within the file can
+be critical to the system's operating efficiency. 
+ this paper 
+************************
+
+************************
+Document:  CACM-2500.html
+************************
+
+
+a practical approach to managing resources and avoiding deadlocks
+
+resource scheduling and allocation can be expensive
+with regard to time and space in multiprogramming 
+or time-sharing environments involving large numbers of
+tasks and resources with conflicting requirements. 
+ detection and/or prevention of deadlocks can require
+massive amounts of additional overhead if efficient 
+usage of resources is to be maintained.  a resource
+management program is described which uses linked 
+lists along with other techniques to overcome a large
+portion of this overhead.  the program, which is 
+currently running as part of a large scale general purpose
+operating system, keeps resources 
+************************
+
+************************
+Document:  CACM-3092.html
+************************
+
+
+characteristics of application software maintenance
+
+maintenance and enhancement of application
+software consume a major portion of the total life 
+cycle cost of a system.  rough estimates of the total
+systems and programming resources consumed range 
+as high as 75-80 percent in each category.  however,
+the area has been given little attention in the 
+literature.  to analyze the problems in this area a
+questionnaire was developed and pretested.  it was 
+then submitted to 120 organizations.  respondents totaled
+69.  responses were analyzed with the spss 
+statistical package.  the results of the analysis indicate
+that: (1) maintenance and enhancement do consume 
+much of the total resources of systems and programming
+groups; (2) maintenance and enhancement tend to 
+be viewed by management as at least somewhat 
+************************
+
+************************
+Document:  CACM-2479.html
+************************
+
+
+curriculum recommendations for graduate professional
+programs in information systems: recommended 
+addendum on information systems administration
+
+an addendum to the report of the acm curriculum
+committee on computer education for management 
+is proposed. the proposed 
+************************
+ 
+is proposed. the proposed addendum is to include in the curriculum
+a course on information systems administration. 
+it is important for two reasons: (1) the systems designer
+must understand the administrative framework 
+in which he must operate to work effectively, and (2) an
+important objective of the curriculum recommendations 
+is to prepare the future manager of the computer activity.
+ it is felt that the importance of these two 
+reasons justifies the addition of the recommended course.
+ the course is outlined in the format of the 
+original report.
+
+cacm july, 1973
+
+mcfarlan, f. w.
+nolan, r. l.
+
+education, management information systems, 
+************************
+ information systems, information
+systems administration, information systems 
+management, computer management
+
+************************
+
+************************
+Document:  CACM-3028.html
+************************
+
+
+the manchester mark i and atlas: a his torical perspective
+
+in 30 years of computer design at manchester university
+two systems stand out: the mark i (developed 
+over the period 1946-49) and the atlas (1955-62). 
+this paper places each computer in its his torical 
+context and then describes the architecture and system
+software in present-day terminology.  several 
+design concepts such as address-generation and store
+management have evolved in the progression from 
+mark i to atlas.  the wider impact of manchester innovations
+in these and other areas is discussed, and 
+the contemporary performance of the mark i and atlas is evaluated.
+
+cacm january, 1978
+
+lavington, s.
+
+architecture, index registers, paging, virtual
+storage, extra codes, compilers, operating systems, 
+ferranti, 
+************************
+
+************************
+Document:  CACM-2867.html
+************************
+
+
+modularization and hierarchy in a family of operating systems
+
+this paper describes 
+************************
+
+
+this paper describes the design philosophy
+used in the construction of a family of operating 
+systems. it is shown that the 
+************************
+
+************************
+Document:  CACM-2424.html
+************************
+
+
+dynamic verification of operating system decisions
+
+dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and software.  the dynamic verification 
+of operating system decisions is used on the prime system
+being designed and constructed at the university 
+of california, berkeley.  prime is an experimental time-sharing
+which is to have the properties of continuous 
+availability, data privacy, and cost effectiveness.
+ the technique of dynamic verification allows the 
+construction of an operating system which does not make certain
+decisions improperly even in the presence 
+of a single hardware or software fault.  furthermore,
+multiple faults lead to unreliable operation only 
+if the faults happen to reinforce each other.  on prime,
+dynamic verification is used to ensure that 
+one user's information cannot become available to another
+user gratuitously even in the presence of a 
+single hardware or software fault.the amount of additional
+hardware and software required for dynamic 
+verification can be modest.
+
+cacm november, 1973
+
+fabry, r. s.
+
+operating systems, data security, fault 
+************************
+
+************************
+Document:  CACM-0322.html
+************************
+
+
+operational compatibility of systems-conventions
+
+the general standards committee of the share
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently 
+************************
+
+************************
+Document:  CACM-2502.html
+************************
+
+
+a comment on the practical aspects of computer science education
+
+cacm may, 1973
+
+estell, r. g.
+
+education, computer engineering, computer
+sciences curriculum, systems design
+
+1.52 6.0
+
+ca730518 
+************************
+
+************************
+Document:  CACM-2689.html
+************************
+
+
+a crt report generating system
+
+cacm january, 1974
+
+lucas, h. c. jr.
+
+report generation, automated systems design, data processing, management
+
+3.50 4.12 4.22
+
+ca740110 
+************************
+
+************************
+Document:  CACM-1924.html
+************************
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations 
+************************
+
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous savings in the number of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  examination of addition,
+multiplication, and inversion algorithms shows 
+that a partitioned matrix representation (i.e. one submatrix
+or partition per page) in most cases induced 
+fewer page faults than a row-by-row representation.
+ the number of page-pulls required by these matrix 
+manipulation algorithms is also studied as a function
+of the number of pages of main memory available 
+to the algorithm.
+
+cacm march, 1969
+
+mckellar, a. c.
+coffman jr., e. g.
+
+matrix algorithms, array processing, paging algorithms,
+paged memory systems, virtual memory systems, 
+************************
+, virtual memory systems, 
+array storage allocation, 
+************************
+
+************************
+Document:  CACM-1627.html
+************************
+
+
+application of level changing to a multilevel storage organization
+
+a technique for organizing the devices of a computer
+storage system is described.  this technique, 
+called the multilevel store, provides a means for economically
+satisfying the requirements for very large 
+storage capacities of certain data management and information
+retrieval systems.  the concept of level 
+************************
+
+************************
+Document:  CACM-1677.html
+************************
+
+
+storage organization in programming systems
+
+the system of program and data representation
+that has been in use on the rice university computer 
+for five years is described.  each logical entity in storage
+occupies a block of consecutive memory locations. 
+ each block 
+************************
+ locations. 
+ each block is labeled by a codeword and may contain
+a program, a data vector, or codewords which in 
+turn label blocks to form arrays.  this storage arrangement
+is discussed with its realized advantages 
+or programming systems: simplicity of programmed addressing,
+flexibility of data structures, efficiency 
+of memory utilization, variability 
+************************
+
+************************
+Document:  CACM-0320.html
+************************
+
+
+logic-structure tables
+
+logic tables are an excellent way of developing
+and expressing the logic required in procedures, 
+operations, systems and circuits.  a set of rules for
+writing and using logic tables is explained by 
+means of some simple examples.  then the logic structure
+of a vending machine is given in which two logic 
+tables are used.  logic tables are two-dimensional in
+nature, enabling us to fully express and consider 
+both the sequential and parallel aspects of logic.  they
+can 
+************************
+
+************************
+Document:  CACM-0086.html
+************************
+
+
+survey of progress and trend of development
+and use of automatic data processing in business 
+and management control systems of the federal government, 
+************************
+
+************************
+Document:  CACM-2818.html
+************************
+
+
+interference in multiprocessor computer
+systems with interleaved memory (corrigendum)
+
+cacm 
+************************
+
+************************
+Document:  CACM-2582.html
+************************
+
+
+improving locality by critical working sets
+
+a new approach to program locality improvement
+via restructuring is described.  the method 
+is particularly suited to those systems where primary memory
+is managed according 
+************************
+
+is managed according to a working set strategy. 
+ it is based on the concept of critical working set, a
+working set which does not contain the next memory 
+reference.  the data the method operates upon are extracted from
+a trace of the program to be restructured. 
+ it is shown that, except in some special cases, the
+method is not optimum.  however, the experimental 
+results obtained by using the method to restructure an
+interactive text editor and the file system module 
+of an operating system have shown its 
+************************
+
+************************
+Document:  CACM-2358.html
+************************
+
+
+the multics virtual memory: concepts and design
+
+as experience with use of on-line operating
+systems has grown, the need 
+************************
+ has grown, the need to share information 
+among system users has become increasingly apparent.
+ many contemporary systems permit some degree of 
+sharing.  usually, sharing is accomplished by allowing
+several users to share data via input and output 
+of information stored in files kept in secondary storage.
+ through the use of segmentation, however, 
+multics provides direct hardware addressing by user and
+system programs of all information, independent 
+of its physical storage location.  information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege.  here, the design and implementation 
+considerations of segmentation and sharing in multics
+are first discussed under the assumption that all 
+information resides in large, segmented main memory. 
+since the size of main memory on contemporary systems 
+is rather limited, it is then shown how the multics
+software achieves the effect of a large segmented 
+main memory through the use of the honeywell
+645 segmentation and paging hardware.
+
+cacm may, 1972
+
+bensoussan, a.
+clingen, c. t.
+daley, r. c.
+
+operating system, multics, virtual memory, segmentation,
+information sharing, paging, memory management, 
+memory hierarchy
+
+
+************************
+
+************************
+Document:  CACM-3067.html
+************************
+
+
+generalized working sets for segment reference strings
+
+the working-set concept is extended for programs
+that reference segments of different sizes. 
+ the generalized working-set policy (gws) keeps as its
+resident set those segments whose retention costs 
+do not exceed their retrieval costs.  the gws is a model
+for the entire class of demand-fetching memory 
+policies that satisfy a resident-set inclusion property.
+ a generalized optimal policy (gopt) is also 
+defined; at its operating points it minimizes aggregated
+retention and swapping costs.  special cases 
+of the cost structure allow gws and gopt to simulate
+any known stack algorithm, the working set, and 
+vmin.  efficient procedures for computing demand curves
+showing swapping load as a function of memory 
+usage are developed for gws and gopt policies.  empirical
+data from an actual system are included.
+
+cacm september, 1978
+
+denning, p.
+slutz, d.
+
+database referencing, memory management, optimal
+memory policies, 
+************************
+
+************************
+Document:  CACM-3006.html
+************************
+
+
+anomalies with variable partition paging algorithms
+
+five types of anomalous behavior which may
+occur in paged virtual memory operating systems 
+a redefined.  one type 
+************************
+ 
+a redefined.  one type of anomaly, for example, concerns
+the fact that, with certain reference strings 
+and paging algorithms, an increase in mean memory allocation
+may result in an increase in fault rate. 
+ two paging algorithms, are examined in terms of their
+anomaly potential, and reference string examples 
+of various anomalies are presented.  two paging algorithm
+properties, the inclusion property and the 
+generalized inclusion property, are discussed and the
+anomaly implications of these properties presented.
+
+cacm march, 1978
+
+franklin, m.
+graham, g.
+gupta, r.
+
+anomaly, memory management, program behavior, stack
+
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are 
+************************
+
+************************
+Document:  CACM-1236.html
+************************
+
+
+the smart automatic document retrieval system-an illustration
+
+a fully automatic document retrieval system
+operating on the ibm 7094 is described.  the system 
+is characterized by the fact that several hundred different
+methods are available to analyze documents 
+and search requests.  this feature is used in the retrieval
+process by leaving the exact sequence of 
+operations initially unspecified, and adapting the
+search strategy to the needs of individual users. 
+ the system is used not only to simulate an actual operating
+environment, but also to test the effectiveness 
+of the various available processing methods.  results obtained
+so far seem to indicate that some combination 
+of analysis procedures can in general be relied upon to
+retrieve the wanted information.  a typical search 
+request is used as an example in the present report to illustrate
+systems operations and evaluation 
+************************
+
+************************
+Document:  CACM-2311.html
+************************
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  for each generation,
+the scope of development projects and the 
+technological world view of the system developer are examined.
+
+cacm july, 1972
+
+benjamin, r. i.
+
+computing milieu, management data processing, hardware
+systems, software systems, systems 
+************************
+, software systems, systems development 
+process, functional systems, management systems
+
+2.0 3.50 4.0 
+************************
+
+************************
+Document:  CACM-2374.html
+************************
+
+
+a study of storage partitioning using a mathematical model of locality
+
+both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  the storage requirement of programs is modeled
+as a stationary gaussian process.  experiments 
+justifying this model are described.  by means of this
+model dynamic storage partitioning is shown to 
+provide substantial increases in storage utilization
+and operating efficiency over fixed partitioning. 
+
+cacm march, 1972
+
+coffman jr., e. g.
+ryan jr., t. a.
+
+storage partitioning, memory management, dynamic
+storage allocation, 
+************************
+
+************************
+Document:  CACM-3050.html
+************************
+
+
+systems design education: a gaming approach
+
+one of the problems facing managers of computer
+installations is the problem of configuring 
+the computer system to meet the demands made by the
+mix of jobs that the computer center must service. 
+ this paper presents a management game that allows
+the 
+************************
+ game that allows
+the player to configure a computer system to meet 
+a hypothetical job mix is under the control of a game administrator
+and can be varied to simulate a variety 
+of real-world situations (i/o bound jobs, compute bound
+jobs, etc.).  the player of the game receives 
+a set of detailed reports on the cost of his choices
+and a simulated run of the center operating under 
+his choices. 
+
+cacm november, 1978
+
+lyons, n.
+
+system design, configuration, management game
+
+2.43 2.44
+
+ca781101 
+************************
+
+************************
+Document:  CACM-1680.html
+************************
+
+
+a general-purpose display processing and tutorial system
+
+adept (a display-expedited processing and tutorial)
+system is described.  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  it is written in fortran 
+iv (g) for the ibm system/360, model 40, and the ibm 2250
+display unit under operating system/360.  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  illustrations of the various
+applications are presented and their implications 
+are discussed.
+
+cacm october, 1968
+
+engvold, k. j.
+hughes, j. l.
+
+computer-assisted instruction, tutorial systems,
+programming, simulation, 
+************************
+,
+programming, simulation, modeling, information 
+retrieval operating systems, graphics, displays, 
+************************
+
+************************
+Document:  CACM-2669.html
+************************
+
+
+a simple linear model of demand paging performance
+
+predicting the performance of a proposed automatically
+managed multilevel memory system requires 
+a model of the patterns by which programs refer to the
+information stored in the memory.  some recent 
+experimental measurements on the multics virtual memory
+suggest that, for rough approximations, a remarkably 
+simple program reference model will suffice.  the simple
+model combines the effect of the information 
+reference pattern with the effect of the automatic management
+algorithm to produce a single, composite 
+statement: the mean number of memory references between
+paging exceptions increases linearly with the 
+size of the paging memory.  the resulting model is easy
+to manipulate, and is applicable to such diverse 
+problems as choosing an optimum size for a paging memory,
+arranging for reproducible memory usage charges, 
+and estimating the amount of core memory sharing.
+
+cacm april, 1974
+
+saltzer, j. h.
+
+paging, demand paging, memory models, program models,
+performance measurement, multilevel memory 
+systems, virtual memory, associative 
+************************
+
+************************
+Document:  CACM-0417.html
+************************
+
+
+legal implications of computer use
+
+this paper points out a variety of ways computer
+systems used in business and industry can 
+be involved in legal entanglements and suggests that
+computer specialists have a responsibility to call 
+for assistance in forestalling or minimizing those entanglements
+during the planning stage.  techniques 
+are suggested for making legal clearance effective with
+the least burden on the new technology and for 
+achieving a favorable legal climate for it generally.
+ computer specialists also are alerted to potential 
+opportunities to interpret to lawyers the technical aspects
+of computer systems 
+************************
+
+************************
+Document:  CACM-1541.html
+************************
+
+
+a language for modeling and simulating dynamic systems
+
+the general objective of this language is
+to facilitate both the modeling and experimental 
+aspects of simulation studies. 
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, as well
+as in advanced 
+************************
+, as well
+as in advanced data management systems and distributed 
+data 
+************************
+ and distributed 
+data bases.  this paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data.  applications of these
+"generalized" data definition languages are also 
+discussed.
+
+cacm december, 1973
+
+sibley, e. h.
+taylor, r. w.
+
+data definition language, data and storage structure,
+data translation, data base management systems, 
+file translation
+
+
+************************
+
+************************
+Document:  CACM-2583.html
+************************
+
+
+guidelines for humanizing computerized information
+systems: a report from stanley house
+
+cacm november, 1974
+
+sterling, t. d.
+
+humanization, social implication, management, information
+systems, 
+************************
+
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven 
+************************
+.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, priority,
+operating systems,processor sharing, implementation 
+************************
+
+************************
+Document:  CACM-3026.html
+************************
+
+
+the evolution of the sperry univac 1100
+series: a his tory, analysis, and projection
+
+the 1100 series systems are sperry univac's
+large-scale main frame computer systems.  beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the latest system, the 1100/80, introduced
+in 1977.  the 1100 series hardware architecture 
+is based on a 36-bit word, ones complement structure
+which obtains one operand from storage and one from 
+a high-speed register, or two operands from high-speed
+registers.  the 1100 operating system is designed 
+to support a symmetrical multiprocessor configuration
+simultaneously providing multiprogrammed batch, 
+timesharing, and transaction environments.
+
+cacm january, 1978
+
+borgherson, b.
+hanson, m.
+hartley, p.
+
+1100 computer series, computer architecture, multiprocessing
+languages, data management systems, 
+end user facilities, 
+************************
+
+************************
+Document:  CACM-1892.html
+************************
+
+
+degree of multiprogramming in page-on-demand systems
+
+a simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to share memory
+(the degree of multiprogramming), drum traffic 
+rates, and central processing unit utilization in page-on-demand,
+multiprogrammed, time-shared computer 
+systems.  the model preserves, as a key feature, the
+property of page-demand statistics which implies 
+a "burst" of page demands at the beginning of any job
+or quantum execution.  the model, a markov chain, 
+is analyzed numerically and the results are presented graphically
+for a wide range of key environment-descriptive 
+parameters.  implications of the results to time-shared
+system design and programming are discussed, 
+and a calculation of the optimal degree of multiprogramming
+for a wide range of parameters is presented 
+graphically. 
+
+cacm june, 1969
+
+wallace, v. l.
+mason, d. l.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+markovian computer models, scheduling 
+strategies, operating systems, memory management
+
+2.44 4.32 4.39 6.20 
+************************
+
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+4.32 4.35 5.25 
+************************
+
+************************
+Document:  CACM-1708.html
+************************
+
+
+a note on the efficiency of a lisp computation in a paged machine
+
+the problem of the use of two levels of storage
+for programs is explored in the context of 
+a lisp system which uses core memory as a buffer for
+a large virtual memory stored on a drum.  details 
+of timing are given for one particular problem.
+
+cacm august, 1968
+
+borrow, d. g.
+murphy, d. l.
+
+storage management, list processor implementation,
+
+************************
+
+************************
+Document:  CACM-1753.html
+************************
+
+
+virtual memory, processes, and sharing in multics
+
+some basic concepts involved in the design
+of the multics operating system are introduced. 
+ multics concepts of processes, address space, and virtual
+memory are defined and the use of paging and 
+segmentation is explained.  the means by which users
+may share procedures and data is discussed and the 
+mechanism by which symbolic references are dynamically
+transformed into virtual machine addresses is 
+described in detail.
+
+cacm may, 1968
+
+daley, r. c.
+dennis, j. b.
+
+virtual memory, information sharing, shared procedures,
+data sharing, dynamic linking, segmentation, 
+paging, multiprogramming, storage management,
+storage hierarchies, 
+************************
+
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory under the leap language and data
+structure,  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  the major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.
+
+cacm may, 1977
+
+stillman, n. j.
+berra, p. b.
+
+associative memory, associative processor, content-addressable
+memory, graphics, information retrieval, 
+data structures, software evaluation, hardware evaluation,
+parallel processing, database management
+
+3.71 3.72 3.73 3.74 
+************************
+
+************************
+Document:  CACM-2624.html
+************************
+
+
+formal requirements for virtualizable third generation architectures
+
+virtual machine systems have been implemented
+on a limited number of third generation computer 
+systems, e.g. cp-67 on the ibm 360/67.  from previous
+empirical studies, it is known that certain third 
+generation computer systems, e.g. the dec pdp-10, cannot
+support a virtual machine system.  in this paper, 
+model of a third-generation-like computer system is
+developed.  formal techniques are used to derive 
+precise sufficient conditions to test whether such
+an architecture can support virtual machines.
+
+cacm july, 1974
+
+popek, g. j.
+goldberg, r. p.
+
+operating system, third generation architecture,
+sensitive instruction, formal requirements, abstract 
+model, proof, virtual machine, virtual memory,
+hypervisor, virtual 
+************************
+
+************************
+Document:  CACM-2864.html
+************************
+
+
+characteristics of program localities
+
+the term "locality" has been used to denote that
+subset of a program's segments which are referenced 
+during a particular phase of its execution.  a program's
+behavior can be characterized in terms of its 
+residence in localities of various sizes and lifetimes,
+and the transitions between these localities. 
+ in this paper the concept of a locality is made more explicit
+through a formal definition of what constitutes 
+a phase of localized reference behavior, and by a corresponding
+mechanism for the detection of localities 
+in actual reference strings.  this definition provides
+for the existence of a hierarchy of localities 
+at any given time, and the reasonableness of the definition
+is supported by examples taken from actual 
+programs.  empirical data from a sample of production
+algol 60 programs is used to display distributions 
+of locality sizes and lifetimes, and these results are
+discussed in terms of their implications for the 
+modeling of program behavior and memory management in virtual memory systems.
+
+cacm may, 1976
+
+madison, 
+************************
+.
+
+cacm may, 1976
+
+madison, a. w.
+batson, a. p.
+
+program behavior, memory management, locality
+
+4.22 4.35 
+************************
+
+************************
+Document:  CACM-0855.html
+************************
+
+
+organization and structure of dataon disk file
+memory systems for efficient sorting 
+************************
+ for efficient sorting and other 
+data processing programs
+
+an approach to the organization and structure
+of data on bryant disc file memory systems for 
+sorting and performing 
+************************
+
+************************
+Document:  CACM-2297.html
+************************
+
+
+a model of memory contention in a paging machine
+
+this paper is concerned with certain aspects of contention
+for main memory resources in a multiprogrammed 
+computer system operating under demand paging.  in
+the model presented, the number of page-frames of 
+main memory allocated to a problem program varies in
+time.  these changes in memory configuration are 
+represented explicitly in the model, cpu requirements and
+page exception characteristics of program material 
+being described statistically.  expressions for the distribution
+of the number of page-frames allocated 
+to an executing program, the long run expected fraction
+of a program's execution time in a given number 
+of page-frames, and the average execution interval of the
+multiprogrammed load are obtained.  it is pointed 
+out heuristically and demonstrated numerically that
+an increase is obtain able in the average execution 
+interval of the multiprogrammed load over that resulting
+from equal fixed partitioning of main memory.
+
+cacm august, 1972
+
+oden, p. h.
+shedler, g. s.
+
+paging machines, demand paging, operating systems
+studies, queuing analysis, memory contention, 
+memory management
+
+4.32
+
+ca720805 jb january 
+************************
+
+************************
+Document:  CACM-2988.html
+************************
+
+
+memory management and response time
+
+this 
+************************
+ and response time
+
+this paper presents a computationally tractable
+methodology for including accurately the effects 
+of finite memory size and workload memory requirements
+in queueing network models of computer systems. 
+ empirical analyses 
+************************
+. 
+ empirical analyses and analytic studies based on applying
+this methodology to an actual multiaccess 
+in teractive system are reported.  relations between workload
+variables such as memory requirement distribution 
+and job swap time, and performance measures such as response
+time and memory utilization are graphically 
+displayed. a multiphase, analytically soluble model is
+proposed as being broadly applicable to the analysis 
+of in teractive computer systems which use nonpaged memories.
+
+cacm march, 1977
+
+brown, r. m.
+browne, j. c.
+chandy, k. m.
+
+memory management, system performance, 
+************************
+
+************************
+Document:  CACM-1959.html
+************************
+
+
+an interrupt based organization for management information systems
+
+a programming structure, 
+************************
+
+
+a programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.  the
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.  an algorithm for resolving
+conflicts which arise in scheduling the interrupt processing routines
+is presented.  dpl, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+************************
+ information systems.
+
+cacm december, 1970
+
+morgan, h. l.
+
+management information systems, 
+************************
+
+************************
+Document:  CACM-1725.html
+************************
+
+
+a simple proof of lewin's ordered-retrieval
+theorem for associative memories
+
+an efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of the memory.  thus the
+circuits indicate whether the individual digit 
+columns contain digits of both values, or of only one
+value, or contain no digits at all (i.e. that the 
+memory is empty).  the use of these circuits, which
+in this paper are termed column value indicators, 
+reduces considerably the number of memory accesses necessary
+to retrieve in order a number of distinct 
+words from the memory.  lewin proves that, for the readout
+by the described method of m distinct binary 
+words, 2m - 1 memory accesses are necessary.  (thus he
+proves that the number of necessary memory accesses 
+of his method, unlike those of other methods, is independent
+of the word length.)  in this paper a very 
+simple proof of this theorem derived from some elementary
+aspects of the structure of 
+************************
+
+************************
+Document:  CACM-2577.html
+************************
+
+
+an on-site data management system application in field archaeology
+
+cacm november, 1974
+
+brown, j. a.
+werner, b.
+
+apl-plus, archaeology, koster prehistoric
+site data management, retrieval systems
+
+3.36 3.70 3.73 3.89
+
+************************
+
+************************
+Document:  CACM-1928.html
+************************
+
+
+exclusive simulation of activity in digital networks
+
+a technique for simulating the detailed logic
+networks of large and active digital systems 
+is described.  essential objectives sought are improved
+ease and economy in model generation, economy 
+in execution time and space, and a facility for handling
+simultaneous activities.  the main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.  the passage of
+time is simulated in a precise, quantitative fashion 
+and systems to be simulated may be combinations of synchronous
+and asynchronous logic.  certain aspects 
+of the techniques described 
+************************
+
+************************
+Document:  CACM-2106.html
+************************
+
+
+computer education in a graduate school of management
+
+several years of experience have led to the belief that the creative
+design and evaluation of management information systems requires
+a thorough 
+************************
+ requires
+a thorough understanding of the related computer technology.  concepts
+such as paging and priority interrupt systems can best be explained at the 
+machine language level.  any machine used for exposition
+should fulfill several criteria.  it should: (1) raise as few
+spurious issues as possible; (2) allow, without undue effort, the
+solution of interesting problems; (3) be capable of exposing all
+outstanding issues of significance, capable of exposing all outstanding
+issues of significance, within the chosen machine; (4) be
+seful for pursuing issues in great depth when appropriate; (5) not
+be committed to the equipment provided by any manufacturer; (6) be able to 
+provide the student with diagnostic aids to a great depth;
+(7) allow the student ready access to the machine; (8) be capable
+of extension to expose new issues as they come along.  we have
+constructed a simulated machine and its associated software which
+meets these criteria.  this system, called the prism system,
+is documented by a primer and a reference manual.
+
+cacm february, 1970
+
+ness, d. n.
+green, r. s.
+martin, w. a.
+moulton, g. a.
+
+education, simulation, machine language,
+management information systems, 
+************************
+
+************************
+Document:  CACM-2345.html
+************************
+
+
+curriculum recommendations for graduate
+professional programs in information systems
+
+the need for education related to information
+systems in organizations is discussed, and a 
+curriculum is proposed for graduate professional programs
+in universities, at the master's level.  material 
+necessary for such programs is identified, and courses
+incorporating it are specified.  detailed course 
+descriptions are presented, program organization discussed,
+and implementation questions considered.
+
+cacm may, 1972
+
+ashenhurst, r. l.
+
+education, management systems, systems analysis,
+
+************************
+ systems, systems analysis,
+management information systems, 
+************************
+
+************************
+Document:  CACM-1810.html
+************************
+
+
+is automatic "folding" of programs efficient enough to displace manual?
+
+the operation of "folding" a program into
+the available memory is discussed.  measurements 
+by brown et al. and by nelson on an automatic folding
+mechanism of simple design, a demand paging unit 
+built at the ibm research center by belady, nelson,
+o'neil, and others, permitting its quality to be 
+compared with that of manual folding, are discussed,
+and it is shown that given some care in use the 
+unit performs satisfactorily under the conditions tested,
+even though it is operating across a memory-to-storage 
+interface with a very large speed difference.  the disadvantages
+of prefolding, which is required when 
+the folding is manual, are examined, and a number of
+the important troubles which beset computing today 
+are shown to arise from, or be aggravated by, this
+source.  it is concluded that a folding mechanism 
+will probably become a normal part of most computing systems.
+
+cacm december, 1969
+
+************************
+
+************************
+Document:  CACM-1456.html
+************************
+
+
+storage and retrieval of aspects of meaning in directed graph structures
+
+an experimental system that uses lisp to make
+a conceptual dictionary is described.  the dictionary 
+associates with each english word the syntactic information,
+definitional material, and references to 
+the contexts in which it has been used to define other words.
+ such relations as class inclusion, possession, 
+and active or passive actions are used as definitional
+material.  the resulting structure serves as a 
+powerful vehicle for research on the logic of question answering.
+ examples of methods of inputting information 
+and answering simple english questions are given.  an
+important conclusion is that, although lisp and 
+other list processing languages are ideally suited for
+producing complex associative structures, they 
+are inadequate vehicles for language processing on any
+large scale-at east until they can use auxiliary 
+memory as a continuous extension 
+************************
+
+************************
+Document:  CACM-2262.html
+************************
+
+
+garbage collection for virtual memory computer systems
+
+in list processing 
+************************
+
+
+in list processing there is typically a growing
+demand for space during program execution. 
+ this paper examines the practical implications of this
+growth within a virtual memory computer system, 
+proposes two new garbage collection techniques for virtual
+memory systems, and compares them with 
+************************
+
+************************
+Document:  CACM-0670.html
+************************
+
+
+some legal implications of the use of computers in the banking business
+
+the introduction of computers in to the banking
+business has a wide variety of legal implications 
+that merit careful attention at this very early stage.
+ the industry is highly regulated by government 
+and, hence, is subject to many statutes and regulations.
+ it also is affected by important common law 
+rules established by courts.  the legal ramifications
+involve not only the mechanization itself, but 
+also the very significant, economically attractive phenomenon
+of off premises processing.  it is essential 
+to identify and provide for many legal aspects right
+now, before systems and practices crystallize, 
+************************
+
+************************
+Document:  CACM-1845.html
+************************
+
+
+loader standardization for overlay programs
+
+the overlay capability is described for four
+of the third generation computer systems: cdc-6000, 
+ge-635, ibm-360, and univac-1108.  a critique of the
+first three systems is based on actual experience 
+with a large overlaid trajectory simulation program;
+a short history and description of this program 
+is presented.  a standardization of minimum capabilities
+for loaders is recommended so that programs 
+which must operate under more than one computer system
+may be easily converted and maintained.  a proposal 
+that overlay software incorporates a memory occupation
+specification 
+************************
+
+************************
+Document:  CACM-2868.html
+************************
+
+
+reflections on an operating system design
+
+the main features of a general purpose multiaccess
+operating system developed for the cdc 6400 
+at berkeley are presented, and its good and bad points are
+discussed as they appear in retrospect.  distinctive 
+features of the design were the use of capabilities
+for protection, and the organization of the system 
+into a sequence of layers, each building on the facilities
+provided by earlier ones and protecting itself 
+from the malfunctions of later ones. there were serious
+problems in maintaining the protection between 
+layers when levels were added to the memory hierarchy;
+these problems 
+************************
+ hierarchy;
+these problems are discussed and a new solution 
+is described.
+
+cacm may, 1976
+
+lampson, b. w.
+sturgis, h. e.
+
+operating system, protection, capabilities,
+layering domains, memory hierarchy, faults
+
+4.35
+
+************************
+
+************************
+Document:  CACM-3000.html
+************************
+
+
+segment sizes and lifetimes in algol 60 programs
+
+the characteristics of the virtual memory requirements
+of a sample of algol 60 programs have 
+been measured.  distributions are presented for thesizes
+of memory requests and for their holding times 
+(lifetimes).  the results are presented in terms of johnston's
+contour model and a simple abstract machine. 
+ they provide new empirical evidence of certain aspects
+of the construction and behavior of real programs, 
+and some of their implications for the design of virtual
+memory systems are presented and discussed.
+
+************************
+
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately 
+************************
+"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+
+************************
+.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base management systems, programming 
+************************
+
+************************
+Document:  CACM-2069.html
+************************
+
+
+comments on a paper by wallace and mason
+
+cacm april, 1970
+
+heess jr., w. f.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+markovian computer models, scheduling strategies,
+operating systems, memory management
+
+2.44 4.32 4.39 6.20 
+************************
+
+************************
+Document:  CACM-1657.html
+************************
+
+
+implementation of the sharer2 time-sharing system
+
+a simple mechanism is described for the execution
+of part of a program with its own memory 
+protection.  this allows such a program to act as a
+suboperating system.  an improved 
+************************
+ system.  an improved version of the 
+sharer time-sharing system using this feature is described.
+
+cacm december, 1968
+
+harrison, m. c.
+
+operating system, memory protection, time-sharing,
+
+************************
+
+************************
+Document:  CACM-3153.html
+************************
+
+
+the control of response times in multi-class
+systems by memory allocations 
+
+the possibility 
+************************
+ allocations 
+
+the possibility of giving different quality of service to jobs of different
+classes by regulating their memory allocation is examined in
+the context of a paged computer system.  two parameterized algorithms
+which partition the main memory between two classes of jobs are
+considered.  initially, a closed system consisting of a process
+or and paging and file devices, with fixed numbers of jobs, is studied
+to determine optimal degrees of multiprogramming and the proportion
+of processor time devoted to each class.  applying a decomposition
+approach and treating the closed system as a single server,
+the response times in an open system with external arrivals are
+studied.  the object is to investigate the effect of the memory
+alocation parameters on the expected response times under the two algorithms.
+numerical solutions and economical lower bounds for the
+expected response times as functions of the control parameters
+are obtained.  a way of applying the results to systems with more
+than two job 
+************************
+
+************************
+Document:  CACM-3127.html
+************************
+
+
+thoth, a portable real-time operating system 
+
+thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  it is currently running on two minicomputers
+with quite different architectures.  both the system and application
+programs which use it are written in a high-level language.
+because the system is implemented by the same software on different
+hardware, it has the same interface to user programs.  hence,
+application programs which use thoth are  highly portable.  thoth
+encourages structuring programs as networks of communicating processes 
+by providing efficient interprocess communication primitives.
+
+cacm february, 1979
+
+cheriton, d.
+malcolm, m.
+melen, l.
+sager, g.
+
+portability, real time, operating systems, minicomputer
+
+3.80 
+************************
+
+************************
+Document:  CACM-3068.html
+************************
+
+
+a model for verification of data security in operating systems
+
+program verification 
+************************
+
+
+program verification applied to kernel architectures
+forms a promising method for providing 
+uncircumventably secure, shared computer systems.  a
+precise definition of data security is developed 
+here in terms of a general model for operating systems.
+ this model 
+************************
+ systems.
+ this model is suitable as a basis for verifying 
+many of those properties of an operating system which
+are necessary 
+************************
+ system which
+are necessary to assure reliable enforcement of 
+security.  the application of this approach to the
+ucla secure operating system is also discussed. 
+
+cacm september, 1978
+
+popek, g..
+farber, d.
+
+operating systems, security, protection, 
+************************
+
+************************
+Document:  CACM-2740.html
+************************
+
+
+a large semaphore based operating system
+
+the paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  the processes synchronize by
+means of semaphores and extended semaphores (queue 
+semaphores).  the number of parallel processes is carefully
+justified, and the various semaphore constructions 
+are explained.  the system is proved to be free of "deadly
+embrace" (deadlock).  the design principle 
+is an alternative to dijkstra's hierarchical structuring
+of operating systems.  the project management 
+and the performance 
+************************
+ 
+and the performance are discussed, too.  the operating
+system is the first large one using the rc 4000 
+multiprogramming system.
+
+cacm july, 1975
+
+lauesen, s.
+
+cooperating processes, operating system, semaphores,
+semaphore applications, queue semaphores, 
+deadlock, deadly embrace, hierarchical structuring, multiprogramming,
+operating system structure, asynchronous 
+structuring, buffering, parallel processes, synchronizing
+primitives, reentrant code, rc 4000, project 
+management, time schedule, debugging, 
+************************
+
+************************
+Document:  CACM-3025.html
+************************
+
+
+the evolution of the dec system 10
+
+the dec system 10, also known as the pdp-10, evolved
+from the pdp-6 (circa 1963) over five generations 
+of implementations to presently include systems covering
+a price range of five to one.  the origin and 
+evolution of the hardware, operating system, and languages
+
+************************
+ system, and languages
+are described in terms of technological change, 
+user requirements, and user developments. the pdp-10's
+contributions to computing technology include: 
+accelerating the transition from batch oriented to time
+sharing computing systems; transferring hardware 
+technology within dec (and elsewhere) to minicomputer
+design and manufacturing; supporting minicomputer 
+hardware and software development; and serving as a
+model for single user and timeshared interactive 
+minicomputer/microcomputer systems.
+
+cacm january, 1978
+
+bell, c.
+kotok, a.
+hastings, t.
+hill, r.
+
+computer structures, architecture, operating system, timesharing
+
+************************
+
+************************
+Document:  CACM-1461.html
+************************
+
+
+discussion summary on operating systems
+
+cacm march, 1966
+
+ca660311 
+************************
+
+************************
+Document:  CACM-3090.html
+************************
+
+
+automated welfare client-tracking and service
+integration: the political economy of computing
+
+the impacts of an automated client-tracking
+system on the clients, caseworkers, administrators, 
+and operations of the welfare agencies that use it are
+reported.  the major impact of this system was 
+to enhance the administrative  attractiveness of the
+using agencies in the eyes of funders rather than 
+to increase their internal administrative efficiency. 
+this impact is a joint product of both the technical 
+features of the computer-based system and of the organizational
+demands placed upon different agencies, 
+administrators, and caseworkers.  it illustrates the
+way "successful" automated information systems fit 
+the political economies of the groups that use them.    
+
+cacm june, 1978
+
+kling, r.
+
+social impacts of computing, organizational impacts
+of computing, management information systems, 
+************************
+
+************************
+Document:  CACM-2378.html
+************************
+
+
+an operating system based on the concept of a supervisory computer
+
+an operating system which is organized as a
+small supervisor and a set of independent processes 
+are described.  the supervisor handles i/o with external
+devices-the file and directory system-schedules 
+active processes and manages memory, handle errors, and
+
+************************
+, handle errors, and
+provides a small set of primitive functions which 
+it will execute for a process.  a process is able to
+specify a request for a complicated action on the 
+part of the supervisor (usually a wait on the occurrence
+of a compound event in the system) by combining 
+these primitives into a "supervisory computer program."
+ the part of the supervisor which executes these 
+programs may be viewed as a software implemented "supervisory
+computer."  the paper develops these concepts 
+in detail, outlines the remainder of the supervisor, and
+discusses some of the advantages of this approach.
+
+cacm march, 1972
+
+gaines, r. s.
+
+operating systems, supervisors, multiprogramming,
+
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+
+************************
+
+************************
+Document:  CACM-3011.html
+************************
+
+
+management utilization of computers in american local governments
+
+traditional concepts of management information
+systems (mis) bear little relation 
+************************
+ (mis) bear little relation to the information 
+systems currently in use by top management in most us local
+governments. 
+************************
+ in most us local
+governments.  what exists is management-oriented 
+computing, involving the use of relatively unsophisticated
+applications.  despite the unsophisticated 
+nature of these systems, management use of computing 
+************************
+
+************************
+Document:  CACM-3142.html
+************************
+
+
+consumer difficulties with computerized transactions: 
+an empirical investigation
+
+the prevalence with which errors may be encountered by the 
+end targets of a computerized process is assessed.  how many and
+what type of errors occur?  how easily are they corrected?  what
+is the reaction of consumers to errors-to a failure to correct
+them?  what can be learned by designers of large management packages
+from such data? results show that with the present state of the
+art, approximately 40 percent of individuals (or households) having
+average contacts with different types of accounts experience one
+or more errors per year.  eighty percent relate to billing.  attempts
+to correct errors often turned out to be difficult and not always
+successful. there appears to be some conflict between computer-using
+organizations and their public.  also the role of poor man
+agement packages including poor software is indicated.  while most
+management systems may be adequate, results 
+************************
+ may be adequate, results of the survey raise
+concerns about the timeliness and the number of designs of very
+large linked program packages (as eft for instance).  
+
+cacm may, 1979
+
+sterling, t.
+
+errors, systems errors, billing errors, management systems, consumers
+
+
+************************
+
+************************
+Document:  CACM-1752.html
+************************
+
+
+resource management for a medium scale time-sharing operating system
+
+task scheduling 
+************************
+ system
+
+task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined batch processing
+and time-sharing environment.  a synopsis is given 
+of the task scheduling and paging algorithms that were implemented,
+and the results of comparative simulation 
+are given by tracing the development of the algorithms
+through six predecessor versions.  throughout 
+the discussion particular emphasis is placed on balancing
+the system performance relative to the characteristics 
+of all the system resources.  simulation results relative
+to alternate hardware characteristics and the 
+effects of program mix and loading variations are also presented.
+
+cacm may, 1968
+
+oppenheimer, g.
+weizer, n.
+
+time-sharing, operating systems, resource management,
+
+************************
+, resource management,
+task scheduling, paging, system simulation, 
+memory management, virtual 
+************************
+
+************************
+Document:  CACM-2621.html
+************************
+
+
+a high security log-in procedure
+
+the protection of time sharing systems from
+unauthorized users is often achieved by the use 
+of passwords.  by using one-way ciphers to code the passwords,
+the risks involved with storing the passwords 
+in the computer can be avoided.  we discuss the selection
+of a suitable one-way cipher and suggest that 
+for this purpose polynomials over a prime modulus are
+superior to one-way ciphers derived from sannon 
+codes.
+
+cacm august, 1974
+
+purdy, g. b.
+
+operating systems, time sharing 
+************************
+
+************************
+Document:  CACM-1247.html
+************************
+
+
+an operating environment for dynamic-recursive
+computer programming systems
+
+presented in this paper 
+************************
+
+
+presented in this paper is a brief nontechnical
+introduction to oedipus, a computer programming 
+system which can serve as an operating environment for
+dynamic and/or recursive programs and programming 
+systems.  the available services 
+************************
+
+************************
+Document:  CACM-2985.html
+************************
+
+
+effects of chargeout on user/manager attitudes
+
+the relationship of in ternal pricing systems
+for computer services (chargeout systems) and 
+user management attitudes about their 
+************************
+ attitudes about their computer-based
+information systems is investigated. evidence is 
+provided that the relationship conforms to a general
+pattern that would be expected from the hypothesis 
+of the four stages of edp growth [15].  the results also
+indicate that the chargeout systems characteristic 
+of advanced edp stage environments are associated with
+relatively high levels of positive user attitudes 
+and marked increases in edp training for users. both factors
+are important to the user/manager involvement 
+necessary for effective control of computer-based systems.
+ development and main tenance of computer-based 
+systems is asserted to be a category of organizational
+change.  a "felt need" for the change on the part 
+of the user/manager is prerequisite to any change taking
+place.  the research methods of behavioral science 
+are applied to investigate the user/manager
+environment and the effects of chargeout.
+
+cacm march, 1977
+
+nolan, r. l.
+
+computer management, computer budget,
+chargeout, 
+************************
+
+************************
+Document:  CACM-2357.html
+************************
+
+
+mux, a simple approach to on-line computing
+
+an on-line system operating as part of a normal
+batch system for the cdc 6600 computer is described. 
+ the system, which required one man-year for initial
+software implementation, although basically simple,
+provides the necessary elements to input and modify files,
+submit them for batch execution, and provide 
+results at the user's terminal.  a multiplexer designed
+and developed as part of the project cost one 
+man-year for design and checkout, and $16,000 for parts
+and fabrication.  all aspects of the system are 
+described, 
+************************
+
+************************
+Document:  CACM-1462.html
+************************
+
+
+multilevel operating systems
+
+the basic software 
+************************
+
+
+the basic software for all newer computers
+is built on the well-established need for standard 
+operating systems. this implies that all 
+************************
+. this implies that all applications-no
+matter how large, complex or time consuming-must 
+operate under (or, more precisely, on top of) the standard
+system.  large applications require supervisory 
+monitors which handle problems similar to those of
+the operating systems, but at a different 
+************************
+
+************************
+Document:  CACM-1728.html
+************************
+
+
+further experimental data on the behavior
+of programs in a paging environment
+
+results are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those multiprogramming systems in which
+programs are 
+************************
+ in which
+programs are organized into fixed length pages.  
+the data collected from the interpretive execution of
+a number of paged programs are used to describe 
+the frequency of page faults, i.e. the frequency of those
+instants at which an executing program requires 
+a page of data or instructions not in main (core) memory.
+ these data are used also for the evaluation 
+of page replacement algorithms and for assessing the
+effects on performance of changes in the amount 
+of storage allocated to executing programs.
+
+cacm july, 1968
+
+coffman, e. g.
+varian, l. c.
+
+paging systems, paging, dynamic program behavior, program
+behavior, virtual memory systems, single-level 
+storage, one-level storage, operating system simulation,
+operating 
+************************
+ system simulation,
+operating systems, supervisor simulation, 
+************************
+
+************************
+Document:  CACM-0059.html
+************************
+
+
+survey of progress and trend of development
+and use of automatic data processing in business
+and management control systems of the federal
+government, 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, programming language 
+design, program semantics, programming language semantics,
+determinism, reproducibility, repeatability, 
+deterministic computers, protection, memory protection,
+information 
+************************
+
+************************
+Document:  CACM-2798.html
+************************
+
+
+analysis of interleaved memory systems using blockage buffers
+
+************************
+ using blockage buffers
+
+a model of interleaved memory systems is presented,
+and the 
+************************
+ is presented,
+and the analysis of the model by monte 
+carlo simulation is discussed.  the simulations investigate
+the performance of various system structures, 
+i.e. schemes for sending instruction and data requests
+to the memory system.  performance is measured 
+by determining the distribution of the number of memory
+modules in operation during a memory cycle.  
+an important observation from these investigations is that
+separately grouping instruction and data requests 
+for memory can substantially increase the average number
+of memory modules in operation during a memory 
+cycle.  results of the simulations and an analytical
+study are displayed for various system structures.
+
+cacm february, 1975
+
+burnett, g. j.
+coffman, e. g. jr.
+
+interleaved memory systems, modular memory systems,
+
+************************
+, modular memory systems,
+memory performance 
+************************
+
+************************
+Document:  CACM-2902.html
+************************
+
+
+dynamic memory allocation in computer simulation
+
+this paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+test cases.  algorithm performance was measured in
+terms of processing time, memory usage, and external memory
+fragmentation.  algorithms main taining separate 
+free space lists for each size of memory block used
+tended to perform quite well compared with other 
+algorithms.  simple algorithms operating on memory ordered
+lists (without any free list) performed surprisingly 
+well.  algorithms employing power-of-two block sizes
+had favorable processing requirements but generally 
+unfavorable memory usage.  algorithms employing lifo, fifo,
+or memory ordered free lists generally performed 
+poorly compared with others.
+
+cacm november, 1977
+
+nielsen, n. r.
+
+algorithm performance,dynamic memory allocation, dynamic
+memory management, dynamic storage allocation, 
+************************
+, dynamic storage allocation, 
+garbage collection, list processing, memory allocation,
+memory management, programming techniques, 
+************************
+, programming techniques, simulation, 
+simulation memory management, simulation techniques,
+
+************************
+
+************************
+Document:  CACM-2681.html
+************************
+
+
+dynamic memory repacking
+
+a probabilistic model of a multiprogramming system
+is exercised in order to determine the conditions 
+under which the dynamic repacking of main memory is beneficial.
+ an expression is derived for the maximum 
+interference that a repacking process may introduce
+before the original performance of the system is 
+degraded.  alternative approaches to repacking are discussed,
+and the operating conditions that lead 
+************************
+

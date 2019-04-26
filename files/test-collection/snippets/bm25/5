@@ -1,0 +1,516 @@
+Snippets for the query:  Q5
+************************
+Total Hits:  14
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-1623.html
+************************
+************************
+Document:  CACM-0071.html
+************************
+************************
+Document:  CACM-2181.html
+************************
+************************
+Document:  CACM-2707.html
+************************
+************************
+Document:  CACM-2828.html
+************************
+
+
+hierarchical geometric models for visible surface algorithms
+
+the geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement, but also 
+************************
+
+************************
+Document:  CACM-0242.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+************************
+Document:  CACM-2671.html
+************************
+************************
+Document:  CACM-2518.html
+************************
+************************
+Document:  CACM-2622.html
+************************
+************************
+Document:  CACM-1621.html
+************************
+************************
+Document:  CACM-0492.html
+************************
+************************
+Document:  CACM-2202.html
+************************
+************************
+Document:  CACM-2505.html
+************************
+************************
+Document:  CACM-1267.html
+************************
+************************
+Document:  CACM-3033.html
+************************
+************************
+Document:  CACM-2772.html
+************************
+************************
+Document:  CACM-3035.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+
+
+lg: a language for analytic geometry
+
+a conversational programming language for analytic
+geometry is described, together with some 
+aspects of its implementation.  the language allows
+the flexible definition of geometric objects and 
+elements, 
+************************
+
+************************
+Document:  CACM-0768.html
+************************
+************************
+Document:  CACM-2485.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+************************
+Document:  CACM-2826.html
+************************
+
+
+interactive skeleton techniques for enhancing
+motion dynamics in key frame animation
+
+************************
+ in key frame animation
+
+a significant increase in the capability for
+controlling motion dynamics in key frame animation 
+************************
+
+************************
+Document:  CACM-2230.html
+************************
+
+
+a language for treating geometric patterns in a two-dimensional space
+
+in this paper cadep, a problem-oriented language
+for positioning geometric patterns in a two-dimensional 
+space, is presented.  although the language has been
+specifically designed for the automatic generation 
+of integrated circuit masks, it turns out to be well
+suited also for such other placement problems as 
+architecture design, urban planning, logical and block
+diagram 
+************************
+
+************************
+Document:  CACM-2502.html
+************************
+************************
+Document:  CACM-1234.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that 
+************************
+
+************************
+Document:  CACM-0705.html
+************************
+************************
+Document:  CACM-3008.html
+************************
+************************
+Document:  CACM-1885.html
+************************
+************************
+Document:  CACM-0320.html
+************************
+************************
+Document:  CACM-2389.html
+************************
+************************
+Document:  CACM-3086.html
+************************
+************************
+Document:  CACM-2834.html
+************************
+************************
+Document:  CACM-2804.html
+************************
+************************
+Document:  CACM-0438.html
+************************
+************************
+Document:  CACM-2922.html
+************************
+************************
+Document:  CACM-0888.html
+************************
+************************
+Document:  CACM-0767.html
+************************
+************************
+Document:  CACM-2547.html
+************************
+************************
+Document:  CACM-0887.html
+************************
+************************
+Document:  CACM-1009.html
+************************
+************************
+Document:  CACM-0616.html
+************************
+************************
+Document:  CACM-1001.html
+************************
+************************
+Document:  CACM-0417.html
+************************
+
+
+legal implications of computer use
+
+this paper points out a variety of ways computer
+systems used in business and industry can 
+be involved in legal entanglements and suggests that
+computer specialists have a responsibility to call 
+for assistance in forestalling or minimizing those entanglements
+during the planning stage.  techniques 
+are suggested for making legal clearance effective with
+the least burden on the new technology and for 
+achieving a favorable legal climate for it generally.
+ computer specialists also are alerted to potential 
+opportunities to interpret to lawyers the technical aspects
+of computer systems 
+************************
+
+************************
+Document:  CACM-1541.html
+************************
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-2176.html
+************************
+************************
+Document:  CACM-1148.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+************************
+Document:  CACM-1099.html
+************************
+************************
+Document:  CACM-3040.html
+************************
+************************
+Document:  CACM-2486.html
+************************
+************************
+Document:  CACM-2078.html
+************************
+************************
+Document:  CACM-3188.html
+************************
+************************
+Document:  CACM-3135.html
+************************
+
+
+detection of three-dimensional patterns of atoms in chemical structures
+
+an algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented.  the search technique
+presented uses the geometric structure of the pattern to define
+characteristics demanded of candidates for matching. this is useful
+in cases where the properties of each atom, considered individually,
+do not adequately limit the number of sets of possible matchings.
+several applications of this technique in the field of chemistry
+are: (1) in pharmacology: searching for 
+************************
+
+************************
+Document:  CACM-2721.html
+************************
+
+
+the digital simulation of river plankton population dynamics
+
+this paper deals with the development of a
+mathematical model for and the digital simulation 
+in fortran iv of phytoplankton and zooplankton population
+densities in a river using previously developed 
+rate expressions.  in order to study the relationships
+between the ecological mechanisms involved, the 
+simulation parameters were varied illustrating the
+response of the ecosystem to different conditions, 
+including those corresponding to certain types of chemical
+and thermal pollution.  as an investigation 
+of the accuracy of the simulation methods, a simulation
+of the actual population dynamics of asterionella 
+in the columbia river was made based on approximations
+of conditions in that river. although not totally 
+accurate, the simulation was found to predict the general
+annual pattern of plankton growth fairly well 
+and, specifically, revealed the importance of the annual
+velocity cycle in determining such patterns. 
+ in addition, the study demonstrates the usefulness of
+digital simulations in the examinations of certain 
+aquatic ecosystems, as well as in environmental
+planning involving such examinations.
+
+************************
+ involving such examinations.
+
+cacm september, 1975
+
+claudson, r. m.
+
+digital simulation, mathematical modeling, plankton
+population dynamics, phytoplankton, zooplankton, 
+river ecosystems, ecological mechanisms, environmental simulation,
+modeling ecosystems, pollution, environmental 
+impact, environmental planning
+
+3.12 3.19
+
+ca750903 
+************************
+
+************************
+Document:  CACM-2836.html
+************************
+************************
+Document:  CACM-1113.html
+************************
+
+
+computer-made perspective movies as a scientific and communication tool*
+
+it is easy to program the basic transformation
+required for a perspective drawing.  this fact 
+plus the advent of high speed microfilm printers such
+as the general dynamics electronics s-c 4020 makes 
+possible perspective movies as the direct output from
+a computer.  the programming of such a movie is 
+briefly described for studying the angular motions of
+a satellite containing 
+************************
+
+************************
+Document:  CACM-2753.html
+************************
+************************
+Document:  CACM-3117.html
+************************
+************************
+Document:  CACM-1397.html
+************************
+************************
+Document:  CACM-1664.html
+************************
+************************
+Document:  CACM-1456.html
+************************
+************************
+Document:  CACM-0670.html
+************************
+************************
+Document:  CACM-0530.html
+************************
+************************
+Document:  CACM-1088.html
+************************
+************************
+Document:  CACM-2417.html
+************************
+************************
+Document:  CACM-0695.html
+************************
+
+
+use of the disk file on stretch
+
+the paper begins by briefly describing the
+stretch (ibm 7030) computer with special emphasis 
+given to the organization and operation of its input-output
+equipment.  physical characteristics of the 
+two-disk system (4,194,304 72-bit words, 8 usec-per-word
+transmission rate, etc.) are noted.  timing 
+limitations due to arm motion and disk rotation are 
+************************
+
+************************
+Document:  CACM-2399.html
+************************
+************************
+Document:  CACM-3000.html
+************************
+************************
+Document:  CACM-2886.html
+************************
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-0397.html
+************************
+************************
+Document:  CACM-1385.html
+************************
+
+
+computer technology in communist china, 1956-1965
+
+based on information from translations of communist
+chinese news items and periodical literature 
+for the 1965 period, computer technology in china is
+reviewed under the following headings: (1) initial 
+planning, organization and educational aspects of computer
+technology 
+************************
+
+************************
+Document:  CACM-1413.html
+************************
+************************
+Document:  CACM-2383.html
+************************
+
+
+music and computer composition
+
+the problem discussed is that of simulating human
+composition of western popular music by computer 
+and some relevant theories of music and harmony are given.
+ problems with this kind of program and several 
+schemes that are known not to work are discussed.  several
+previous computer compositions are discussed, 
+including the illiac suite.  a program to generate short
+melody fragments was written to simulate some 
+of the aspects of human composition. 
+************************
+
+************************
+Document:  CACM-1365.html
+************************
+************************
+Document:  CACM-2667.html
+************************
+************************
+Document:  CACM-0605.html
+************************
+************************
+Document:  CACM-0697.html
+************************
+************************
+Document:  CACM-2187.html
+************************
+************************
+Document:  CACM-1867.html
+************************
+************************
+Document:  CACM-2712.html
+************************
+************************
+Document:  CACM-0531.html
+************************
+************************
+Document:  CACM-0435.html
+************************
+************************
+Document:  CACM-2357.html
+************************
+************************
+Document:  CACM-2810.html
+************************
+************************
+Document:  CACM-1543.html
+************************
+************************
+Document:  CACM-1014.html
+************************
+************************
+Document:  CACM-3172.html
+************************
+************************
+Document:  CACM-1368.html
+************************
+************************
+Document:  CACM-1433.html
+************************
+************************
+Document:  CACM-1186.html
+************************
+************************
+Document:  CACM-1404.html
+************************
+************************
+Document:  CACM-0704.html
+************************
+************************
+Document:  CACM-1948.html
+************************
+************************
+Document:  CACM-0971.html
+************************

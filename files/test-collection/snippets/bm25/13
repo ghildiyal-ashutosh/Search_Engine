@@ -1,0 +1,1919 @@
+Snippets for the query:  Q13
+************************
+Total Hits:  100
+************************
+
+************************
+Document:  CACM-1886.html
+************************
+
+
+generation of optimal code for expressions via factorization
+
+given a set of expressions which are to be
+compiled, methods are presented for increasing the 
+efficiency of the object code produced by first factoring
+the expressions, i.e. finding a set of subexpressions 
+************************
+ing a set of subexpressions 
+each of which occurs in two or more other expressions
+or subexpressions.  once all the factors have been 
+ascertained, a sequencing procedure is applied which
+orders the factors and expressions such that all 
+information is computed in the correct sequence and factors
+need be retained in memory a minimal amount 
+of time.  an assignment algorithm is then executed in
+order to minimize the total number of temporary 
+storage cells required to hold the results of evaluating
+the factors.  in order to make these techniques 
+computationally feasible, heuristic procedures are
+applied, and hence global optimal results are not 
+necessarily generated.  the factorization algorithms
+are also applicable 
+************************
+
+************************
+Document:  CACM-3032.html
+************************
+
+
+reverse path forwarding of broadcast packets
+
+a broadcast packet is for delivery to all
+nodes of a network.  algorithms for accomplishing 
+this delivery through a store-and-forward packet switching
+ computer network include (1) transmission 
+of separately addressed packets. (2) multidestination
+addressing, (3) hot potato forwarding,(4) spanning 
+tree forwarding, and (5) source based forwarding.  to
+this list of algorithms we add (6) reverse path 
+forwarding, a broadcast routing method which exploits
+routing procedures and data structures already 
+available for packet switching.  reverse path forwarding
+is a practical algorithm for broadcast routing 
+ in store-and-forward packet switching computer networks.
+ the algorithm is described as being practical 
+ because it is not optimal according to metrics 
+************************
+
+************************
+Document:  CACM-3057.html
+************************
+
+
+optimal his togram matching by monotone gray level transformation
+
+this paper investigates the problem of optimal
+his togram matching using monotone gray level 
+transformation, which always assigns all picture points
+of a given gray level i to another gray level 
+t(i) such that if i > j, then t(i) > t(j).  the objective
+is to find a transformed digital 
+************************
+ a transformed digital picture of 
+a given picture such that the sum of absolute errors
+between the gray level his togram of the transformed 
+picture and that of a reference picture is minimized.
+ this is equivalent to placing k1 linearly ordered 
+objects of different sized one by one into k2 linearly ordered
+boxes of assorted sizes, such that the 
+accumulated error of space under packed or overpacked
+in the boxes is minimized; the placement function 
+is monotonic, which ensures a polynomial time solution
+to this problem.  a tree search algorithm for 
+optimal his togram matching 
+************************
+
+************************
+Document:  CACM-2885.html
+************************
+************************
+Document:  CACM-3151.html
+************************
+
+
+an optimal real-time algorithm for planar convex hulls
+
+an algorithm is described for the construction in real-time of the
+convex hull of a set of n points in the plane.   using an appropriate data
+structure, the algorithm constructs the convex hull by successive
+updates, each taking time o(log n), thereby achieving a total
+processing time o(n log n).  
+
+cacm july, 1979
+
+preparata, f.
+
+computational geometry, convex hull, planar set of
+points, real-time algorithms, on-line algorithms. 
+************************
+
+************************
+Document:  CACM-1961.html
+************************
+************************
+Document:  CACM-2181.html
+************************
+
+
+the state of computer oriented curricula in business schools 1970
+
+the acm committee on computer education for management,
+supported by a national science foundation 
+grant, is established to appraise the state of the art
+and to develop a series of recommendations for 
+improving computer education for management.  to provide
+the committee with material for its study of 
+curricular needs, five regional meetings in the united
+states were held in 1970, at each of which a broad 
+cross section of invited academicians and practitioners
+considered the state of curricula in business 
+schools.  three topics were covered: curricula for
+the general manager; computer-related material in 
+required and functional courses; and curricula for students
+concentrating on computer-based information 
+systems.  an analysis of the minutes of the meetings
+revealed a common set of experiences which raised 
+similar pedagogic and economic issues.  this presentation
+gives a summary of the discussions; a condensation
+of the 
+************************
+
+************************
+Document:  CACM-2483.html
+************************
+
+
+coko iii: the cooper-koz chess program
+
+coko iii is a chess player written entirely
+in fortran.  on the ibm 360-65, coko iii plays 
+a minimal chess game at the rate of .2 sec cpu time
+per move, with a level close to lower chess club 
+play.  a selective tree searching procedure controlled
+by tactical chess logistics allows a deployment 
+of multiple minimal game calculations to achieve some optimal
+move selection.  the tree searching algorithms 
+are the heart of coko's 
+************************
+
+************************
+Document:  CACM-3163.html
+************************
+
+
+an optimal insertion algorithm for one-sided
+height-balanced binary search trees
+
+an algorithm for inserting an element into a one-sided height-balanced
+(oshb) binary search tree is presented.  the algorithm operates in time 
+o(log n), where n is the number of nodes in
+the tree.  this represents an improvement over the best previous
+ly known insertion algorithms of hirschberg and kosaraju, 
+************************
+ of hirschberg and kosaraju, which require
+time o(log 2n).  moreover, the o(log n) complexity is optimal. earlier 
+results have shown that deletion in such a structure can
+also be performed in o(log n) time.  thus the result of this paper
+gives a negative answer to the question of whether such trees should
+be the first examples of their kind, where deletion has a smaller time 
+complexity than insertion.  furthermore, it can now be concluded
+that insertion, deletion, and retrieval in oshb trees can
+be performed in the same time as the corresponding operations for
+the more general avl trees, to within a constant factor.  however,
+the insertion and deletion algorithms for oshb trees appear 
+************************
+
+************************
+Document:  CACM-2692.html
+************************
+
+
+reentrant polygon clipping
+
+a new family of clipping algorithms is described.
+ these algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing the parts of the polygon which 
+lie outside the volume.  in two dimensions the algorithms
+permit clipping against irregular convex windows. 
+ polygons to be clipped are represented as an ordered
+sequence of vertices without repetition of first 
+and last, in marked contrast to representation as a
+collection of edges as was heretofore the common 
+procedure.  output polygons have an identical format,
+with new vertices introduced in sequence to describe 
+any newly-cut edge or edges.  the algorithms easily handle
+the particularly difficult problem of detecting 
+that a new vertex may be required at a corner of the
+clipping window.  the algorithms described achieve 
+considerable simplicity by clipping separately against
+each clipping plane or window boundary.  code 
+capable of clipping the polygon against a single boundary
+is reentered to clip against subsequent boundaries. 
+ each such reentrant stage of clipping need store only
+two vertex values and may begin its processing 
+as soon as the first output vertex from the proceeding
+stage is ready.  because the same code is reentered 
+for clipping against subsequent boundaries, clipping
+against very complex window shapes is practical. 
+ for perspective applications in three dimentions, 
+************************
+
+************************
+Document:  CACM-0132.html
+************************
+************************
+Document:  CACM-2997.html
+************************
+
+
+convex hulls of finite sets of poin ts in two and three dimensions
+
+the convex hulls of sets of n poin ts in two
+and three dimensions can be determined with o(n 
+log n) operations.  the presented algorithms use the "divide
+and conquer" technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls.
+ since any convex hull algorithm requires at 
+least o(n log n) operations, the time complexity of the
+proposed algorithms is optimal within a multiplicative 
+************************
+ within a multiplicative 
+constant.
+
+cacm february, 1977
+
+preparata, f. p.
+hong, s. j.
+
+computational complexity, convex hull, optimal algorithms,
+planar set of poin 
+************************
+
+************************
+Document:  CACM-2876.html
+************************
+************************
+Document:  CACM-2481.html
+************************
+
+
+the distribution of a program in primary and fast buffer storage
+
+a virtual memory computer system with a fast
+buffer (cache) memory between primary memory and 
+the central processing unit is considered.  the optimal
+distribution of a program between the buffer 
+and primary memory is studied using the program's lifetime
+function.  expressions for the distribution 
+of a program which maximizes the useful fraction of
+the cost-time integral of primary and fast buffer 
+storage are obtained for swapping and nonswapping buffer management policies.
+
+cacm july 
+************************
+
+************************
+Document:  CACM-0841.html
+************************
+************************
+Document:  CACM-0701.html
+************************
+************************
+Document:  CACM-2146.html
+************************
+
+
+optimizing the polyphase sort
+
+various dispersion algorithms for the polyphase
+sorting 
+************************
+ for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read is displayed.  the logic of this 
+algorithm is rather complicated; hence, several other
+new dispersion algorithms with more straightforward 
+************************
+ with more straightforward 
+logic are presented.  of the simple dispersion algorithms
+discussed, the  horizontal is best.  it does 
+approximately one-fourth to one and one-half percent
+less reading and writing than most algorithms in 
+use today.  an additional two and one-fourth to three
+percent improvement can be achieved by utilizing 
+the modified optimum algorithm.  this algorithm is relatively
+straightforward, but it requires a fairly 
+close estimate of the total number of unit strings before the dispersion begins.
+
+cacm november, 1971
+
+shell, d. l.
+
+sorting, polyphase sorting, 
+************************
+ing, polyphase sorting, dispersion algorithms,
+optimum dispersion 
+************************
+
+************************
+Document:  CACM-2816.html
+************************
+
+
+optimal reorganization of distributed space disk files
+
+in most database organizations, the cost 
+************************
+
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, algorithms,
+transitive closure, 
+************************
+
+************************
+Document:  CACM-3087.html
+************************
+
+
+an english language question answering system
+for a large relational database
+
+by typing requests in english, casual users
+will be able to obtain explicit answers from a 
+large relational database of aircraft flight and maintenance
+data using a system called planes.  the 
+design and implementation of this system is described and
+illustrated with detailed examples of the operation 
+of system components and examples of overall system
+operation.  the language processing portion of the 
+system uses a number of augmented transition networks,
+each of which matches phrases with a specific 
+meaning, along with context registers (his tory keepers)
+and concept case frames; these are used for judging 
+meaningfulness of questions, generating dialogue for clarifying
+partially understood questions, and resolving 
+ellipsis and pronoun reference problems.  other system components
+construct a formal query for the relational 
+database, and optimize the order of searching relations.
+ methods are discussed for handling vague or 
+complex questions and for providing browsing ability.
+ also included are discussions of important issues 
+************************
+
+************************
+Document:  CACM-2907.html
+************************
+************************
+Document:  CACM-2964.html
+************************
+
+
+an approach to optimal design of storage parameters in databases
+
+cacm may, 1977
+
+milman, 
+************************
+
+************************
+Document:  CACM-3112.html
+************************
+
+
+list processing in real time on a serial computer
+
+a real-time list processing system is one
+in which the time required by the elementary list 
+operations (e.g. cons, car, cdr, rplaca, replacd, eq,
+and atom in lisp) is bounded by a (small) constant. 
+ classical implementations of list processing systems
+lack this property because allocating a list cell 
+from the heap may cause a garbage collection, which process
+requires time proportional to the heap size 
+to finish.  a real-time list processing system is presented
+which continuously reclaims garbage, including 
+directed cycles, while linearizing and compacting the
+accessible cells into contiguous locations to avoid 
+fragmenting the free storage pool.  the program is small
+and requires no time-sharing interrupts, making 
+it suitable for microcode.  finally, the system requires
+the same average time, and not more than twice 
+the space, of a classical implementation, and those
+space requirements can be reduced to approximately 
+classical proportions by compact list representation.
+ arrays of different sizes, a program stack, and 
+hash linking are simple extensions to our system, and
+reference counting is found to be inferior for 
+many applications.
+
+cacm april, 1978
+
+baker, h.
+
+real-time, compacting,garbage collection, list processing,
+virtual memory, file or database management, 
+storage management, 
+************************
+
+************************
+Document:  CACM-3033.html
+************************
+
+
+optimizing decision trees through heuristically guided search
+
+optimal decision table conversion has been
+tackled in the literature using two approaches, 
+dynamic programming and branch-and-bound.  the former
+technique is quite effective, but its time and 
+space requirements are independent of how "easy" the
+given table is.  furthermore, it cannot be used 
+to produce good, quasi optimal solutions.  the branch-and-bound
+technique uses a good heuristic to direct 
+the search, but is cluttered up by an enormous search
+space, since the number of solutions increases 
+with the number of test variables according to a double 
+exponential.  in this paper we suggest a heuristically 
+guided top-down search algorithm which, like dynamic
+programming, recognizes identical subproblems but 
+which can be used to find both optimal and quasi 
+************************
+
+************************
+Document:  CACM-2563.html
+************************
+************************
+Document:  CACM-2308.html
+************************
+
+
+computers and urban society
+
+this brief survey of the use of computers in
+urban society covers the broad range of activities 
+found in any city.  the future scope of applications is
+limited only by the imagination and inventiveness 
+of future system designers, programmers, analysts, and
+decision makers.  the computer can be, if properly 
+used, with respect for human dignity and civil liberty,
+a significant factor in improving the efficiency 
+of the urban process.  it is expected that the benefits
+of such computer usage will outweigh the costs 
+and that we may look forward to an expansion of such usage.
+
+cacm july, 1972
+
+sturman, g. m.
+
+urban systems, urban applications, data acquisition,
+data management, engineering analysis, 
+************************
+
+************************
+Document:  CACM-0662.html
+************************
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user.  a relational algebra interface, called 
+squiral, which was designed using this approach, is described
+in detail. squiral seeks to minimize query 
+response time and space utilization by: (1) performing
+global query optimization, (2) exploiting disjoint 
+and pipelined concurrency, (3) coordinating sort orders
+in temporary relations, (4) employing directory 
+analysis, and (5) maintaining locality in page references.
+ algorithms for implementing the 
+************************
+
+************************
+Document:  CACM-2522.html
+************************
+
+
+the design, implementation, and evaluation of a working set dispatcher
+
+the behavior of a computer system is largely
+dependent upon the algorithms employed to allocate 
+the system resources to the processes competing for them.
+ recent research in time-sharing paging systems 
+has developed the working set model for program behavior,
+and are source allocation strategy based on 
+this model has been proposed.  two implementations
+along these principles 
+************************
+
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use symbol manipulation of matrix expressions so
+as to find the forms best suited 
+************************
+
+************************
+Document:  CACM-1412.html
+************************
+
+
+the banking information system concept
+
+most large commercial banks have progressed to
+the  point where their major accounting applications 
+have been automated and more sophisticated usage of
+data processing equipment is being sought.  this, 
+coupled with the availability of equipment well suited
+to real-time, direct access processing,has led 
+to development within some banks of the central file
+of data base approach toward a banking information 
+system.  the banking information system now serves the
+two-fold purpose of providing real-time responses 
+to inquires about individual account stasus and providing
+more complex combinations of information for 
+management use.  both kinds of 
+************************
+
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and 
+************************
+ message routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic 
+************************
+
+************************
+Document:  CACM-2900.html
+************************
+
+
+some theorems to aid in solving the file allocation problem
+
+the file allocation problem-i.e. the problem
+of finding the optimal set of network sites 
+************************
+ set of network sites at 
+which to locate copies of a file-is known to be, in general,
+polynomial complete.  heuristics and other 
+aids to finding optimal, or near-optimal, solutions 
+************************
+, or near-optimal, solutions are
+therefore much needed.  in this paper we present 
+three theorems which can be applied a priori to indicate
+that certain sites should (or should not) be 
+included in an optimal allocation.
+
+cacm november, 1977
+
+grapa, e.
+belford, g. g.
+
+file allocation, computer networks, distributed data management
+
+4.33
+
+ca771116 jb december 
+************************
+
+************************
+Document:  CACM-2627.html
+************************
+
+
+scheduling independent tasks to reduce mean finishing time
+
+sequencing to minimize mean finishing time
+(or mean time in system) is not only desirable to 
+the user, but it also tends to minimize at each point
+in time the storage required to hold incomplete 
+tasks.  in this paper a deterministic model of independent
+tasks is introduced and new results are derived 
+which extend and generalize the algorithms known for
+minimizing mean finishing time.  in addition to 
+presenting and analyzing new algorithms it is shown
+that the most general mean-finishing-time problem 
+for independent tasks is polynomial complete, and hence unlikely
+to admit of a non-enumerative solution
+
+cacm july, 1974
+
+bruno, j.
+coffman, e. g. jr.
+sethi, r.
+
+minimizing mean finishing time, minimizing mean flow
+time, sequencing algorithms, optimal scheduling 
+algorithms, 
+************************
+
+************************
+Document:  CACM-1566.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much 
+************************
+
+************************
+Document:  CACM-1483.html
+************************
+************************
+Document:  CACM-2337.html
+************************
+
+
+a sorting problem and its complexity
+
+a technique for proving min-max norms of sorting
+algorithms is given.  one new algorithm for 
+finding the minimum and maximum 
+************************
+ing the minimum and maximum elements of a set with
+fewest comparisons is proved optimal with this 
+technique.
+
+cacm june, 1972
+
+pohl, i.
+
+sorting, computational complexity, 
+************************
+
+************************
+Document:  CACM-2924.html
+************************
+
+
+an interactive computer graphics approach to surface representation
+
+an in teractive computer graphics method has been
+developed for the rapid generation of arbitrary 
+shaped three-dimensional surfaces.  the method is a synthesis
+of spline theory and algorithms, an in teractive 
+means for man-machine communication, and software for
+static or dynamic graphics display.  the basic 
+technique employed is a modified lofting method on
+which sectional curves are represented by uniform 
+b-splines and the surface is in terpolated between sections
+by cardinal splines.  among the features of 
+this method are algorithms which enable in teractive
+modification of the b-spline representation of the 
+sectional curves.  at all stages of the process, the
+spatial information is graphically displayed to 
+the user.  complex surfaces can be created by the combination
+of a number of shapes that have been separately 
+generated and automatically joined.  the system has been
+successfully in terfaced to a variety of analytical 
+routines for structural, medical and graphical applications.
+
+cacm october, 1977
+
+************************
+
+************************
+Document:  CACM-2750.html
+************************
+
+
+a cost oriented algorithm for data set allocation in storage hierarchies
+
+data set allocation in today's multilevel
+storage systems is usually based on qualitative, 
+ad hoc decisions.  while it would be desirable to obtain
+an optimal solution to this allocation problem, 
+it is clear that the number of parameters involved makes
+it intractable to straight-forward solution. 
+ in such a situation, we must find a set of assumptions
+
+************************
+
+************************
+Document:  CACM-3075.html
+************************
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort 
+************************
+
+
+a parallel bucket-sort algorithm is presented
+that requires time o(log n) and the use of n 
+processors.  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time.  a realistic model is used model is used in which
+no memory contention is permitted.  a procedure 
+is also presented to sort n numbers in time o(k log
+n) using n 1 + 1/k processors, for k an arbitrary 
+integer.  the model of computation for this procedure
+permits simultaneous fetches from the same memory 
+location.
+
+cacm august, 1978
+
+hirschberg, d.
+
+parallel processing, sorting, algorithms, bucket sort
+
+3.74 4.34 
+************************
+
+************************
+Document:  CACM-3067.html
+************************
+
+
+generalized working sets for segment reference strings
+
+the working-set concept is extended for programs
+that reference segments of different sizes. 
+ the generalized working-set policy (gws) keeps as its
+resident set those segments whose retention costs 
+do not exceed their retrieval costs.  the gws is a model
+for the entire class of demand-fetching memory 
+policies that satisfy a resident-set inclusion property.
+ a generalized optimal policy (gopt) is also 
+defined; at its operating points it minimizes aggregated
+retention and swapping costs.  special cases 
+of the cost structure allow gws and gopt to simulate
+any known stack algorithm, the working set, and 
+vmin.  efficient procedures for computing demand curves
+showing swapping load as a function of memory 
+usage are developed for gws and gopt policies.  empirical
+data from an actual system are included.
+
+cacm september, 1978
+
+denning, p.
+slutz, d.
+
+database referencing, memory management, optimal
+memory policies, 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+************************
+Document:  CACM-2691.html
+************************
+
+
+comments on the algorithms of verhelst for the
+conversion of limited-entry decision tables to 
+flowcharts
+
+cacm january, 1974
+
+king, p. j. h.
+johnson, r. g.
+
+decision table, flowcharting, preprocessor, optimal programs, search 
+
+3.50 
+************************
+
+************************
+Document:  CACM-2834.html
+************************
+
+
+efficient generation of the binary
+reflected gray code and its applications
+
+algorithms are presented to generate 
+************************
+ are presented to generate the n-bit
+binary reflected gray code and codewords of 
+fixed weight in that code.  both algorithms are efficient
+in that the time required to generate the next 
+element from the current one is constant.  applications
+to the generation of 
+************************
+
+************************
+Document:  CACM-2570.html
+************************
+
+
+a comparison of list schedules for parallel processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.  cases where task execution times are 
+deterministic and others in which execution times are
+random variables are analyzed.  it is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the b-schedule 
+of coffman and graham is near-optimal.  a dynamic programming
+
+************************
+
+************************
+Document:  CACM-2722.html
+************************
+
+
+multidimensional binary search trees used for associative searching
+
+this paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a data structure for storage of
+information to be retrieved by associative searches. 
+the k-d tree is defined and examples are given. it
+is shown to be quite in its storage requirements. 
+ a significant advantage of this structure is that a single
+data structure can handle many types of queries 
+very efficiently.  various utility algorithms are developed;
+their proven average running times in an 
+n record file are: insertion, o (log n); deletion of
+the root, o (n^(k-1)/k); deletion of a random node, 
+o (log n); and optimization (guarantees logarithmic performance
+of searches), o (n log n).  search algorithms 
+are given for partial match queries with t keys specified
+[proven maximum running time of o (n^(k-t)/k)] 
+and for nearest neighbor queries [empirically observed average
+running time of o (log n).]  these performances 
+far surpass the best currently known algorithms for
+these tasks.  an algorithm is presented to handle 
+any general intersection query. the main focus of this
+paper theoretical.  it is felt, however, that 
+k-d trees could be quite useful in many applications,
+and examples of potential 
+************************
+
+************************
+Document:  CACM-2142.html
+************************
+
+
+reconstruction of pictures from their projections
+
+there are situations in the natural sciences
+and medicine (e.g. in electron microscopy and 
+x-ray photography) in which it is desirable to estimate the
+gray levels of a digital picture at the individual 
+points from the sums of the gray levels along straight
+lines (projections) at a few angles.  usually, 
+in such situations, the picture is far from determined
+and the problem is to find the "most representative" 
+picture.  three algorithms are described (all using
+
+************************
+
+************************
+Document:  CACM-3037.html
+************************
+
+
+a linear sieve algorithm for finding prime numbers
+
+a new algorithm is presented for finding all
+primes between 2 and n.  the algorithm executes 
+in time proportional to n (assuming that multiplication
+of integers not larger than n can be performed 
+in unit time).  the method has the same arithmetic complexity
+as the algorithm presented by mairson [6]; 
+however, our version is perhaps simpler and more elegant.
+ it is also easily extended to find the prime 
+factorization of all integers between 2 and n in time proportional to n.   
+
+cacm december, 1978
+
+gries, d.
+misra, j.
+
+primes, algorithms, data structures
+
+5.25 
+************************
+
+************************
+Document:  CACM-2263.html
+************************
+
+
+the conversion of limited-entry decision tables
+to optimal and near-optimal flowcharts: two new 
+algorithms
+
+two new algorithms 
+************************
+
+
+two new algorithms for deriving optimal and
+near-optimal flowcharts 
+************************
+ and
+near-optimal flowcharts from limited entry decision 
+tables are presented.  both take into account rule frequencies
+and the time needed to test conditions. 
+ one of the algorithms, called the optimum-finding algorithm,
+leads 
+************************
+ing algorithm,
+leads to a flowchart which truly minimizes 
+execution time for a decision table in which simple rules
+are already contracted to complex rules.  the 
+other one, called the optimum-approaching algorithm, requires
+many fewer calculations but does not necessarily 
+produce the optimum flowchart.  the algorithms are first
+derived for treating decision tables not containing 
+an else-rule, but the optimum-approaching algorithm
+is shown to be equally valid for tables including 
+such a rule.  both algorithms are compared with existing
+ones and are applied to a somewhat large decision 
+table derived from a real case.  from this comparison two
+conclusions are drawn.  (1) the optimum-approaching 
+algorithm will usually lead to better results than comparable
+existing ones and will not require more, 
+but usually less, computation time.(2) in general, the
+greater computation effort needed for applying 
+the optimum-finding algorithm will not 
+************************
+
+************************
+Document:  CACM-2679.html
+************************
+
+
+some performance tests of "quicksort" and descendants
+
+detailed performance evaluations are presented
+for six acm algorithms: quicksort (no. 64), 
+************************
+: quicksort (no. 64), 
+shellsort (no. 201), stringsort (no. 207), "treesort3"
+(no. 245), quickersort (no. 271), and qsort (no. 
+402).  algorithms 271 and 402 are refinements 
+************************
+ 271 and 402 are refinements of algorithm
+64, and all three are discussed in some detail. 
+ the evidence given here demonstrates that qsort (no.
+402) requires many more comparisons than its author 
+claims.  of all these algorithms, quickersort requires
+
+************************
+
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of lp algorithms.  other lp applications are indicated.
+
+cacm 
+************************
+
+************************
+Document:  CACM-3058.html
+************************
+
+
+jump searching: a fast sequential search technique
+
+when sequential file structures must be used
+and binary searching is not feasible, jump searching 
+becomes an appealing alternative.  this paper explores
+variants of the classic jump searching scheme 
+where the optimum jump size is the square root of the
+number of records.  multiple level and variable 
+size jump strategies are explored, appropriate applications
+are discussed and performance is evaluated.
+
+cacm october, 1978
+
+shneiderman, b.
+
+jump searching, sequential files, file management,
+search strategies, database structures, index 
+searching
+
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, as well
+as in advanced data management systems and distributed 
+data bases.  this paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data.  applications of these
+"generalized" 
+************************
+
+************************
+Document:  CACM-2973.html
+************************
+
+
+sorting on a mesh-connected parallel computer
+
+two algorithms are presented for sorting n^2
+elements on an n x n mesh-connected processor 
+array that require o(n) routing and comparison steps.
+ the best previous algorithm takes time o(n log 
+n).  the algorithms of this paper are shown to be optimal
+in time within small 
+************************
+
+************************
+Document:  CACM-1905.html
+************************
+************************
+Document:  CACM-2959.html
+************************
+
+
+the system for business automation (sba): programming language
+
+the system for business automation (sba) is a system
+within which application experts-nonprogrammers-can 
+describe and execute their applications on a computer. 
+the user of sba views his application as manipulation 
+of information in two-dimensional pictures of tables,
+business forms, and reports on a display terminal. 
+ he can gradually automate this application by giving "examples"
+to the system of how he manually manipulates 
+the information.  the query-by-example database language
+is a subset 
+************************
+
+************************
+Document:  CACM-3038.html
+************************
+
+
+using encryption for authentication in large networks of computers
+
+use of encryption to achieve authenticated
+communication in computer networks is discussed. 
+ example protocols are presented for the establishment
+of authenticated connections, for the management 
+of authenticated mail, and for signature verification
+and document integrity guarantee.  both conventional 
+and public-key encryption algorithms are considered as the 
+************************
+
+************************
+Document:  CACM-2817.html
+************************
+************************
+Document:  CACM-2957.html
+************************
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory under the leap language and data
+structure,  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  the major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.
+
+cacm may, 1977
+
+stillman, n. j.
+berra, p. b.
+
+associative memory, associative processor, content-addressable
+memory, graphics, information retrieval, 
+data structures, software evaluation, hardware evaluation,
+parallel processing, database management
+
+3.71 3.72 3.73 3.74 
+************************
+
+************************
+Document:  CACM-1423.html
+************************
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices.
+ it also has many applications in numerical 
+analysis, but it is not widely used because the existing
+algorithms are fairly complicated 
+************************
+
+************************
+Document:  CACM-2324.html
+************************
+
+
+management science: a view from nonlinear programming
+
+a brief history of integer and continuous
+nonlinear programming is presented as well as the 
+current obstacles to practical use of these mathematical
+programming techniques.  it is forecast that 
+the useful contributions to nonlinear programming actually
+made in the next few years are more likely 
+to be consolidations than theoretical breakthroughs.  these
+contributions are likely to be the documentation 
+of standard test problems, construction of user oriented
+software, and comparisons of currently known 
+algorithms to demonstrate which 
+************************
+ to demonstrate which techniques are best for specific problems.
+
+cacm july, 1972
+
+shanno, d. f.
+weil, r. l.
+
+integer programming, linear programming, mathematical
+programming, nonlinear programming, quadratic 
+programming, management science, operations research, algorithms
+
+5.41 8.3
+
+ca720704 
+************************
+
+************************
+Document:  CACM-2450.html
+************************
+
+
+empirical working set behavior
+
+the working set model for program behavior
+has been proposed in recent years as a basis for 
+the design of scheduling and paging algorithms.  although
+the words "working set" are now commonly encountered 
+in the literature dealing with resource allocation, there
+is a dearth of published data on program measurements, 
+in the hope that workers in the field might find experimental
+evidence 
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components of the system.  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs.  bagdams
+provides facilities for storing, retrieving, and 
+manipulating the descriptions of graphical entities
+provided by, and received by application programs,
+graphics packages, and graphical devices. 
+
+cacm november, 1978
+
+wendorf, j.
+
+computer graphics, data structures, graphic display,
+graphic input, graphical database, device 
+independent 
+************************
+
+************************
+Document:  CACM-2748.html
+************************
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer 
+************************
+
+************************
+Document:  CACM-2348.html
+************************
+************************
+Document:  CACM-2065.html
+************************
+
+
+a programming system for the on-line analysis of biomedical images
+
+a preliminary description of the software for a computer-display
+system is given with special emphasis on the  man-machine interaction. this 
+system is intended for a wide variety of biomedical applications.
+as an example, the methods are applied to the karyotyping of chromosomes.  the 
+system is separated into four programming tasks: picture transformations, file 
+maintenance, picture structuring, and display management.  picture structuring
+
+************************
+
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions for 
+************************
+
+central solutions for pattern classification
+
+in two-class pattern recognition, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+
+************************
+ for finding central
+hyperplanes are tested on three data sets.  although frequently
+used practice, the modified relaxation algorithm is very poor. 
+three algorithms which are defined in 
+************************
+
+************************
+Document:  CACM-3017.html
+************************
+
+
+b-trees re-examined
+
+the b-tree and its variants have, with increasing
+frequency, been proposed as a basic storage 
+structure for multiuser database applications.  here,
+three potential 
+************************
+
+************************
+Document:  CACM-1932.html
+************************
+************************
+Document:  CACM-2976.html
+************************
+************************
+Document:  CACM-2863.html
+************************
+
+
+vmin-an optimal variable-space page replacement algorithm
+
+a criterion for comparing variable space page
+replacement algorithms is presented.  an optimum 
+************************
+ is presented.  an optimum 
+page replacement algorithm, called vmin, is described and
+shown to be optimum with respect to this criterion. 
+the results of simulating vmin, denning's working set,
+and the page partitioning replacement algorithms 
+on five virtual memory programs are presented to demonstrate
+the improvement possible over the known 
+realizable variable space algorithms.
+
+cacm may, 1976
+
+prieve, b. g.
+fabry, r. s.
+
+demand paging, performance measurement, multilevel
+memory systems, virtual memory, working set, 
+page replacement algorithms, optimal page replacement
+
+4.30 
+************************
+
+************************
+Document:  CACM-3036.html
+************************
+************************
+Document:  CACM-0724.html
+************************
+
+
+a profile of the programmer
+
+synopsis: 549 members of the acm participated
+in a study concerned primarily with the attitudes 
+of programmers toward their careers and jobs.  a very
+high percentage of programmers have apparently 
+entered their careers by accident; it has proven a happy
+choice for most and they expect to remain in 
+the field during the next five years.  their principal
+job satisfactions relate to the nature of their 
+work, and mostfind their jobs offer high level of professional
+interest and good working conditions. 
+ salary and advancement prospects, however,are not as
+satisfactory.  more than half report a positive 
+attitude toward programmers and programming on the part
+of their organizations.  turnover among themselves 
+is attributed primarily to poor management-salary is
+seen as the 
+************************
+
+************************
+Document:  CACM-1999.html
+************************
+************************
+Document:  CACM-0856.html
+************************
+************************
+Document:  CACM-0867.html
+************************
+
+
+least squares fitting of planes to surfaces using dynamic programming
+
+dynamic programming has recently been used
+by stone, by bellman and by gluss to determine the 
+closet fit of broken line segments to a curve in an
+interval under the constraint that the number of 
+segments is fixed.  in the present paper successive
+models are developed to extend the method to the 
+fitting of broken plane segments to surfaces z=g(x,y) defined
+over certain types of subareas of the (x,y)-space. 
+ the first model considers a rectangular area, with
+the constraint that the plane segments are defined 
+over a grid in the (x,y)-space.  it is then shown how
+this model may be incorporated into an algorithm 
+that provides successive approximations to optimal fits
+for any type of closed area.  finally, applications 
+are briefly described.
+
+************************
+
+************************
+Document:  CACM-3153.html
+************************
+
+
+the control of response times in multi-class
+systems by memory allocations 
+
+the possibility of giving different quality of service to jobs of different
+classes by regulating their memory allocation is examined in
+the context of a paged computer system.  two parameterized algorithms
+which partition the main memory between two classes of jobs are
+considered.  initially, a closed system consisting of a process
+or and paging and file devices, with fixed numbers of jobs, is studied
+to determine optimal degrees of multiprogramming 
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+************************
+Document:  CACM-2272.html
+************************
+
+
+sorting by natural selection
+
+a family of sorting algorithms is proposed,
+the members of which make fuller use of the memory 
+space and thus yield longer sorted strings.  extensive
+simulation results are presented, and various 
+implications and further applications are discussed.
+
+cacm 
+************************
+ are discussed.
+
+cacm october, 1972
+
+frazer, w. d.
+wong, c. k.
+
+algorithms, sorting by replacement selection, 
+************************
+
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of constraints.
+ the results presented may be valuable to 
+designers as useful design concepts, and may serve as
+a basis for developing a formal theory on the subject.
+
+cacm july, 1973
+
+huang, j. c.
+
+data base, data-base management, information retrieval,
+
+************************
+
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.  in particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, pert chart analysis,
+and the analysis of many types of networks. 
+ these algorithms exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.  straightforward
+cellular implementations of the well-known 
+serial 
+************************
+ of the well-known 
+serial algorithms for these problems require about n
+steps, and noncellular implementations require from 
+n^2 to 
+************************
+
+************************
+Document:  CACM-3011.html
+************************
+
+
+management utilization of computers in american local governments
+
+traditional concepts of management information
+systems (mis) bear little relation to the information 
+systems currently in use by top management in most us local
+governments.  what exists is management-oriented 
+computing, involving the use of relatively unsophisticated
+applications.  despite the unsophisticated 
+************************
+
+************************
+Document:  CACM-1752.html
+************************
+
+
+resource management for a medium scale time-sharing operating system
+
+task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined batch processing
+and time-sharing environment.  a synopsis is given 
+of the task scheduling and paging algorithms that were implemented,
+
+************************
+ that were implemented,
+and the results of comparative simulation 
+are given by tracing the development of the algorithms
+through six predecessor versions.  throughout 
+the discussion particular emphasis is placed on balancing
+the system performance relative to the characteristics 
+of all the system resources.  simulation results relative
+to alternate hardware characteristics and the 
+effects of program mix and loading variations are also presented.
+
+cacm may, 1968
+
+oppenheimer, g.
+weizer, n.
+
+time-sharing, operating systems, resource management,
+task scheduling, paging, 
+************************
+
+************************
+Document:  CACM-0677.html
+************************
+************************
+Document:  CACM-2397.html
+************************
+************************
+Document:  CACM-1724.html
+************************
+************************
+Document:  CACM-3164.html
+************************
+
+
+progressive acyclic digraphs-a tool for database integrity
+
+a progressive acyclic digraph (pad) algorithm accepts are requests and
+maintains a graph in an acyclic state.  when a request creates a cycle,
+nodes are, "detached" until the new are can be entered acyclically
+this process is important in certain areas of database implementation
+in which there are constraints on the permissible sequences
+of actions. two pad algorithms are presented; one uses 
+************************
+ are presented; one uses a simple
+path matrix representation and the other uses a list with an
+"artificial gradient."  experiments suggest that for large n the second
+is considerably faster, though both are asymptotically o(nr),
+where n is the number of nodes and r is the expected number
+of nodes reachable along paths from any given node.
+
+cacm september, 1979
+
+hansen, w.
+
+list processing, data structures, topological sort,
+acyclic digraph, database integrity, network, 
+************************
+
+************************
+Document:  CACM-2944.html
+************************
+
+
+shifting garbage collection overhead to compile time
+
+this paper discusses techniques which enable automatic
+storage reclamation overhead to be partially 
+shifted to compile time.  the paper assumes a transaction
+oriented collection scheme, as proposed by 
+deutsch and bobrow, the necessary features of which are
+summarized.  implementing the described optimizations 
+requires global flow analysis to be performed on the
+source program.  it is shown that at compile time 
+certain program actions that affect the reference counts
+of cells can be deduced.  this information is 
+used to find actions that cancel when the code is executed
+and those that can be grouped to achieve improved 
+efficiency.
+
+cacm july, 1977
+
+barth, j. m.
+
+garbage collection, global flow analysis, list processing,
+optimization, reference counts, storage 
+management
+
+3.80 4.12 4.20 4.34
+
+************************
+
+************************
+Document:  CACM-3085.html
+************************
+
+
+an o(n) algorithm for determining a near-optimal
+computation order of matrix chain products
+
+this paper discusses the computation of matrix
+chain products of the form m1 x m2 x ... x mn 
+where mi's are matrices.  the order in which the matrices
+are computed affects the number of operations. 
+ a sufficient condition about the association of the
+matrices in the optimal order is presented.  an 
+o(n) algorithm to find an order of computation 
+************************
+
+************************
+Document:  CACM-1433.html
+************************
+
+
+a note on linear programming algorithm design: a combinatorial problem
+
+as linear programming models grow bigger and
+bigger in size, much actual data that must be 
+memorized is often put on magnetic tape or disk, and
+consequently there is an improportionality fast 
+rise in the consumption of computer timeo cut down
+this expense, an ever increasing effort is made 
+to design more efficient algorithms.  this paper is
+meant to support the effort.  it is attempted to 
+find some characteristics 
+************************
+
+************************
+Document:  CACM-3131.html
+************************
+
+
+focus microcomputer number system
+
+focus is a number system and supporting computational
+algorithms especially useful for microcomputer control and other
+signal processing applications.  focus has the wide-ranging
+
+************************
+.  focus has the wide-ranging
+character of floating-point numbers with a uniformity of state distributions
+that give focus better than a twofold accuracy advantage
+over an equal word length floating-point system.  focus computations
+are typically five times faster than single precision fixed-point
+or integer arithmetic for a mixture of operations, comparable in
+speed with hardware arithmetic for many applications.  algorithms
+for 8-bit and 16-bit implementations of focus are included.
+
+************************
+
+************************
+Document:  CACM-2819.html
+************************
+
+
+experiments in text file compression
+
+a system for the compression of data files,
+viewed as strings of characters, is presented. 
+ the method is general, and applies equally well to
+english, to pl/i, or to digital data.  the system 
+consists of an encoder, an analysis program, and a decoder.
+  two algorithms for encoding a string differ 
+slightly from earlier proposals.  the analysis program attempts
+to find an optimal set of codes for representing 
+************************
+
+************************
+Document:  CACM-2902.html
+************************
+
+
+dynamic memory allocation in computer simulation
+
+this paper investigates the performance of
+35 dynamic memory allocation algorithms when used 
+to service simulation programs as represented by 18
+test cases.  algorithm performance was measured in
+terms of processing time, memory usage, and external memory
+fragmentation.  algorithms main taining separate 
+free space lists for each size of memory block used
+tended to perform quite well compared with other 
+algorithms.  simple algorithms operating on memory ordered
+lists (without any free list) performed surprisingly 
+well.  algorithms employing power-of-two block sizes
+had favorable processing requirements but generally 
+unfavorable memory usage.  algorithms employing lifo, fifo,
+or memory ordered free lists generally performed 
+poorly compared with others.
+
+cacm november, 1977
+
+nielsen, n. r.
+
+algorithm performance,dynamic memory allocation, dynamic
+memory management, dynamic storage allocation, 
+************************
+
+************************
+Document:  CACM-3171.html
+************************
+************************
+Document:  CACM-2674.html
+************************
+
+
+scan conversion algorithms for a cell organized raster display
+
+raster scan computer graphics with "real time"
+character generators have previously been limited 
+to alphanumeric characters.  a display has been described
+which extends the capabilities of this organization 
+to include general graphics.  two fundamentally different
+scan conversion algorithms which have been 
+developed to support this display are presented.  one
+is most suitable to non-interactive applications 
+and the other to interactive applications.  the algorithms
+were implemented in fortran on the cdc 6400 
+computer.  results obtained from the implementations show
+that the noninteractive 
+************************
+
+************************
+Document:  CACM-0089.html
+************************
+************************
+Document:  CACM-2963.html
+************************
+
+
+a fast algorithm for computing longest common subsequences
+
+previously published algorithms for finding
+the longest common 
+************************
+ing
+the longest common subsequence of two sequences 
+of length n have had a best-case running time of o(n^2).
+ an algorithm for this problem is presented 
+which has a running time of o((r + n)log n), where r
+is the total number of ordered pairs of positions 
+at which the two sequences match.  thus in the worst
+case the algorithm has a running time of o(n^2 log 
+n).  however, for those applications where most positions
+of one sequence match relatively few positions 
+in the other sequence, a running time of o(n log n) can be expected.
+
+cacm may, 1977
+
+hunt, j. w.
+szymanski, t. g.
+
+longest common subsequence, efficient algorithms
+
+3.73 3.63 5.25
+
+ca770509 
+************************
+

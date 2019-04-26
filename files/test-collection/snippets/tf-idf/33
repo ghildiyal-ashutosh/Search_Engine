@@ -1,0 +1,511 @@
+Snippets for the query:  Q33
+************************
+Total Hits:  27
+************************
+
+************************
+Document:  CACM-0111.html
+************************
+
+
+on programming the numerical solution of polynomial equations
+
+numerical techniques are presented for computing
+the roots of polynomial equations. 
+************************
+
+************************
+Document:  CACM-1949.html
+************************
+************************
+Document:  CACM-1623.html
+************************
+************************
+Document:  CACM-2458.html
+************************
+
+
+localization of the roots of a polynomial (algorithm r429)
+
+cacm 
+************************
+
+************************
+Document:  CACM-1816.html
+************************
+************************
+Document:  CACM-0388.html
+************************
+************************
+Document:  CACM-0848.html
+************************
+************************
+Document:  CACM-1887.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0334.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-2090.html
+************************
+************************
+Document:  CACM-1667.html
+************************
+
+
+roots of polynomials by a root-squaring
+
+************************
+s by a root-squaring
+and resultant routine (algorithm 340 [c2])
+
+cacm november, 1968
+
+noltemeier, a.
+
+root finders, roots of polynomial equations, polynomial
+
+************************
+ equations, polynomial
+zeros, root-squaring operations, 
+************************
+
+************************
+Document:  CACM-1440.html
+************************
+************************
+Document:  CACM-1386.html
+************************
+************************
+Document:  CACM-0342.html
+************************
+************************
+Document:  CACM-1333.html
+************************
+************************
+Document:  CACM-2266.html
+************************
+************************
+Document:  CACM-0341.html
+************************
+************************
+Document:  CACM-1803.html
+************************
+************************
+Document:  CACM-0125.html
+************************
+************************
+Document:  CACM-0112.html
+************************
+************************
+Document:  CACM-0765.html
+************************
+************************
+Document:  CACM-0647.html
+************************
+************************
+Document:  CACM-1254.html
+************************
+************************
+Document:  CACM-2391.html
+************************
+************************
+Document:  CACM-1037.html
+************************
+************************
+Document:  CACM-1015.html
+************************
+************************
+Document:  CACM-1638.html
+************************
+************************
+Document:  CACM-1618.html
+************************
+************************
+Document:  CACM-1643.html
+************************
+************************
+Document:  CACM-1080.html
+************************
+************************
+Document:  CACM-0281.html
+************************
+************************
+Document:  CACM-0340.html
+************************
+************************
+Document:  CACM-1524.html
+************************
+
+
+a stopping criterion for polynomial root finding
+
+when searching 
+************************
+ finding
+
+when searching for the root of a polynomial,
+it is generally difficult 
+************************
+,
+it is generally difficult to know just when to 
+accept a number as an adequate approximation to the root.
+ in this paper an algorithm is presented which 
+allows one to terminate the iteration process on the
+basis of calculated bounds for the roundoff error 
+which occurs in evaluating the polynomial.  this stopping
+criterion 
+************************
+
+************************
+Document:  CACM-1441.html
+************************
+************************
+Document:  CACM-0884.html
+************************
+************************
+Document:  CACM-0276.html
+************************
+************************
+Document:  CACM-1689.html
+************************
+************************
+Document:  CACM-2291.html
+************************
+
+
+localization of the roots of a polynomial [c2] (algorithm a429)
+
+************************
+ [c2] (algorithm a429)
+
+cacm august, 1972
+
+squire, w.
+
+polynomials, roots of polynomials,theory
+
+************************
+
+************************
+Document:  CACM-0062.html
+************************
+************************
+Document:  CACM-1567.html
+************************
+
+
+on the representation of symmetric polynomials
+
+relations are given between certain symmetric
+polynomials in the light of the theory of the 
+symmetric group.  such an approach unifies earlier work
+and lends insight to previously published work 
+by aaron booker.  a generalization of graeffe's root-squaring
+technique for 
+************************
+-squaring
+technique for the determination of the 
+roots of a polynomial is suggested.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1495.html
+************************
+************************
+Document:  CACM-1999.html
+************************
+
+
+optimal starting approximations for generating
+square root for slow or no divide
+
+on machine with slow or no division, it is preferable to
+use an iterative scheme for the square root different from
+the classical heron scheme.  the problem of optimal initial 
+approximants is considered, and some optimal polynomial initial 
+approximations 
+************************
+
+************************
+Document:  CACM-1940.html
+************************
+************************
+Document:  CACM-0177.html
+************************
+************************
+Document:  CACM-0182.html
+************************
+************************
+Document:  CACM-3058.html
+************************
+************************
+Document:  CACM-2410.html
+************************
+************************
+Document:  CACM-1599.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+************************
+Document:  CACM-1882.html
+************************
+************************
+Document:  CACM-1253.html
+************************
+************************
+Document:  CACM-1420.html
+************************
+************************
+Document:  CACM-0819.html
+************************
+************************
+Document:  CACM-0226.html
+************************
+************************
+Document:  CACM-1294.html
+************************
+************************
+Document:  CACM-2696.html
+************************
+************************
+Document:  CACM-0764.html
+************************
+************************
+Document:  CACM-2779.html
+************************
+************************
+Document:  CACM-2660.html
+************************
+
+
+addendum to m. l. patrick paper
+
+cacm april, 1974
+
+simmons, g. c.
+
+parallelism, polynomial root finding, real zeros
+
+************************
+
+************************
+Document:  CACM-1893.html
+************************
+
+
+roots of polynomials by a root-squaring
+
+************************
+s by a root-squaring
+and resultant routine (algorithm 340 [c2])
+
+cacm may, 1969
+
+noltemeier, a.
+
+root finders, roots of polynomial equations, polynomial
+
+************************
+ equations, polynomial
+zeros, root-squaring operations, 
+************************
+
+************************
+Document:  CACM-1932.html
+************************
+************************
+Document:  CACM-1520.html
+************************
+************************
+Document:  CACM-1832.html
+************************
+************************
+Document:  CACM-1456.html
+************************
+************************
+Document:  CACM-0327.html
+************************
+************************
+Document:  CACM-0325.html
+************************
+************************
+Document:  CACM-0116.html
+************************
+************************
+Document:  CACM-1121.html
+************************
+************************
+Document:  CACM-1586.html
+************************
+************************
+Document:  CACM-0180.html
+************************
+************************
+Document:  CACM-1726.html
+************************
+************************
+Document:  CACM-2385.html
+************************
+
+
+zeros of a complex polynomial [c2] (algorithm a419)
+
+cacm february, 1972
+
+jenkins, m. a.
+traub, j. f.
+
+roots, roots of a polynomial, 
+************************
+s, roots of a polynomial, zeros of a polynomial
+
+************************
+
+************************
+Document:  CACM-1197.html
+************************
+************************
+Document:  CACM-1763.html
+************************
+
+
+roots of low-order polynomial equations (algorithm 
+************************
+ equations (algorithm 326 [c2])
+
+cacm april, 1968
+
+nonweiler, t. f.
+
+root finders, polynomial equation roots, quadratic
+
+************************
+ equation roots, quadratic
+equation roots, cubic equation roots, biquadratic 
+equation roots, polynomial zeros
+
+5.15
+
+ca680407 
+************************
+
+************************
+Document:  CACM-0181.html
+************************
+************************
+Document:  CACM-0397.html
+************************
+************************
+Document:  CACM-0005.html
+************************
+************************
+Document:  CACM-1620.html
+************************
+
+
+methods of evaluating polynomial approximations
+in function evaluation routines
+
+the method of nested multiplication is commonly
+used in function evaluation routines to evaluate 
+approximation polynomials.  new polynomial evaluation
+methods have been developed in recent years which 
+require 
+************************
+
+************************
+Document:  CACM-2900.html
+************************
+************************
+Document:  CACM-1875.html
+************************
+************************
+Document:  CACM-1450.html
+************************
+
+
+simultaneous displacement of polynomial
+roots if real and simple 
+************************
+
+************************
+Document:  CACM-1644.html
+************************
+************************
+Document:  CACM-1946.html
+************************
+************************
+Document:  CACM-2440.html
+************************
+
+
+localization of the roots of a polynomial (algorithm r429)
+
+cacm 
+************************
+
+************************
+Document:  CACM-2706.html
+************************
+************************
+Document:  CACM-2822.html
+************************
+************************
+Document:  CACM-0179.html
+************************
+************************
+Document:  CACM-1633.html
+************************
+
+
+a modified newton method for polynomials
+
+a modified newton method for polynomials is
+discussed.  it is assumed one has approximations 
+for all the roots of the polynomial. 
+************************
+s of the polynomial.  three variations
+are described.  if the roots are simple, it is 
+
+************************
+
+************************
+Document:  CACM-1014.html
+************************
+************************
+Document:  CACM-1031.html
+************************
+************************
+Document:  CACM-0842.html
+************************
+************************
+Document:  CACM-2808.html
+************************
+************************
+Document:  CACM-1867.html
+************************
+************************
+Document:  CACM-2999.html
+************************
+************************
+Document:  CACM-0089.html
+************************
+************************
+Document:  CACM-1615.html
+************************
+************************
+Document:  CACM-0878.html
+************************

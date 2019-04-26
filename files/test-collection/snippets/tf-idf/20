@@ -1,0 +1,1311 @@
+Snippets for the query:  Q20
+************************
+Total Hits:  67
+************************
+
+************************
+Document:  CACM-0117.html
+************************
+************************
+Document:  CACM-0955.html
+************************
+************************
+Document:  CACM-3151.html
+************************
+
+
+an optimal real-time algorithm for planar convex hulls
+
+an algorithm is described for the construction in real-time of the
+convex hull of a set of n points in the plane.   using an appropriate data
+structure, the algorithm constructs the convex hull by successive
+updates, each taking time o(log n), thereby achieving a total
+processing time o(n log n).  
+
+cacm july, 1979
+
+preparata, f.
+
+computational geometry, convex hull, planar set of
+points, real-time algorithms, on-line algorithms. 
+************************
+
+************************
+Document:  CACM-2645.html
+************************
+
+
+two languages for estimating program efficiency
+
+two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ the program whose efficiency one wishes to estimate is written
+in the first language, a go-to-less programming 
+language which includes most of the features of algol
+60.  the second language consists of interactive 
+commands enabling its users to provide additional information
+about the program written in the first 
+language and to output results estimating its efficiency.
+ processors for the two languages are also 
+described.  the first processor is a syntax-directed
+translator which compiles a program into a symbolic 
+formula representing the execution time for that program.
+ the sound processor is a set of procedures 
+for that program.  the second processor is a set of
+procedures for algebraic manipulation which can be 
+called by the user to operate on the formula produced
+by the first processor.  examples of the usage 
+of the two languages are included.  the limitations of
+the present system, its relation to knuth's work 
+on the analysis of algorithms, and some of the directions
+
+************************
+, and some of the directions
+for further research are also discussed.
+
+cacm june, 1974
+
+ccohen, j.
+zuckerman, c.
+
+programming languages, syntax-directed translation,
+symbolic manipulation, program efficiency, 
+analysis of algorithms
+
+4.12 4.20 5.24 5.25
+
+************************
+
+************************
+Document:  CACM-0425.html
+************************
+************************
+Document:  CACM-2884.html
+************************
+
+
+permutation enumeration: four new permutation algorithms
+
+classical permutation enumeration 
+************************
+
+************************
+Document:  CACM-3163.html
+************************
+
+
+an optimal insertion algorithm for one-sided
+height-balanced binary search trees
+
+an algorithm for inserting an element into a one-sided height-balanced
+(oshb) binary search tree is presented.  the algorithm operates in time 
+o(log n), where n is the number of nodes in
+the tree.  this represents an improvement over the best previous
+ly known insertion algorithms of hirschberg and kosaraju, which require
+time o(log 2n).  moreover, the o(log n) complexity is optimal. earlier 
+************************
+ is optimal. earlier 
+results have shown that deletion in such a structure can
+also be performed in o(log n) time.  thus the result of this paper
+gives a negative answer to the question of whether such trees should
+be the first examples of their kind, where deletion has a smaller time 
+complexity than insertion.  furthermore, it can now be concluded
+that insertion, deletion, and retrieval in oshb trees can
+be performed in the same time as the corresponding operations for
+the more general avl trees, to within a constant factor.  however,
+the insertion and deletion algorithms for oshb trees appear 
+************************
+
+************************
+Document:  CACM-2828.html
+************************
+
+
+hierarchical geometric models for visible surface algorithms
+
+the geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement, but also to assist in 
+solving many other problems of systems for producing
+pictures by computer.  by using an extension of 
+traditional structure information, or a geometric hierarchy,
+five significant improvements to current 
+techniques are possible.  first, the range of complexity
+of an environment is 
+************************
+
+of an environment is greatly increased while 
+the visible complexity of any given scene is kept within
+a fixed upper limit.  second, a meaningful way 
+is provided to vary the amount of detail presented in
+a scene.  third, "clipping" becomes a very fast 
+logarithmic search for the resolvable parts of the environment
+within the field of view.  fourth, frame 
+to frame coherence and clipping define a graphical
+"working set," or fraction of the total structure 
+that should be present in primary store for immediate
+access by the visible surface algorithm.  finally, 
+the geometric structure suggests a recursive descent,
+visible surface algorithm in which the computation 
+time potentially grows linearly with the visible complexity of the scene.
+
+cacm october, 1976
+
+clark, j. h.
+
+visible surface algorithms, hidden surface algorithms,
+
+************************
+
+************************
+Document:  CACM-1135.html
+************************
+************************
+Document:  CACM-1953.html
+************************
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-2743.html
+************************
+
+
+sorting x + y
+
+cacm june, 1975
+
+harper, l. h.
+payne, t. h.
+savage, j. e.
+straus, e.
+
+merge sorting, computational complexity, data
+modeling, computing 
+************************
+
+************************
+Document:  CACM-2997.html
+************************
+
+
+convex hulls of finite sets of poin ts in two and three dimensions
+
+the convex hulls of sets of n poin ts in two
+and three dimensions can be determined with o(n 
+log n) operations.  the presented algorithms use the "divide
+and conquer" technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls.
+ since any convex hull algorithm requires at 
+least o(n log n) operations, the time complexity of the
+proposed algorithms is optimal within a multiplicative 
+constant.
+
+cacm february, 1977
+
+preparata, f. p.
+hong, s. j.
+
+computational complexity, convex hull, 
+************************
+ complexity, convex hull, optimal algorithms,
+planar set of poin 
+************************
+
+************************
+Document:  CACM-0877.html
+************************
+************************
+Document:  CACM-2169.html
+************************
+
+
+the altran system for rational function manipulation-a survey
+
+altran is a complete system for symbolic computation
+with rational functions in several variables 
+with integer coefficients.  it has been designed and
+implemented to handle large problems with ease and 
+efficiency.  considerable effort 
+************************
+
+************************
+Document:  CACM-2283.html
+************************
+************************
+Document:  CACM-2146.html
+************************
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-0319.html
+************************
+************************
+Document:  CACM-1494.html
+************************
+************************
+Document:  CACM-2428.html
+************************
+************************
+Document:  CACM-1342.html
+************************
+************************
+Document:  CACM-2772.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use 
+************************
+
+************************
+Document:  CACM-1650.html
+************************
+
+
+a unifying computational method for the
+analysis of complete factorial experiments
+
+************************
+ factorial experiments
+
+a computational method which may be used for
+the calculation of sums of squares in the analysis 
+of variance of complete factorial experiments 
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+
+
+analysis of algorithms for the zero-one programming problem
+
+this paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  computational experience
+is summarized. 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-2936.html
+************************
+
+
+an efficient data structure for the simulation event set
+
+recently algorithms have been presented for the
+realization of event scheduling routines suitable 
+for general purpose discrete event simulation systems.
+ several exhibited a performance superior to that 
+of commonly used simple linked list algorithms.  in this
+paper a new event scheduling algorithm is presented 
+which improves on two aspects of the best of the previously
+published algorithms.  first, the new algorithm's 
+performance is quite insensitive to skewed distributions,
+and second, its worst-case complexity is o( 
+n), where n is 
+************************
+
+************************
+Document:  CACM-2627.html
+************************
+
+
+scheduling independent tasks to reduce mean finishing time
+
+sequencing to minimize mean finishing time
+(or mean time in system) is not only desirable to 
+the user, but it also tends to minimize at each point
+in time the storage required to hold incomplete 
+tasks.  in this paper a deterministic model of independent
+tasks is introduced and new results are derived 
+which extend and generalize the algorithms known for
+minimizing 
+************************
+ known for
+minimizing mean finishing time.  in addition to 
+presenting and analyzing new algorithms it is shown
+that the most general mean-finishing-time problem 
+for independent tasks is polynomial complete, and hence unlikely
+
+************************
+
+************************
+Document:  CACM-2892.html
+************************
+************************
+Document:  CACM-2337.html
+************************
+
+
+a sorting problem and its complexity
+
+a technique for proving min-max norms of sorting
+algorithms is given.  one new algorithm 
+************************
+ is given.  one new algorithm for 
+finding the minimum and maximum elements of a set with
+fewest comparisons is proved optimal with this 
+technique.
+
+cacm june, 1972
+
+pohl, i.
+
+sorting, computational complexity, computational combinatorics
+
+************************
+
+************************
+Document:  CACM-2749.html
+************************
+
+
+significant event simulation
+
+this paper compares a new method of simulation
+organization, called the significant event method, 
+with an old one, called the clock pulse method, using
+as examples two automobile traffic models.  the 
+significant event method is found to be more efficient
+than the clock pulse method at low levels of system 
+interaction and less efficient at high levels.  a simple
+mathematical model for the trade-off in the 
+relative running time of the two methods is developed. 
+the model aids in choosing between the two simulation 
+methods for a particular experiment.  it is concluded
+that the significant event method can be of value 
+in the simulation of some systems when computational
+efficiency is of sufficient importance.
+
+************************
+
+************************
+Document:  CACM-1943.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+
+
+permutation of data blocks in a bubble memory
+
+a common internal organization of bubble memories consists of a set of (minor) 
+loops, connected through another (major) loop.  the problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied
+in this paper.  a lower bound to the number of steps required buy
+a permutation algorithm is derived, and the class of optimum algorithms is 
+identified.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2389.html
+************************
+
+
+preliminary report on a system for general space planning
+
+a computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  the language is an extension of algol 
+and includes means to represent spaces and objects, to manipulate
+them, and to test the resulting arrangements 
+according to a variety of constraints.  the algorithms
+used to solve problems 
+************************
+
+************************
+Document:  CACM-0883.html
+************************
+************************
+Document:  CACM-2444.html
+************************
+************************
+Document:  CACM-1899.html
+************************
+************************
+Document:  CACM-2702.html
+************************
+
+
+on the complexity of lr(k) testing
+
+the problem of determining whether an arbitrary
+context-free grammar is a member of some easily 
+parsed subclass of grammars such as 
+************************
+ of grammars such as the lr(k) grammars
+is considered.  the time complexity of this problem 
+is analyzed both when k is considered to be a fixed
+integer and when k is considered to be a parameter 
+of the test.  in the first case, it is shown that for
+every k there exists an o(n(k+2)) algorithm for 
+testing the lr(k) property, where n is the size of the
+grammar in question.  on the other hand, if both 
+k and the subject grammar are problem parameters, then
+the complexity of the problem depends very strongly 
+on the representation chosen for k.  more specifically,
+it is shown that this problem is np-complete 
+when k is expressed in unary.  when k is expressed in
+binary the problem is complete for nondeterministic 
+exponential time.  these results carry over to many
+other parameterized classes of grammars, such 
+************************
+es of grammars, such as 
+the ll(k), strong ll(k), slr(k), lc(k), and strong lc(k) grammars.
+
+cacm december, 1975
+
+hunt, h. b. iii
+szymanski, t. g.
+ullman, j. d.
+
+computational complexity, context-free grammars,
+
+************************
+
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 1978
+
+fredman, m.
+weide, b.
+
+analysis of algorithms, combinatorial problems,
+
+************************
+, combinatorial problems,
+computational complexity, computational models, 
+************************
+
+************************
+Document:  CACM-2135.html
+************************
+
+
+rapid computation of general interpolation
+formulas and mechanical quadrature rules
+
+let f have n continuous on a closed interval
+[a,b] and let l be a linear functional.  the attempt 
+is made to approximate l (f) with l (q) where q is a polynomial,
+approximating f.  algorithms are developed 
+for rapid computation of l (q) for a wide class of
+selections of q which 
+************************
+
+************************
+Document:  CACM-2771.html
+************************
+
+
+the synthesis of solids bounded by many faces
+
+a technique is presented which allows a class
+of solid objects to be synthesized and stored 
+using a computer.  synthesis begins with primitive solids
+like a cube, wedge, or cylinder.  any solid 
+can be moved, scaled, or rotated.  solids may also be
+added together or subtracted.  two algorithms to 
+perform addition are described.  for practical designers,
+the technique has the advantage that operations 
+are concise, readily composed, and are given in terms
+of easily imagined solidsuite short sequences 
+of operations suffice to build up complex solids bounded by many faces.
+
+cacm april, 1975
+
+braid, i. c.
+
+computational geometry, computer-aided 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+
+
+further evidence for the analysis of algorithms
+for the zero-one programming problem
+
+the purpose of this note is to report computational
+experience additional 
+************************
+
+************************
+Document:  CACM-1309.html
+************************
+
+
+a computer user-oriented system
+
+a computer language system has been developed
+which makes possible fast preparation of management 
+reports, regardless of computational complexity or format
+variety.  
+************************
+
+************************
+Document:  CACM-0149.html
+************************
+************************
+Document:  CACM-3007.html
+************************
+************************
+Document:  CACM-2938.html
+************************
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-0345.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1851.html
+************************
+************************
+Document:  CACM-2706.html
+************************
+
+
+a note on the set basis problem related
+to the compaction of character sets
+
+this note discusses the reduction of the
+set basis problem to the clique cover problem.
+
+cacm november, 1975 
+
+kou, l. t.
+wong, c. k.
+
+compaction of character sets, set basis, set covering,
+computational complexity, polynomial completeness, 
+************************
+
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract 
+************************
+ based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is 
+************************
+ of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, priority,
+operating systems,processor sharing, implementation 
+efficiency
+
+4.31 4.32 4.34 4.35 
+************************
+
+************************
+Document:  CACM-2313.html
+************************
+
+
+the evolution of storage structures
+
+data base management systems have grown rapidly
+in their power and complexity over the 15-year 
+history of data processing on commercially available
+computers.  the original concepts have split, and 
+new terms have been adopted to name and refer to these
+concepts.  the data structure diagram graphic 
+technique is used to illustrate the splitting of the
+concepts and the structural relations which exist 
+between these concepts at each point in the evolution.
+
+cacm july, 1972
+
+bachman, c. w.
+
+block, cylinder, device, field, extent file, page,
+record, physical record, logical record, track, 
+volume, entity, set, entity class, set class, data structure
+
+************************
+
+************************
+Document:  CACM-1465.html
+************************
+************************
+Document:  CACM-0598.html
+************************
+************************
+Document:  CACM-2619.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-3018.html
+************************
+
+
+covering edges by cliques with regard to
+keyword conflicts and intersection graphs
+
+kellerman has presented a method for determining
+keyword conflicts and described a heuristic 
+algorithm which solves a certain combinatorial optimization
+problem in connection with this method.  
+this optimization problem is here shown to be equivalent
+to the problem of covering the edges of a graph 
+by complete subgraphs with the objective of minimizing
+the number of complete subgraphs.  a relationship 
+between this edge-clique-cover problem and the graph coloring
+problem is established which allows algorithms 
+for either one of these problems to be constructed
+from algorithm for the other.  as consequences of 
+this relationship, the keyword conflict problem and the
+edge-clique-cover problem are shown to be np-complete, 
+and if p=/np then they do not admit polynomial-time approximation
+algorithms which always produce solutions 
+within a factor less than 2 from the optimum.
+
+cacm february, 1978
+
+kou, l.
+stockmeyer, l.
+wong, c.
+watson, t.
+
+keyword conflicts, intersection graphs, node clique
+cover, edge clique cover, computational complexity, 
+np-complete problems, 
+************************
+
+************************
+Document:  CACM-3165.html
+************************
+
+
+approximation of polygonal maps by cellular maps
+
+the approximation of polygonal thematic maps by cellular
+maps, an important operation in geographical data processing,
+is analyzed.  the data organization used for representing the polygonal
+maps is a widely used segment-based data structure, where class
+labels identify the regions bordering each segment on either side.
+the approximation algorithm presented operates on such an
+organization, eliminating the need for the recognition of region boundaries.
+each segment is examined only once.  the versatility of
+the new organization is further illustrated by the outline of algorithms
+for area computation and point inclusion.  the algorithm is
+applied to a set of soil maps converted to computer-readable
+form by means of a coordinate digitizer.
+
+cacm september, 1979
+
+nagy, g.
+wagle, s.
+
+polygon maps, cellularization, gridding, geographic data structures,
+computational geometry, computer cartography, 
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+************************
+Document:  CACM-0270.html
+************************
+************************
+Document:  CACM-2903.html
+************************
+
+
+improving programs by the introduction of recursion
+
+a new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern matching problems.
+ by using recursion in troduction, algorithms 
+which manipulate a stack are first translated into
+recursive algorithms in which no stack operations 
+occur.  these algorithms are then subjected to a second
+transformation, a method of recursion elimination 
+called "tabulation," to produce programs with a very
+efficient running time.  in particular, it is shown 
+how the fast linear pattern matching algorithm of knuth,
+morris, and pratt can be derived in a few steps 
+from a simple nonlinear stack algorithm.
+
+cacm november, 1977
+
+bird, r. s.
+
+program transformation, optimization of programs,
+recursion elimination, pattern matching algorithms, 
+stacks, computational induction
+
+4.0 4.2 5.20 
+************************
+
+************************
+Document:  CACM-2030.html
+************************
+
+
+context-sensitive parsing
+
+this paper presents a canonical form for context-sensitive
+derivations and a parsing algorithm which finds
+each context-sensitive analysis once and only once.  the amount of memory
+required by the algorithm is essentially no more than the required to 
+store a single complete derivation.  in addition, a modified
+version of the basic algorithm is presented which blocks infinite analyses 
+for grammars which contain loops.  the algorithm is
+also compared with several previous parsers for context-sensitive
+grammars and general rewriting systems, and the difference between
+the two types of analyses is discussed.  the algorithm appears to
+be complementary to an algorithm by s. kuno in several respects, including 
+the space-time trade-off and the degree of context dependence involved.
+
+cacm july, 1970
+
+woods, w. a.
+
+context-sensitive grammars, context-sensitive parsing, formal grammars,
+formal language theory, parsing, parsing algorithms, recognition algorithms
+
+************************
+
+************************
+Document:  CACM-2007.html
+************************
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions for pattern classification
+
+in two-class 
+************************
+ification
+
+in two-class pattern recognition, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+
+************************
+ for finding central
+hyperplanes are tested on three data sets.  although frequently
+used practice, the modified relaxation algorithm is very poor. 
+three algorithms which are defined in the paper are found to be
+quite good.
+
+cacm march, 1979
+
+slagle, j.
+
+pattern recognition, pattern classification, linear discriminants, 
+************************
+
+************************
+Document:  CACM-2927.html
+************************
+
+
+some new upper bounds on the generation of prime numbers
+
+given an integer n, what is the computational
+complexity of finding all the primes 
+************************
+ of finding all the primes less than 
+n?  a modified sieve of eratosthenes using doubly linked
+lists yields an algorithm of o(n) arithmetic 
+complexity.  this upper bound is shown to be equivalent
+to the theoretical lower bound for sieve methods 
+without preprocessing.  use of preprocessing techniques
+involving space-time and additive-multiplicative 
+tradeoffs reduces this upper bound to o(n/log logn)
+and the bit complexity to o(n logn log log logn). 
+ a storage requirement is described using o(n logn/log logn) bits as well.
+
+cacm september, 1977
+
+mairson, h. g.
+
+computational complexity, sieve, prime 
+************************
+
+************************
+Document:  CACM-2703.html
+************************
+
+
+the intrinsically exponential complexity of
+the circularity problem for attribute grammars
+
+attribute grammars are an extension of context-free
+grammars devised by knuth as a mechanism 
+for including the semantics of a context-free language
+with the syntax of the language.  the circularity 
+problem for a grammar is to determine whether the semantics
+for all possible sentences (programs) in 
+fact will be well defined.  it is proved that this problem
+is, in general, computationally intractable. 
+ specifically, 
+************************
+ly intractable. 
+ specifically, it is shown that any deterministic algorithm
+which solves the problem must for infinitely 
+many cases use an exponential amount of timen improved
+version of knuth's circularity testing algorithm 
+is also given, which actually solves the problem within exponential time.
+
+cacm december, 1975
+
+jazayeri, m.
+ogden, w. f.
+rounds, w. c.
+
+attribute grammars, circularity problem, context-free
+grammars, computational complexity, exponential 
+time, 
+************************
+
+************************
+Document:  CACM-2454.html
+************************
+
+
+computational algorithms for closed queueing
+
+************************
+ for closed queueing
+networks with exponential servers
+
+methods are presented for computing the equilibrium
+distribution of customers in closed queueing 
+networks with exponential servers.  expressions for
+various marginal distributions are also derived. 
+ the computational algorithms are based on two-dimensional
+
+************************
+
+************************
+Document:  CACM-2953.html
+************************
+
+
+notes on recursion elimination
+
+various methods of recursion elimination are
+applied to the schematic recursive procedure: 
+proc s(x); px then n(x); s(fx); s(gx); m(x) fi.  procedures
+with this general form arise in connection 
+with tree traversal and sorting algorithms.  each method
+of recursion removal involves the use of one 
+or more stacks, and the solutions are compared
+on the basis of their running time.
+
+cacm june, 1977
+
+bird, r. s.
+
+recursion elimination, optimization of programs,
+stacks, trees, sorting algorithms, computational 
+induction
+
+4.0 4.2 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+************************
+Document:  CACM-1529.html
+************************
+************************
+Document:  CACM-2325.html
+************************
+
+
+numerical mathematics and computer science
+
+numerical mathematics is viewed as the analysis
+of continuous algorithms.  four of the components 
+of numerical mathematics are discussed.  these are: foundations
+(finite precision number systems, computational 
+complexity), synthesis and analysis 
+************************
+
+************************
+Document:  CACM-3079.html
+************************
+************************
+Document:  CACM-0346.html
+************************
+************************
+Document:  CACM-3110.html
+************************
+
+
+assembling code for machines with span-dependent instructions
+
+many modern computers contain instructions
+whose lengths depend on the distance from a given 
+instance of such an instruction to the operand of that
+instruction.  this paper considers the problem 
+of minimizing the lengths of programs for such machines.
+ an efficient solution is presented for the 
+case in which the operand of every such "span-dependent"
+instruction is either a label or an assembly-time 
+expression of a certain restricted formf this restriction
+is relaxed by allowing these operands to 
+be more general assembly-time expressions, then
+the problem is shown to be np-complete.
+
+cacm april, 1978
+
+szymanski, t.
+
+span-dependent instructions, variable-length addressing,
+code generation, assemblers, compilers, 
+np-complete, computational complexity.
+
+4.11 4.12 5.25
+
+ca780406 
+************************
+
+************************
+Document:  CACM-1551.html
+************************
+************************
+Document:  CACM-3166.html
+************************
+
+
+computing standard deviations: accuracy
+
+four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  two of the algorithms are well-known in the statistical
+and computational literature; the other 
+************************
+
+************************
+Document:  CACM-0876.html
+************************
+************************
+Document:  CACM-1110.html
+************************
+************************
+Document:  CACM-3153.html
+************************
+
+
+the control of response times in multi-class
+systems by memory allocations 
+
+the possibility of giving different quality of service to jobs of different
+classes by regulating their memory allocation is examined in
+the context of a paged computer system.  two parameterized algorithms
+which partition the 
+************************
+
+which partition the main memory between two classes of jobs are
+considered.  initially, a closed system consisting of a process
+or and paging and file devices, with fixed numbers of jobs, is studied
+to determine optimal degrees of multiprogramming and the proportion
+of processor time devoted to each class.  applying a decomposition
+approach and treating the closed system as a single server,
+the response times in an open system with external arrivals are
+studied.  the object is to investigate the effect of the memory
+alocation parameters on the expected response times under the two algorithms.
+numerical solutions 
+************************
+
+************************
+Document:  CACM-0719.html
+************************
+
+
+variable width stacks
+
+character addressable, variable field computers
+permit ready establishment and manipulation 
+of variable width stacks.  single machine commands may
+push variable field items down into such stacks 
+or pop them up.  the availability of a variety of field
+delimiters allows the machine to push down or 
+pop up more than one variable width item with one command.
+ since these stacking operations can be made 
+the basis of compiler decoding algorithms the proper
+use of machines of this class for compilation has 
+************************
+
+************************
+Document:  CACM-0462.html
+************************
+************************
+Document:  CACM-1659.html
+************************
+
+
+computational linguistics in a ph. computer science program
+
+this report contains recommendations for a
+course curriculum on computational linguistics in 
+a ph. computer science program.  a classification of the
+subject 
+************************
+
+************************
+Document:  CACM-2725.html
+************************
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities 
+************************
+
+************************
+Document:  CACM-3162.html
+************************
+
+
+on improving the worst case running time
+of the boyer-moore string matching algorithm
+
+it is shown how to modify the boyer-moore string matching algorithm so that
+its worst case running time is linear even when multiple occurrences of the 
+pattern are present in the text.
+
+cacm september, 1979
+
+galil, z.
+
+computational complexity, linear time, worst 
+************************
+
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-2837.html
+************************
+
+
+new upper bounds for selection
+
+the worst-case minimum number of comparisons
+complexity vi(n) of the i-th selection problem 
+is considered.  a new upper bound for vi(n) improves the
+bound given by the standard hadian-sobel algorithm 
+by a generalization of the kirkpatrick-hadian-sobel
+algorithm, and extends kirkpatrick's method to a 
+much wider range of application.  this generalization
+compares favorably with a recent algorithm by hyafil.
+
+cacm september, 1976
+
+yap, c. k.
+
+selection problem, algorithms, comparison problems,
+concrete computational complexity, upper bounds, 
+************************
+
+************************
+Document:  CACM-2848.html
+************************
+************************
+Document:  CACM-2830.html
+************************
+************************
+Document:  CACM-2508.html
+************************
+************************
+Document:  CACM-3055.html
+************************
+
+
+an analysis of algorithms for the dutch national flag problem
+
+solutions to the dutch national flag problem
+have been given by dijkstra [1] and meyer [3]. 
+ dijkstra starts with a simple program and arrives at
+an improved program by refinement.  both of the 
+algorithms given by dijkstra are shown to have an expected number
+of swaps which is 2/3n + 0(1) and that 
+these values differ at most by 1/3 of a swap and asymptotically
+by 1/4 of a swap.  the algorithm of meyer 
+is shown to have expected swap complexity 5/9n.
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-3131.html
+************************
+
+
+focus microcomputer number system
+
+focus is a number system and supporting computational
+algorithms especially useful for 
+************************
+ especially useful for microcomputer control and other
+signal processing applications.  focus has the wide-ranging
+character of floating-point numbers with a uniformity of state distributions
+that give focus better than a twofold accuracy advantage
+over an equal word length floating-point system.  focus computations
+are typically five times faster than single precision fixed-point
+or integer arithmetic for a mixture of operations, comparable in
+speed with hardware arithmetic for many applications.  algorithms
+for 8-bit and 16-bit implementations of focus are included.
+
+cacm march, 1979
+
+edgar, a.
+lee, s.
+
+number representation, logarithmic arithmetic, computational
+speed, computational 
+************************
+
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.  illustrative examples of practical 
+and theoretical significance are given.  directions
+for new research are discussed.
+
+cacm september, 1977
+
+rabin, m. o.
+
+complexity of computations, algebraic complexity,
+in tractable problems, probabilistic algorithms
+
+5.25
+
+ca770901 jb december 
+************************
+
+************************
+Document:  CACM-1404.html
+************************
+************************
+Document:  CACM-2819.html
+************************
+************************
+Document:  CACM-1619.html
+************************
+
+
+error-free methods for statistical computations
+
+neely has discussed computational error generated
+by some algorithms used to compute various 
+************************
+

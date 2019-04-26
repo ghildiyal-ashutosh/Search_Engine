@@ -1,0 +1,2586 @@
+Snippets for the query:  Q47
+************************
+Total Hits:  272
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded 
+************************
+s must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data 
+************************
+, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  syntax directed
+input and output of data would facilitate use of 
+complex data stores.
+
+cacm july, 1972
+
+bobrow, d. g.
+
+list processing, programming languages, design of
+programming languages, interactive systems, control 
+structures, data structures, programming 
+************************
+, data structures, programming primitives,
+
+************************
+
+************************
+Document:  CACM-0558.html
+************************
+
+
+a modified inversion procedure for product
+form of the inverse linear programming codes
+
+this paper describes 
+************************
+ codes
+
+this paper describes a new algorithm for the
+selection of the pivot row in matrix inversion 
+when using the product form of the inverse.  this algorithm
+has been developed for linear programming 
+codes; however, it 
+************************
+
+************************
+Document:  CACM-2884.html
+************************
+
+
+permutation enumeration: four new permutation algorithms
+
+classical permutation 
+************************
+s
+
+classical permutation enumeration algorithms encounter
+special cases 
+************************
+s encounter
+special cases requiring additional computation 
+every nth permutation when generating the n! permutations
+on n marks.  four new algorithms have the attribute 
+************************
+s have the attribute 
+that special cases occur every n(n-1)permutations. 
+two of the algorithms produce the next permutation 
+************************
+s produce the next permutation 
+with a single exchange of two marks.  the other two algorithms
+infrequently exchange 
+************************
+s
+infrequently exchange more than two marks, 
+but the rules for generating the next permutation are
+very simple.  performance tests which have counted 
+execution of assignment statements, comparisons, arithmetic
+operations, and subscripted array references 
+have shown superiority of the new algorithms compared to
+boothroyd's 
+************************
+s compared to
+boothroyd's implementation of m. b. well's algorithm 
+and ehrlich's implementation of the johnson-trotter algorithm.
+
+cacm february, 1976
+
+ives, f. m.
+
+permutations, loop-free algorithms
+
+5.30
+
+ca760203 jb january 
+************************
+
+************************
+Document:  CACM-3107.html
+************************
+
+
+generating beta variates with nonintegrel shape parameters
+
+a new rejection method is described for generating
+beta variates.  the method is compared with 
+previously published methods both theoretically and through
+computer timings.  it is suggested 
+************************
+ timings.  it is suggested that the 
+method has advantages in both speed and programming
+simplicity over previous methods, especially for 
+"difficult" 
+************************
+
+************************
+Document:  CACM-2930.html
+************************
+
+
+the gre advanced test in computer science
+
+this report describes 
+************************
+
+
+this report describes the advanced test in
+computer science which was recently in 
+************************
+ which was recently in troduced in 
+the graduate record examination program.  the gre program
+is described in general, and, the events leading 
+to the establishment of the advanced computer science
+test are discussed. 
+************************
+
+test are discussed.  content specifications and 
+their rationale are given.  a set of sample questions is included.
+
+cacm september, 1977
+
+austing, r. h.
+
+education, computer science, graduate school
+admissions, 
+************************
+
+************************
+Document:  CACM-0047.html
+************************
+
+
+russian visit to u. computers
+
+cacm november, 1959
+
+************************
+
+************************
+Document:  CACM-2813.html
+************************
+
+
+the computer science and engineering research 
+************************
+ and engineering research study (cosers)
+
+the computer science and engineering research
+
+************************
+ and engineering research
+study (cosers) is briefly described.  the motivation, 
+organization, and schedule for this nsf supported study
+are given.  for possible further reference, the 
+subject area panel chairmen and the members
+of the steering committee are identified.
+
+cacm december, 1976
+
+arden, b.
+
+computer science research, computer engineering
+
+************************
+
+************************
+Document:  CACM-2997.html
+************************
+
+
+convex hulls of finite sets of poin ts in two and three dimensions
+
+the convex hulls of sets of n poin ts in two
+and three dimensions can be determined with o(n 
+log n) operations.  the presented algorithms use the "divide
+and 
+************************
+s use the "divide
+and conquer" technique and recursively apply 
+a merge procedure for two nonin tersecting convex hulls.
+ since any convex hull algorithm requires at 
+least o(n log n) operations, the time complexity of the
+proposed algorithms is optimal within a 
+************************
+ is optimal within a multiplicative 
+constant.
+
+cacm february, 1977
+
+preparata, f. p.
+hong, s. j.
+
+computational complexity, convex hull, optimal algorithms,
+planar set of poin 
+************************
+
+************************
+Document:  CACM-1171.html
+************************
+
+
+a comparison of the primal-simplex and primal-dual
+algorithms for linear programming
+
+a statistical comparison 
+************************
+
+
+a statistical comparison of the primal-dual
+and the more commonly used primal-simplex algorithm 
+for solving linear programming problems has been made 
+************************
+ problems has been made under
+the assumption of starting with a full artificial 
+basis.  under these conditions the primal-dual method
+shows a statistically significant superiority on 
+randomly generated problems.  it has also been found, via
+a regression analysis, that the relevant parameters 
+in determining the difference in the number of iterations
+between the algorithms is not only the number 
+************************
+
+************************
+Document:  CACM-2510.html
+************************
+
+
+minit algorithm for linear programming (algorithm r333)
+
+cacm 
+************************
+
+************************
+Document:  CACM-2395.html
+************************
+
+
+quadratic programming for nonlinear regression
+
+a quadratic programming algorithm is described
+for use 
+************************
+ is described
+for use with the magnified diagonal method of 
+nonlinear regression with linear constraints.  the
+regression method is published in jacm, july 1970.
+
+cacm january, 1972
+
+shrager, r. i.
+
+nonlinear equations, nonlinear regression, nonlinear
+programming, quadratic programming, 
+************************
+
+************************
+Document:  CACM-2283.html
+************************
+
+
+thinning algorithms on rectangular, hexagonal, 
+************************
+s on rectangular, hexagonal, and triangular arrays
+
+in this report three thinning algorithms are
+developed: one 
+************************
+s are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.  the approach to the
+development of each algorithm is the same.  pictorial 
+results produced by each of the algorithms are presented
+and the 
+************************
+ are presented
+and the relative performances of the algorithms 
+are compared.  it 
+************************
+s 
+are compared.  it is found that the algorithm operating
+with the triangular array is the most sensitive 
+to image irregularities and noise, yet it will yield
+a thinned image with an overall reduced number of 
+points.  it is concluded that the algorithm operating in
+conjunction with the hexagonal array has features 
+which strike a balance between those of the other two arrays.
+
+cacm september, 1972
+
+deutsch, e. s.
+
+thinning algorithms, rectangular, hexagonal,
+
+************************
+
+************************
+Document:  CACM-2589.html
+************************
+
+
+a computer routine for quadratic and linear
+programming problems (algorithm 
+************************
+
+************************
+Document:  CACM-2146.html
+************************
+
+
+optimizing the polyphase sort
+
+various dispersion algorithms for the polyphase
+sorting 
+************************
+s for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read is displayed.  the logic of this 
+algorithm is rather complicated; hence, several other
+new dispersion algorithms with more straightforward 
+************************
+ with more straightforward 
+logic are presented.  of the simple dispersion algorithms
+discussed, the  horizontal 
+************************
+s
+discussed, the  horizontal is best.  it does 
+approximately one-fourth to one and one-half percent
+less reading and writing than most algorithms in 
+use today.  an 
+************************
+s in 
+use today.  an additional two and one-fourth to three
+percent improvement can be achieved by utilizing 
+the modified optimum algorithm.  this algorithm is relatively
+straightforward, but it requires a fairly 
+close estimate of the total number of unit strings before the dispersion begins.
+
+cacm november, 1971
+
+shell, d. l.
+
+sorting, polyphase sorting, dispersion algorithms,
+optimum dispersion 
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+
+
+growing applications of linear programming
+
+use of linear programming 
+************************
+
+
+use of linear programming models has grown so
+
+************************
+ models has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  it no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  an advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based. 
+************************
+ 
+systems must be based.  these viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  some
+of the components of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, data transmission 
+for direct computer entry, data file at the computer center,
+data processing and editing prior to solving 
+the simplex algorithm, an efficient and reliable 
+************************
+
+************************
+Document:  CACM-1809.html
+************************
+
+
+numerical analysis in a ph. computer science program
+
+numerical analysis 
+************************
+ program
+
+numerical analysis is the study of methods and
+procedures used to obtain "approximate solutions" 
+to mathematical problems.  much of the emphasis is on scientific
+calculation.  the difficulties of education 
+in such a broad area center around the question of background
+and emphasis.  the numerical analysis program 
+in the computer science department should emphasize 
+************************
+ department should emphasize an
+awareness of the problems of computer implementation 
+and experimental procedures.  nevertheless, there is a
+need for a solid background in applied mathematics.
+
+cacm december, 1969
+
+parter, s. v.
+
+ph. program, numerical analysis, course separation, 
+************************
+
+************************
+Document:  CACM-1734.html
+************************
+
+
+chebyshev solution to an overdetermined
+linear system (algorithm 328 [f4])
+
+cacm june, 
+************************
+ 328 [f4])
+
+cacm june, 1968
+
+bartels, r. h.
+goulub, h. g.
+
+chebyshev solutions, overdetermined linear
+systems, linear equations, exchange algorithm
+
+5.13 5.14 5.41
+
+ca680611 
+************************
+
+************************
+Document:  CACM-1431.html
+************************
+
+
+on a storage mapping function for data structures
+
+some basic facts about 
+************************
+
+
+some basic facts about certain data structures
+are reviewed and an 
+************************
+
+************************
+Document:  CACM-1990.html
+************************
+
+
+numerical constants (algorithm)
+
+cacm september, 1970
+
+************************
+)
+
+cacm september, 1970
+
+dunham, c. b.
+
+numerical algorithm, numerical constants
+
+************************
+
+************************
+Document:  CACM-1977.html
+************************
+
+
+an interactive display for approximation by linear programming
+
+an interactive program
+
+************************
+
+
+an interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions 
+************************
+ combination of functions (including
+splines) selected by the user.  the coefficients of the approximation
+are determined by linear programming so as to minimize the 
+************************
+ so as to minimize the error
+in either the l1 or l-infinity norm.  auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed. this
+interactive system is described and several examples of its use are given.
+
+cacm november, 1970
+
+lafata, p.
+rosen, j. b.
+
+approximation, data fitting, functional approximation, linear
+programming, interactive graphical 
+************************
+
+************************
+Document:  CACM-3019.html
+************************
+
+
+the gre advanced test in computer science
+
+cacm february, 1978
+
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+
+
+analysis of algorithms for the zero-one programming 
+************************
+s for the zero-one programming problem
+
+this paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming 
+************************
+s for the 
+zero-one programming problem.  computational experience
+is summarized.  the machine time and storage 
+requirements of several of the algorithms are compared
+over several 
+************************
+s are compared
+over several test problems of small and intermediate 
+size.  computer experiments still provide little hope
+of solving problems with over 100 variables with 
+a reasonable amount of machine time.
+
+cacm december, 1968
+
+gue, r. l.
+liggett, j. c.
+cain, k. c.
+
+operations research, optimization theory, integer
+programming, zero-one variables, 
+************************
+, zero-one variables, algorithms
+
+5.39 5.41
+
+ca681208 
+************************
+
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  a number of old babylonian 
+************************
+
+************************
+Document:  CACM-2699.html
+************************
+
+
+automatic data structure choice in a language of very high level
+
+setl is a set-theoretically oriented language
+of very high level whose repertoire of semantic 
+objects includes finite sets, ordered n-tuples, and
+sets of ordered n-tuples usable as mappings.  this 
+paper describes the structure of an optimizer for this
+language.  among other methods of interest, the 
+optimizer uses techniques which allow relations of inclusion
+and membership to be established, the domains 
+and ranges of (tabulated) mappings to be estimated from
+above and below, and the single-valuedness of 
+(tabulated) mappings to be proved.  once facts of this
+kind have been established, automatic choice of 
+data structures becomes possible. the methods employed
+are based upon, and extend, known techniques of 
+data flow analysis.
+
+cacm december, 1975
+
+schwartz, j. t.
+
+program optimization, automatic programming, 
+************************
+, automatic programming, high-level
+languages, set-theoretic languages, data 
+structure choice
+
+4.12 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+
+
+remarks on algorithms 2 and 3, algorithm 
+************************
+s 2 and 3, algorithm 15 and algorithms 25 and 26
+
+cacm march, 
+************************
+
+************************
+Document:  CACM-1922.html
+************************
+************************
+Document:  CACM-2627.html
+************************
+
+
+scheduling independent tasks to reduce mean finishing time
+
+sequencing to minimize mean finishing time
+(or mean time in system) is not only desirable to 
+the user, but it also tends to minimize at each point
+in time the storage required to hold incomplete 
+tasks.  in this paper a deterministic model of independent
+tasks is introduced and new results are derived 
+which extend and generalize the algorithms known for
+minimizing 
+************************
+s known for
+minimizing mean finishing time.  in addition to 
+presenting and analyzing new algorithms it is shown
+that the 
+************************
+s it is shown
+that the most general mean-finishing-time problem 
+for independent tasks is polynomial complete, and hence unlikely
+to admit of a non-enumerative solution
+
+cacm july, 1974
+
+bruno, j.
+coffman, e. g. jr.
+sethi, r.
+
+minimizing mean finishing time, minimizing mean flow
+time, sequencing algorithms, optimal scheduling 
+************************
+s, optimal scheduling 
+algorithms, deterministic scheduling 
+************************
+
+************************
+Document:  CACM-2502.html
+************************
+
+
+a comment on the practical aspects of computer science education
+
+cacm may, 
+************************
+ education
+
+cacm may, 1973
+
+estell, r. g.
+
+education, computer engineering, computer
+sciences curriculum, systems 
+************************
+
+************************
+Document:  CACM-2475.html
+************************
+
+
+solution of linear programming problems
+in 0-1 variables 
+************************
+ problems
+in 0-1 variables [h1] (algorithm a449)
+
+cacm july, 1973
+
+fiala, f.
+
+linear programming, zero-one variable 
+
+************************
+
+************************
+Document:  CACM-2153.html
+************************
+
+
+experiments with an automated instructional system for numerical methods
+
+a computer system was developed 
+************************
+ system was developed at purdue
+university to teach portions of an undergraduate 
+course in numerical methods.  each instructional 
+************************
+.  each instructional unit
+or lesson is divided into three modes of instruction 
+which allow the student to press from a computer-controlled
+presentation to a student-controlled investigation. 
+the system is designed as a classroom-independent course
+of study, and has been used for two semesters 
+by students in lieu of conventional classroom instruction.
+ initial measures of effectiveness, student 
+acceptance, and operational cost are the result of testing
+the system independent of instructor intervention. 
+ the system is operational on a cdc 6500 with teletype terminals. 
+
+cacm october, 1971
+
+oldehoeft, a. e.
+conte, s. d.
+
+computer-assisted instruction, numerical
+methods, cai, instructional 
+************************
+
+************************
+Document:  CACM-2337.html
+************************
+
+
+a sorting problem and its complexity
+
+a technique for proving min-max norms of sorting
+algorithms is given.  one new 
+************************
+s is given.  one new algorithm for 
+finding the minimum and maximum elements of a set with
+fewest comparisons is proved optimal with this 
+technique.
+
+cacm june, 1972
+
+pohl, i.
+
+sorting, computational complexity, computational combinatorics
+
+************************
+
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the ibm 709/7090 computer.  the system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data 
+************************
+s defined on these data sets.  both
+data and algorithms may be expressed in 
+************************
+
+************************
+Document:  CACM-1342.html
+************************
+
+
+transportation problem (algorithms 293 [h])
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-2389.html
+************************
+
+
+preliminary report on a system for general space planning
+
+a computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  the language is an extension of algol 
+and includes means to represent spaces and objects, to manipulate
+them, and to test the resulting arrangements 
+according to a variety of constraints.  the algorithms
+used to solve problems 
+************************
+s
+used to solve problems expressed in this language 
+rely on heuristic programming.  both the language
+and the search algorithms are detailed.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2593.html
+************************
+
+
+a back-end computer for data base management
+
+it 
+************************
+ base management
+
+it is proposed that the data base management
+function be placed on a dedicated back-end computer 
+which accepts commands 
+************************
+ 
+which accepts commands (in a relatively high level language
+such as the codasyl data base task group, 
+april 1971 report) from a host computer, accesses the
+data base 
+************************
+, accesses the
+data base on secondary storage, and returns results. 
+ the advantages of such a configuration are discussed.  an
+experimental implementation, called the experimental 
+data management system, xdms, is described and certain
+conclusions about the back-end approach are drawn 
+from this implementation.
+
+cacm october, 1974
+
+canaday, r. h.
+harrison, r. d.
+ivie, e. l.
+ryder, j. l.
+wehr, l. a.
+
+data base management, information retrieval, computer
+configurations, computer 
+************************
+
+configurations, computer networks, data base 
+task group language, 
+************************
+ base 
+task group language, data base protection,
+data base portability, back-end computer
+
+3.79 4.22 4.33 4.35
+
+************************
+
+************************
+Document:  CACM-2646.html
+************************
+
+
+a model for masking rotational latency by dynamic disk allocation
+
+this paper presents the background and algorithms
+for masking the rotational 
+************************
+s
+for masking the rotational latency of a disk 
+or drum.  it discusses the anticipatory input and output
+of blocks of data to buffer and primary memories 
+for a mono-programmed computer system.  a basic permutation
+algorithm and several variations are given. 
+  because of the anticipatory nature of the i/o scheduling,
+these algorithms are restricted to classes 
+of programs with predictable behavior.  while the methods
+are not restricted to numerical computations, 
+matrix 
+************************
+ computations, 
+matrix and partial differential equation methods are
+typical examples of their use.  it is shown that 
+latency may be masked using a small amount of buffer
+memory.  the methods discussed are independent of 
+the overall size of the data base being considered.
+
+cacm may, 1974
+
+gold, d. e.
+kuck, d. j.
+
+buffer memory, memory hierarchy, permutation algorithm,
+rotational latency, 
+************************
+
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 1978
+
+fredman, m.
+weide, b.
+
+analysis of algorithms, combinatorial problems,
+
+************************
+
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial illiac optimization 
+problem.  a satisfactory method of data allocation is
+then presented.  language structures to utilize 
+this storage method and express parallel algorithms are described.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1441.html
+************************
+
+
+methods of numerical integration applied 
+************************
+ integration applied to
+a system having trivial function evaluations
+
+a study has been made to determine which methods
+of numerical integration require 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+
+
+further evidence for the analysis of algorithms
+for the zero-one programming 
+************************
+s
+for the zero-one programming problem
+
+the purpose of this note is to report computational
+experience additional to that recently 
+summarized by gue et al, with two algorithms for the
+zero-one linear 
+************************
+s for the
+zero-one linear programming problem.  an error in 
+************************
+ problem.  an error in 
+gue's paper is corrected.  the utility of one of
+the algorithms as a suboptimizer is 
+************************
+s as a suboptimizer is indicated.
+
+cacm january, 1971
+
+proll, l. g.
+
+operations research, integer programming, zero-one variables, algorithms
+
+5.39 5.41
+
+ca710108 
+************************
+
+************************
+Document:  CACM-1147.html
+************************
+
+
+on the numerical solution of boundary value problems
+for linear ordinary differential equations*
+
+a numerical method is presented for the solution
+of boundary value problems involving linear 
+ordinary differential equations.  the method described
+is noniterative and makes use of any one-step 
+numerical integration scheme to reduce the problem from
+one of boundary values to one of initial values. 
+ comments are made concerning some numerical results
+of applying the method to a specific problem.  in 
+addition an extension of the algorithm described
+to more general 
+************************
+
+************************
+Document:  CACM-2073.html
+************************
+
+
+solution of linear programs in 0-1 variables
+by implicit enumeration (algorithm 341 $h))
+
+cacm april, 1970
+
+guignard, m. m.
+
+linear programming, zero-one variables, 
+************************
+
+************************
+Document:  CACM-2975.html
+************************
+
+
+remark on uniform insertion in structured data structures
+
+cacm april, 1977
+
+hollander, 
+************************
+
+
+cacm april, 1977
+
+hollander, c.
+
+data structures, directed graphs, uniform 
+************************
+
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract 
+************************
+s based on an abstract model 
+of a scheduling system which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related 
+************************
+s
+are defined and related to existing algorithms.  a
+criterion for the 
+************************
+s.  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+************************
+, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of 
+************************
+s, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, 
+************************
+
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel computers as can be
+expected to be available in the near future, much 
+of numerical analysis will have to be recast in a more
+"parallel" form.  by this is meant that serial 
+algorithms ought to be replaced 
+************************
+s ought to be replaced by algorithm which
+consist of several subtasks which can be computed 
+without knowledge of the results of the other subtasks. 
+as an example, a method is proposed for "parallelizing" 
+the numerical integration of an ordinary differential
+equation, which process, by all standard methods, 
+is entirely serial.
+
+************************
+
+************************
+Document:  CACM-3037.html
+************************
+
+
+a linear sieve algorithm for finding prime numbers
+
+a new algorithm is presented for finding all
+primes between 2 and n.  the algorithm executes 
+in time proportional to n (assuming that multiplication
+of integers not larger than n can be performed 
+in unit time).  the method has the same arithmetic complexity
+as the algorithm presented by mairson [6]; 
+however, our version is perhaps simpler and more elegant.
+ it is also easily extended to find the prime 
+factorization of all integers between 2 and n in time proportional to n.   
+
+cacm december, 1978
+
+gries, d.
+misra, j.
+
+primes, algorithms, data structures
+
+5.25 5.24 5.29
+
+ca781202 
+************************
+
+************************
+Document:  CACM-2592.html
+************************
+
+
+on generation of test problems for linear programming codes
+
+users of linear programming computer codes have
+realized 
+************************
+ codes have
+realized the necessity of evaluating the capacity, 
+effectiveness, and accuracy of the solutions provided
+by such codes.  large scale linear programming 
+codes at most installations 
+************************
+ 
+codes at most installations are assumed to be generating correct
+solutions without ever having been "bench-marked" 
+by test problems with known solutions.  the reason for
+this failure to adequately test the codes is that 
+rarely are there large problems with known solutions readily
+available.  this paper presents a theoretical 
+justification and an illustrative implementation of a method
+for generating linear programming test problems 
+with 
+************************
+ test problems 
+with known solutions.  the method permits the generation
+of test problems that are of arbitrary size 
+and have a wide range of numerical characteristics.
+
+cacm october, 1974
+
+charnes, a.
+raike, w. m.
+stutz, j. d.
+walters, a. s.
+
+linear programming, test problem generation,
+
+************************
+
+************************
+Document:  CACM-1660.html
+************************
+
+
+index by subject to algorithms, 1960-1968
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of lp algorithms.  other lp applications are indicated.
+
+cacm july, 1969
+
+fox, b. l.
+
+linear programming, revised simplex
+method, 
+************************
+
+************************
+Document:  CACM-1797.html
+************************
+
+
+solution of linear programs in 0-1 (algorithm 341 [h])
+
+cacm december, 1969
+
+proll, l. g.
+
+linear programming, zero-one variables, 
+************************
+
+************************
+Document:  CACM-1009.html
+************************
+
+
+solution of combinatorial problems using generating
+functions on a variable-field computer
+
+the utility of generating 
+************************
+
+************************
+Document:  CACM-2993.html
+************************
+
+
+occurrences of cycling and other phenomena
+arising in a class of linear programming models
+
+an investigation 
+************************
+ models
+
+an investigation into the average queue size
+for a certain class of queues has resulted in 
+the formulation of linear programming problems which
+are ill-conditioned 
+************************
+ problems which
+are ill-conditioned in some cases.  in attempting 
+to solve these linear programming models, using ibm's
+
+************************
+ models, using ibm's
+mps package, instances of cycling were encountered. 
+ small perturbations in the input data resulted in problems
+which did not cycle.  this fact, plus several 
+other observed phenomena suggest that the primary reason
+that cycling is not known to occur more frequently 
+is the round-off errors in the computations perturb
+the problem sufficiently to prevent cycling (or at 
+least to prevent indefinite cycling).  in one case maximizing
+and minimizing an objective function subject 
+to the same constrain t set was attempted, but mps solved
+only one of these while giving an indication 
+of infeasibility for the other.
+
+cacm february, 1977
+
+kotiah, t. c. t.
+steinberg, d. i.
+
+linear programming, cycling, queueing models
+
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition 
+************************
+. 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the 
+************************
+
+************************
+Document:  CACM-2426.html
+************************
+
+
+algorithms scale1, scale2, and 
+************************
+s scale1, scale2, and scale3 for determination
+of scales on computer generated plots 
+[j6] (algorithm a463)
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-1952.html
+************************
+
+
+index by subject to algorithms, 1970
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-2899.html
+************************
+
+
+a survey of computer science offerings in small liberal 
+************************
+ offerings in small liberal arts colleges.
+
+recent curricular development in computer science
+together with student 
+************************
+
+together with student in terest in pursuing 
+topics in computer science beyond the usual programming
+
+************************
+ beyond the usual programming
+courses have encouraged small liberal arts colleges 
+to expand their offerings.  this paper summarizes the
+results of a survey taken to determine the type 
+of computer science programs being offered 
+************************
+ programs being offered in these
+colleges.  the results indicate that over half of 
+these colleges either have no computer science
+program or offer only 
+************************
+
+program or offer only programming courses.
+
+cacm december, 1977
+
+lopez, a. a.
+raymond, r.
+tardiff, r.
+
+computer science, education, curricula, 
+************************
+
+************************
+Document:  CACM-2141.html
+************************
+
+
+algorithmic selection of the best
+method for compressing map data strings
+
+the best of a dozen different methods for
+compressing map 
+************************
+ for
+compressing map data is illustrated.  the choices 
+are generated by encoding data strings-sequence of like
+codes-by three methods and in four directions. 
+************************
+
+************************
+Document:  CACM-1274.html
+************************
+
+
+on the numerical solution of an n-point boundary
+value problem for linear ordinary differential 
+************************
+ ordinary differential 
+equations
+
+a method for the numerical solution of then-point
+boundary value problem for homogeneous linear 
+ordinary differential 
+************************
+
+************************
+Document:  CACM-1654.html
+************************
+
+
+a university's educational program in computer science
+
+after a review of the 
+************************
+
+
+after a review of the power of contemporary computers,
+computer science is defined in several 
+************************
+ is defined in several 
+ways.  the objectives of computer science education are
+stated, 
+************************
+ education are
+stated, and it is asserted that in a north american 
+university these will be achieved only through a computer
+science department.  the program 
+************************
+ department.  the program at stanford 
+university is reviewed as an example.  the appendices
+include syllabic of ph. qualifying examinations 
+for stanford's computer science department.
+
+cacm january, 
+************************
+
+************************
+Document:  CACM-0696.html
+************************
+
+
+an automatic data acquisition and inquiry system using disk files
+
+lockheed missiles and space company has installed
+a large-scale automatic data acquisition 
+(ada) system which ties together the company's manufacturing
+facilities located in van nuys and sunnyvale, 
+california.  the system includes over 200 remote input
+
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+
+
+exponentiation of series (algorithms 134)
+
+cacm july, 1963
+
+************************
+
+************************
+Document:  CACM-2903.html
+************************
+
+
+improving programs by the introduction of recursion
+
+a new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern 
+************************
+s which solve pattern matching problems.
+ by using recursion in troduction, algorithms 
+which manipulate a 
+************************
+s 
+which manipulate a stack are first translated into
+recursive algorithms in which no stack operations 
+************************
+s in which no stack operations 
+occur.  these algorithms are then subjected 
+************************
+s are then subjected to a second
+transformation, a method of recursion elimination 
+called "tabulation," to produce programs with a very
+efficient running time.  in particular, it is shown 
+how the fast linear pattern matching algorithm of knuth,
+morris, and 
+************************
+ of knuth,
+morris, and pratt can be derived in a few steps 
+from a simple nonlinear stack algorithm.
+
+cacm november, 1977
+
+************************
+.
+
+cacm november, 1977
+
+bird, r. s.
+
+program transformation, optimization of programs,
+recursion elimination, pattern matching algorithms, 
+stacks, computational 
+************************
+
+************************
+Document:  CACM-1729.html
+************************
+
+
+minit algorithm for linear programming (algorithm 333 [h])
+
+************************
+ (algorithm 333 [h])
+
+cacm june, 1968
+
+salazar, r. c.
+sen, s.
+
+linear programming, dual simplex method, 
+************************
+
+************************
+Document:  CACM-2509.html
+************************
+
+
+minit algorithm for linear programming (algorithm r333)
+
+cacm 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic 
+************************
+ problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, 
+************************
+, including linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations 
+************************
+.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.  advantages of these programming languages
+for the retrieval 
+************************
+
+************************
+Document:  CACM-2007.html
+************************
+
+
+algorithms policy/revised august 
+************************
+
+************************
+Document:  CACM-2324.html
+************************
+
+
+management science: a view from nonlinear programming
+
+a brief history of 
+************************
+
+
+a brief history of integer and continuous
+nonlinear programming is presented as well 
+************************
+ is presented as well as the 
+current obstacles to practical use of these mathematical
+programming techniques.  it is forecast that 
+the useful contributions to nonlinear programming actually
+made in the next few years are more likely 
+to be consolidations than theoretical breakthroughs.  these
+contributions are likely to be the documentation 
+of standard test problems, construction of user oriented
+software, and comparisons of currently known 
+algorithms to demonstrate which 
+************************
+s to demonstrate which techniques are best for specific problems.
+
+cacm july, 1972
+
+shanno, d. f.
+weil, r. l.
+
+integer programming, linear programming, mathematical
+programming, nonlinear programming, quadratic 
+programming, management science, operations research, algorithms
+
+5.41 8.3
+
+ca720704 
+************************
+
+************************
+Document:  CACM-2675.html
+************************
+
+
+a computer routine for quadratic and linear
+programming problems (algorithm 
+************************
+
+************************
+Document:  CACM-2904.html
+************************
+
+
+an algorithm for reduction of operator strength
+
+a simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  several extensions,
+including linear function test replacement, 
+are discussed.  these algorithms should fit well into an
+integrated package of local optimization algorithms.
+
+cacm november, 
+************************
+ algorithms.
+
+cacm november, 1977
+
+************************
+
+************************
+Document:  CACM-2431.html
+************************
+
+
+discrete linear l1 approximation by interval
+linear programming [e2] (algorithm a458)
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-2223.html
+************************
+
+
+minit algorithm for linear programming (algorithm 222 [h])
+
+************************
+ (algorithm 222 [h])
+
+cacm january, 1971
+
+kolm, a.
+dahlstrand, t.
+
+linear programming, dual simplex method, 
+************************
+
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions 
+************************
+s that find
+central solutions for pattern classification
+
+in two-class pattern recognition, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+hyperplanes are tested on three data sets.  although frequently
+
+************************
+ sets.  although frequently
+used practice, the modified relaxation algorithm is very poor. 
+three algorithms which are defined in 
+************************
+ which are defined in the paper are found to be
+quite good.
+
+cacm march, 1979
+
+slagle, j.
+
+pattern recognition, pattern classification, linear discriminants, central
+hyperplanes, centering, centrality criteria, dead zone, hyperplane,
+linearly separable, relaxation algorithm, accelerated relaxation
+
+************************
+
+************************
+Document:  CACM-2953.html
+************************
+
+
+notes on recursion elimination
+
+various methods of recursion elimination are
+applied to the schematic recursive procedure: 
+proc s(x); px then n(x); s(fx); s(gx); m(x) fi.  procedures
+with this general form arise in connection 
+with tree traversal and sorting algorithms.  each method
+of recursion 
+************************
+s.  each method
+of recursion removal involves the use of one 
+or more stacks, and the solutions are compared
+on the basis of their running time.
+
+cacm june, 1977
+
+bird, r. s.
+
+recursion elimination, optimization of programs,
+stacks, trees, sorting algorithms, computational 
+induction
+
+************************
+
+************************
+Document:  CACM-2553.html
+************************
+
+
+the practical aspect of computer science education-discussion
+
+************************
+ education-discussion
+
+cacm january, 1973
+
+blount, s. e.
+
+education, computer engineering, computer
+science curriculum, systems 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation 
+************************
+s for graph manipulation [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+
+************************
+ are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, 
+************************
+.
+
+cacm june, 1973
+
+hopcroft, j.
+tarjan, r.
+
+graphs,analysis of algorithms, graph manipulation
+
+************************
+
+************************
+Document:  CACM-1529.html
+************************
+
+
+decomposition programming an analysis of matrix substructure 
+
+a petroleum blending problem was analyzed in order
+to compare the primal and primal-dual decomposition 
+algorithms.  in the course of 
+************************
+s.  in the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms and to their
+absolute 
+************************
+
+************************
+Document:  CACM-2464.html
+************************
+
+
+the complex method for constrained optimization [e4] (algorithm a454)
+
+cacm august, 
+************************
+ a454)
+
+cacm august, 1973
+
+richardson, j. a.
+kuester, j. l.
+
+optimization, constrained optimization, box's algorithm
+
+5.41
+
+ca730810 jb january 
+************************
+
+************************
+Document:  CACM-2325.html
+************************
+
+
+numerical mathematics and computer science
+
+numerical mathematics 
+************************
+
+
+numerical mathematics is viewed as the analysis
+of continuous algorithms.  four of the components 
+of numerical mathematics are discussed.  these are: foundations
+(finite precision number systems, computational 
+complexity), synthesis and analysis of algorithms,
+analysis of error, programs and program libraries.
+
+cacm july, 1972
+
+traub, j. f.
+
+numerical mathematics, computer science, mathematics
+of computation, 
+************************
+, mathematics
+of computation, algorithms, continuous algorithms
+
+************************
+s, continuous algorithms
+
+1.3 5.0 5.1 5.25
+
+
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+
+
+comment on the composition of semantics in algol 68
+
+cacm august, 1972
+
+van der poel, w. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive composition, design 
+of programming languages, data structures
+
+1.3 4.2 4.22 5.23 5.24
+
+************************
+
+************************
+Document:  CACM-2285.html
+************************
+
+
+computer routine for quadratic and linear
+programming problems [h] (algorithm 
+************************
+ problems [h] (algorithm a431)
+
+a computer program based on lemke's complementary
+pivot algorithm is presented.  this can be 
+used to solve linear and quadratic programming problems.
+ the program 
+************************
+ problems.
+ the program has been extensively tested on
+a wide range of problems and the results have been extremely satisfactory.
+
+cacm september, 1972
+
+ravindran, a. 
+
+linear program, quadratic program, complementary
+problem, lemke's algorithm, simplex method
+
+5.41
+
+************************
+
+************************
+Document:  CACM-1771.html
+************************
+
+
+curriculum 68 -- recommendations for academic
+programs in computer science -- a report of the 
+
+************************
+ -- a report of the 
+acm curriculum committee on computer science
+
+this report contains 
+************************
+
+
+this report contains recommendations on academic
+programs in computer science which were developed 
+************************
+ which were developed 
+by the acm curriculum committee on computer science.
+ a classification of 
+************************
+.
+ a classification of the subject areas contained 
+in computer science is presented and twenty-two 
+************************
+ is presented and twenty-two courses
+in these areas are described.  prerequisites, 
+catalog descriptions, detailed outlines, and annotated
+bibliographies for these courses are included. 
+ specific recommendations which have evolved from the
+committee's 1965 preliminary recommendations are 
+given for undergraduate programs.  graduate programs in computer
+science are discussed and some 
+************************
+ are discussed and some recommendations 
+are presented for the development of master's degree programs.
+ ways of developing guidelines for doctoral 
+programs are discussed, but no specific recommendations
+are made. the importance of service courses, 
+minors, and continuing education in computer science is
+emphasized.  attention 
+************************
+ is
+emphasized.  attention is given to the organization, 
+staff requirements, computer resources, and other facilities
+needed to implement computer science educational 
+programs.
+
+************************
+ educational 
+programs.
+
+cacm march, 1968
+
+computer science courses, computer science 
+************************
+ courses, computer science curriculum,
+computer 
+************************
+ curriculum,
+computer science education, computer 
+************************
+ education, computer science 
+academic programs, 
+************************
+ 
+academic programs, computer science graduate programs,
+computer 
+************************
+ graduate programs,
+computer science undergraduate programs, 
+************************
+ undergraduate programs, computer 
+science course bibliographies
+
+************************
+
+************************
+Document:  CACM-1353.html
+************************
+
+
+techniques for automatic tolerance control in linear programming
+
+in this technical note, 
+************************
+
+
+in this technical note, the numerical steps
+for the simplex method of linear programming are 
+reviewed and the 
+************************
+
+************************
+Document:  CACM-3166.html
+************************
+
+
+computing standard deviations: accuracy
+
+four algorithms for the numerical computation
+of the standard 
+************************
+ computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  two of the algorithms are well-known in the 
+************************
+s are well-known in the statistical
+and computational literature; the other two are new algorithms
+specifically intended 
+************************
+s
+specifically intended for automatic computation.  our discussion is 
+expository, with emphasis on reaching a suitable definition of
+"accuracy."  each of the four algorithms is analyzed for the 
+************************
+s is analyzed for the conditions
+under which it will be accurate.  we conclude that all four
+algorithms will provide accurate 
+************************
+s will provide accurate answers for many problems, but two
+of the algorithms, one new, one old, 
+************************
+
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+information structures, as list, tree, ring, 
+************************
+, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of 
+************************
+
+************************
+Document:  CACM-1796.html
+************************
+
+
+index by subject to algorithms, 1969
+
+cacm december, 
+************************
+s, 1969
+
+cacm december, 1969
+
+this 1969 index is the first supplement to the
+index by subject to algorithms, 1960 1968 (comm. 
+
+************************
+
+************************
+Document:  CACM-2835.html
+************************
+
+
+recursion analysis for compiler optimization
+
+a relatively simple method for the detection
+of recursive use of procedures is presented for 
+use in compiler optimization.  implementation considerations
+are discussed, and a modification of the 
+algorithm is given to further 
+************************
+
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical 
+************************
+ in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 
+************************
+s.  
+
+cacm february, 1979
+
+gull,w.
+jenkins, m.
+
+nested arrays, apl arrays, recursive data structures,
+trees, data-driven 
+************************
+,
+trees, data-driven algorithms, theory of arrays
+
+
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+
+
+optimal program and data locations in computer networks
+
+an optimization procedure for the allocation
+of program and data files in a computer network 
+is presented.  this algorithm takes into account the
+
+************************
+ takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  a search procedure for the file location 
+problem is described, along with an example
+and a possible application of the model.
+
+cacm may, 1977
+
+morgan, h. l.
+levin, k. d.
+
+computer networks, databases, distributed
+databases, 
+************************
+
+************************
+Document:  CACM-3130.html
+************************
+
+
+curriculum '78 - recommendations for the
+undergraduate program in computer science
+
+contained in this report 
+************************
+
+
+contained in this report are the recommendations for
+the undergraduate degree program in computer science of the
+curriculum committee 
+************************
+ of the
+curriculum committee on computer science (c3s) of the association
+
+************************
+ (c3s) of the association
+for computing machinery (acm).   the core curriculum common to all
+computer science undergraduate programs 
+************************
+ undergraduate programs is presented in terms of
+elementary level topics and courses, and intermediate level courses.
+elective courses, used to round out an undergraduate program,
+are then discussed, and the entire program including the computer
+science component and other 
+************************
+ component and other material is presented.  issues related
+to undergraduate computer science education, such as service
+
+************************
+ education, such as service
+courses, supporting areas, continuing education, facilities,
+staff, and articulation are presented.
+
+cacm march, 1979
+
+austing, r.
+barnes, b.
+bonnette, d.
+engel, g.
+stokes, g.
+
+computer sciences courses, computer science 
+************************
+s courses, computer science curriculum, computer
+
+************************
+ curriculum, computer
+science education, computer 
+************************
+ education, computer science undergraduate degree
+
+************************
+
+************************
+Document:  CACM-2877.html
+************************
+
+
+a program data flow analysis procedure
+
+the global data relationships in a program
+can be exposed and codified by the static analysis 
+methods described in this paper.  a procedure is given
+which determines all the definitions which can
+possibly "reach" each node of the control flow graph
+of the program and all the definitions that are 
+"live" on each edge of the graph.  the procedure uses
+an "interval" ordered edge listing data structure 
+and handles reducible and irreducible graphs indistinguishably.
+
+cacm march, 1976
+
+allen, j. e.
+cocke, j.
+
+program optimization, data flow analysis,
+flow graphs, algorithms, compilers
+
+4.12 5.24
+
+************************
+
+************************
+Document:  CACM-2830.html
+************************
+
+
+a practitioner's guide to addressing algorithms (corrigendum)
+
+cacm 
+************************
+
+************************
+Document:  CACM-1744.html
+************************
+
+
+stable numerical methods for obtaining the chebyshev
+
+************************
+ for obtaining the chebyshev
+solution to an overdetermined system of 
+equations
+
+an implementation of stiefel's exchange algorithm
+for determining a chebyshev solution to an 
+overdetermined system of linear equations is presented,
+
+************************
+ equations is presented,
+that uses gaussian lu decomposition with row 
+interchanges.  the implementation is computationally more
+stable than those usually given in the literature. 
+ a generalization of stiefel's algorithm is developed which
+permits the occasional exchange of two equations 
+simultaneously.
+
+cacm june, 1968
+
+bartels, r. h.
+golub, g. h.
+
+chebyshev solutions, overdetermined linear
+systems, linear equations,exchange 
+************************
+
+systems, linear equations,exchange algorithm
+
+5.13 5.14 5.41
+
+ca680601 
+************************
+
+************************
+Document:  CACM-1863.html
+************************
+
+
+minit algorithm for linear programming (algorithm 333 [h])
+
+************************
+ (algorithm 333 [h])
+
+cacm july, 1969
+
+messham, d. k.
+
+linear programming, dual simplex method, 
+************************
+
+************************
+Document:  CACM-1914.html
+************************
+
+
+matrix scaling by integer programming (algorithm 348 [f1])
+
+cacm april, 
+************************
+ 348 [f1])
+
+cacm april, 1969
+
+klimpel, r. r.
+
+integer programming, linear algebra, mathematical
+
+************************
+
+************************
+Document:  CACM-3010.html
+************************
+
+
+value orientation of computer science students
+
+technological 
+************************
+ students
+
+technological and nontechnological value orientations
+are investigated with special attention 
+to the complexity of value structures.  computer science
+students, who are closely 
+************************
+
+students, who are closely associated with technology, 
+contrast with social science students, who are often
+technologically aloof.  this is confirmed by the 
+value ratings of 313 students at the university of minnesota
+in 1972.  computer science majors were 
+************************
+
+************************
+Document:  CACM-1433.html
+************************
+
+
+a note on linear programming algorithm design: a combinatorial 
+************************
+ design: a combinatorial problem
+
+as linear programming models grow bigger and
+
+************************
+ models grow bigger and
+bigger in size, much actual data that must be 
+memorized is often put on magnetic tape or disk, and
+consequently there is an improportionality fast 
+rise in the consumption of computer timeo cut down
+this expense, an ever increasing effort is made 
+to design more efficient algorithms.  this paper is
+meant 
+************************
+s.  this paper is
+meant to support the effort.  it is attempted to 
+find some characteristics of the way a pivot column
+is found.  the number of repetitions of a certain 
+transfer of data from tape to core memory is considered.
+ after some simplification, the problem is restated 
+in a general way.  the generating function of the probability
+distribution and the moment generating 
+function of the number of repetitions is found.  asymptotic
+formulas are given for the moments using 
+a result from a paper of s. narumi [1].  the results
+may be applied to write very efficient routines 
+that search for an extreme value in a table.  formulas
+provide a means of calculating the computer timings 
+in this case.
+
+************************
+
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.  illustrative examples of practical 
+and theoretical significance are given.  directions
+for new research are discussed.
+
+cacm september, 1977
+
+rabin, m. o.
+
+complexity of computations, algebraic complexity,
+in tractable problems, probabilistic algorithms
+
+5.25
+
+ca770901 jb 
+************************
+
+************************
+Document:  CACM-2832.html
+************************
+
+
+faster retrieval from context trees (corrigendum)
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts.  this note presents an algorithm which improves
+on previous context tree retrieval algorithms. 
+it is based on the 
+************************
+. 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals, 
+so that data can be cached to speed up retrieval.  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+the search rapid.  algorithms for addition and 
+deletion 
+************************
+s for addition and 
+deletion of data and for garbage collection are outlined.
+
+cacm september, 1976
+
+wegbreit, b.
+
+context trees, frame problem, variable bindings, data structures
+
+3.69 3.74 4.10
+
+ca760907 
+************************
+
+************************
+Document:  CACM-2819.html
+************************
+
+
+experiments in text file compression
+
+a system for the compression of data files,
+viewed as strings of characters, is presented. 
+ the method is general, and applies equally well to
+english, to pl/i, or to digital data.  the system 
+consists of an encoder, an analysis program, and a decoder.
+  two algorithms for encoding a string 
+************************
+s for encoding a string differ 
+slightly from earlier proposals.  the analysis program attempts
+to find an optimal set of codes for representing 
+substrings of the file.  four new algorithms for this
+operation 
+************************
+s for this
+operation are described and compared.  various 
+parameters in the algorithms are optimized to obtain
+
+************************
+s are optimized to obtain
+a high degree of compression for sample texts.
+
+cacm november, 1976
+
+rubin, f.
+
+text compression, data file compaction, huffman
+codes, n-gram encoding, comparison of algorithms
+
+3.7 3.73 4.33
+
+ca761104 
+************************
+
+************************
+Document:  CACM-1782.html
+************************

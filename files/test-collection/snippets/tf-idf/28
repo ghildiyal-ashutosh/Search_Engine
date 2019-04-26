@@ -1,0 +1,1051 @@
+Snippets for the query:  Q28
+************************
+Total Hits:  61
+************************
+
+************************
+Document:  CACM-0294.html
+************************
+************************
+Document:  CACM-1783.html
+************************
+************************
+Document:  CACM-0626.html
+************************
+************************
+Document:  CACM-0942.html
+************************
+
+
+fortran subroutines for time series analysis
+
+the authors have recently been concerned in a
+time-series study that constituted a fairly typical 
+piece of applied statistical research, involving extensive
+computations 
+************************
+
+************************
+Document:  CACM-2208.html
+************************
+
+
+storage utilization in a memory hierarchy when storage
+assignment is performed by a hashing algorithm
+
+the utilization of storage is studied in a two-level
+memory hierarchy.  the first storage level, 
+which is the fast store, is divided into a number of
+storage areas.  when an entry is to be filed in 
+the hierarchy, a hashing algorithm will attempt to
+place the entry into one of these areas.  if this 
+particular area is full, then the entry will be placed
+into the slower second-level store, even though 
+other areas in the first-level store may have space
+available.  given the n entries have been filed in 
+the entire hierarchy, an expression is derived for the
+expected number of entries filed in the first-level 
+storehis expression gives a measure of how effectively
+the first-level store is being used.  by means 
+of examples, storage utilization is then studied as a
+function of the hashing algorithm, the number of 
+storage areas into which the first-level store is divided
+and the total size of the first-level store. 
+
+cacm march, 1971
+
+williams, j. g.
+
+hashing algorithms, memory allocation, 
+************************
+
+************************
+Document:  CACM-2884.html
+************************
+************************
+Document:  CACM-0567.html
+************************
+************************
+Document:  CACM-0537.html
+************************
+************************
+Document:  CACM-1840.html
+************************
+
+
+an efficient prime number generator (algorithm 
+************************
+ generator (algorithm 357 [a1])
+
+cacm october, 1969
+
+singleton, r. c.
+
+prime numbers, factoring, number 
+************************
+
+************************
+Document:  CACM-0334.html
+************************
+************************
+Document:  CACM-1257.html
+************************
+
+
+debug-an extension to current on-line debugging techniques
+
+a method of on-linr assembly-language debugging
+which greatly simplifies several of the bookkeeping 
+tasks characteristically associated with that process
+has been developed and implemented in a program 
+for the univac m-460 computer at air force cambridge research
+laboratories.  with this program, an online 
+user may insert or delete (in symbolic assembly language)
+any number of lines at any point of his previously 
+assembled program in core, with the remainder
+of the program being 
+************************
+
+************************
+Document:  CACM-1171.html
+************************
+
+
+a comparison of the primal-simplex and primal-dual
+algorithms for linear programming
+
+a statistical comparison of the primal-dual
+and the more commonly used primal-simplex algorithm 
+for solving linear programming problems has been made under
+the assumption of starting with a full artificial 
+basis.  under these conditions the primal-dual method
+shows a statistically significant superiority on 
+randomly generated problems.  it has also been found, via
+a regression analysis, that the relevant parameters 
+in determining the difference in the number of iterations
+between 
+************************
+ of iterations
+between the algorithms is not only the number 
+of constraints and 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is 
+************************
+ of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, j.
+tarjan, r.
+
+graphs,analysis of algorithms, graph manipulation
+
+************************
+
+************************
+Document:  CACM-2031.html
+************************
+
+
+algorithm and bound for the greatest common divisor of n integers
+
+a new version of the euclidean
+algorithm for finding the greatest common divisor of n integers a(i)
+and multipliers x(i) such that gcd = x(1)a(1) + ... + x(n)a(n)
+is presented.  the number of arithmetic operations and the number
+of storage locations are linear in n.  a theorem of lame that gives a 
+************************
+
+************************
+Document:  CACM-2283.html
+************************
+
+
+thinning algorithms on rectangular, hexagonal, and triangular arrays
+
+in this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.  the approach to the
+development of each algorithm is the same.  pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.  it is found that the algorithm operating
+with the triangular array is the most sensitive 
+to image irregularities and noise, yet it will yield
+a thinned image with an overall reduced number of 
+points.  it is concluded 
+************************
+
+************************
+Document:  CACM-1539.html
+************************
+
+
+prime number generator 1; prime number 
+************************
+ generator 1; prime number generator
+2 (algorithm 
+************************
+
+************************
+Document:  CACM-2146.html
+************************
+
+
+optimizing the polyphase sort
+
+various dispersion algorithms for the polyphase
+sorting procedure are examinedhe optimum 
+algorithm based on minimizing the total number of unit
+strings read 
+************************
+ of unit
+strings read is displayed.  the logic of this 
+algorithm is rather complicated; hence, several other
+new dispersion algorithms with more straightforward 
+logic are presented.  of the simple dispersion algorithms
+discussed, the  horizontal is best.  it does 
+approximately one-fourth to one and one-half percent
+less reading and writing than most algorithms in 
+use today.  an additional two and one-fourth to three
+percent improvement can be achieved by utilizing 
+the modified optimum algorithm.  this algorithm is relatively
+straightforward, but it requires a fairly 
+close estimate of the total number of unit strings before 
+************************
+
+************************
+Document:  CACM-2606.html
+************************
+
+
+a new integration algorithm for ordinary differential
+equations based on continued fraction approximations
+
+a new integration algorithm is found, and an
+implementation is compared with other programmed 
+algorithms.  the new algorithm is a step-by-step procedure
+for solving the initial value problem in ordinary 
+differential equations.  it is designed to approximate
+poles of small integer order in the solutions 
+of the differential equations by continued fractions obtained
+by manipulating the sums of truncated taylor 
+series expansions.  the new 
+************************
+
+************************
+Document:  CACM-0977.html
+************************
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, 
+************************
+
+************************
+Document:  CACM-2694.html
+************************
+************************
+Document:  CACM-1538.html
+************************
+
+
+prime number generator 2 (algorithm 
+************************
+
+************************
+Document:  CACM-2206.html
+************************
+
+
+exact solution of linear equations using
+residue arithmetic [f4] (algorithm 406)
+
+cacm march, 1971
+
+howell, j.
+
+residue arithmetic, symmetric residue, modulus,
+mixed-radix representation, symmetric mixed-radix 
+representation, mixed-radix conversion, prime number,
+linear equations, gaussian 
+************************
+
+************************
+Document:  CACM-0216.html
+************************
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-2644.html
+************************
+
+
+a theorem-proving language for experimentation
+
+because of the large number of strategies
+and inference rules presently under consideration 
+in automated theorem proving, there is a need for developing
+a language especially oriented toward automated 
+************************
+
+************************
+Document:  CACM-1967.html
+************************
+
+
+an improved algorithm to produce complex primes (algorithm 401 $a1))
+
+cacm november, 1970
+
+bratley, p.
+
+number theory, prime numbers, 
+************************
+ theory, prime numbers, complex numbers
+
+5.39
+
+************************
+
+************************
+Document:  CACM-0903.html
+************************
+************************
+Document:  CACM-0979.html
+************************
+************************
+Document:  CACM-1924.html
+************************
+
+
+organizing matrices and matrix operations for paged memory systems
+
+matrix representations and operations are examined
+for the purpose of minimizing the page faulting 
+occurring in a paged memory system.  it is shown that
+carefully designed matrix algorithms can lead to 
+enormous savings in the number of page faults occurring
+
+************************
+ of page faults occurring
+when only a small part of the total matrix can 
+be in main memory at one time.  examination of addition,
+multiplication, and inversion algorithms shows 
+that a partitioned matrix representation (i.e. one submatrix
+or partition per page) in most cases induced 
+fewer page faults than a row-by-row representation.
+ the number of page-pulls required 
+************************
+ of page-pulls required by these matrix 
+manipulation algorithms is also studied as a function
+of the number of pages of main memory 
+************************
+
+************************
+Document:  CACM-2089.html
+************************
+
+
+prime number (algorithm 310 $a1))
+
+************************
+ (algorithm 310 $a1))
+
+cacm march, 1970
+
+rapp, d. g.
+scott, l. d.
+
+prime numbers, generator
+
+5.0
+
+ca700309 
+************************
+
+************************
+Document:  CACM-2229.html
+************************
+
+
+construction of rational and negative powers of a formal series
+
+some methods are described for the generation
+of fractional and negative powers of any formal 
+series, such as poisson series or chebyshev series.  it
+is shown that, with the use of the three elementary 
+operations of addition, subtraction, and multiplication,
+all rational (positive and negative) powers 
+of a series can be constructed.  there are basically two
+approaches: the binomial theorem and the iteration 
+methods. 
+************************
+ and the iteration 
+methods.  both methods are described here, and the relationship
+between them is pointed out.  some well-known 
+classical formulas are obtained as particular cases,
+and it is shown how the convergence properties of 
+these formulas can be improved with very little additional
+computations.  finally, at the end of the 
+article, some numerical experiments are described
+with chebyshev series and with fourier series.
+
+cacm january, 1971
+
+brucke, r. a.
+
+series expansion, series inversion, root extraction,
+binomial theorem, newton iterations, 
+************************
+
+************************
+Document:  CACM-2334.html
+************************
+************************
+Document:  CACM-0313.html
+************************
+************************
+Document:  CACM-1874.html
+************************
+
+
+generating pseudorandom numbers on a two's
+complement machine such as the ibm 360
+
+the familiar multiplicative congruential generator
+is examined in the context of the type of 
+two's complement arithmetic used in the ibm 360 series.
+ different sequences 
+************************
+.
+ different sequences of residues are considered 
+and relationships established among them.  it is shown
+that a sequence of positive and negative residues 
+may be produced more simply and economically than with
+the conventional approach and yet have twice the 
+period of the latter without loss of desirable statistical
+properties.  another easily generated sequence 
+involving absolute values is also shown to have twice
+the period but with less attractive statistical 
+properties.  the statistical properties of these sequences
+are given and related to previously established 
+criteria.
+
+cacm july, 1969
+
+hemmerle, w. j.
+
+random number, uniform distribution, 
+************************
+
+************************
+Document:  CACM-3021.html
+************************
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key.  this has two important consequences: (1) 
+couriers or other secure means are not needed to transmit
+keys, since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient.
+ only he can decipher the message, since 
+only he knows the corresponding decryption key.  (2)
+a message can be "signed" using a privately held 
+decryption key.  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key.  signatures cannot be forged, and a signer cannot
+later deny the validity of his signature.  this 
+has obvious applications in "electronic mail" and "electronic
+funds transfer" systems.  a message is 
+encrypted by representing it as a number m, raising
+m to a publicly specified power e, and then taking 
+the remainder when the result is divided by the publicly
+specified product, n, of two large secret prime 
+numbers p and q.  decryption 
+************************
+ 
+numbers p and q.  decryption is similar;only a different,
+secret, power d is used, where e * d = 1 (mod(p-1) 
+* (q-1)).  the security of the system rests in part on
+the difficulty of factoring the published divisor, 
+n.
+
+cacm february, 1978
+
+rivest, r.
+shamir, a.
+adleman, l.
+
+digital signatures, public-key cryptosystems,
+privacy, authentication, security, factorization, 
+prime number, electronic mail, 
+************************
+
+************************
+Document:  CACM-0470.html
+************************
+************************
+Document:  CACM-2226.html
+************************
+************************
+Document:  CACM-2332.html
+************************
+************************
+Document:  CACM-0904.html
+************************
+************************
+Document:  CACM-2200.html
+************************
+
+
+on complement division
+
+the division algorithm theorem is expressed
+in a form that permits it to serve as the basis 
+for devising division operations that produce both quotient
+and remainder in complement form.  algorithms 
+for division yielding 
+************************
+ 
+for division yielding complement results are derived
+for numbers represented in any base greater than 
+one.  both radix and radix-less-one complementation schemes
+are considered.  the binary form of the algorithms 
+thus includes both two's and one's complement implementation.
+ the problem of quotient overflow for complement 
+results is dealt with as is that of selecting an appropriate
+form of the remainder condition for complement 
+************************
+
+************************
+Document:  CACM-1841.html
+************************
+
+
+a prime number generator using the
+
+************************
+ generator using the
+treesort principle (algorithm 356 [a1])
+
+cacm october, 1969
+
+singleton, r. c.
+
+prime numbers, number theory, sorting
+
+************************
+
+************************
+Document:  CACM-1933.html
+************************
+
+
+coding the lehmer pseudo-random number generator
+
+an algorithm and coding technique is presented
+for quick evaluation of the lehmer pseudo-random 
+number generator modulo 2**31 - 1, a prime mersenne
+number with 
+************************
+ mersenne
+number with produces 2**31 - 2 numbers, on a p-bit 
+(greater than 31) computer.  the computation method is
+extendible to limited problems in modular arithmetic. 
+ prime factorization for 2**61 
+************************
+ factorization for 2**61 - 2 and a primitive root
+for 2**61 - 1, the next largest prime mersenne 
+number, are given for possible 
+************************
+, are given for possible construction of a pseudo-random
+number generator of increased cycle length.
+
+cacm february, 1969
+
+payne, w. h.
+rabung, j. r.
+bogyo, t. p.
+
+pseudo-random number, random number, modular arithmetic,
+uniform probability density, uniform frequency 
+function, simulation, prime factorization, primitive 
+************************
+
+************************
+Document:  CACM-1495.html
+************************
+************************
+Document:  CACM-2122.html
+************************
+************************
+Document:  CACM-1679.html
+************************
+
+
+a fast fourier transform algorithm for real-valued series
+
+a new procedure is presented for calculating the
+complex, discrete fourier transform of real-valued 
+time series.  this procedure is described for an example
+where the number of points in the series 
+************************
+
+************************
+Document:  CACM-1717.html
+************************
+************************
+Document:  CACM-2695.html
+************************
+
+
+tridiagonalization by permutations
+
+tridiagonalizing a matrix by similarity transformations
+is an important computational tool 
+in numerical linear algebra. consider the class of sparse
+matrices which can be tridiagonalized using 
+only row and corresponding column permutations.  the
+advantages of using such a transformation include 
+the absence of round-off errors and improved computation time
+when compared with standard transformations. 
+ a graph theoretic algorithm which examines an arbitrary
+n x n matrix and determines whether or not it 
+can be permuted into tridiagonal form is given.  the
+algorithm requires no arithmetic while the number 
+of comparisons, the 
+************************
+
+************************
+Document:  CACM-0355.html
+************************
+************************
+Document:  CACM-2121.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+************************
+Document:  CACM-3026.html
+************************
+************************
+Document:  CACM-0348.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1537.html
+************************
+
+
+prime number generator 1 (algorithm 
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+
+
+exponentiation of series (algorithms 134)
+
+cacm july, 1963
+
+************************
+
+************************
+Document:  CACM-1420.html
+************************
+
+
+a new uniform pseudorandom number generator
+
+a new multiplicative congruential pseudorandom
+number generator is discussed, in which the 
+modulus is the largest prime within accumulator capacity
+
+************************
+
+************************
+Document:  CACM-1812.html
+************************
+************************
+Document:  CACM-0737.html
+************************
+************************
+Document:  CACM-1725.html
+************************
+
+
+a simple proof of lewin's ordered-retrieval
+theorem for associative memories
+
+an efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of the memory.  thus the
+circuits indicate whether the individual digit 
+columns contain digits of both values, or of only one
+value, or contain no digits at all (i.e. that the 
+memory is empty).  the use of these circuits, which
+in this paper are termed column value indicators, 
+reduces considerably the number of memory accesses necessary
+
+************************
+ of memory accesses necessary
+to retrieve in order a number of distinct 
+words from the memory.  lewin proves that, for the readout
+by the described method of m distinct binary 
+words, 2m - 1 memory accesses are necessary.  (thus he
+proves that the number of necessary memory accesses 
+of his method, unlike those of other methods, is independent
+of the word length.)  in this paper a very 
+simple proof of this theorem derived from some elementary
+
+************************
+ derived from some elementary
+aspects of the structure of sets of binary 
+numbers is presented.
+
+cacm july, 1968
+
+wolinsky, a.
+
+associative memories, content-addressed memories,
+ordered lists, ordered information retrieval, 
+ordered retrieval theorem, column digit values, 
+************************
+
+************************
+Document:  CACM-2927.html
+************************
+
+
+some new upper bounds on the generation of prime numbers
+
+given an integer n, 
+************************
+s
+
+given an integer n, what is the computational
+complexity of finding all the primes less than 
+n?  a modified sieve of eratosthenes using doubly linked
+lists yields an algorithm of o(n) arithmetic 
+complexity.  this upper bound is shown to be equivalent
+to the theoretical lower bound for sieve methods 
+without preprocessing.  use of preprocessing techniques
+involving space-time and additive-multiplicative 
+tradeoffs reduces this upper bound to o(n/log logn)
+and the bit complexity to o(n logn log log logn). 
+ a storage requirement is described using o(n logn/log logn) bits as well.
+
+cacm september, 1977
+
+mairson, h. g.
+
+computational complexity, sieve, prime number generation,
+number theory, 
+************************
+
+************************
+Document:  CACM-0553.html
+************************
+************************
+Document:  CACM-0286.html
+************************
+************************
+Document:  CACM-0197.html
+************************
+************************
+Document:  CACM-1563.html
+************************
+************************
+Document:  CACM-1520.html
+************************
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-3036.html
+************************
+************************
+Document:  CACM-0568.html
+************************
+************************
+Document:  CACM-1259.html
+************************
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2794.html
+************************
+************************
+Document:  CACM-1011.html
+************************
+************************
+Document:  CACM-1697.html
+************************
+************************
+Document:  CACM-1094.html
+************************
+************************
+Document:  CACM-3166.html
+************************
+
+
+computing standard deviations: accuracy
+
+four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  two of the algorithms are well-known in the statistical
+and computational literature; the other two are new algorithms
+specifically intended for automatic computation.  our discussion is 
+expository, with emphasis on reaching a suitable definition of
+"accuracy."  each of the four algorithms is analyzed for the conditions
+under which it will be accurate.  we conclude that all four
+algorithms will provide accurate answers for many problems, but two
+of the algorithms, one new, one old, are substantially more accurate
+on difficult problems than are the other two.
+
+cacm september, 1979
+
+chan, t.
+lewis, j.
+
+mean, standard deviation, least squares, updating
+estimates, rounding error analysis, condition number.
+
+5.5 5.11 5.19
+
+ca790907 
+************************
+
+************************
+Document:  CACM-0807.html
+************************
+************************
+Document:  CACM-1674.html
+************************
+************************
+Document:  CACM-2648.html
+************************
+
+
+a design for a number theory package
+with an optimized trial division routine
+
+a number theory package is described which uses
+doubly linked list structures for storing multiprecise 
+integers.  the package has been coded in ibm's basic
+assembly language and makes heavy use of the macro 
+language and conditional assembly.  an optimally coded
+trial division routine is also described which 
+can be used to determine the unique factorization of large integers.
+
+cacm may, 1974
+
+wunderlich, m. c.
+selfridge, j. l.
+
+number theory package, trial division, multiprecise
+arithmetic, factorization, doubly linked lists, 
+pseudoprime
+
+3.15
+
+ca740505 jb january 
+************************
+
+************************
+Document:  CACM-0738.html
+************************
+************************
+Document:  CACM-1385.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  a number of old babylonian tablets, 
+************************
+
+************************
+Document:  CACM-2525.html
+************************
+************************
+Document:  CACM-0546.html
+************************
+************************
+Document:  CACM-2462.html
+************************
+
+
+an efficient prime number generator (algorithm 
+************************
+
+************************
+Document:  CACM-0443.html
+************************
+************************
+Document:  CACM-0353.html
+************************
+************************
+Document:  CACM-0531.html
+************************
+************************
+Document:  CACM-1995.html
+************************
+************************
+Document:  CACM-2410.html
+************************
+************************
+Document:  CACM-2507.html
+************************
+
+
+exact solution of linear equations using
+residue arithmetic (algorithm r406)
+
+cacm may, 1973
+
+howell, j.
+
+residue arithmetic, symmetric residue, modulus,
+mixed-radix representation, symmetric mixed-radix 
+representation, mixed radix conversion, prime number,
+linear equations, gaussian 
+************************
+
+************************
+Document:  CACM-0706.html
+************************
+************************
+Document:  CACM-1014.html
+************************
+************************
+Document:  CACM-0455.html
+************************
+************************
+Document:  CACM-3131.html
+************************
+
+
+focus microcomputer number system
+
+focus is a number system and supporting computational
+algorithms especially useful for microcomputer 
+************************
+ useful for microcomputer control and other
+signal processing applications.  focus has the wide-ranging
+character of floating-point numbers with a uniformity of state distributions
+that give focus better than a twofold accuracy advantage
+over an equal word length floating-point system.  focus computations
+are typically five times faster than single precision fixed-point
+or integer arithmetic for a mixture of operations, comparable in
+speed with hardware arithmetic for many applications.  algorithms
+for 8-bit and 16-bit 
+************************
+
+************************
+Document:  CACM-2420.html
+************************
+
+
+experiments with an automatic theorem-prover
+havingpartial ordering inference rules
+
+automatic theorem-provers need to be made much
+more efficient.  with this in mind, slagle has 
+shown how the axioms for partial ordering can be replaced
+by built-in inference rules when using a particular 
+theorem-proving algorithm based upon hyper-resolution and
+paramodulation.  the new rules embody the transitivity 
+of partial orderings and the close relationship between
+ predicates.  a program has been developed using 
+a modified version of these rules.  this new theorem-prover
+has been found to be very powerful for solving 
+problems involving partial orderings.  
+************************
+
+************************
+Document:  CACM-3171.html
+************************
+************************
+Document:  CACM-0304.html
+************************
+************************
+Document:  CACM-1780.html
+************************
+************************
+Document:  CACM-2232.html
+************************
+
+
+pattern width at a given angle
+
+that the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  the object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  
+************************
+al 
+subject matter.  the results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the 
+************************
+

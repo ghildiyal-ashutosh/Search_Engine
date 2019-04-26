@@ -1,0 +1,1435 @@
+Snippets for the query:  Q29
+************************
+Total Hits:  74
+************************
+
+************************
+Document:  CACM-2622.html
+************************
+
+
+a user authentication scheme not requiring secrecy in the computer
+
+in many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  the system compares
+this password with one recorded in a password 
+table which is available to only the authentication
+program.  the integrity of the system depends on 
+keeping the table secret.  in this paper a password
+scheme is presented which does not require secrecy 
+in the computer.    all aspects of the system, including
+all relevant code and 
+************************
+
+************************
+Document:  CACM-2344.html
+************************
+
+
+on the optimization of performance of time-sharing systems by simulation
+
+a simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the variation of system
+parameters such as store size, number of jobs 
+allowed to execute simultaneously, job-scheduling algorithm,
+etc.  the effects of these variations on 
+a measure of system performance is used to ascertain which
+of the parameters controllable by the job-scheduling 
+algorithm, including the scheduling itself, 
+************************
+
+************************
+Document:  CACM-1164.html
+************************
+
+
+emulation of large systems
+
+the conversion problem and a new technique
+called emulation are discussed.  the technique of 
+emulation is developed and includes sections on both the
+central processing unit (cpu) and the input/output 
+unit (i/o).  this general treatment is followed by three
+sections that describe in greater detail the 
+************************
+
+************************
+Document:  CACM-1750.html
+************************
+************************
+Document:  CACM-2852.html
+************************
+************************
+Document:  CACM-2372.html
+************************
+************************
+Document:  CACM-0092.html
+************************
+************************
+Document:  CACM-2567.html
+************************
+************************
+Document:  CACM-0104.html
+************************
+************************
+Document:  CACM-1473.html
+************************
+************************
+Document:  CACM-2165.html
+************************
+
+
+general relativity and the application of algebraic manipulative systems
+
+the paper describes some applications of 
+************************
+s some applications of symbolic
+algebra systems to problems of general relativity 
+including the derivation of the 
+************************
+
+************************
+Document:  CACM-1912.html
+************************
+
+
+simulation of outpatient appointment systems
+
+an experimental computer program is described
+which simulates appointment 
+************************
+
+************************
+Document:  CACM-3128.html
+************************
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling the relative 
+ordering of events in the processes.
+a new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  the mechanism is defined formally, and then several
+examples of its use are given. 
+************************
+ of its use are given.  the relationship of the mechanism
+to protection mechanisms in the system is explained; in particular,
+eventcounts are shown to be applicable to situations where confinement
+of information matters.  an implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+cacm february, 1979
+
+reed, d.
+kanodia, r.
+
+process synchronization, interprocess communication, distributed
+systems, security models, mutual 
+************************
+
+************************
+Document:  CACM-2050.html
+************************
+************************
+Document:  CACM-1267.html
+************************
+
+
+performance of systems used for data transmission
+transfer rate of information bits -an asa tutorial 
+standard
+
+information thruput as a characteristic of
+systems performance is discussed.  this discussion 
+includes the pertinent aspects of information transfer,
+of determination of transfer rate of information 
+bits (trib), of residual errors, and of standard measurement
+conditions.  the paper also presents an 
+orderly arrangement of characteristics and parameters
+that affect information thruput, and some examples 
+on procedures for determining 
+************************
+
+************************
+Document:  CACM-2522.html
+************************
+************************
+Document:  CACM-1910.html
+************************
+************************
+Document:  CACM-1977.html
+************************
+
+
+an interactive display for approximation by linear programming
+
+an interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions (including
+splines) selected by the user.  the coefficients of the approximation
+are determined by linear programming so as to minimize the error
+in either the l1 or l-infinity norm.  auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed. this
+interactive system is described and several examples of its use are given.
+
+************************
+
+************************
+Document:  CACM-2479.html
+************************
+************************
+Document:  CACM-2341.html
+************************
+
+
+blocks-a new data type for snobol4
+
+a new data type, called a block, has been implemented
+for snobol4.  a block is a three-dimensional 
+aggregate of characters in the form of a right parallelepiped,
+best thought of as a three-dimensional 
+extension to a string.  (the third dimension is used for
+overstriking.)  blocks may be printed, concatenated 
+in any of three dimensions, and merged on the basis
+of program-defined connection points.  some blocks 
+adapt in size and shape to their environment.  blocks
+and their operations are mainly used for composing 
+printable output.  a variety of graphical problems (including
+flowcharting, bargraphs, logic diagrams, 
+mathematical-equation formation, and text justification
+and preparation) 
+************************
+
+************************
+Document:  CACM-1844.html
+************************
+
+
+a modular computer sharing system
+
+an alternative approach to the design and organization
+of a general purpose interactive multiterminal 
+computing system is presented.  the system organization described
+is a conceptually simple arrangement 
+of a bank of interchangeable computers, each of which
+is a memory/processor pair, that are assigned to 
+process terminal jobs as they arrive.  one of the computers
+serves as the master or control computer 
+and supervises the collection and distribution of messages
+from and to the remote terminals.  in the 
+simplest form there is a disk drive for each connected
+terminal.  a crosspoint switching network allows 
+any such disk drive to be connected to any computer.
+ thus, while each active terminal user "occupies" 
+a dedicated disk drive, he may share the computer with
+many other terminal users in a simple manner. 
+ the ratio of users to computers is dependent on both
+the size and power of the machines used and the 
+computation requirements of the particular mix of users.
+ this system organization is inherently a simpler 
+and therefore more reliable approach to time-sharing computers
+and has the potential of a highly available 
+system at relatively low cost.  economic configurations
+are possible for a range of systems sizes that 
+span at 
+************************
+
+************************
+Document:  CACM-2311.html
+************************
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  for each generation,
+the scope of development projects and the 
+technological world view of the system developer are examined.
+
+cacm july, 1972
+
+benjamin, r. i.
+
+computing milieu, management data processing, hardware
+systems, software systems, systems 
+************************
+
+************************
+Document:  CACM-3072.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major components of every
+programming language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently from list 
+************************
+,
+frequently from list processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+************************
+
+************************
+Document:  CACM-2407.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-2321.html
+************************
+************************
+Document:  CACM-0322.html
+************************
+************************
+Document:  CACM-3088.html
+************************
+
+
+general equations for idealized cpu-i/o overlap configurations
+
+general equations are derived for estimating
+the maximum possible utilization of main storage 
+partitions, cpu and i/o devices under different conditions
+in an idealized cpu-i/o overlap model of multiprogrammed 
+computer systems.  the equations are directly applicable
+to any configuration consisting  of sets of 
+identical cpu's i/o processors, main storage partitions
+and user tasks.  examples are provided to illustrate 
+************************
+
+************************
+Document:  CACM-1856.html
+************************
+
+
+the teachable language comprehender: 
+a simulation program and theory of language
+
+the teachable language comprehender (tlc) is
+a program designed to be capable of being taught 
+to "comprehend" english text.  when text which the program
+has not seen before is input to it, it comprehends 
+that text by correctly relating each (explicit or implicit)
+assertion of the new text to a large memory. 
+ this memory is a "semantic network" representing factual
+assertions about the world.  the program also 
+creates copies of the parts of its memory which have
+been found to relate to the new text, adapting and 
+combining these copies to represent the meaning of the
+new text.  by this means, the meaning of all text 
+the program successfully comprehends is encoded into
+the same format as that of the memory.  in this 
+form it can be added into the memory.  both factual
+assertions for the memory and the capabilities for 
+correctly relating text to the memory's prior content
+are to be taught to the program as they are needed. 
+ tlc presently contains a relatively small number of
+examples of such assertions and 
+************************
+
+************************
+Document:  CACM-1233.html
+************************
+************************
+Document:  CACM-2749.html
+************************
+
+
+significant event simulation
+
+this paper compares a new method of simulation
+organization, called the significant event method, 
+with an old one, called the clock pulse method, using
+as examples two automobile traffic models.  the 
+significant event method is found to be more efficient
+than the clock pulse method at low levels of system 
+interaction and less efficient at high levels.  a simple
+mathematical model for the trade-off in the 
+relative running time of the two methods is developed. 
+the model aids in choosing between the two simulation 
+methods for a particular experiment.  it is concluded
+that the significant event method can be of value 
+in the simulation of some systems when computational
+efficiency 
+************************
+
+************************
+Document:  CACM-3150.html
+************************
+************************
+Document:  CACM-0320.html
+************************
+
+
+logic-structure tables
+
+logic tables are an excellent way of developing
+and expressing the logic required in procedures, 
+operations, systems and circuits.  a set of rules for
+writing and using logic tables is explained by 
+means of some simple examples.  then the logic structure
+
+************************
+
+************************
+Document:  CACM-1938.html
+************************
+
+
+some criteria for time-sharing system performance
+
+time-sharing systems, as defined in this article,
+are those multiaccess systems which permit 
+a terminal user to utilize essentially the full resources
+of the system while sharing its time with other 
+terminal users.  it is each terminal user's ability
+to utilize the full resources of the system that 
+makes quantitative evaluation of time-sharing systems
+particularly difficult.  six criteria are described 
+which have been successfully 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded 
+************************
+
+************************
+Document:  CACM-2634.html
+************************
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer various types of statistical 
+packages for general use.  among those most widely available
+are osiris, spss, bmd, data-text, and tsar. 
+ in order to provide users with a basis for selection
+and use, tests were made for each of these systems, 
+and the results are 
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program 
+************************
+d to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  syntax directed
+input and output of data would facilitate use of 
+complex data stores.
+
+cacm july, 1972
+
+bobrow, d. g.
+
+list processing, programming languages, design of
+programming languages, interactive systems, control 
+structures, 
+************************
+
+************************
+Document:  CACM-1978.html
+************************
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  iterating the updating
+scheme results in improved estimates that finally lead to
+breaking the cipher.  the method is applies successfully to two examples.
+
+cacm november, 1979
+
+************************
+
+************************
+Document:  CACM-2151.html
+************************
+************************
+Document:  CACM-1071.html
+************************
+************************
+Document:  CACM-1196.html
+************************
+
+
+applications of differential equations in general problem solving
+
+a large class of problems leading to digital
+computer processing can be formulated in terms 
+of the numerical solution of systems of ordinary differential
+equations.  powerful methods are in existence 
+for the solution of such systems.  a good general purpose
+routine for the solution of such systems furnishes 
+a powerful tool for processing many problems.  this is
+true from the point of view of ease of programming, 
+ease of debugging, and minimization of computer time.
+ a number of examples are discussed in detail.
+
+************************
+
+************************
+Document:  CACM-1616.html
+************************
+
+
+tensor calculations on computer: appendix
+
+in the main text of the paper [comm. acm 9,
+12 (dec. 196), 864], a formac program was discussed 
+which is capable of calculating various quantities
+of interest in tensor calculus.  this appendix is 
+intended as an example of the program output.  chrisoffel
+symbols calculated for 12 basic orthogonal 
+coordinate systems are listed.
+
+cacm march, 
+************************
+
+************************
+Document:  CACM-2537.html
+************************
+
+
+common phrases and minimum-space text storage
+
+a method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  the method relies 
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication 
+************************
+, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization an
+d retrieval of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication 
+************************
+
+************************
+Document:  CACM-1739.html
+************************
+
+
+regular expression search algorithm
+
+a method for locating specific character strings
+embedded in character text is described and 
+an implementation 
+************************
+d and 
+an implementation of this method in the form of a compiler
+is discussed.  the compiler accepts a regular 
+expression as source language and produces an ibm 7094
+program as object language.  the object program 
+then accepts the text to be searched as input and produces
+a signal every time an embedded string in 
+the text matches the given regular expression.  examples,
+problems, and solution 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and 
+************************
+, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information 
+************************
+
+************************
+Document:  CACM-3115.html
+************************
+
+
+orderly enumeration of nonsingular binary
+matrices applied to text encryption
+
+nonsingular binary matrices of order n, i.e.,
+nonsingular over the field {0, 1}, and an initial 
+segment of the natural numbers are placed in one-to-one
+correspondence.  each natural number corresponds 
+to two intermediate vectors.  these vectors are mapped into
+a nonsingular binary matrix.  examples of 
+complete enumeration 
+************************
+
+************************
+Document:  CACM-1726.html
+************************
+************************
+Document:  CACM-1951.html
+************************
+
+
+estimates of distributions of random variables
+for certain computer communications traffic models
+
+a study of multiaccess computer communications has
+characterized the distributions underlying an elementary
+ model of the user-computer interactive process.  the model used is
+elementary in the sense that many of the random variables that
+generally are of interest in computer communications studies can be
+decomposed into the elements of this model.  data were examined
+from four operational multiaccess systems, and the model is shown to
+be robust; that is each of the variables of the model has the
+same distribution independent of which of the four systems is being examined. 
+it is shown that the gamma distribution can be used to
+describe the discrete variables. 
+************************
+
+************************
+Document:  CACM-2343.html
+************************
+
+
+a proposal to establish a pseudo virtual memory via writable overlays
+
+many computer systems solve executable storage
+size problems for large programs by using overlays. 
+ however, it appears that no one overlay scheme contains
+a well-balanced combination of the most useful 
+capabilities which are found in various existing techniques.
+ a proposal is presented which utilizes 
+several of the best capabilities from existing schemes
+and is complemented by several additional features, 
+e.g. writable overlays.  the writable overlay capability
+provides a virtual memory effect, although the 
+programmer may still be required to design the overlay
+configuration.  since overlay structuring is a 
+complex task, several tools (including a graphic display)
+are 
+************************
+
+************************
+Document:  CACM-2730.html
+************************
+************************
+Document:  CACM-2583.html
+************************
+************************
+Document:  CACM-2786.html
+************************
+
+
+a system for typesetting mathematics
+
+this paper describes the design and implementation
+of a system for typesetting mathematics. 
+ the language has been designed to be easy to learn
+and to use by people (for example, secretaries and 
+mathematical typists) who know neither mathematics nor
+typesetting.  experience indicates that the language 
+can be learned in an hour or so, for it has few rules
+and fewer exceptions.  for typical expressions, 
+the size and font changes, positioning, line drawing, and
+the like necessary to print according to mathematical 
+conventions are all done automatically.  for example,
+the input sum from i=o to infinity x sub i=pi over 
+2 produces (formula).  the syntax of the language is specified
+by a small context-free grammar; a compiler-compiler 
+is used to make a compiler that translates this language
+into typesetting commands.  output maybe produced 
+on either a phototypesetter or on a terminal with forward
+and reverse half-line motions.  the system 
+interfaces directly with text formatting programs, so
+mixtures 
+************************
+ programs, so
+mixtures of text and mathematics may be handled 
+simply.  this paper was typeset by the authors using the system described 
+
+cacm march, 1975
+
+************************
+
+************************
+Document:  CACM-1929.html
+************************
+
+
+images from computers and microfilm plotters
+
+digital computers are widely used for the
+processing of information and data of all kinds, 
+including the pictorial information contained in photographs
+and other graphical representations.  efficient 
+conversion facilities for putting graphical information
+into the computer and retrieving it in graphical 
+form are therefore much needed.  one of the most commonly
+employed devices for obtaining permanent graphical 
+output from digital computers is the microfilm plotter.
+ regrettably, present models have no provision 
+for producing images with a continuous gray scale or "half tones."
+ in this note several programming techniques 
+are described for obtaining half 
+************************
+
+************************
+Document:  CACM-1099.html
+************************
+
+
+professional computer work for the blind
+
+developments in computer technology have opened
+new professional opportunities for the intelligent 
+blind.  since there are few if any occupations in which the
+blind can participate without serious disadvantage, 
+the opportunities offered them to gain entrance into
+various occupations through computer use including 
+that of programmer, is important for future rehabilitation
+planning. also of immediate interest is the 
+fact that the blind may be especially suited for programming
+work.  because of intense training in and 
+constant experience with locating objects in the unseen
+environment and also because of superbly trained 
+memory, the blind brings to the work of programming skills
+which the sighted has had little need to acquire. 
+ these qualifications should result in fewer debugging
+problems and make the blind a valuable addition 
+to any systems group.  before the blind could become a
+serious professional, a number of aids and techniques 
+had to be developed that can mediate between machines
+and programmer.  this paper describes the techniques 
+and 
+************************
+
+************************
+Document:  CACM-3120.html
+************************
+
+
+an event-driven compiling technique
+
+due to the linear structure of source text, difficulties may arise in a 
+one-pass compilation process.  these difficulties occur when an entity
+cannot be processed because of a forward reference to information
+only obtainable from subsequent entities.  classic solutions
+ask for data structures appropriate for each case.  a technique is
+presented here which uses instead control structures, namely events
+and processes.  the work of the compiler-writer becomes easier both
+conceptually and in practice because he can forget these problems
+at the outset and he avoids special processing for each problem.
+this technique has been applied to the construction of an algol
+68 compiler.  three examples from that implementation
+are described and discussed here.
+
+************************
+
+************************
+Document:  CACM-2988.html
+************************
+
+
+memory management and response time
+
+this paper presents a computationally tractable
+methodology for including accurately the effects 
+of finite memory size and workload memory requirements
+in queueing network models of computer systems. 
+ empirical analyses 
+************************
+
+************************
+Document:  CACM-0637.html
+************************
+
+
+a neliac-generated 7090-1401 compiler
+
+neliac systems for several different machines
+have been generated using the original neliac 
+system developed at the naval electronics laboratory,
+san diego, in 1958.  a basic "bootstrap" process 
+was used to generate all but the first, i.e. the systems
+were described in the neliac language 
+************************
+d in the neliac language and generated 
+by an existing neliac compiler.  this experience has
+shown there is no inherent difficulty in "building 
+compilers with compilers"; indeed, it pointed out many advantages
+in using a pol for constructing programming 
+systems.  this report presents the results of a project
+completed in may, 1961 in which the neliac system 
+was used to generate a compiler for the ibm 1401.  the
+1401 compiler, which runs on the 7090 and produces 
+1401 programs, was described in the neliac language 
+************************
+
+************************
+Document:  CACM-2030.html
+************************
+
+
+context-sensitive parsing
+
+this paper presents a canonical form for context-sensitive
+derivations and a parsing algorithm which finds
+each context-sensitive analysis once and only once.  the amount of memory
+required by the algorithm is essentially no more than the required to 
+store a single complete derivation.  in addition, a modified
+version of the basic algorithm is presented which blocks infinite analyses 
+for grammars which contain loops.  the algorithm is
+also compared with several previous parsers for context-sensitive
+grammars and general rewriting systems, and the difference between
+the two types of analyses is discussed.  the algorithm appears to
+be complementary to an algorithm by s. kuno in several respects, including 
+the space-time trade-off 
+************************
+
+************************
+Document:  CACM-1514.html
+************************
+************************
+Document:  CACM-1959.html
+************************
+************************
+Document:  CACM-2501.html
+************************
+
+
+wylbur: an interactive text editing and remote job entry system
+
+wylbur is a comprehensive system for manipulating
+all kinds of text, such as computer programs, 
+letters, and manuscripts, using typewriter terminals
+connected to a computer.  it has facilities for 
+remote job entry and retrieval as well as facilities
+for text alignment and justification.  a powerful 
+method for addressing text by content is provided.  this
+paper describes the external appearance 
+************************
+
+************************
+Document:  CACM-2947.html
+************************
+
+
+sitar: an interactive text processing system for small computers
+
+sitar, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems, but has several 
+additional 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+
+************************
+
+************************
+Document:  CACM-2631.html
+************************
+
+
+an information-theoretic approach to
+text searching in direct access systems
+
+using direct access 
+************************
+
+************************
+Document:  CACM-2345.html
+************************
+************************
+Document:  CACM-1572.html
+************************
+
+
+the simulation of time sharing systems
+
+the development of new large scale time-sharing
+systems has raised a number of problems for 
+computation center management.  not only is it necessary
+to develop an appropriate hardware configuration 
+for these systems, but appropriate software adjustments
+must be made.  unfortunately, these systems often 
+do not respond to changes in the manner that intuition
+would suggest, and there are few guides to assist 
+in the analysis of performance characteristics.  the
+development of a comprehensive simulation model 
+to assist in the investigation of these questions is
+described in this paper.  the 
+************************
+
+************************
+Document:  CACM-2396.html
+************************
+
+
+muse: a model to understand simple english
+
+muse is a computer model for natural language
+processing, based on a semantic memory network 
+like that of quillian's tlc.  muse, from a model to understand
+simple english, processes english sentences 
+of unrestricted content but somewhat restricted format.
+ the model first applies syntactic analysis to 
+eliminate some interpretations and then employs a simplified
+semantic intersection procedure to find 
+a valid interpretation of the input.  while the semantic
+processing is similar to tlc's, the syntactic 
+component includes the early use of parse trees and special
+purpose rules.  the "relational triple" notation 
+used during interpretation of input is compatible with muse's
+memory structures, allowing direct verification 
+of familiar concepts and the addition of new ones. 
+muse also has a repertoire of actions, which range 
+from editing and reporting the contents of its own
+memory to an indirect form of question answering. 
+ examples are presented to demonstrate how the model interprets
+text, resolves ambiguities, 
+************************
+, resolves ambiguities, adds information 
+to memory, generalizes from examples and performs various actions.
+
+cacm january, 1972
+
+mccalla, g. i.
+sampson, j. r.
+
+natural language processing, semantic memory, text
+comprehension, question 
+************************
+
+************************
+Document:  CACM-2876.html
+************************
+
+
+intentional resolution of privacy protection in database systems
+
+traditionally, privacy protection in database
+systems is understood to be the control over 
+what information a given user can get from a database.
+ this paper is concerned with another, independent, 
+dimension of privacy protection, the control over what
+a user is allowed to do with a piece of information 
+supplied to him by the database.  the ability to condition
+the supply of information on its intended 
+use is called here "intentional resolution" of privacy
+protection.  the practical importance of intentional 
+resolution is demonstrated by several examples, and its realization
+
+************************
+
+************************
+Document:  CACM-1324.html
+************************
+
+
+answering english questions by computer: a survey
+
+fifteen experimental english language question-answering
+systems which are programmed and operating 
+are described and reviewed.  the systems range from a conversation
+machine to programs which make sentences 
+about pictures and systems which translate from english
+into logical calculi.  systems are classified 
+as list-structured data-based, graphic data-based, text-based
+and inferential. 
+************************
+
+************************
+Document:  CACM-1400.html
+************************
+************************
+Document:  CACM-1170.html
+************************
+
+
+analyzing english syntax with a pattern-learning parser
+
+a dependency analysis system based on pattern
+recognition and learning logic was developed 
+to infer word classes and rules of syntactic combination
+from experience with text which had been analyzed. 
+ the characteristics used to form word classes are the
+depth in the dependency tree of each word, the 
+direction of its governor and the same features for
+each of its immediate neighbors. syntactic rules 
+of combination show the relation of a word to its governor
+in the depth pattern of the sentence.  the 
+system was tested on 400 elementary basic english sentences
+including 300 used earlier by 
+************************
+
+************************
+Document:  CACM-2262.html
+************************
+************************
+Document:  CACM-2375.html
+************************
+
+
+a comparative analysis of disk scheduling policies
+
+five well-known scheduling policies for movable
+head disks are compared using the performance 
+criteria of expected seek time (system oriented)and expected
+waiting time (individual i/o request oriented). 
+ both analytical and simulation results are obtained.
+ the variance of waiting time is introduced as 
+another meaningful measure of performance, showing possible
+discrimination against individual requests. 
+ then the choice of a utility function to measure total
+performance including system oriented and individual 
+request oriented measures is described.  such a function
+allows 
+************************
+
+************************
+Document:  CACM-2738.html
+************************
+
+
+use of the concept of transparency in the
+design of hierarchically structured systems
+
+this paper deals with the design of hierarchically
+structured programming systems.  it develops 
+a method for evaluating the cost of requiring programmers
+to work with an abstraction of a real machine. 
+ a number of examples from hardware and software
+
+************************
+
+************************
+Document:  CACM-1711.html
+************************
+
+
+when your computer needs a lawyer
+
+possible liability for negligence, for other
+torts (such as slander of credit) and for liability 
+under theories of express or implied warranty (guarantees)
+are discussed, and legal complications are 
+explained, so that users, operators, owners, and leasors
+of computers may be alerted to potential legal 
+problems. focus is also on trouble spots in contracting
+for data processing services, in automating record 
+keeping operations, in deciding whether or not to automate
+certain operations, and in complying with 
+statutes and regulation relating to record keeping.
+ information is given on patents, copyrights and 
+trade secret protection for programs, and the problem
+of using copyrighted material in information storage 
+and retrieval systems, including the pending
+copyright 
+************************
+
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+************************
+d.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base 
+************************
+
+************************
+Document:  CACM-3068.html
+************************
+************************
+Document:  CACM-0397.html
+************************
+
+
+a card format for reference files in information processing
+
+this paper proposes a card format suitable for
+a variety of reference files in information 
+processing.  an 80-column ibm card is divided into two
+fields-reference material field (columns 1-67) 
+and identification field (columns 68-80).  the format
+for the reference material is flexible, while the 
+format for the identification is rigid.  the reference
+material includes basically an index, title, source, 
+class, summary and cross reference for each entry. 
+the identification includes basically codes for a 
+matrix of descriptors, an entry number, and the kind,
+major interest, and source of the reference.  the 
+identification also provides a choice to identify material
+for personal as well as general files.  since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books, articles, programming terms, hardware terms, equipment,
+machine systems, abbreviations, etc., 
+************************
+
+************************
+Document:  CACM-3090.html
+************************
+************************
+Document:  CACM-3142.html
+************************
+
+
+consumer difficulties with computerized transactions: 
+an empirical investigation
+
+the prevalence with which errors may be encountered by the 
+end targets of a computerized process is assessed.  how many and
+what type of errors occur?  how easily are they corrected?  what
+is the reaction of consumers to errors-to a failure to correct
+them?  what can be learned by designers of large management packages
+from such data? results show that with the present state of the
+art, approximately 40 percent of individuals (or households) having
+average contacts with different types of accounts experience one
+or more errors per year.  eighty percent relate to billing.  attempts
+to correct errors often turned out to be difficult and not always
+successful. there appears to be some conflict between computer-using
+organizations and their public.  also the role of poor man
+agement packages including poor software is indicated.  while most
+management systems may be adequate, results 
+************************
+
+************************
+Document:  CACM-2525.html
+************************
+************************
+Document:  CACM-2621.html
+************************
+************************
+Document:  CACM-2746.html
+************************
+
+
+efficient string matching: an aid to bibliographic search
+
+this paper describes a simple, efficient algorithm
+to locate all occurrences of any of a finite 
+number of keywords in a string of text.  the algorithm
+consists 
+************************
+
+************************
+Document:  CACM-2859.html
+************************
+
+
+interference in multiprocessor computer systems with interleaved memory
+
+this paper analyzes the memory interference
+caused by several processors simultaneously using 
+several memory modules.  exect results are computed for
+a simple model of such a system.   the limiting 
+value is derived for the relative degree of memory interference
+as the system size increases.  the model 
+of the limiting behavior of the system yields approximate
+results for the simple model and also suggests 
+that the results are valid for a much larger class of models,
+including those more nearly like 
+************************
+
+************************
+Document:  CACM-2985.html
+************************
+************************
+Document:  CACM-1341.html
+************************
+************************
+Document:  CACM-2739.html
+************************
+
+
+the restriction language for computer grammars of natural language
+
+over the past few years, a number of systems
+for the computer analysis of natural language 
+sentences have been based on augmented context-free
+grammars: a context-free 
+************************
+
+************************
+Document:  CACM-2806.html
+************************
+************************
+Document:  CACM-1926.html
+************************
+
+
+description of format, a text-processing program
+
+format is a production program which facilitates
+the editing and printing of "finished" documents 
+directly on the printer of a relatively small (64k) computer
+system.  it features good performance, totally 
+free-form input, very flexible formatting capabilities
+including up to eight columns 
+************************
+ up to eight columns per page, automatic 
+capitalization, aids for index construction, and a
+minimum of nontext items.  it is written entirely 
+in fortran iv.
+
+cacm march, 1969
+
+berns, g. m.
+
+text processing, indexing, printing, documentation,
+text editing, formatting, frequency dictionary, 
+************************
+
+************************
+Document:  CACM-2871.html
+************************
+
+
+logical analysis of programs
+
+most present systems for verification of computer
+programs are incomplete in that intermediate 
+inductive assertions must be provided manually by the
+user, termination is not proven, and incorrect 
+programs are not treated.  as a unified solution to
+these problems, this paper suggests conducting a 
+logical analysis of programs by using invariants which
+express what is actually occurring in the program. 
+ the first part of the paper is devoted to techniques
+for the automatic generation of invariants.  the 
+second part provides criteria for using the invariants
+to check simultaneously for correctness (including 
+termination) or incorrectness. 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the 
+************************
+
+************************
+Document:  CACM-2798.html
+************************
+************************
+Document:  CACM-1652.html
+************************
+
+
+a code for non-numeric information processing
+applications in online systems
+
+a code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications, and to maximize the transfer 
+rate of the information channel linking the system and
+the system user.  the code has direct application 
+to problems in area such as information retrieval, document
+classification, computer-aided teaching and 
+text editing.  this code, 
+************************
+
+************************
+Document:  CACM-2629.html
+************************
+
+
+the unix time-sharing system 
+
+unix is a general-purpose, multi-user, interactive
+operating system for the digital equipment 
+corporation pdp-11/40 and 11/45 computers.  it offers
+a number of features seldom found even in larger 
+operating systems, including: (1) a hierarchical 
+************************
+: (1) a hierarchical file system
+incorporating demountable volumes; (2) compatible 
+file, device, and inter-process i/o; (3) the ability to
+initiate asynchronous processes; (4) system command 
+language selectable on a per-user basis; and (5) over
+100 subsystems including a dozen languageshis 
+************************
+
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including availability, 
+response 
+************************
+
+************************
+Document:  CACM-3157.html
+************************
+************************
+Document:  CACM-3136.html
+************************

@@ -1,0 +1,2363 @@
+Snippets for the query:  Q36
+************************
+Total Hits:  204
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+of logical data structures with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, as well
+as in advanced data management systems and distributed 
+data bases.  this paper reviews past work in the data
+definition language for describing both logical 
+and physical 
+************************
+ both logical 
+and physical aspects of data.  applications of these
+"generalized" data definition languages are also 
+discussed.
+
+cacm december, 1973
+
+sibley, e. h.
+taylor, r. w.
+
+data definition language, data and storage structure,
+data translation, data base management systems, 
+file translation
+
+************************
+
+************************
+Document:  CACM-2750.html
+************************
+
+
+a cost oriented algorithm for data set allocation in storage hierarchies
+
+data set allocation in today's multilevel
+storage systems is usually based on 
+************************
+s is usually based on qualitative, 
+ad hoc decisions.  while it would be desirable to obtain
+an optimal solution to this allocation problem, 
+it is clear that the number of parameters involved makes
+it intractable to straight-forward solution. 
+ in such a situation, we must find a set of assumptions
+which simplify the problem greatly, but which 
+still provide a basis for considering all significant
+cost elements. this paper presents such a first, 
+quantitative allocation step.  it considers many of the
+significant detailed costs of system utilization, 
+data storage, data staging, 
+************************
+ storage, data staging, and data migration.  although
+many avenues of further improvement are available, 
+the present algorithm seems to be usefully accurate.
+as such, it can aid in quantifying the problems 
+of data set allocation, storage system configuration, and new 
+************************
+ configuration, and new device designs.
+
+cacm june, 1975
+
+lum, v. y.
+senko, m. e
+wang, c. p.
+ling, h.
+
+data set allocation, hierarchical storage, storage
+system configuration, data 
+************************
+
+************************
+Document:  CACM-1213.html
+************************
+
+
+dynamic format specifications
+
+the use and implementation of two new fortran
+format conversions are discussed.  these format 
+types give the fortran programmer 
+************************
+
+************************
+Document:  CACM-1426.html
+************************
+
+
+a simulation of hospital admission policy
+
+a study is described which simulates different
+admission policies of a large specialized hospital. 
+ the objective is to determine better policies for
+stabilization of admission and census rates while 
+maintaining a reasonably full hospital.  there types of
+policies were examined: 
+************************
+
+************************
+Document:  CACM-1281.html
+************************
+
+
+data input by question and answer
+
+a data input scheme for a time-sharing computer
+is described in this paper.  instead of using
+format statements to determine the input, the computer
+asks the user for the required values one at a 
+time.  the computer converses with the user during the
+input process, checks for errors, provides 
+************************
+
+************************
+Document:  CACM-1439.html
+************************
+
+
+mechanization of the curve fitting process: datan
+
+a process for fitting 
+************************
+n
+
+a process for fitting a curve to approximate data
+and the problem it creates 
+************************
+
+and the problem it creates for the engineer-programmer 
+is defined.  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major portion of this process.  the techniques developed
+
+************************
+
+************************
+Document:  CACM-3196.html
+************************
+************************
+Document:  CACM-0242.html
+************************
+
+
+notes on geometric weighted check digit verification
+
+this note describes a method for utilizing
+geometric weight modulus 11 checking digits on a 
+computer which does not have either multiplication or
+division.  in addition some attempt has been made 
+to show some limitations of this system.
+
+cacm december, 1961
+
+************************
+
+************************
+Document:  CACM-2527.html
+************************
+
+
+implementation of high level language machine
+
+computing machines which directly execute
+the statements of a high level language have been 
+proposed in the past.  this report describes the actual
+implementation of such a machine: it is a computer 
+whose "machine language" is apl.  the machine is fully
+operational and correctly executes almost all 
+of the apl operations on scalars, vectors, and arrays.
+ the machine automatically allocates memory, executes 
+statements, calls functions, converts numbers from one
+type to another, checks subscripts, and automatically 
+************************
+s subscripts, and automatically 
+detects many types of programmer errors.
+
+************************
+
+************************
+Document:  CACM-1868.html
+************************
+
+
+on obtaining correct input:a new approach
+
+most information put into machine readable
+form, whether from scientific or business origins, 
+is still keypunched.  this paper is addressed toward
+the difficulty of obtaining correctly keypunched 
+and key verified data and an alternative method 
+************************
+ and an alternative method is suggested
+in which the computer itself is used to rule 
+out the possibility of errors in input.  this technique
+is explained and illustrated by reference to 
+a working program which involves essentially two phases:
+in the first phase errors are detected by the 
+machine, and subsequently, in the second phase, they are corrected by it.
+
+cacm july, 1969
+
+kennedy, m.
+
+correct data, correct input, data 
+************************
+, correct input, data correction,
+keypunch, 
+************************
+
+************************
+Document:  CACM-1204.html
+************************
+
+
+character structure and character parity sense for
+serial-by-bit data communication in the 
+************************
+
+************************
+Document:  CACM-1591.html
+************************
+
+
+a model for a multifunctional teaching system
+
+a teaching system model that was incorporated
+into an operating system of a large computer 
+is described.  the model transferred control to the
+operating system to execute functions other than 
+teaching, and then recovered control in order to resume
+teaching.  the teaching system (abac-ii) was 
+written to run under the operating system (ibsys) for
+the ibm 7044 graphic system.  because the teaching 
+system automatically terminated and rescheduled itself,
+a student studying a course presented at a cathode-ray 
+display terminal could switch readily between student
+mode and programmer mode.  during the latter, the 
+full resources of the operating system (language processors,
+compilers, library 
+************************
+ors,
+compilers, library and user's programs) 
+were at his disposal.  he could for example, write, assemble,
+debug, and execute at the terminal a program 
+written in any language processed by the operating system.
+ a course could therefore 
+************************
+.
+ a course could therefore include text material 
+interleaved with programming problems which the student
+could solve without leaving the terminal.  exercises 
+in simulation and gaming could also be provided.  the
+implications of a teaching system with this degree 
+of flexibility for industrial and executive training
+as well as academic education are discussed.  in 
+addition, the advantages of this type of system for computer
+
+************************
+
+************************
+Document:  CACM-2084.html
+************************
+
+
+a note on the complement of inherently ambiguous context-free languages
+
+cacm march, 1970
+
+maurer, h. a.
+
+ambiguity, inherent ambiguity, complement, context-free language,
+chomsky-language, phrase structure language, production system,
+type 2 language, bounded 
+************************
+
+************************
+Document:  CACM-3128.html
+************************
+
+
+synchronization with eventcounts and sequencers
+
+synchronization of concurrent processes requires controlling 
+************************
+es requires controlling the relative 
+ordering of events in the processes.
+a new synchronization 
+************************
+.
+a new synchronization mechanism is proposed, using 
+abstract objects called eventcounts and sequencers, that allows processes
+to control the ordering 
+************************
+
+to control the ordering of events directly, rather than using mutual
+exclusion to protect manipulations of shared variables that control
+ordering of events.  direct control of ordering seems to simplify
+correctness arguments and also simplifies implementation in distributed
+systems.  the mechanism is defined formally, and then several
+examples of its use are given.  the relationship of the mechanism
+to protection mechanisms in the system is explained; in particular,
+eventcounts are shown to be applicable to situations where confinement
+of information matters.  an implementation of eventcount
+s and sequencers in a system with shared memory is described.
+
+cacm february, 1979
+
+reed, d.
+kanodia, r.
+
+process synchronization, interprocess communication, 
+************************
+, interprocess communication, distributed
+systems, security models, mutual 
+************************
+
+************************
+Document:  CACM-1589.html
+************************
+
+
+dialog: a conversational programming system with a graphical orientation
+
+dialog is an algebraic language for online
+use with a graphical input-output console device. 
+ it is a computational aid for the casual user, which
+provides basic facilities for graphical and numeric 
+input and display, online and off line program preparation
+and storage, and hard copy presentation of 
+results.  use of the system requires a minimum of experience
+or instruction, since the growth of an overlaying 
+system control language has been prevented, and there
+are no processor-oriented statements, like variable 
+type or dimension declarations.  moreover, in the online
+situation the processor interacts with the graphical 
+keyboard on a character-by-character basis so as to
+restrict the programmer's choice of input symbols 
+to those which are syntactically correct. dialog has been
+in 
+************************
+
+************************
+Document:  CACM-0794.html
+************************
+
+
+a list-type storage technique for alphameric information
+
+a method which is economic in terms of space and
+time is proposed for the storage and manipulation 
+of character strings of arbitrary length in a fixed
+
+************************
+
+************************
+Document:  CACM-0252.html
+************************
+
+
+programming a duplex computer system
+
+this paper describes a method of duplex-computer
+programming that has been used with two computers 
+in a military defense system.  the method combines special
+programs with a basic data processing program 
+package. 
+************************
+ing program 
+package.  the duplex operation gives the system greater
+reliability.  after achieving the required level 
+of integration, both computers do similar processing
+on the same inputs 
+************************
+
+************************
+Document:  CACM-1226.html
+************************
+
+
+the organization of structured files
+
+a data file is an integral part of a data processing
+system.  in many 
+************************
+ing
+system.  in many systems, the selection 
+of an organization for the data within the file can
+
+************************
+ within the file can
+be critical to the system's operating efficiency. 
+ this paper provides the systems designer with an information
+source which describes ten techniques that 
+may be employed for organizing structured data.  the
+characteristics 
+************************
+
+************************
+Document:  CACM-3012.html
+************************
+
+
+the use of an interactive information storage
+and retrieval system in medical research
+
+this paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system.  a monitor built into the computer
+system provided usage data for the study.  additional 
+************************
+ for the study.  additional 
+data on user reactions were gathe red from a questionnaire.
+ the results show the important role played 
+by frequently chosen laboratory reference leaders in influencing
+the use of this system.  the implications 
+
+************************
+
+************************
+Document:  CACM-0457.html
+************************
+************************
+Document:  CACM-0251.html
+************************
+
+
+ballistic cam design 
+
+this paper presents a digital computer program
+for the rapid calculation of manufacturing data 
+essential to the design of preproduction cams which
+are utilized in ballistic computers of tank fire 
+control systems.  the cam profile generated 
+************************
+
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-2311.html
+************************
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  for each generation,
+the scope of development projects and the 
+technological world view of the system developer are examined.
+
+cacm july, 1972
+
+benjamin, r. i.
+
+computing milieu, management data processing, hardware
+systems, 
+************************
+ing, hardware
+systems, software systems, systems development 
+process, functional systems, 
+************************
+
+************************
+Document:  CACM-1033.html
+************************
+
+
+experimental personalized array translator system
+
+a system designed for intimate man-machine
+interaction in a general-purpose problem-solving 
+environment is experimentally operational.  the system
+utilizers an array-oriented symbolic source language 
+containing powerful statement types.  these include numeric,
+
+************************
+s.  these include numeric,
+boolean, relational and selection operators 
+on operands which can be entire arrays.  the system also
+permits simple specification of test and argument 
+arrays in single statements.  the completely symbolic
+operating system includes display and entry of 
+program and data.  sequence control is 
+************************
+
+************************
+Document:  CACM-1922.html
+************************
+
+
+proposed usa standard (data communication control
+procedures for the usa standarad code for information 
+interchange)
+
+cacm march, 1969
+
+data communication, data communication control procedures,
+data communication establishment/termination 
+procedures, data communication message transfer procedures,
+
+************************
+ transfer procedures,
+data communication error control procedures, 
+data communication polling/selection procedures, communication,
+communication control procedures, communication 
+establishment/termination procedures, communication
+message transfer procedures, 
+************************
+ transfer procedures, communication error 
+control procedures, communication polling/selection procedures,
+link, link control procedures, link establishment/termination 
+procedures, link message transfer procedures, link error
+control procedures, link polling/selection procedures, 
+data link, data link control 
+************************
+ link, data link control procedures, data link  establishment/termination
+procedures, data link message 
+transfer procedures, 
+************************
+
+************************
+Document:  CACM-2890.html
+************************
+************************
+Document:  CACM-2353.html
+************************
+
+
+fast finite-difference solution of biharmonic problems
+
+setting the reynolds number equal to zero, in
+a method for solving the navier-strokes equations 
+numerically, results in a fast numerical method for
+biharmonic problems.  the equation is treated as 
+a system of two second order equations and a simple
+smoothing process is essential for convergence.  
+an application is made to a crack-type problem.
+
+cacm may, 
+************************
+
+************************
+Document:  CACM-3048.html
+************************
+
+
+performance evaluation of highly concurrent
+computers by deterministic simulation
+
+simulation is presented as a practical technique
+for performance evaluation of alternative 
+configurations of highly concurrent computers.  a technique
+is described for constructing a detailed 
+deterministic simulation model of a system.  in the model
+a control stream replaces the instruction and 
+data streams of the real 
+************************
+ streams of the real system.  simulation of the
+
+************************
+.  simulation of the
+system model yields the timing and resource usage 
+statistics needed for performance evaluation, without
+the necessity of emulating the system.  as a case 
+study, the implementation of a simulator of a model
+of the cpu-memory subsystem of the ibm 360/91 is 
+described.  the results of evaluating some alternative
+system designs are discussed.  the experiments 
+reveal that, for the case study, the major bottlenecks
+in the system are the memory unit and the fixed 
+point unit.  further, it appears that many of the sophisticated
+pipelining and buffering technique simplemented 
+in the architecture of the ibm 360/91 are of little
+value when high-speed (cache) memory is used, as 
+in the ibm 360/195.
+
+cacm november, 1978
+
+kumar, b.
+davidson, e.
+
+performance evaluation, deterministic simulation,
+control stream, concurrent computers
+
+************************
+
+************************
+Document:  CACM-3031.html
+************************
+
+
+abstract data types and software validation
+
+************************
+ and software validation
+
+a data abstraction can be naturally specified
+using algebraic axioms.  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type.  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation.  the  major 
+thrust of the paper is twofold.  first, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+
+************************
+ness of an implementation
+of an abstract data type.  second, semi-automatic 
+************************
+.  second, semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to derive an immediate 
+implementation from the axioms.  this implementation
+allows for limited testing of programs at design 
+time, before a conventional implementation is accomplished.
+
+cacm december, 1978
+
+guttag, j.
+horowitz, e.
+musser, d.
+
+abstract data type, correctness proof,
+
+************************
+, correctness proof,
+data type, data structure, specification 
+************************
+
+************************
+Document:  CACM-2940.html
+************************
+
+
+abstraction and verification in alphard: defining
+and specifying iteration and generators
+
+the alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.  in this paper the 
+************************
+.  in this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement, the
+most important poin t of interaction between data 
+and the control structure of the language itself.  a
+means of specializing alphard's loops to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced. 
+ specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+ results are obtained that for common special 
+cases of these loops are essentially identical to the
+corresponding constructs in other languages.  a 
+means of showing that a generator will terminate is also provided.
+
+cacm august, 1977
+
+shaw, m.
+wulf, w. a.
+
+abstraction and representation, abstract data types,
+assertions, control 
+************************
+s,
+assertions, control specialization, correctness, 
+generators,invariants, iteration statements, modular
+decomposition, program specifications, programming 
+languages, programming methodology, proofs of correctness, types, verification
+
+4.20 
+************************
+
+************************
+Document:  CACM-2241.html
+************************
+************************
+Document:  CACM-2560.html
+************************
+
+
+a queuing model of a multiprogrammed
+computer with a two-level storage system
+
+the results are presented of an analysis of
+a probabilistic model of a multiprogrammed computer 
+system with a two-level storage system in which there
+is sequential dependency of accesses between the 
+devices.  expressions are obtained for the long-run probability
+that both the cpu and each of the storage 
+devices are busy.  some numerical results are given which
+quantify the gains in cpu utilization obtainable 
+by multiprogramming in the presence of this type of storage system.
+
+
+************************
+
+************************
+Document:  CACM-2941.html
+************************
+
+
+early experience with mesa
+
+the experiences of mesa's first users-primarily
+its implementers-are discussed, and some implications 
+for mesa and similar programming languages are suggested.
+the specific topics addressed are: module structure 
+and its use in defining abstractions, data-structuring
+facilities in mesa, an equivalence algorithm for 
+types and type coercions, the benefits of the type system
+and why it is breached 
+************************
+
+and why it is breached occasionally, and the 
+difficulty of making the treatment of variant records safe.
+
+cacm august, 1977
+
+geschke, c. m.
+morris, j. h. jr.
+satterthwaite, e. h.
+
+programming languages, types, modules,
+data structures, systems programming
+
+4.22
+
+
+************************
+
+************************
+Document:  CACM-0243.html
+************************
+
+
+n-dimensional codes for detecting and correcting multiple errors
+
+the paper introduces a new family of codes
+for detecting and correcting multiple errors in 
+a binary-coded message.  the message itself is arranged
+(conceptually) into a multidimensional rectangular 
+array.  the processes of encoding and error detection
+are based upon parity evaluations along prescribed 
+dimensions of the array.  effectiveness of the codes
+is increased by introducing a "system check bit", 
+which is essentially 
+************************
+", 
+which is essentially a parity check on the other parity
+bits.  only three-dimensional 
+************************
+s.  only three-dimensional codes are discussed 
+in this paper with parity evaluations along the horizontal,
+the vertical, and one main diagonal.  however, 
+the family of codes is not restricted to three dimensions,
+as evidenced by the discussion by minnick 
+and ashenhurst on a similar multidimensional single-bit
+selection plan used for another purpose [6]. 
+ a four-dimensional code, correcting three and detecting
+
+************************
+
+************************
+Document:  CACM-2956.html
+************************
+
+
+some ideas on data types in high-level languages
+
+************************
+ in high-level languages
+
+a number of issues are explored concerning the
+notion that a data type is a set of values together 
+************************
+ is a set of values together 
+with a set of primitive operations on those values.  among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple 
+************************
+, the need for
+a simple notation for allowing types of parameters 
+to be 
+************************
+s of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+cacm june, 1977
+
+gries, d.
+gehani, n.
+
+data types, generic procedures, 
+************************
+
+************************
+Document:  CACM-2243.html
+************************
+************************
+Document:  CACM-1432.html
+************************
+
+
+incorporation of nonstandard input/output devices into fortran systems
+
+a fortran system may readily be modified to
+handle input/output with nonstandard media on the 
+same basis on which it handles the standard media.  this
+is done by providing a character-handling subroutine 
+suited to the nonstandard medium and arranged to be called
+by an otherwise unused output statement type 
+or unit number. this 
+************************
+
+************************
+Document:  CACM-1143.html
+************************
+
+
+analysis of decay-type data*
+
+a comparative study 
+************************
+*
+
+a comparative study has been made of a variety
+of numerical techniques for fitting experimental 
+data of the decay type by forms involving the 
+************************
+
+************************
+Document:  CACM-3021.html
+************************
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key.  this has two important consequences: (1) 
+couriers or other secure means are not needed to transmit
+keys, since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient.
+ only he can decipher the message, since 
+only he knows the corresponding decryption key.  (2)
+a message can be "signed" using a privately held 
+decryption key.  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key.  signatures cannot be forged, and a signer cannot
+later deny the validity of his signature.  this 
+has obvious applications in "electronic mail" and "electronic
+funds transfer" systems.  a message is 
+encrypted by representing it as a number m, raising
+m to a publicly specified power e, and then taking 
+the remainder when the result is divided by the publicly
+specified product, n, of two large secret prime 
+numbers p and q.  decryption is similar;only a different,
+secret, power d is used, where e * d = 1 (mod(p-1) 
+* (q-1)).  the security of the system rests in part on
+the difficulty of factoring the published divisor, 
+n.
+
+cacm february, 1978
+
+rivest, r.
+shamir, a.
+adleman, l.
+
+digital signatures, public-key cryptosystems,
+privacy, authentication, security, factorization, 
+prime number, electronic mail, message-passing,
+electronic funds transfer, 
+************************
+
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing 
+************************
+ in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations 
+************************
+ and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+************************
+ includes provision for 
+programmer-defined data types data types and generic
+
+************************
+ data types and generic
+routines, 
+************************
+ and generic
+routines, programmer control over type conversion, 
+and very flexible data type behavior, in a context that
+allows efficient compiled code and compact data 
+representation.
+
+cacm may, 1974
+
+wegbreit, b.
+
+data types, modes, mode unions, 
+************************
+, modes, mode unions, type conversion,
+coercion, generic functions, extensible languages, 
+data type definition, data 
+************************
+ type definition, data description language, 
+************************
+
+************************
+Document:  CACM-1359.html
+************************
+
+
+data filtering applied to information storage and retrieval applications
+
+manipulation of data strings is the most complex
+processing function in information 
+************************
+ing function in information storage 
+and retrieval applications.  data string manipulation
+is discussed within the context of an interpretive 
+processing environment controlled 
+************************
+ing environment controlled by the use of procedural
+directives.  the sequence of procedural directives 
+is derived from a job assumed to be expressed in a user-oriented
+source language.  each data string with 
+the structured data environment (data bank) is explicitly
+or implicitly related to a format declaration
+residing in a format library.  the processing mechanics
+associated 
+************************
+ing mechanics
+associated with data string manipulation is developed 
+in accordance with a generalized data filtering concept.
+ this results in the implementation of a two-part 
+data filter module that satisfies internal processing
+functions by filtering 
+************************
+
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must arrange data for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency 
+************************
+s with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical data.
+
+cacm june, 1970
+
+frantz, d. g.
+
+comparative linguistics, natural
+language processing, comparative method, historical linguistics, diachronic
+linguistics, genetic relationship, sound change, sound
+
+************************
+
+************************
+Document:  CACM-3071.html
+************************
+
+
+an algorithm using symbolic techniques for the
+bel-petrov classification of gravitational fields
+
+in this note, an algorithm is presented for the
+symbolic calculation of certain algebraic invariants 
+of the weyl tensor which permits the determination
+of the bel-petrov types of a gravitational 
+************************
+s of a gravitational field. 
+ this algorithm, although more specialized than that
+of d'inverno and russell-clark, requires neither 
+the use of a special coordinate system nor the spin coefficient
+formalism.  the algorithm has been implemented 
+in formac and is designed to complete the classification
+scheme proposed by petrov in his book.  an appendix 
+contains examples illustrating the use of the algorithm.
+
+cacm september, 1978
+
+harris, r.
+zund, j.
+
+general relativity, bel-petrov types,
+formac, symbolic manipulation, 
+************************
+
+************************
+Document:  CACM-1482.html
+************************
+
+
+bugsys: a programming system for picture processing-not for debugging
+
+bugsys is a picture processing and measuring
+system that depends upon a pictorial input to 
+the computer's memory.  bugsys can be used for many
+types of applications.  in 
+************************
+
+************************
+Document:  CACM-2080.html
+************************
+
+
+the nucleus of a multiprogramming system
+
+this paper describes the philosophy and structure of a multiprogramming system 
+that can be extended with a hierarchy of operating systems to suit diverse 
+requirements of program scheduling and resource allocation.  the system
+nucleus simulates an environment in which program execution and input/output
+are handled uniformly as parallel, cooperating process
+es.  a fundamental set of primitives allows the dynamic creation and control
+of a hierarchy of processes as well as the communication among them.
+
+cacm april, 1970
+
+hansen, p. b.
+
+multiprogramming, operating systems, parallel processes, process concept,
+process communication, message buffering, process
+hierarchy, 
+************************
+
+************************
+Document:  CACM-1587.html
+************************
+
+
+storage allocation in a certain iterative process
+
+a method of core storage allocation in a certain
+iterative process is described and estimates 
+of the machine time required are given.  the method is
+applicable to iterative processes in which input 
+data items once chosen are 
+************************
+
+************************
+Document:  CACM-2265.html
+************************
+
+
+a model for type checking
+
+most current programming 
+************************
+ing
+
+most current programming languages treat computation
+over different classes of objects (e.g. 
+numbers, strings, labels and functions).  for correct
+compilation and execution, the following question 
+then arises: is a program properly constructed so that
+its operations and operands are compatible?  the 
+activity of answering this question is usually called
+type checking.  this paper attempts 
+************************
+ing.  this paper attempts to isolate 
+the notion of type checking and presents a partial
+
+************************
+ing and presents a partial
+solution to the type checking problem based on 
+************************
+ing problem based on the 
+notions of abstraction and application of functions. 
+in particular, a program is mapped into an expression 
+within a decidable subset of the lambda calculus, which
+characterizes the type relations within the program 
+and eliminates all other information.  the determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".  an application 
+to type checking in algol 60 is made, and the attendant
+problems faced for any notion of type checking 
+are discussed.
+
+cacm november, 1972
+
+ledgard, h. f.
+
+type checking, types, lambda calculus, models 
+************************
+
+************************
+Document:  CACM-0982.html
+************************
+
+
+an inductive approach to language translation
+
+the possibility of natural language translation
+by means of fixed operations on example translations 
+is considered.  the conception of sentence translation
+which motivates the work is informally presented, 
+and the measurement of physical similarity in pairs of
+strings is discussed, a notion which plays a central 
+role in the proposed type of translator.  experimental
+
+************************
+
+************************
+Document:  CACM-0538.html
+************************
+
+
+quantum mechanical integrals of slater-type orbitals (algorithm 110)
+
+
+************************
+
+************************
+Document:  CACM-2794.html
+************************
+
+
+state-space, problem-reduction, and theorem proving-some relationships
+
+this paper suggests a bidirectional relationship
+between state-space and problem-reduction 
+representations. it presents a formalism based on multiple-input
+and multiple-output operators which 
+provides a basis for viewing the two types of representations
+
+************************
+s of representations
+in this manner.  a representation of the 
+language recognition problem which is based on the cocke
+parsing algorithm is used as an illustration. 
+ a method for representing problems in first-order logic
+in such a way that the inference system employed 
+by a resolution-based theorem prover determines whether
+the set of clauses is interpreted in the state-spacer 
+mode or in the problem-reduction mode is presented.
+ the analogous concepts in problem-reduction and 
+theorem proving, and the terminology used to refer to them,
+are noted.  the relationship between problem-reduction, 
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  the model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may 
+************************
+
+************************
+Document:  CACM-2958.html
+************************
+
+
+abstract data types and the development 
+************************
+ and the development of data structures
+
+abstract data types can play a significant 
+************************
+ can play a significant role
+in the development of software that is reliable, 
+efficient, and flexible.  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types.  among
+the examples 
+************************
+.  among
+the examples presented is a top-down development 
+of a symbol table for a block structured language; a discussion
+of the proof of its correctness is given. 
+ the paper also contains a brief discussion of the problems
+involved in constructing algebraic specifications 
+that are both consistent and complete.
+
+cacm june, 1977
+
+guttag, j.
+
+abstract data type, correctness proof, 
+************************
+, correctness proof, data type,
+data structure, specification, 
+************************
+
+************************
+Document:  CACM-2141.html
+************************
+
+
+algorithmic selection of the best
+method for compressing map data strings
+
+the best of a dozen different methods for
+compressing map data is illustrated.  the choices 
+are generated by encoding data strings-sequence of like
+codes-by three methods and in four directions. 
+ relationships are developed between 
+************************
+
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-2369.html
+************************
+
+
+hidden lines elimination for a rotating object
+
+a method is presented of determining which
+parts of three-dimensional objects are visible and 
+which are invisible when the objects are rotated about
+some axis.  this paper describes a polygon comparison 
+scheme in which the relationships of two polygons can
+be classified into tree types, and also discusses 
+************************
+
+************************
+Document:  CACM-3141.html
+************************
+
+
+an improved algorithm for decentralized extrema-finding
+in circular configurations of processes
+
+this note presents 
+************************
+
+
+this note presents an improvement to lelann's
+algorithm for finding the largest (or smallest) of a set of uniquely
+numbered processes arranged in a circle, 
+************************
+ arranged in a circle, in which no central
+controller exists and the number of processes is not known a priori.
+
+************************
+ is not known a priori.
+this decentralized algorithm uses a technique of selective
+message extinction in order to achieve an average number of
+message passes of order (n log n) rather than o(n2).  
+
+cacm may, 1979
+
+chang, e.
+roberts, r.
+
+decentralized algorithms, distributed systems, operating systems
+
+************************
+
+************************
+Document:  CACM-0696.html
+************************
+
+
+an automatic data acquisition and inquiry system using disk files
+
+lockheed missiles and space company has installed
+a large-scale automatic data acquisition 
+(ada) system which ties together the company's manufacturing
+facilities located in van nuys and sunnyvale, 
+california.  the system includes over 200 remote input
+stations which collect and transmit company operating 
+data to a central data processing center.  two rca 
+************************
+ing center.  two rca 301
+edp systems are used to record and control the 
+flow of data transmitted to the data processing center.
+ a large 
+************************
+ing center.
+ a large capacity rca 366 data disc file is used 
+to store information required to provide up-to-date
+information in response to inquiries received from 
+remotely located inquiry stations.  in addition to storage
+of data on the disk files, the system automatically 
+records all incoming and outgoing data on magnetic tape
+to be used as input to the company's conventional 
+off-line business data processing applications.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-2957.html
+************************
+
+
+database abstractions: aggregation
+
+aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  aggregation transforms a relationship between
+objects into a higher-level object.  a new data 
+type, called aggregation, 
+************************
+, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  relational databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  to main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  well-defined relations are
+distinct from relations in third normal form.  it 
+is shown that these notions are complementary and both are
+important in database design.  a top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  it is
+suggested that aggregate types, and other types 
+which 
+************************
+s, and other types 
+which support real-world 
+************************
+s 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+into programming languages.
+
+cacm june, 1977
+
+smith, j. m.
+smith, d. c. p.
+
+data abstraction, relational database, data type,
+aggregation, database 
+************************
+
+************************
+Document:  CACM-0549.html
+************************
+
+
+quantum mechanical integrals of slater-type orbitals
+
+cacm july, 1962
+
+************************
+
+************************
+Document:  CACM-0676.html
+************************
+************************
+Document:  CACM-2233.html
+************************
+
+
+signature simulation and certain cryptographic codes
+
+three cyphers allegedly authored by thomas
+jefferson beale in 1822 have been the subject of 
+intensive study for over 100 years.  generations of
+cryptanalysts have expended untold man-years, thus 
+far without success, attempting tode code them; vast armies
+of fortune hunters and treasure seekers have 
+devoted herculean labors to digging up the rolling hills
+of virginia trying to locate the promised bonanza. 
+ the history of pertinent activities would fill volumes,
+yet serious students of cryptography have always 
+had nagging doubts about the cyphers' authenticity.
+ it has been alleged that the "known solution" to 
+cypher number two: 115, 73, 24, 818, 37, 52, 49,...("i
+have deposited in the county of bedford about 
+four miles from buford's in an excavation or vault...")
+with the aid of an unsanitized version of the 
+declaration of independence was merely a superb, imaginative,
+and grandiose hoax perpetrated ages ago 
+for whatever reasons.  modern computer technology could
+obviously perform signature analyses the process 
+of encoding itself so as to yield new clues and deeper
+insights into their construction.  for the benefit 
+of the uninitiated, the encoding method used in the
+second cypher employs a specified document whose 
+words are simply numbered consecutively, and first letters
+of these words are sought out at random to 
+match the letters of these words are sought out at random
+to match the letters of the clear text or message. 
+ the sequence of numbers corresponding to these matches
+is then written down as the final code.  while 
+primitive, the process has the advantage of relative
+security until the source document becomes known; 
+at that moment the cypher can be decoded even by second
+graders.  the work now completed with the help 
+of our univac 1108 includes numerous analytical studies
+of the beale cyphers and various types of simulations. 
+ for 
+************************
+s of simulations. 
+ for example, we have turned the entire process of
+simulated encoding by various schemes over to the 
+machine and analyzed the signatures of these synthetic
+codes; we have also encoded various messages by 
+hand, using different 
+************************
+ by 
+hand, using different texts and a variety of methods to
+obtain their signatures. these simulations provide 
+convincing evidence that the signatures are both process
+and data dependent; they indicate 
+************************
+
+************************
+Document:  CACM-0033.html
+************************
+************************
+Document:  CACM-3043.html
+************************
+
+
+distributed processes: a concurrent programming 
+************************
+: a concurrent programming concept
+
+a language concept for concurrent processes
+without common variables 
+************************
+
+without common variables is introduced.  these 
+processes communicate and synchronize 
+************************
+ communicate and synchronize by means of procedure
+calls and guarded regions.  this concept 
+is proposed for real-time applications controlled by
+microcomputer networks with distributed storage. 
+ the paper gives several examples of distributed processes
+and shows that they 
+************************
+
+and shows that they include procedures, coroutines, 
+classes, monitors, processes, semaphores, buffers, 
+************************
+, semaphores, buffers, path
+expressions, and input/output as special cases.
+
+cacm november, 1978
+
+hansen, p.
+
+concurrent programming, distributed processes,
+microprocessor networks, 
+************************
+,
+microprocessor networks, nondeterminism, guarded 
+regions, programming languages, process communication
+and scheduling, sorting arrays, coroutines, classes, 
+monitors, processes, semaphores, buffers, 
+************************
+
+************************
+Document:  CACM-1505.html
+************************
+
+
+a system organization for resource allocation 
+
+this paper introduces a system for resource management
+using the concepts of "process," facility," 
+and "event." 
+************************
+," facility," 
+and "event."  except for the processor no attempt has
+been made to give 
+************************
+
+************************
+Document:  CACM-1034.html
+************************
+
+
+autosate
+
+an automated data system analysis technique is
+
+************************
+ analysis technique is
+described. the technique is designed to alleviate 
+some of the principal problems that beset current analysis-large
+data workloads, long span of time between 
+project inception and system operational date, the lack
+of explicit directions for conducting data system 
+analysis and using the results, and the lack of a technique
+to control data system changes throughout 
+its lifetime. the analysis is geared to determining workload,
+relationships and storage characteristics 
+************************
+
+************************
+Document:  CACM-1006.html
+************************
+
+
+a storage allocation and reference structure
+
+a method is proposed and discussed which allows
+a subscripted-variable capability (in the fortran 
+sense) to be added to autocoder-type assembly systems.
+
+cacm september, 1964
+
+************************
+
+************************
+Document:  CACM-1719.html
+************************
+
+
+a methodology for calculating and
+optimizing real-time system performance
+
+the continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing 
+************************
+ing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance. 
+************************
+ing system cost
+and performance.  real-time data processing systems 
+as typified 
+************************
+ing systems 
+as typified by the automated airline reservation system
+are discussed in this paper.  criteria for evaluating 
+performance are described; a methodology for calculating
+and optimizing is outlined; and the method is 
+illustrated by carrying out a portion of the performance
+calculation and the optimization of a drum-oriented 
+message switching system.
+
+cacm 
+************************
+
+************************
+Document:  CACM-0867.html
+************************
+
+
+least squares fitting of planes to surfaces using dynamic programming
+
+dynamic programming has recently been used
+by stone, by bellman and by gluss to determine the 
+closet fit of broken line segments to a curve in an
+interval under the constraint that the number of 
+segments is fixed.  in the present paper successive
+models are developed to extend the method to the 
+fitting of broken plane segments to surfaces z=g(x,y) defined
+over certain types of subareas of the 
+************************
+
+************************
+Document:  CACM-0024.html
+************************
+************************
+Document:  CACM-1017.html
+************************
+
+
+comments on bit-sequencing of the ascii
+in serial-by-bit data transmission
+
+cacm august, 
+************************
+
+************************
+Document:  CACM-2376.html
+************************
+
+
+synchronization of communicating processes
+
+formalization of a well-defined synchronization
+mechanism can be used to prove that concurrently 
+running processes of a system communicate correctly.
+ this is demonstrated for a system consisting of 
+many sending processes which deposit messages in a buffer
+and many receiving processes which remove messages 
+from that buffer.  the formal description of the synchronization
+mechanism makes it very easy to prove 
+that the buffer will neither overflow nor underflow,
+that senders and receivers will 
+************************
+s and receivers will never operate on 
+the same message frame in the buffer nor will they run into a deadlock. 
+
+cacm march, 1972
+
+habermann, a. n.
+
+parallel programming, multiprogramming, program correctness,
+process communication, process 
+************************
+
+************************
+Document:  CACM-2948.html
+************************
+
+
+a terminal-oriented communication system
+
+this paper describes a system for full-duplex
+communication between a time-shared computer 
+and its terminals.  the system consists of a communications
+computer directly connected to the time-shared 
+system, a number of small remote computers to which
+the terminals are attached, and connecting medium 
+speed telephone lines.  it can service a large number
+of terminals of various types.  the overall system 
+************************
+s.  the overall system 
+design is presented along with the algorithms used to
+solve three specific problems: local echoing, error 
+detection and correction on the telephone 
+************************
+ion on the telephone lines,
+and multiplexing of character output.
+
+cacm july, 1977
+
+heckel, p. g.
+lampson, b. w.
+
+terminal system, error correction, multiplexing,
+local 
+************************
+
+************************
+Document:  CACM-1152.html
+************************
+
+
+floating-point arithmetic with 84-bit numbers
+
+a classic and straightforward technique is
+presented which is not limited to the size or type 
+of number representation 
+************************
+
+************************
+Document:  CACM-2937.html
+************************
+
+
+an experimental evaluation of data type conventions
+
+the language 
+************************
+ conventions
+
+the language in which programs are written
+can have a substantial effect on the reliability 
+of the resulting programs.  this paper discusses an experiment
+that compares the programming reliability 
+of subjects using a statically typed language and a "typeless"
+language.  analysis of the number of errors 
+and the number of runs containing errors shows that, at
+least in one environment, the use of a statically 
+typed language can increase programming reliability. 
+detailed analysis of the errors made by the subjects 
+in programming solutions to reasonably small problems
+shows that the subjects had difficulty manipulating 
+the representation of data.
+
+cacm august, 1977
+
+gannon, j. d.
+
+data types, experimentation, language
+
+************************
+
+************************
+Document:  CACM-2242.html
+************************
+************************
+Document:  CACM-1736.html
+************************
+
+
+heading format for data transmission (a usaai tutorial -- standards)
+
+cacm june, 1968
+
+data transmission heading format, heading format,
+message format, data transmission, 
+************************
+ format, data transmission, message headings
+
+3.57 3.81 
+************************
+
+************************
+Document:  CACM-1162.html
+************************
+
+
+an assembly language for reprogramming
+
+complete reprogramming of compiler language programs
+is seldom necessary.  it is assembly language 
+programs which present the greatest difficulty.  assembly
+languages generally provide a one-for-one translation 
+from a symbolic to a numeric version of a program, that
+is, from assembly language to machine language. 
+ the meta-language presented here can be used to specify
+the mapping of any language which conforms to 
+a canonical list form into an arbitrary stream of bits.
+ this bit stream 
+************************
+ of bits.
+ this bit stream may be treated as a 
+************************
+
+************************
+Document:  CACM-2371.html
+************************
+
+
+a system for interprocess communication
+in a resource 
+************************
+ communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system 
+************************
+ in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout 
+************************
+
+distributed throughout a computer network. 
+ the hypothetical application of the system to an existing network is discussed.
+
+cacm april, 1972
+
+walden, d. c.
+
+interprocess communication, time-sharing,
+
+************************
+
+************************
+Document:  CACM-1398.html
+************************
+
+
+robot data screening: a solution to multivariate
+type problems in the biological 
+************************
+ problems in the biological and social sciences
+
+a new approach is outlined toward the solution
+of the type of multivariate problem that is 
+found usually in the biological and social sciences as
+well as in medicine.  this approach uses a "logical" 
+rather than a "statistical" criterion by which variables
+are grouped into a deterministic model.  algorithm 
+are developed by which some variables are kept on for
+further analysis while others are eliminated.  
+criteria for the acceptance of a variable as well as the
+termination of the searching process are derived 
+from information 
+************************
+
+************************
+Document:  CACM-2912.html
+************************
+
+
+concurrent reading and writing
+
+the problem of sharing data among asynchronous
+process is considered.  it is assumed that only 
+one process at a time can modify the data, but concurrent
+reading and writing is permitted.  two general 
+theorems are proved, and some algorithms are presented
+to illustrate their use.  these include a solution 
+to the general problem in which a read is repeated if
+it might have obtained an incorrect result, and 
+two techniques for transmitting messages between processes.
+ these solutions do 
+************************
+.
+ these solutions do not assume any synchronizing 
+mechanism other than data which can be written
+by one process and read by other processes.
+
+cacm november, 1977
+
+************************
+.
+
+cacm november, 1977
+
+lamport, l.
+
+asynchronous multiprocessing, multiprocess synchronization,
+readers/writers problem, 
+************************
+
+************************
+Document:  CACM-1870.html
+************************
+************************
+Document:  CACM-1828.html
+************************
+
+
+synchronization in a parallel-accessed data base
+
+the following problem is considered:  given
+a data base which can be manipulated simultaneously 
+by more than one process, what are the rules for synchronization
+which will maximize the amount of parallel 
+activity allowed.  it is assumed that the data base
+can be represented as a graph.  an example of such 
+a data base is a hierarchy of directories for an on-line
+file system.  methods for synchronization of 
+processes are examined; their 
+************************
+ are examined; their validity is
+discussed and their performance compared.
+
+cacm november, 1969
+
+shoshani, a.
+bernstein, a. j.
+
+parallel accessing, parallel search, file search,
+data base, synchronization, locking, deadlock
+
+
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+data types such as sets and lists, 
+************************
+s such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+is discussed.  this process is discussed in detail for
+an example program.  general issues in data structure 
+selection 
+************************
+ structure 
+selection are also reviewed. 
+
+cacm may, 1978
+
+low, j.
+
+abstract data types, automatic programming, 
+************************
+
+************************
+Document:  CACM-1907.html
+************************
+
+
+a note on reliable full-duplex transmission over half-duplex links
+
+a simple procedure for achieving reliable full-duplex
+transmission over half-duplex links is 
+proposed. the scheme is compared with another of the
+same type, which has recently been described in 
+the literature.  finally, some comments are made on
+another group of related transmission procedures 
+which have been shown to be unreliable under some circumstances.
+
+cacm may, 1969
+
+bartlett, k. a.
+scantlebury, r. a.
+
+data transmission, error correction, full-duplex,
+half-duplex, 
+************************
+
+************************
+Document:  CACM-2470.html
+************************
+
+
+fen-an axiomatic basis for program semantics
+
+a formal system is presented which abstracts
+the notions of data item, function, and relation. 
+ it is argued that the system is more suitable than set
+theory (or its derivatives) for the concise and 
+accurate description of program semantics.  it is shown
+how the system can be used to build composite 
+data types out of simper ones 
+************************
+s out of simper ones with the operations of rowing,
+structuring, and uniting.  it is also demonstrated 
+that completely new primitive types can be introduced
+into 
+************************
+s can be introduced
+into languages through the mechanism of singleton 
+data types.  both deterministic 
+************************
+.  both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ it is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  the
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  the technique is contrasted 
+with the use of the paradoxical combinator, y.  the
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. the theory is applied to the 
+proof of several elementary theorems concerning the semantics
+of the assignment, conditional, and iterative 
+statements.  an appendix is included which presents in
+detail the formal system governing webs and fen, 
+the abstractions used informally in the body of the paper.
+
+cacm august, 1973
+
+maclennan, b. j.
+
+semantics, formal systems, lambda-calculus, extensible
+languages, data types, modes, axioms, correctness, 
+************************
+s, modes, axioms, correctness, 
+formal language definition, formal description, data structures,
+description 
+************************
+
+************************
+Document:  CACM-1950.html
+************************
+
+
+efficient handling of binary data
+
+cacm december, 1970
+
+raduchel, w. j.
+
+binary variables, dummy variables, bit strings, cross-tabulations
+
+************************
+
+************************
+Document:  CACM-2835.html
+************************
+************************
+Document:  CACM-0618.html
+************************
+
+
+computers- the key to total systems control: an industrial viewpoint
+
+man-man-machine processes are characterized in five
+main types, and the markets for 
+************************
+
+************************
+Document:  CACM-0605.html
+************************
+
+
+computer simulation of city traffic
+
+in simulating traffic flow on city streets,
+the national bureau of standards has used data 
+processing techniques to tabulate 
+************************
+ing techniques to tabulate and make motion pictures
+of vehicle movements in the model.  each vehicle 
+is assigned a digital identification giving points of
+entry and exit, type of vehicle, desired speed, 
+and actual speed, in proportions simulating field data.
+ changes in the model 
+************************
+
+************************
+Document:  CACM-3142.html
+************************
+
+
+consumer difficulties with computerized transactions: 
+an empirical investigation
+
+the prevalence with which errors may be encountered by the 
+end targets of a computerized process is assessed.  how many and
+what type of errors occur?  how easily are they corrected?  what
+is the reaction 
+************************
+ed?  what
+is the reaction of consumers to errors-to a failure to correct
+them?  what can be learned by designers of large management packages
+from such data? results show that with the present state of the
+art, approximately 40 percent of individuals (or households) having
+average contacts with different types of accounts experience 
+************************
+s of accounts experience one
+or more errors per year.  eighty percent relate to billing.  attempts
+to correct errors often turned 
+************************
+
+************************
+Document:  CACM-1065.html
+************************
+
+
+bit sequencing of the american standard code for
+information interchange (ascii) in serial-by-bit 
+data transmission (proposed 
+************************
+
+************************
+Document:  CACM-1937.html
+************************
+
+
+codas: a data display system
+
+codas, a customer oriented 
+************************
+
+
+codas, a customer oriented data system, is
+a user-oriented 
+************************
+, is
+a user-oriented data retrieval and display system. 
+ the command language 
+************************
+. 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  data is displayed as tables and
+graphs produced in a format ready for publication. 
+ in this paper the statements of the request language
+and the general system design are described.
+
+cacm february, 1969
+
+day, r. h.
+mansfield, m. k.
+ellis, m. e.
+
+data display, information retrieval, graphic display,
+command languages, report program generation, 
+management data processing
+
+3.50 3.51 3.59 3.70 
+************************
+
+************************
+Document:  CACM-1571.html
+************************
+
+
+a user-oriented time-shared online system
+
+an existing system and planned additions within
+the data processing laboratory of the 
+************************
+ing laboratory of the brain 
+research institute at ucla is described.  the system
+represents an attempt to provide research 
+************************
+
+************************
+Document:  CACM-2537.html
+************************
+
+
+common phrases and minimum-space text storage
+
+a method for saving storage space for text
+strings, such as compiler diagnostic messages, is 
+described.  the 
+************************
+, is 
+described.  the method relies on hand selection of a
+set of text strings which are common to one or more 
+messages.  these phrases are 
+************************
+.  these phrases are then stored only once. 
+the storage technique gives rise to a mathematical 
+optimization problem: determine how each message should
+use the available phrases to minimize its storage 
+requirement.  this problem is nontrivial when phrases
+which overlap exist.  however, a dynamic programming 
+algorithm is presented which solves the problem in time
+which grows linearly with the number of characters 
+in the text.  algorithm 444 applies to this paper.
+
+cacm march, 1973
+
+wagner, r. a.
+
+diagnostic messages, error messages, common 
+************************
+, error messages, common phrases,
+minimum 
+************************
+
+************************
+Document:  CACM-2561.html
+************************
+
+
+a heuristic approach to inductive inference in fact retrieval systems
+
+heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  the procedures make use
+of a similarity structure which is imposed on the 
+data base using nonnumerical clustering algorithms.  they
+are implemented in a model fact retrieval system 
+which uses a formal query language and a property-list data
+structure.  a program of experiments is described 
+wherein the procedures are used with test data bases
+which are altered by deleting part of the data and 
+by purposely introducing false data.  it is found that
+the system can infer the correct response under 
+a variety 
+************************
+
+************************
+Document:  CACM-3105.html
+************************
+
+
+a language extension for expressing constraints on data access
+
+controlled sharing of information is needed and
+desirable for many applications and is supported 
+in operating systems by access control mechanisms.  this
+paper shows how to extend programming languages 
+to provide controlled sharing.  the extension permits
+expression of access constraints on shared data. 
+ access constraints can apply both to simple objects, and
+to objects that are components of larger objects, 
+such as bank account records in a bank's data base.
+ the constraints are stated declaratively, and can 
+be enforced by static checking similar to type checking.
+ the approach can be used to extend any strongly-typed 
+language, but is particularly suitable for extending
+languages that support the notion of abstract data 
+types. 
+
+cacm may, 1978
+
+jones, 
+************************
+. 
+
+cacm may, 1978
+
+jones, a.
+liskov,b.
+
+programming languages, access control, data types,
+abstract data types, type checking, capabilities
+
+4.20 
+************************
+
+************************
+Document:  CACM-1827.html
+************************
+
+
+performance monitoring in a time-sharing system
+
+a software measurement facility which is part of
+a general purpose time-sharing system is described. 
+ the date collection facility (dcf) has been implemented
+in the michigan terminal system (mts) for the 
+system/360 model 67.  it exists for the purpose of monitoring
+operating system and user program behavior 
+and performance.  the overall structure of mts is outlined
+in order to explain the implementation of 
+the dcf.  events in the system are identified and recorded
+from within the supervisor, and dumped to 
+magnetic tape by an auxiliary program for off-line processing.
+ events in user programs which are unrelated 
+to system actions are recorded with a supervisor call.
+ the time of occurrence of each event is accurately 
+recorded, and data items are further identified by job and
+type.  the overhead associated 
+************************
+.  the overhead associated with data collection 
+and its interference with normal jobs is carefully analyzed,
+and both are shown to be minimal.  several 
+examples are given of information obtained with the
+facility and of applications in which it has been 
+useful.  some general guidelines are offered for
+the construction of future monitoring programs.
+
+cacm november, 1969
+
+pinkerton, t. b.
+
+performance monitoring, performance measurement,
+program behavior, performance data, multiprogramming 
+performance, software measurement, time-sharing performance,
+system evaluation, software 
+************************
+
+************************
+Document:  CACM-2999.html
+************************
+
+
+an approach to multidimensional data array processing by computer
+
+some 
+************************
+ing by computer
+
+some recent work on the development of general-purpose
+computer-based statistical and data 
+processing capabilities for 
+************************
+ing capabilities for handling multidimensional
+arrays of data is presented. attention is first 
+given to some of the general problems of multidimensional
+table and array processing.  this is followed 
+************************
+ing.  this is followed 
+by a summary of some recent developments in array processing
+capabilities at the world bank, in particular, 
+the system identified as wraps(world bank
+retrieval and array processing system).
+
+cacm february, 1977
+
+muller, m. e.
+
+array processing, table processing, statistical
+analysis, data retrieval, data processing, 
+************************
+ retrieval, data processing, syntax 
+for data 
+************************
+
+************************
+Document:  CACM-1181.html
+************************
+
+
+a simple data transmission system using the office telephone
+
+************************
+ using the office telephone
+
+a method has evolved for transmitting data of
+a type originating in many 
+************************
+

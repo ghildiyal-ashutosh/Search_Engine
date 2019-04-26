@@ -1,0 +1,1078 @@
+Snippets for the query:  Q55
+************************
+Total Hits:  50
+************************
+
+************************
+Document:  CACM-1154.html
+************************
+************************
+Document:  CACM-1101.html
+************************
+************************
+Document:  CACM-1898.html
+************************
+************************
+Document:  CACM-2430.html
+************************
+************************
+Document:  CACM-1961.html
+************************
+
+
+an efficient search algorithm to find the elementary circuits of a graph
+
+a theoretically most efficient search algorithm is presented
+which uses an exhaustive search to find all of the elementary
+circuits of a graph.  the algorithm can be easily modified to find all
+of the elementary circuits with a particular attribute such as
+length.  a rigorous proof of the algorithm is given as well as an example
+of its application.  empirical bounds are presented relating
+the speed of the algorithm to the number of vertices and the number
+of arcs.  the speed is also related to the number of circuits
+in the graph to give a relation between speed and complexity.
+extensions to undirected and s-graphs are discussed.
+
+cacm december, 1970
+
+tiernan, j. c.
+
+algorithm, graph theory, circuit search
+algorithm, 
+************************
+
+************************
+Document:  CACM-2645.html
+************************
+
+
+two languages for estimating program efficiency
+
+two languages enabling their users to estimate
+the efficiency of computer programs are presented. 
+ the program whose efficiency one wishes to estimate is written
+in the first language, a go-to-less programming 
+language which includes most of the features of algol
+60.  the second language consists of interactive 
+commands enabling its users to provide additional information
+about the program written in the first 
+language and to output results estimating its efficiency.
+ processors for the two languages are also 
+described.  the first processor is a syntax-directed
+translator which compiles a program into a symbolic 
+formula representing the execution time for that program.
+ the sound processor is a set of procedures 
+for that program.  the second processor is a set of
+procedures for algebraic manipulation which can be 
+called by the user to operate on the formula produced
+by the first processor.  examples of the usage 
+of the two languages are included.  the limitations of
+the present system, its relation to knuth's work 
+on 
+************************
+
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-2061.html
+************************
+
+
+an algorithm for the construction of bounded-context parsers
+
+an algorithm is described which accepts an arbitrary context-free
+grammar and constructs a bounded-context parser for
+it whenever such a parser exists.  in the first part of the paper
+the definition of a context-free grammar and the working of a
+bounded-context parser are recalled.  the notion of reduction class for
+a context-free grammar is then introduced and its connection with
+the structure of a bounded-context parser is indicated.  next,
+pushdown automata which generate the different reduction classes
+of a context-free grammar are defined.  finally, the algorithm is described;
+it essentially carries out an exhaustive study of all possible
+runs 
+************************
+ of all possible
+runs of the pushdown automata generating the reduction classes.
+in the second part, the utility of the algorithm is discuss
+ed in the light of the experience gained from its use in compiler design.
+the algorithm is claimed to be particularly useful in the
+simultaneous design of a language and a compiler for it.
+
+cacm may, 1970
+
+loeckx, j.
+
+bounded-context parsing, bounded-context syntactic analysis, parser 
+construction, syntactical analyzer construction, generators, compiler 
+compilers, compiler writing systems, translator writing systems metacompilers,
+context-free grammars, formal languages, pushdown automata
+
+
+************************
+
+************************
+Document:  CACM-1887.html
+************************
+************************
+Document:  CACM-0393.html
+************************
+************************
+Document:  CACM-1840.html
+************************
+************************
+Document:  CACM-2813.html
+************************
+************************
+Document:  CACM-1665.html
+************************
+
+
+automatic generation of efficient lexical
+processors using finite state techniques
+
+the practical application of the theory of
+finite-state automata to automatically generate 
+************************
+ to automatically generate 
+lexical processors is dealt with in this tutorial article
+by the use of the aed rword system, developed 
+at m. as part of the aed-1 system.  this system
+accepts as input description of the multicharacter 
+items or of words allowable in a language given in terms
+of a subset of regular expressions. the output 
+of the system is a lexical processor which reads a string
+of characters and combines them into the items 
+as defined by the regular expressions.  each output
+item is identified by a code number together with 
+a pointer to a block of storage containing the characters
+and character count in the item.  the processors 
+produced by the system are based on finite-state machines.
+ each state of a "machine" corresponds to 
+a unique condition in the lexical processing of a character
+string.  at each state a character is read, 
+and the machine changes to a new state.  at each transition
+appropriate actions are taken based on the 
+particular character read.  the system has been in operation
+since 1966, and processors generated have 
+compared favorably in speed to carefully hand-coded programs
+to accomplish the same task.  lexical processors 
+for aed-o and mad are among the many which have been
+produced.  the techniques employed are independent 
+of the nature of the items being evaluated.  if the
+word "events" is substituted for character string, 
+these processors may be described as generalized decision-making
+mechanisms based upon an ordered sequence 
+of events.  this allows the system to be used in a
+range of applications outside the area of lexical 
+processing.  however convenient these advantages may
+be, speed is the most important consideration.  
+in designing a system for automatic generation of a
+lexical processor, the goal was a processor which 
+completely eliminated backup or rereading, which was nearly
+as fast as hand-coded processors, which would 
+analyze the language and detect errors, and
+which would be convenient and easy to use.
+
+cacm december, 1968
+
+johnson, w. l.
+porter, j. h.
+ackley, s. i.
+ross, d. t.
+
+character string, compiler, finite-state automata, finite-state
+machine, 
+************************
+
+************************
+Document:  CACM-2090.html
+************************
+************************
+Document:  CACM-0054.html
+************************
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional 
+************************
+
+************************
+Document:  CACM-2165.html
+************************
+************************
+Document:  CACM-1803.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in 
+************************
+ language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage 
+************************
+
+************************
+Document:  CACM-3012.html
+************************
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-1896.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+************************
+Document:  CACM-1334.html
+************************
+
+
+mechanization of tedious algebra: the
+newcomb operators of planetary theory
+
+a computer program has been written to generate
+tables of formulas for the newcomb operators 
+of planetary theory.  the newcomb operators are expressed
+as polynomials in two variables, one of which 
+stands for a simple differential operator, and the other
+for an arbitrary integer.  the polynomials are 
+generated by a recurrence scheme.  the program is coded in
+fortran, using simple array manipulation techniques 
+to perform the algebraic operations.  formulas 
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+
+
+programming languages: history and future
+
+this paper discusses both the history and future
+of programming languages (= higher level languages). 
+ some of the difficulties in writing such a history
+are indicated.  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships.  reasons for the 
+************************
+ships.  reasons for the proliferation 
+of languages are given.  the major languages are listed
+with the reasons for their importance.  a section 
+on chronology indicates the happenings of the significant
+previous time periods and the major topics 
+of 1972.  key concepts other than specific languages are discussed.
+
+cacm july, 1972
+
+sammet, j. e.
+
+programming languages, higher level languages,
+languages, history, future directions, language 
+interrelationships, programming language 
+************************
+
+************************
+Document:  CACM-0727.html
+************************
+************************
+Document:  CACM-1142.html
+************************
+************************
+Document:  CACM-3031.html
+************************
+************************
+Document:  CACM-3199.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would 
+************************
+ 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can (or cannot) be actualized before we can say 
+we have a unified theory.
+
+cacm september, 1977
+
+scott, d. s.
+
+logic, programming languages, automata, denotational
+semantics, 
+************************
+
+************************
+Document:  CACM-1098.html
+************************
+************************
+Document:  CACM-2663.html
+************************
+************************
+Document:  CACM-1258.html
+************************
+
+
+an extended arithmetic package
+
+in many fields, for example algebraic number
+theory, arithmetic must be 
+************************
+
+************************
+Document:  CACM-2661.html
+************************
+************************
+Document:  CACM-1934.html
+************************
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+
+************************
+ expression, transduction
+expression, context-free languages, translation, recognizers,
+parsing, meta-compilers, pushdown transducer, syntax
+directed compilers, finite state automata
+
+4.10 4.12 4.20 5.22
+
+************************
+
+************************
+Document:  CACM-2476.html
+************************
+************************
+Document:  CACM-1466.html
+************************
+************************
+Document:  CACM-0124.html
+************************
+************************
+Document:  CACM-0055.html
+************************
+************************
+Document:  CACM-1366.html
+************************
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must 
+************************
+.
+the investigator must arrange data for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical data.
+
+cacm june, 1970
+
+frantz, d. g.
+
+comparative linguistics, natural
+language processing, comparative method, historical linguistics, diachronic
+linguistics, genetic relationship, sound change, sound
+correspondence, regular correspondence, list 
+************************
+
+************************
+Document:  CACM-0093.html
+************************
+************************
+Document:  CACM-2134.html
+************************
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem, together with munkres
+proposed algorithm for its solution in square 
+matrices, is presented first.  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices.  timing results
+obtained by using an adapted version of silver's 
+algol procedure are discussed, and a relation between
+solution time and problem size is given.
+
+cacm december, 1971
+
+bourgeois, f.
+lassalle, j.
+
+operations research, optimization theory, assignment
+problem, 
+************************
+
+************************
+Document:  CACM-2291.html
+************************
+************************
+Document:  CACM-2782.html
+************************
+************************
+Document:  CACM-1355.html
+************************
+************************
+Document:  CACM-1739.html
+************************
+************************
+Document:  CACM-2779.html
+************************
+************************
+Document:  CACM-1457.html
+************************
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2254.html
+************************
+************************
+Document:  CACM-2672.html
+************************
+************************
+Document:  CACM-2121.html
+************************
+************************
+Document:  CACM-2166.html
+************************
+
+
+automated algebraic manipulation in celestial mechanics
+
+in this paper we consider some of the applications
+of automated algebraic manipulation which 
+have been made in celestial mechanics.  particular attention
+is paid to the use of poisson series, and 
+a typical problem in perturbation theory is described.
+ the requirements 
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+
+
+on coordination reduction and sentence analysis
+
+a class of coordination phenomena in natural
+languages is considered within the frame work 
+of transformational theory.  to account for these 
+************************
+.  to account for these phenomena
+it is proposed that certain machinery be 
+added to the syntactic component of a transformational
+grammar. this machinery includes certain rule 
+schemata, the conditions under which they are to be
+applied, and conditions determining the sequence 
+of subtrees on which they are to be performed.  a solution
+to the syntactic analysis problem for this 
+class of grammars is outlined.  precise specification
+of both the generative procedure of this paper 
+and its inverse is given in the form of lisp function definitions.
+
+cacm april, 1969
+
+petrick, s. r.
+postal, p. m.
+rosenbaum, p. s.
+
+natural languages, generative grammar, transformational
+theory, syntax, coordination, 
+************************
+
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-1253.html
+************************
+
+
+quikscript-a simscript- like language for the g-20
+
+quikscript is a simulation language based on
+simscript and programmed entirely in an algebraic 
+language, 20-gate.  the quikscript language, its internal
+implementation, and major differences between 
+quikscript and simscript are presented.  this paper is
+not a programming guide to the language, but rather 
+an attempt to present its flavor.  a brief description of
+simscript is included, as is a sufficient description 
+of 20-gate to render this material understandable
+to the reader familiar with algebraic languages.
+
+cacm june, 1965
+
+tonge, 
+************************
+
+************************
+Document:  CACM-2133.html
+************************
+************************
+Document:  CACM-2921.html
+************************
+
+
+regular right part grammars and their parsers
+
+this paper in troduces an alternative to context-free
+grammars called regular right part (rrp) 
+grammars, which resemble pascal syntax diagrams.  formally,
+rrp grammars have production right parts, 
+which are nondeterministic finite state machines (fsms),
+and, as a special case, regular expressions, 
+since these can be converted to fsms.  rrp grammars
+describe the syntax of programming languages more 
+concisely and 
+************************
+ more 
+concisely and more understandably than is possible with
+cf grammars.  also in troduced is a class of parsers, 
+rrp lr(m, k) parsers, which includes the cf lr(k) parsers
+and provides the same advantages.  informally, 
+an rrp lr(m, k) parser can determine the right end of
+each handle by considering at most k symbols to 
+the right of the handle and the left end, after the
+right end has been found, by considering at most 
+m symbols to the left of the handle.  a mechanism for
+determining the left end is required because there 
+is no bound on the length of the handle.
+
+cacm october, 1977
+
+lalonde, w. r.
+
+finite state machines (automata), regular expressions,
+syntax 
+************************
+
+************************
+Document:  CACM-0920.html
+************************
+************************
+Document:  CACM-2323.html
+************************
+
+
+toward a general theory of special functions
+
+a list of a number of natural developments
+for the field of algebraic manipulation is given. 
+************************
+ manipulation is given. 
+ then the prospects for a general theory of functions
+defined by ordinary differential equations are 
+discussed.  the claim is made that recent developments
+in mathematics indicate that it should be possible 
+to algorithmically generate many properties of solutions
+to differential equations.  such a theory is 
+preferable to a less general effort to make algebraic
+manipulation systems 
+************************
+
+************************
+Document:  CACM-1991.html
+************************
+************************
+Document:  CACM-2368.html
+************************
+************************
+Document:  CACM-1397.html
+************************
+
+
+proceedings of the acm symposium on symbolic and algebraic manipulation
+
+the acm symposium on symbolic and algebraic
+manipulation brought together over four hundred 
+people interested in programming languages designed
+for manipulation 
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-1993.html
+************************
+************************
+Document:  CACM-1678.html
+************************
+
+
+automata, formal languages, abstract switching,
+
+************************
+, abstract switching,
+and computability in a ph. computer science 
+program
+
+a number of courses are listed in the area
+describe as automata, formal languages, abstract 
+switching, 
+************************
+, abstract 
+switching, and computability, that might be available
+to a ph. student in computer science.  a brief 
+catalog description of each course is applied and the
+role of each of the courses in the graduate program 
+is discussed.
+
+cacm november, 1968
+
+mcnaughton, r.
+
+ph. computer-science curriculum, ph. computer
+science program, automata, formal languages, 
+switching theory, theory of computability
+
+************************
+
+************************
+Document:  CACM-1923.html
+************************
+************************
+Document:  CACM-2129.html
+************************
+************************
+Document:  CACM-2809.html
+************************
+
+
+positivity and norms
+
+following some lines of joint work with a.
+s. householder, the character and use of algebraic 
+methods in the theory of norms is demonstrated. 
+************************
+
+************************
+Document:  CACM-2167.html
+************************
+************************
+Document:  CACM-2803.html
+************************
+************************
+Document:  CACM-2648.html
+************************
+************************
+Document:  CACM-2449.html
+************************
+
+
+a simple technique for structured variable lookup
+
+a simple technique for the symbol-table lookup
+of structured variables based on simple automata 
+theory is presented. the technique 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-2470.html
+************************
+
+
+fen-an axiomatic basis for program semantics
+
+a formal system is presented which abstracts
+the notions of data item, function, and relation. 
+ it is argued that the system is more suitable than set
+theory (or its derivatives) 
+************************
+ (or its derivatives) for the concise and 
+accurate description of program semantics.  it is shown
+how the system can be used to build composite 
+data types out of simper ones with the operations of rowing,
+structuring, and uniting.  it is also demonstrated 
+that completely new primitive types can be introduced
+into languages through the mechanism of singleton 
+data types.  both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ it is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  the
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  the technique is contrasted 
+with the use of the paradoxical combinator, y.  the
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. the theory is applied to the 
+proof 
+************************
+
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-2650.html
+************************
+
+
+order-n correction for regular languages
+
+a method is presented 
+************************
+
+
+a method is presented for calculating a string
+b, belonging to a given regular language l, 
+which is "nearest" (in number of edit operations) to a
+given input string a.  b is viewed as a reasonable 
+"correction" for the possibly erroneous string a, where
+a was originally intended to be a string of l. 
+ the calculation of b by the method presented requires
+time proportional to |a|, the number of characters 
+in a.  the method should find applications in information
+retrieval, artificial intelligence, and spelling 
+correction systems.
+
+cacm may, 1974
+
+wagner, r. a.
+
+error correction, regular languages, regular events,
+finite state automata, compiler error recovery, 
+************************
+
+************************
+Document:  CACM-2302.html
+************************
+
+
+computers and employment
+
+the relationship of computers and automation
+to employment is part of the more general relation 
+of technological change to employment.  the most obvious
+effect is that increase in productivity due 
+to technology can eliminate jobs.  technology affects
+the individual worker, in the nature and amount 
+of his work, and in his attitudes toward that work.  technological
+change affects the occupational structure 
+of the entire labor force.  because of the central importance
+of these effects, the impact of technology 
+has been the subject of extensive study by economists, sociologists,
+
+************************
+
+************************
+Document:  CACM-2255.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-0099.html
+************************
+************************
+Document:  CACM-1948.html
+************************
+************************
+Document:  CACM-2769.html
+************************
+************************
+Document:  CACM-2305.html
+************************
+
+
+the "plankalkul" of konrad zuse: a forerunner
+of today's programming languages
+
+plankalkul was an attempt by korrad zuse in
+the 1940's to devise a notational and conceptual 
+system for writing what today is termed a program.  although
+this early approach to a programming language 
+did not lead to practical use, the plan is described
+here because it contains features that are standard 
+in today's programming languages.  the investigation
+is of historical interest; also, it may provide 
+insights that would lead to advancements in the state
+of the art.  using modern programming terminology, 
+the plankalkul is presented to the extent it has possible
+to reconstruct it from the published literature.
+
+cacm july, 1972
+
+bauer, f. l.
+wossner, h.
+
+higher programming languages, programming,
+theory of programming, history 
+************************
+
+************************
+Document:  CACM-1048.html
+************************
+
+
+approximate solution of axially symmetric problems
+
+a variety of physical problems in such diverse
+fields as electrostatic  field theory, heat 
+and ideal fluid flow, and stress concentration theory
+reduce, under the assumption of axial symmetry, 
+to the study of an elliptic partial 
+************************
+
+************************
+Document:  CACM-2346.html
+************************
+************************
+Document:  CACM-2327.html
+************************
+
+
+toward an automata theory of brains
+
+a source 
+************************
+ of brains
+
+a source of ideas for automata theory-the study
+of the brain-has 
+************************
+-the study
+of the brain-has been pushed aside in mathematical 
+development of the theory.  this paper suggests 
+************************
+.  this paper suggests the ways
+in which automata theory might evolve over the 
+************************
+ might evolve over the 
+next 25 years if it is to contribute to an understanding
+of how the brain processes information.
+
+cacm july, 1972
+
+arbib, m. a.
+
+automata theory, brain theory, network 
+************************
+
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-2932.html
+************************
+
+
+complexity of computations
+
+the framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse 
+************************
+
+************************
+Document:  CACM-1806.html
+************************
+
+
+on the downhill method
+
+the downhill method is a numerical method for
+solving complex equations f(z) = 0 on which the 
+only restriction is that the function w = f(z) must
+be analytical.  an introduction to this method is 
+given and a critical review of relating literature is
+presented.  although in theory the method always 
+converges, it is shown that a fundamental dilemma exists
+which may cause a breakdown in practical applications. 
+ to avoid this difficulty and to improve the rate of
+convergence toward a root, some modifications of 
+the original method are proposed and a program (fortran)
+based on the modified method is given in algorithm 
+365.  some numerical examples are included.
+
+cacm december, 1969
+
+bach, h.
+
+downhill method, complex relaxation method, complex
+iteration, complex equation, transcendental 
+complex equation, algebraic complex equation
+
+5.15
+
+************************
+
+************************
+Document:  CACM-2580.html
+************************
+
+
+a method for composing simple traditional music by computer
+
+a method is described for composing musical
+rounds by computer.  this method uses some music 
+theory plus additional heuristics.  fundamental to the
+method is a set of productions together with sets 
+of applicability rules and weight rules which operate
+on the productions deciding when and to what extent 
+they are available for use.  several rounds generated
+by the computer implementation of the method are 
+presented.  generally, the resultant music sounds mediocre
+to the professional although usually pleasing 
+to the layman.  it appears that full-blown music theory
+is not needed for rounds--all the hardware required 
+for structural levels is not necessary for these pieces.
+ the author has tried to address both musicians 
+and computer scientists.
+
+cacm november, 1974
+
+rader, g. m.
+
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer composition, music theory, formal languages, probabilistic grammars
+
+************************
+
+************************
+Document:  CACM-1867.html
+************************
+
+
+on the expected lengths of sequences generated
+in sorting by replacement selecting
+
+in the replacement-selecting technique of sorting,
+one is interested in the ratio l(j) of the 
+expected length of the j-th sequence generated by the
+technique to the number of memory cells used.  
+using complex-variable theory, it is shown that l(j)
+-> 2 and that, asymptotically, the average interval 
+between sign changes of l(j)-2 is 2.6662.
+
+cacm july, 1969
+
+hooker, w. w.
+
+replacement selecting, sorting, sequence lengths,
+asymptotic expected length, recursion relation, 
+generating function, 
+************************
+
+************************
+Document:  CACM-2268.html
+************************

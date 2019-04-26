@@ -1,0 +1,1637 @@
+Snippets for the query:  Q52
+************************
+Total Hits:  97
+************************
+
+************************
+Document:  CACM-3100.html
+************************
+
+
+an interference matching technique for inducing abstractions
+
+a method for inducing knowledge by abstraction
+from a sequence of training examples is described. 
+ the proposed method, interference matching, induces abstractions
+by finding relational properties common 
+to two or more exemplars.  three tasks solved by a program
+that uses an interference-matching algorithm 
+are presented.  several problems concerning the description
+of the training examples and the adequacy 
+of interference matching are discussed, and directions
+for future research are considered.
+
+cacm may, 1978
+
+hayes-roth, f.
+mcdermott, j.
+
+rule induction, knowledge acquisition, 
+************************
+
+************************
+Document:  CACM-1961.html
+************************
+
+
+an efficient search algorithm to find the elementary circuits of a graph
+
+a theoretically most efficient search algorithm is presented
+which uses an exhaustive search to find all of the elementary
+circuits of a graph.  the algorithm can be easily modified to find all
+of the elementary circuits with a particular attribute such as
+length.  a rigorous proof of the algorithm is given as well as an example
+of its application.  empirical bounds are presented relating
+the speed of the algorithm to the number of vertices and the number
+of arcs.  the speed is also related to the number of circuits
+in the graph to give a relation between speed and complexity.
+extensions to undirected and s-graphs are discussed.
+
+cacm december, 1970
+
+tiernan, j. c.
+
+algorithm, graph theory, circuit search
+algorithm, 
+************************
+
+************************
+Document:  CACM-0241.html
+************************
+************************
+Document:  CACM-2217.html
+************************
+
+
+experiments in automatic learning for a multipurpose heuristic program
+
+an automatic learning capability has been developed
+and implemented for use with the multiple 
+(multipurpose program that learns) heuristic tree-searching
+program, which is presently being applied 
+to resolution theorem-proving in predicate calculus.
+multiple's proving program (pp) uses two evaluation 
+functions to guide its search for a proof of whether
+or not a particular goal is achievable.  thirteen 
+general features of predicate calculus clauses were created
+for use in the automatic learning of better 
+evaluation functions for pp.  a multiple regression
+program was used to produce optimal coefficients 
+for linear polynomial 
+************************
+
+************************
+Document:  CACM-0537.html
+************************
+************************
+Document:  CACM-2031.html
+************************
+
+
+algorithm and bound for the greatest common divisor of n integers
+
+a new version of the euclidean
+algorithm for finding the greatest common divisor of n integers a(i)
+and multipliers x(i) such that gcd = x(1)a(1) + ... + x(n)a(n)
+is presented.  the number of arithmetic operations and the number
+of storage locations are linear in n.  a theorem of lame that gives a bound 
+for the number of iterations of the euclidean algorithm for two integers 
+is extended to the case of n integers.  an algorithm to construct a minimal 
+set of multipliers is presented.  a fortran program for the algorithm appears 
+as comm. acm algorithm 386.
+
+cacm july, 1970
+
+bradley, g. h.
+
+greatest common divisor, euclidean algorithm,
+number theory, diophantine equations
+
+************************
+
+************************
+Document:  CACM-0203.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional 
+************************
+
+************************
+Document:  CACM-1862.html
+************************
+
+
+computing capabilities at argentine and chilean universities
+
+the author reports on a trip to universities in
+argentina and chile during november 1968, describing 
+university conditions and computing activities.  as elsewhere,
+these universities are experiencing student 
+discontent with the status quo and the solutions they
+are attempting contrast: argentina is excluding 
+students from participating in university government;
+chile is allowing such participation.  university 
+computing service and academic activities are limited.
+ the number of computers is small and so is the 
+capacity, none larger than an ibm 360/40; with some
+exception, computing science academic programs are 
+rare. this situation is by no means attributable to
+those responsible for computing developments, who 
+strive for excellence; rather the "system" is hard to
+over-come.  universities, especially those with 
+strong european traditions, adapt slowly to new academic
+resources and disciplines; superimposed are 
+the severe technological and economic constraints of the
+developing nation.  consequently, in the absence 
+of conscious government emphasis on strengthening computing
+capabilities, future progress may be retarded.
+
+cacm august, 1969
+
+finerman, a.
+
+university education, computing science academic
+programs, university computing centers, surveys 
+of computing centers, university computing capabilities, university-student
+relationship, argentine universities, 
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+
+
+growing applications of linear programming
+
+use of linear programming models has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  it no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  an advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based.  these viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  some
+of the components of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, data transmission 
+
+************************
+
+************************
+Document:  CACM-0068.html
+************************
+************************
+Document:  CACM-0298.html
+************************
+************************
+Document:  CACM-2169.html
+************************
+
+
+the altran system for rational function manipulation-a survey
+
+altran is a complete system for symbolic computation
+with rational functions in several variables 
+with integer coefficients.  it has been designed and
+implemented to handle large problems with ease and 
+efficiency.  considerable effort has been spent to ensure
+a minimum amount of machine dependence in the 
+implementation, thus permitting the system to be installed
+quickly and easily on a variety of computing 
+machines.  in this paper a brief description of the language,
+run time data structures, and implementation 
+is given.
+
+cacm august, 1971
+
+hall jr., a. d.
+
+symbolic 
+************************
+
+************************
+Document:  CACM-2608.html
+************************
+
+
+recurrence relations for the fresnel integral 
+************************
+s for the fresnel integral and similar integrals
+
+cacm august,1974
+
+acton, f. s.
+
+recurrence relations, fresnel integral, 
+************************
+
+************************
+Document:  CACM-0722.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language for mathematical programming.  
+the paper 
+************************
+
+************************
+Document:  CACM-1308.html
+************************
+
+
+a mathematical model for mechanical part description
+
+the flexibility of a mathematical model takes
+advantage of the common information requirements 
+of computer-aided engineering drawing, numerical control
+tape generation, and physical characteristic 
+computation.  by judicious control of man-machine communication
+requirements, improved results over conventional 
+engineering design processes are possible.  an english-like
+input language, tailored for use by draftsmen 
+and designers, will describe the part and specify the
+output desired.  one approach to the mathematical 
+model consists of a group of surface-defining 
+************************
+
+************************
+Document:  CACM-0569.html
+************************
+
+
+binomial coefficients (algorithm 19)
+
+cacm 
+************************
+
+************************
+Document:  CACM-2644.html
+************************
+************************
+Document:  CACM-1935.html
+************************
+
+
+randomized binary search technique
+
+a mathematical model is developed for the mean
+and variance of the number of trials to recover 
+a given document in a randomly received list of files.
+ the search method described is binary in nature 
+and offers new potential for information retrieval systems.
+
+cacm february, 1969
+
+arora, s. r.
+dent, w. t.
+
+binary pattern, file examination, graph theory, information
+retrieval, 
+************************
+
+************************
+Document:  CACM-0514.html
+************************
+
+
+binomial coefficients (algorithm 19)
+
+cacm 
+************************
+
+************************
+Document:  CACM-1295.html
+************************
+************************
+Document:  CACM-1694.html
+************************
+************************
+Document:  CACM-2103.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries: 
+************************
+ answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can (or cannot) be actualized before we can say 
+we have a unified theory.
+
+cacm september, 1977
+
+************************
+
+************************
+Document:  CACM-2720.html
+************************
+
+
+optimal balancing of i/o requests to disks
+
+determining a policy for efficient allocation
+and utilization of a set of disk drives with 
+differing operational characteristics is examined using
+analytical techniques.  using standard queueing 
+theory, each disk drive is characterized by a queueing
+model with service time of a disk drive represented 
+by the probability density function of 
+************************
+
+************************
+Document:  CACM-2981.html
+************************
+
+
+subgoal induction
+
+a proof method, subgoal induction, is presented
+as an alternative or supplement to the commonly 
+used inductive assertion method.  its major virtue is that
+it can often be used to prove a loop's correctness 
+directly from its input-output specification without the
+use of an invariant.  the relation between subgoal 
+induction 
+************************
+
+************************
+Document:  CACM-2229.html
+************************
+
+
+construction of rational and negative powers of a formal series
+
+some methods are described for the generation
+of fractional and negative powers of any formal 
+series, such as poisson series or chebyshev series.  it
+is shown that, with the use of the three elementary 
+operations of addition, subtraction, and multiplication,
+all rational (positive and negative) powers 
+of a series can be constructed.  there are basically two
+approaches: the binomial theorem and the iteration 
+methods. 
+************************
+ and the iteration 
+methods.  both methods are described here, and the relationship
+between them is pointed out.  some well-known 
+classical formulas are obtained as particular cases,
+and it is shown how the convergence properties of 
+these formulas can be improved with very little additional
+computations.  finally, at the end of the 
+article, some numerical experiments are described
+with chebyshev series and with fourier series.
+
+cacm january, 1971
+
+brucke, r. a.
+
+series expansion, series inversion, root extraction,
+binomial theorem, newton iterations, 
+************************
+
+************************
+Document:  CACM-0139.html
+************************
+
+
+binomial coefficients (algorithm 19)
+
+cacm 
+************************
+
+************************
+Document:  CACM-0313.html
+************************
+
+
+an iterative method for inversion of power series
+
+cacm july, 1961
+
+bramhall, j. n.
+
+ca610704 jb march 16, 1978  10:26 pm
+
+313	5	313
+313	5	313
+313	5	313
+
+************************
+
+************************
+Document:  CACM-0248.html
+************************
+
+
+what is proprietary in mathematical programming?-impressions
+of a panel discussion
+
+a panel discussion on "what is proprietary
+in mathematical programming?" was sponsored by the 
+special interest committee on mathematical programming
+of the acm during a hall of discussion/on september 
+************************
+
+************************
+Document:  CACM-2476.html
+************************
+
+
+equivalence between and/or graphs and context-free grammars
+
+cacm july, 1973
+
+hall, p. a. v.
+
+artificial intelligence, and/or graphs,
+language theory, context-free grammars
+
+************************
+
+************************
+Document:  CACM-1649.html
+************************
+
+
+data directed input-output in fortran
+
+a statement which is similar to the namelist
+statement of fortran iv has been incorporated 
+in the fortran 63 compiler.  the fortran 63 implementation
+allows a greater flexibility and simplicity 
+than the fortran iv feature.  the hollerith names, the
+location, the mode and the dimensions of a variable 
+can be discovered by means of standard fortran statements.
+ methods of using this information are illustrated 
+in relation to general purpose data directed input and
+output routines; some other uses such as matrix 
+manipulation are discussed.
+
+************************
+
+************************
+Document:  CACM-0679.html
+************************
+
+
+recent improvements in madcap
+
+madcap is a programming language admitting subscripts,
+superscripts and certain forms of displayed 
+formulas.  the basic implementation of this language was
+described in a previous paper [madcap: a scientific 
+compiler for a displayed formula textbook language, comm.
+acm 4 (jan. 61), 31-36].  this paper discusses 
+recent improvements in the language in three areas: complex
+display, logical control, and subprogramming. 
+ in the area of complex display, the most prominent improvements
+are a notation for integration and for 
+the binomial coefficients.  in the area of logical 
+************************
+
+************************
+Document:  CACM-2391.html
+************************
+
+
+unitary symmetric polynomials [z] (algorithm r391)
+
+cacm january, 1972
+
+schrack, g. f.
+
+symmetric polynomials, elementary symmetric polynomials,
+unitary symmetric polynomials, polynomial 
+synthesis, reverse horner scheme, reverse
+synthetic division, binomial coefficients
+
+5.11 5.30 5.5
+
+ca720112 
+************************
+
+************************
+Document:  CACM-0727.html
+************************
+
+
+on the approximate solution of delta(u)=f(u)
+
+three-dimensional dirichlet problems for delta(u)=f(u),
+fu >= 0, are treated numerically by 
+an exceptionally fast, exceptionally accurate numerical
+method.  programming details, numerous examples 
+and mathematical theory are suppliedxtension 
+************************
+
+************************
+Document:  CACM-0725.html
+************************
+************************
+Document:  CACM-0453.html
+************************
+************************
+Document:  CACM-2186.html
+************************
+
+
+numerical properties of the ritz-trefftz algorithm for optimal control
+
+in this paper the ritz-trefftz algorithm is applied
+to the computer solution of the state regulator 
+problem.  the algorithm represents a modification of
+the ritz direct method and is designed to improve 
+the speed of solution and the storage requirements to
+the point where real-time implementation becomes 
+feasible.  the modification is shown to be more stable
+computationally than the traditional ritz approach. 
+ the first concern of the paper is to describe the
+algorithm and establish its properties as a valid 
+and useful numerical technique.  in particular such useful
+properties as definiteness and reasonableness 
+of condition are established for the method.  the second
+part of the paper is devoted to a comparison 
+of the new techniques with the standard procedure of
+numerically integrating a matrix riccati equation 
+to determine a feedback matrix.  the new technique is
+shown to be significantly faster for comparable 
+accuracy.
+
+cacm june, 1971
+
+bosarge jr., w. e.
+johnson, o. g.
+
+splines, regulator problem, control theory, numerical analysis
+
+************************
+
+************************
+Document:  CACM-2134.html
+************************
+
+
+an extension of the munkres algorithm for
+the assignment problem to rectangular matrices
+
+the assignment problem, together with munkres
+proposed algorithm for its solution in square 
+matrices, is presented first.  then the authors develop
+an extension of this algorithm which permits 
+a solution for rectangular matrices.  timing results
+obtained by using an adapted version of silver's 
+algol procedure are discussed, and a relation between
+solution time and problem size is given.
+
+cacm december, 1971
+
+bourgeois, f.
+lassalle, j.
+
+operations research, optimization theory, assignment
+problem, 
+************************
+
+************************
+Document:  CACM-2515.html
+************************
+
+
+minimal event-node network of project precedence relations
+
+a procedure for constructing 
+************************
+s
+
+a procedure for constructing a minimal event-node
+network to represent a set of precedence 
+relations without parallel activities 
+************************
+s without parallel activities is presented.  a
+minimal event-node network is an event-node network 
+in which both the number of nodes and the number of arcs
+are the minima to preserve the given precedence 
+relations counterexamples are 
+************************
+s counterexamples are given to show that the
+algorithm presented by a. c. fisher, j. s. liebman, 
+and g. l. nemhauser (1968) produces event-node networks
+which are not minimal.  since our procedure includes 
+the set-covering problem, the time required may grow
+exponentially with the number of given activities.
+
+cacm may, 1973
+
+corneil, d. g.
+gotlieb, c. c.
+lee, y. m.
+
+network, project, event-node network, activity-node
+network, minimal event-node network, dummy 
+activity, project precedence relations
+
+3.57 5.32 8.3
+
+ca730505 
+************************
+
+************************
+Document:  CACM-1784.html
+************************
+************************
+Document:  CACM-1859.html
+************************
+************************
+Document:  CACM-1933.html
+************************
+
+
+coding the lehmer pseudo-random number generator
+
+an algorithm and coding technique is presented
+for quick evaluation of the lehmer pseudo-random 
+number generator modulo 2**31 - 1, a prime mersenne
+number with produces 2**31 - 2 numbers, on a p-bit 
+(greater than 31) computer.  the computation method is
+extendible to limited problems in modular arithmetic. 
+ prime factorization for 2**61 - 2 and a primitive root
+for 2**61 - 1, the next largest prime mersenne 
+number, are given for possible construction of a pseudo-random
+number generator of increased cycle length.
+
+cacm february, 1969
+
+payne, w. h.
+rabung, j. r.
+bogyo, t. p.
+
+pseudo-random number, random number, modular arithmetic,
+uniform probability density, uniform frequency 
+************************
+
+************************
+Document:  CACM-1567.html
+************************
+
+
+on the representation of symmetric polynomials
+
+relations are given between certain 
+************************
+s are given between certain symmetric
+polynomials in the light of the theory of the 
+symmetric group.  such an approach unifies 
+************************
+
+************************
+Document:  CACM-2779.html
+************************
+************************
+Document:  CACM-3037.html
+************************
+************************
+Document:  CACM-1887.html
+************************
+
+
+a recursive relation for the determinant of a pentadiagonal matrix
+
+a recursive relation, 
+************************
+
+
+a recursive relation, relating leading principal
+minors, is developed for the determinant of 
+a pentadiagonal matrix.  a numerical example 
+************************
+
+************************
+Document:  CACM-1097.html
+************************
+************************
+Document:  CACM-2032.html
+************************
+
+
+file structures using hashing functions
+
+a general method of file structuring is proposed which uses a hashing
+function to define tree structure.  two types of such trees are examined, 
+and their relation to trees studied in the past is explainedesults for the 
+probability distributions of path 
+************************
+
+************************
+Document:  CACM-0616.html
+************************
+
+
+an information algebra - phase i report-language
+structure group of the codasyl development committee
+
+this report represents the results of the
+first phase of the work of the language structure 
+group.  the goal of this work is to arrive at a proper
+structure for a machine-independent problem-defining 
+language, at the systems level of data processing.  the
+report is based, for the most part, on a mathematical 
+model called "an information 
+************************
+
+************************
+Document:  CACM-2457.html
+************************
+************************
+Document:  CACM-1533.html
+************************
+
+
+a marovian model of the university of michigan executive system
+
+a mathematical model of a computer's 
+************************
+
+************************
+Document:  CACM-1217.html
+************************
+************************
+Document:  CACM-1922.html
+************************
+************************
+Document:  CACM-1654.html
+************************
+************************
+Document:  CACM-2986.html
+************************
+
+
+operations on sparse relations
+
+various computations 
+************************
+s
+
+various computations on relations, boolean matrices,
+
+************************
+s, boolean matrices,
+or directed graphs, such as the computation 
+of precedence relations for a context-free 
+************************
+s for a context-free grammar, can be
+done by a practical algorithm that is asymptotically 
+faster than those in common use.  for example, how to compute
+operator precedence or wirth-weber precedence 
+relations in o(n^2) steps is 
+************************
+s in o(n^2) steps is shown, as well as how to
+compute linear precedence functions in o(n^2) steps 
+is shown, as well as how to compute linear precedence
+functions in o(n) steps, where n is the size of 
+a grammer.  the heart of the algorithms is a general
+theorem giving sufficient conditions under which 
+an expression whose operands are sparse relations and
+whose operators 
+************************
+s and
+whose operators are composition, transitive closure, 
+union, and inverse, can be computed efficiently.
+
+cacm march, 1977
+
+hunt, h. b. iii
+szymanski, t. g.
+ullman, j. d.
+
+computational complexity, sparse relation, boolean
+matrix, directed graph, wirth-weber 
+************************
+
+************************
+Document:  CACM-2028.html
+************************
+
+
+greatest common divisor of n integers
+and multipliers $a1) (algorithm 386)
+
+cacm july, 1970
+
+bradley, g. h.
+
+greatest common divisor, euclidean algorithm,
+number theory, diophantine equations
+
+************************
+
+************************
+Document:  CACM-1099.html
+************************
+
+
+professional computer work for the blind
+
+developments in computer technology have opened
+new professional opportunities for the intelligent 
+blind.  since there are few if any occupations in which the
+blind can participate without serious disadvantage, 
+the opportunities offered them to gain entrance into
+various occupations through computer use including 
+that of programmer, is important for future rehabilitation
+planning. also of immediate interest is the 
+fact that the blind may be especially suited for programming
+work.  because of intense training in and 
+constant experience with locating objects in the unseen
+environment and also because of superbly trained 
+memory, the blind brings to the work of programming skills
+which the sighted has had little need to acquire. 
+ these qualifications should result in fewer debugging
+problems and make the blind a valuable addition 
+to any systems group.  before the blind could become a
+serious professional, a number of aids and techniques 
+had to be developed that can mediate between machines
+and programmer.  this paper describes the techniques 
+and aids which were designed by the staff of the medical
+computing center of the university of cincinnati 
+college 
+************************
+
+************************
+Document:  CACM-2210.html
+************************
+
+
+toward automatic program synthesis
+
+an elementary outline of the theorem-proving
+approach to automatic program synthesis is given, 
+without dwelling on technical details.  the method is
+illustrated by the automatic construction of both 
+recursive and iterative programs operating on natural
+numbers,lists, and trees,  in order to construct 
+a program satisfying certain specifications a theorem
+induced by those specifications is proved, and 
+the desired program is extracted from the proof.  the
+same technique is applied to transform recursively 
+defined functions into iterative programs, frequently
+with a major gain inefficiency.  it is emphasized 
+that in order to construct a program with loops or with
+recursion, the principle of mathematical induction 
+must be applied. the 
+************************
+ 
+must be applied. the relation between the version of
+the induction rule used and the form of the program 
+constructed is explored in some detail.
+
+cacm march, 1971
+
+manna, z.
+waldinger, r. j.
+
+artificial intelligence, answer extraction, automatic
+program synthesis, mathematical induction 
+principle, problem solving, theorem proving
+
+3.64 5.23 5.24
+
+************************
+
+************************
+Document:  CACM-2851.html
+************************
+************************
+Document:  CACM-1521.html
+************************
+************************
+Document:  CACM-1817.html
+************************
+
+
+computation of fourier coefficients (algorithm 255 [c6])
+
+cacm november, 1969
+
+hall, g.
+ray, v. a.
+
+numerical 
+************************
+
+************************
+Document:  CACM-2613.html
+************************
+************************
+Document:  CACM-1403.html
+************************
+************************
+Document:  CACM-3133.html
+************************
+
+
+logic and semantic networks
+
+an extended form of semantic network is defined, which can
+be regarded as a syntactic variant of the clausal form of logic.
+by virtue of its relationship with logic, the 
+************************
+ship with logic, the extended
+semantic network is provided with a precise semantics,
+inference rules, and a procedural interpretation.  on
+the other hand, by regarding semantic networks as an 
+abstract data structure for the representation of clauses, we provide a
+theorem-prover with a potentially useful indexing scheme and path-following
+strategy for guiding the search for a proof.
+
+cacm march, 1979
+
+deliyanni, a.
+kowalski, r.
+
+logic, semantic networks, theorem-proving, indexing, resolution, deduction, 
+logic programming
+
+3.42 3.64 5.21
+
+ca790304 dh april 12, 1979  3:53 pm
+
+3133	4	3133
+3133	5	3133
+
+************************
+
+************************
+Document:  CACM-1170.html
+************************
+
+
+analyzing english syntax with a pattern-learning parser
+
+a dependency analysis system based on pattern
+recognition and learning logic was developed 
+to infer word classes and rules of syntactic combination
+from experience with text which had been analyzed. 
+ the characteristics used to form word classes are the
+depth in the dependency tree of each word, the 
+direction of its governor and the same features for
+each of its immediate neighbors. syntactic rules 
+of combination show the relation of a word to its governor
+in the depth pattern of the sentence.  the 
+system was tested on 400 elementary basic english sentences
+including 300 used earlier by knowlton in 
+a different learning parser of all 400 sentences.  after
+experience with 300 sentences it was able to 
+generalize with 77 percent accuracy to the next 100.
+ in accumulative learning trials after the first 
+200 sentences it averaged a probability of .9 for accurately
+
+************************
+
+************************
+Document:  CACM-1725.html
+************************
+************************
+Document:  CACM-1186.html
+************************
+
+
+recursive solution of a class of combinatorial problems: an example
+
+combinatorial problems requiring the selection
+of n elements from a set of m elements may be 
+solved by a recursion process analogous to that for
+computing binomial coefficients.  several specific 
+
+************************
+
+************************
+Document:  CACM-2052.html
+************************
+
+
+scheduling to reduce conflict in meetings
+
+conflicts in scheduling can be treated as defining an undirected linear graph 
+independently of the relation of the activities in conflict to additional 
+constraints of time and space.  each connected component of such a graph,
+which can be found by an algorithm described by gotlieb and corneil, 
+corresponds to a set of events that must be scheduled at different times.
+
+cacm june, 1970
+
+grimes, j. e.
+
+allocation, conflict matrix, connected component, 
+************************
+
+************************
+Document:  CACM-2794.html
+************************
+
+
+state-space, problem-reduction, and theorem proving-some relationships
+
+this paper suggests 
+************************
+hips
+
+this paper suggests a bidirectional relationship
+between state-space 
+************************
+ship
+between state-space and problem-reduction 
+representations. it presents a formalism based on multiple-input
+and multiple-output operators which 
+provides a basis for viewing the two types of representations
+in this manner.  a representation of the 
+language recognition problem which is based on the cocke
+parsing algorithm is used as an illustration. 
+ a method for representing problems in first-order logic
+in such a way that the inference system employed 
+by a resolution-based theorem prover determines whether
+the set of clauses is interpreted in the state-spacer 
+mode or in the problem-reduction mode is presented.
+ the analogous concepts in problem-reduction and 
+theorem proving, and the terminology used to refer to them,
+are noted.  the relationship between problem-reduction, 
+************************
+
+************************
+Document:  CACM-1691.html
+************************
+
+
+a comparison of the correlational behavior
+of random number generators for the ibm 360
+
+hutchinson states that the "new" (prime modulo)
+multiplicative congruential 
+************************
+)
+multiplicative congruential pseudorandom generator, 
+attributed to d. h. lehmer, has passed the usual statistical
+tests for random number generators.  it 
+is here empirically shown that generators of this type
+can produce sequences whose autocorrelation functions 
+up to lag 50 exhibit evidence of nonrandomness for many
+multiplicative constants.  an alternative generator 
+proposed by tausworthe, which uses irreducible polynomials
+over the field of characteristic two, is shown 
+to be free from this defect.  the applicability of these
+two generators to the ibm 360 is then discussed. 
+ since computer word size can affect a generator's statistical
+behavior the older mixed and simple congruential 
+generators, although extensively tested on computers
+having 36 or more bits per word, may not be optimum 
+generators for the ibm 360.
+
+cacm september, 1968
+
+whittlesey, j. r.
+
+random numbers, pseudorandom number generators, autocorrelation
+function, serial correlation, digital 
+shift-register generators, linear recurrence modulo
+two, irreducible polynomials, 
+************************
+
+************************
+Document:  CACM-2298.html
+************************
+
+
+an environment for research in microprogramming and emulation
+
+the development of the research project in
+microprogramming and emulation at state university 
+of new york at buffalo consisted of three phases: the
+evaluation of various possible machines to support 
+this research; the decision to purchase one such machine,
+which appears to be superior to the others 
+considered; and the organization and definition of goals
+for each group in the project.  each 
+************************
+
+************************
+Document:  CACM-2192.html
+************************
+************************
+Document:  CACM-1870.html
+************************
+
+
+some techniques for using pseudorandom numbers in computer simulation
+
+an algorithm is described by which uniform pseudorandom
+integers may be used to construct binary 
+"numbers" in which the probability that each bit in the
+
+************************
+
+************************
+Document:  CACM-2857.html
+************************
+************************
+Document:  CACM-2648.html
+************************
+
+
+a design for a number theory package
+with an optimized trial division routine
+
+a number theory package is described which uses
+doubly linked list structures for 
+************************
+ed list structures for storing multiprecise 
+integers.  the package has been coded in ibm's basic
+assembly language and makes heavy use of the macro 
+language and conditional assembly.  an optimally coded
+trial division routine is also described which 
+can be used to determine the unique factorization of large integers.
+
+cacm may, 1974
+
+wunderlich, m. c.
+selfridge, j. l.
+
+number theory package, trial division, multiprecise
+arithmetic, factorization, doubly linked lists, 
+pseudoprime
+
+************************
+
+************************
+Document:  CACM-1707.html
+************************
+
+
+generation of positive test matrices with known positive spectra
+
+sufficient conditions are given for a real
+matrix to be similar to a positive matrix.  this 
+result is used to construct a similarity transformation
+which, when applied to a particular upper triangular 
+matrix, yields a positive matrix with a preassigned positive spectrum.
+
+cacm august, 1968
+
+hall, c. a.
+porsching, t. 
+************************
+
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+************************
+s, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results 
+************************
+s and algorithms results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms 
+************************
+
+************************
+Document:  CACM-0373.html
+************************
+
+
+correlation coefficients with matrix multiplication (algorithm 
+************************
+
+************************
+Document:  CACM-1365.html
+************************
+
+
+eliminating monotonous mathematics with formac
+
+the formac (formula manipulation compiler)
+programming system provides a powerful tool for 
+performing mathematical analysis.  it is an extension
+of fortran iv which permits the use of the computer 
+to perform the tedious algebraic computations that arise
+in many different fields.  among the areas in 
+which it has been successfully used are: differentiation
+of complicated expressions, expansion of truncated 
+power series, solution of simultaneous equations with
+literal coefficients, nonlinear maximum likelihood 
+************************
+
+************************
+Document:  CACM-2549.html
+************************
+************************
+Document:  CACM-1609.html
+************************
+
+
+scheduling university course examinations by computer
+
+a new approach to the problem of scheduling
+course examinations is presented.  in principle, 
+an examination schedule which requires a minimum number
+of examination periods and satisfies the constraint 
+that no student be required to take two examinations
+simultaneously can be found in two steps.  first, 
+course which may have their examinations scheduled at
+the same period are grouped together in all possible 
+************************
+ed together in all possible 
+ways.  then a minimum number of these groups, such that
+each course is included at least once, are selected. 
+ by removing multiple occurrences of courses and then scheduling
+each group at a different period a minimal 
+schedule can be obtained.  known algorithms for carrying
+out these procedures are prohibitively expensive. 
+ approximations to the ideal procedure outlined above are
+given which yield nonminimal but feasible schedules 
+with a very small expenditure of time.  results of experiments
+using these techniques are given.  these 
+are encouraging and indicate that further experimentation would be worthwhile.
+
+cacm april, 1967
+
+hall jr., a. d.
+acton, f. 
+************************
+
+************************
+Document:  CACM-0495.html
+************************
+
+
+a procedure for inverting large symmetric matrices
+
+in the least squares method for simultaneous
+adjustment of several parameters, the coefficients 
+of the normal equations are the elements of a symmetric
+positive-definite matrix.  in order to solve 
+************************
+.  in order to solve 
+the normal equations and evaluate the precision measures
+of the resulting parameters, inversion of this 
+matrix of coefficients is required.  many available 
+************************
+
+************************
+Document:  CACM-1948.html
+************************
+
+
+computers in group theory: a survey
+
+computers 
+************************
+: a survey
+
+computers are being applied to an increasingly
+diverse range of problems in group theory.  
+the most important 
+************************
+.  
+the most important areas of application at present are
+coset enumeration, subgroup lattices, automorphism 
+groups of finite groups, 
+************************
+ 
+groups of finite groups, character tables, and commutator
+calculus.  group theory programs range from 
+************************
+ programs range from 
+simple combinatorial or numerical programs to large
+symbol manipulation systems.  in this survey the 
+more important algorithms in use are described and contrasted,
+and results which have been obtained using 
+existing programs are indicated.  an extensive bibliography is included.
+
+cacm january, 1969
+
+cannon, j. j.
+
+group theory, coset enumeration, 
+************************
+, coset enumeration, subgroup lattices,
+automorphism groups, character tables, 
+************************
+
+************************
+Document:  CACM-2769.html
+************************
+
+
+a modification of warshall's algorithm for
+the transitive closure of binary relations
+
+an algorithm is given 
+************************
+s
+
+an algorithm is given for computing the transitive
+closure of a binary relation that is represented 
+by a boolean matrix. the algorithm is similar 
+************************
+. the algorithm is similar to warshall's
+although it executes faster for sparse matrices
+on most computers, particularly in a paging environment.
+
+cacm april, 1975
+
+warren, h. s. jr.
+
+warshall's algorithm, transitive closure, reachability
+matrix, directed graph, digraph, boolean 
+matrix, binary relation
+
+5.30 5.32
+
+ca750408 
+************************
+
+************************
+Document:  CACM-2326.html
+************************
+
+
+fix point approach to the theory of computation 
+
+following the fix point theory of scott, the
+semantics of computer programs are defined in terms 
+of the least fix points of recursive programs.  this
+allows not only the justification of all existing 
+verification techniques, but also their extension to the
+handling, in a uniform manner of various properties 
+of computer programs, including correctness, termination, and equivalence.
+
+cacm july, 1972
+
+manna, z.
+vuillemin, j.
+
+verification techniques, semantics of programming
+languages, least fix points, recursive programs, 
+computational induction
+
+5.23 5.24
+
+ca720702 
+************************
+
+************************
+Document:  CACM-1476.html
+************************
+************************
+Document:  CACM-2739.html
+************************
+
+
+the restriction language for computer grammars of natural language
+
+over the past few years, a number of systems
+for the computer analysis of natural language 
+sentences have been based on augmented context-free
+grammars: a context-free grammar which defines a 
+set of parse trees for a sentence, plus a group of restrictions
+to which a tree must conform in order 
+to be a valid sentence analysis.  as the coverage of the
+grammar is increased, an efficient representation 
+becomes essential for further development.  this paper
+presents a programming language designed specifically 
+for the compact and perspicuous statement of restrictions
+of a natural language grammar.  it is based 
+on ten years' experience parsing text sentences with
+the comprehensive english grammar of the n. 
+linguistic string project, and embodies in its syntax
+and routines the relations which were found to 
+************************
+
+************************
+Document:  CACM-2416.html
+************************
+
+
+matrix transposition in place [f1] (algorithm a467)
+
+cacm november, 1973
+
+brenner, n.
+
+transposition, matrix operations, permutations,
+primitive roots, number theory
+
+3.15 5.14 5.39
+
+ca731110jb 
+************************
+
+************************
+Document:  CACM-1914.html
+************************
+
+
+matrix scaling by integer programming (algorithm 348 [f1])
+
+cacm april, 1969
+
+klimpel, r. r.
+
+integer programming, linear algebra, mathematical
+programming, matrix 
+************************
+
+************************
+Document:  CACM-2806.html
+************************
+
+
+two hadamard numbers for matrices
+
+a discussion is given of two functions of the entries
+of a square matrix, both related to hadamard's 
+determinant theorem, which have some merits 
+************************
+
+************************
+Document:  CACM-1543.html
+************************
+
+
+computer formulation of the equations of motion using tensor notation
+
+a means is described for extending the area
+of application of digital computers beyond the 
+numerical data processing stage and reducing the need for
+human participation in the formulation of certain 
+types of computer problems.  by the use of tensor calculus
+and a computer language designed to facilitate 
+symbolic mathematical computation, a method has been
+devised whereby a digital computer can be used to 
+do non-numeric work, that is, symbolic algebraic manipulation
+and differentiation. to illustrate the 
+techniques involved, a digital computer has been used
+to derive the equations of motion of a point mass 
+in a general orthogonal curvilinear coordinate system.
+ since this operation involves a formulation in 
+terms of first- and second-order differential coefficients,
+it provides a good 
+************************
+
+************************
+Document:  CACM-1557.html
+************************
+************************
+Document:  CACM-3010.html
+************************
+
+
+value orientation of computer science students
+
+technological and nontechnological value orientations
+are investigated with special attention 
+to the complexity of value structures.  computer science
+students, who are closely associated with technology, 
+contrast with social science students, who are often
+technologically aloof.  this is confirmed by the 
+value ratings of 313 students at the university of minnesota
+in 1972. 
+************************
+
+************************
+Document:  CACM-2327.html
+************************
+
+
+toward an automata theory of brains
+
+a source of ideas for automata theory-the study
+of the brain-has been pushed aside in mathematical 
+development of the 
+************************
+
+************************
+Document:  CACM-2420.html
+************************
+
+
+experiments with an automatic theorem-prover
+havingpartial ordering inference rules
+
+automatic theorem-provers need to be made much
+more efficient.  with this in mind, slagle has 
+shown how the axioms for partial ordering can be replaced
+by built-in inference rules when using a particular 
+theorem-proving algorithm based upon hyper-resolution and
+paramodulation.  the new rules embody the transitivity 
+of partial orderings and the close relationship between
+ predicates. 
+************************
+
+************************
+Document:  CACM-2446.html
+************************
+************************
+Document:  CACM-1867.html
+************************
+
+
+on the expected lengths of sequences generated
+in sorting by replacement selecting
+
+in the replacement-selecting technique of sorting,
+one is interested in the ratio l(j) of the 
+expected length of the j-th sequence generated by the
+technique to the number of memory cells used.  
+using complex-variable theory, it is shown that l(j)
+-> 2 and that, asymptotically, the average interval 
+between sign changes of l(j)-2 is 2.6662.
+
+cacm july, 1969
+
+hooker, w. w.
+
+replacement selecting, sorting, sequence lengths,
+asymptotic expected length, recursion relation, 
+generating function, 
+************************
+
+************************
+Document:  CACM-1672.html
+************************

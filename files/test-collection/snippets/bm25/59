@@ -1,0 +1,3304 @@
+Snippets for the query:  Q59
+************************
+Total Hits:  286
+************************
+
+************************
+Document:  CACM-2964.html
+************************
+************************
+Document:  CACM-2828.html
+************************
+
+
+hierarchical geometric models for visible surface 
+************************
+ for visible surface algorithms
+
+the geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement, but also to assist in 
+solving many other problems of systems for producing
+pictures 
+************************
+s for producing
+pictures by computer.  by using an extension of 
+traditional structure information, or a geometric hierarchy,
+five significant improvements to current 
+techniques are possible.  first, the range of complexity
+of an environment is greatly increased while 
+the visible complexity of any given scene is kept within
+a fixed upper limit.  second, a meaningful way 
+is provided to vary the amount of detail presented in
+a scene.  third, "clipping" becomes a very fast 
+logarithmic search for the resolvable parts of the environment
+within the field of view.  fourth, frame 
+to frame coherence and clipping define a graphical
+"working set," or fraction of the total structure 
+that should be present in primary store for immediate
+access by the visible surface algorithm.  finally, 
+the geometric structure suggests a recursive descent,
+visible surface algorithm in which the computation 
+time potentially grows linearly with the visible complexity of the scene.
+
+cacm october, 1976
+
+clark, j. h.
+
+visible surface algorithms, hidden surface algorithms,
+hierarchical data structures, geometric 
+models
+
+5.31 8.2
+
+ca761003 
+************************
+
+************************
+Document:  CACM-1750.html
+************************
+
+
+considerations in the design of a multiple
+computer system with extended core storage
+
+the 
+************************
+ed core storage
+
+the use of large quantities of addressable
+(but not executable) fast random access memory to 
+heighten the multiprogramming performance of a multicomputer system
+is discussed.  the general design 
+of the hardware arrangement and the software components
+and functions 
+************************
+ components
+and functions of such a system are based on a 
+planned configuration of dual cdc 6600's that share one
+million words of extended core storage.  in 
+************************
+ed core storage.  in the 
+generalization of such a design, special emphasis is
+placed on estimating expected gains when compared 
+with the traditional configuration of separate and independent
+computers without extended core storage. 
+ an observation is made on the use of conventional, slower
+speed, random access storage devices in place 
+of the faster memory.
+
+cacm may, 1968
+
+fuchel, k.
+heller, s.
+
+multiple computer systems, extended core storage,
+
+************************
+s, extended core storage,
+multiprogrammed operating systems, multiprocessor 
+operating 
+************************
+s, multiprocessor 
+operating systems, control data corporation 
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated in terms of cpu:i/o and i/o:i/o overlap
+and applied to the analysis of these problems. 
+ the percentage performance improvement from cpu:i/o
+overlap is found to be greatest for systems which 
+are in approximate 
+************************
+ which 
+are in approximate cpu:i/o utilization balance and for
+low degrees of multiprogramming.  the percentage 
+improvement from i/o:i/o overlap is found to be greatest
+for systemtems in which the i/o system is more 
+utilized than the cpu.
+
+cacm october, 1978
+
+towsley, d.
+chandy, k.
+browne, j.
+
+multiprogramming, parallel processing, queueing
+network models, multiprocessing of 
+************************
+
+************************
+Document:  CACM-2852.html
+************************
+
+
+the technology of computer center management: a
+proposed course for graduate professional programs 
+in computer science or in information systems
+
+mcfarlan and nolan 
+************************
+s
+
+mcfarlan and nolan have made a strong case for
+adding a course on information systems administration 
+to 
+************************
+s administration 
+to the 13 courses proposed by the acm curriculum committee
+on computer education for management for graduate 
+professional programs in information systems.  this paper
+is a report 
+************************
+s.  this paper
+is a report on a course entitled, "the technology 
+of computer center management," which has been offered
+at purdue for the past four years.  the course 
+is suitable either for graduate professional programs
+in information systems or for graduate professional 
+************************
+s or for graduate professional 
+programs in computer science.
+
+cacm july, 1976
+
+conte, s. d.
+halstead, m. h.
+
+education, information systems administration, computer
+
+************************
+s administration, computer
+center management, computer system performance
+
+1.52 2.4 
+************************
+
+************************
+Document:  CACM-2372.html
+************************
+
+
+on the implementation of security measures in information systems
+
+the security of an 
+************************
+s
+
+the security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and column indices are
+users and data items respectively.  a set of four 
+functions is used to access this matrix at translation
+and execution time.  distinguishing between data 
+dependent and data independent decision rules enables
+one to perform much of the checking of security 
+only once at translation time rather than repeatedly
+at execution time.  the model is used to explain 
+security features of several existing systems, and serves
+as a framework for a proposal for general security 
+system implementation within today's languages and operating systems.
+
+cacm april, 1972
+
+conway, r. w.
+maxwell, w. l.
+morgan, h. l.
+
+security, privacy, access control confidentiality,
+operating systems, access management, data banks, 
+management 
+************************
+, data banks, 
+management information systems
+
+3.50 3.73 4.12 4.22 
+************************
+
+************************
+Document:  CACM-1518.html
+************************
+
+
+an experimental model of system/360
+
+the problem of predicting the performance of
+modern computer systems is formidable.  one general 
+technique which can ease this problem is macroscopic simulation.
+ this paper reports on the applicability 
+of that technique to system/360.  the paper describes
+an experimental model of system/360-its hardware, 
+software, and its environment.  the measures of system performance
+produced by the model consist of statistics 
+relating to turnaround time, throughput, hardware utilization,
+software utilization, and queueing processes. 
+ the model is mechanized in simscript and consists of
+
+************************
+
+************************
+Document:  CACM-2816.html
+************************
+
+
+optimal reorganization of distributed space disk files
+
+in most database organizations, the cost 
+************************
+ organizations, the cost of accessing
+the database will increase due to structural 
+changes caused by updates and insertions.  by reorganizing
+the database,the access costs can be reduced. 
+ a basic problem is to establish the proper tradeoff between
+performance, storage costs, and reorganization 
+costs.  this paper considers the optimum points at which
+to reorganize a database.  a disk file organization 
+which 
+************************
+
+************************
+Document:  CACM-1409.html
+************************
+
+
+nebula: a digital computer using a 20 mc glass delay line memory
+
+oregon state university has designed and constructed
+a medium-speed serial digital computer 
+using glass delay lines circulating at 22 mc as memory.
+ the design objectives as originally conceived 
+in a special seminar were: (1) to be a research project
+in computer design; (2) to be usable as an educational 
+machine;and (3) to have easily modifiable hardware for
+basic research in computer systems design.  an 
+unusual 
+************************
+s design.  an 
+unusual arrangement of information within the 22 mc
+memory allows a simple interface with the 340 kc 
+arithmetic unit, which results in an effective zero latency
+time and provides possibilities for an associative 
+memory.  the arithmetic unit has a command structure similar
+to large parallel machines, and uses flip-flop 
+arithmetic and control registers throughout.  all hardware
+development has been 
+************************
+
+************************
+Document:  CACM-3087.html
+************************
+
+
+an english language question answering system
+for a large relational database
+
+by typing requests 
+************************
+
+
+by typing requests in english, casual users
+will be able to obtain explicit answers from a 
+large relational database of aircraft flight and 
+************************
+ of aircraft flight and maintenance
+data using a system called planes.  the 
+design and implementation of this system is described and
+illustrated with detailed examples of the operation 
+of system components and examples of overall system
+operation.  the language processing portion of the 
+system uses a number of augmented transition networks,
+each of which matches phrases with a specific 
+meaning, along with context registers (his tory keepers)
+and concept case frames; these are used for judging 
+meaningfulness of questions, generating dialogue for clarifying
+partially understood questions, and resolving 
+ellipsis and pronoun reference problems.  other system components
+construct a formal query for the relational 
+database, and optimize the order 
+************************
+, and optimize the order of searching relations.
+ methods are discussed for handling vague or 
+complex questions and for providing browsing ability.
+ also included are discussions of important issues 
+in programming natural language systems for limited domains,
+and the relationship of this system to others. 
+
+cacm july, 1978
+
+waltz, d.
+
+question answering, relational database, natural language,
+database 
+************************
+, natural language,
+database front end, artificial intelligence, 
+************************
+
+************************
+Document:  CACM-2593.html
+************************
+
+
+a back-end computer for data base management
+
+it is proposed that 
+************************
+
+
+it is proposed that the data base management
+function be placed on a dedicated back-end computer 
+which 
+************************
+-end computer 
+which accepts commands (in a relatively high level language
+such as the codasyl data base task group, 
+april 1971 report) from a host computer, accesses the
+data base on secondary storage, and returns results. 
+ the advantages of such a configuration are discussed.  an
+experimental implementation, called the experimental 
+data management system, xdms, is described 
+************************
+, xdms, is described and certain
+conclusions about the back-end approach are drawn 
+
+************************
+ approach are drawn 
+from this implementation.
+
+cacm october, 1974
+
+canaday, r. h.
+harrison, r. d.
+ivie, e. l.
+ryder, j. l.
+wehr, l. a.
+
+data base management, information retrieval, computer
+configurations, computer networks, data base 
+task group language, data base protection,
+data base portability, back-end computer
+
+3.79 4.22 
+************************
+
+************************
+Document:  CACM-2308.html
+************************
+
+
+computers and urban society
+
+this brief survey of the use of computers in
+urban society covers the broad range of activities 
+found in any city.  the future scope of applications is
+limited only by the imagination and inventiveness 
+of future system designers, programmers, 
+************************
+ designers, programmers, analysts, and
+decision makers.  the computer can be, if properly 
+used, with respect for human dignity and civil liberty,
+a significant factor in improving the efficiency 
+of the urban process.  it is expected that the benefits
+of such computer usage will outweigh the costs 
+and that we may look forward to an expansion of such usage.
+
+cacm july, 1972
+
+sturman, g. m.
+
+urban systems, urban applications, 
+************************
+s, urban applications, data acquisition,
+data management, engineering analysis, information 
+systems
+
+3.23 3.39 3.53 3.72 
+************************
+
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach 
+************************
+ interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user.  a relational algebra interface, called 
+squiral, which was designed using this approach, is described
+in detail. squiral seeks to minimize query 
+response time and space utilization by: (1) performing
+global query optimization, (2) exploiting disjoint 
+and pipelined concurrency, (3) coordinating sort orders
+in temporary relations, (4) employing directory 
+analysis, and (5) maintaining locality in page references.
+ algorithms for implementing the operators 
+of e. f. codd's relational algebra are presented, and
+a methodology for composing them to optimize the 
+performance of a particular user query is described.
+
+cacm october, 1975
+
+smith, j. m.
+yen-tang chang, p.
+
+relational database, database optimization, 
+************************
+
+************************
+Document:  CACM-1910.html
+************************
+
+
+an algorithm for solving a special class
+of tridiagonal systems of linear equations
+
+************************
+s of linear equations
+
+an algorithm is presented for solving a system
+of linear equation bu=k where b is tridiagonal 
+and of a special form.  it is shown that 
+************************
+ form.  it is shown that this algorithm
+is almost twice as fast as the gaussian elimination 
+method usually suggested for solving such systems. 
+in addition, explicit 
+************************
+
+************************
+Document:  CACM-3092.html
+************************
+
+
+characteristics of application software maintenance
+
+maintenance and enhancement of application
+software consume a major portion of the total life 
+cycle cost of a system.  rough estimates of the total
+systems and programming resources 
+************************
+ and programming resources consumed range 
+as high as 75-80 percent in each category.  however,
+the area has been given little attention in the 
+literature.  to analyze the problems in this area a
+questionnaire was developed and pretested.  it was 
+then submitted to 120 organizations.  respondents totaled
+69.  responses were analyzed with the spss 
+statistical package.  the results of the analysis indicate
+that: (1) maintenance and enhancement do consume 
+much of the total resources of systems and programming
+groups; 
+************************
+s and programming
+groups; (2) maintenance and enhancement tend to 
+be viewed by management as at least somewhat 
+************************
+ as at least somewhat more important
+than new application software development; 
+(3) in maintenance and enhancement, problems of a management
+orientation tend to be more significant 
+************************
+ to be more significant 
+than those of a technical orientation; and (4) user
+demands for enhancements and extension constitute 
+the most important management problem area.
+
+cacm june, 1978
+
+lientz, b.
+swanson, e.
+tompkins, g.
+
+software maintenance, use of 
+************************
+
+************************
+Document:  CACM-3028.html
+************************
+
+
+the manchester mark i and atlas: a his torical perspective
+
+in 30 years of computer design at manchester university
+two systems stand out: the mark 
+************************
+s stand out: the mark i (developed 
+over the period 1946-49) and the atlas (1955-62). 
+this paper places each computer in its his torical 
+context and then describes the architecture and system
+software in present-day terminology. 
+************************
+ in present-day terminology.  several 
+design concepts such as address-generation and store
+management have evolved in the progression from 
+mark i to atlas.  the wider impact of manchester innovations
+in these and other areas is discussed, and 
+the contemporary performance of the mark i and atlas is evaluated.
+
+cacm january, 1978
+
+lavington, s.
+
+architecture, index registers, paging, virtual
+storage, extra codes, compilers, operating systems, 
+ferranti, manchester 
+************************
+
+************************
+Document:  CACM-2311.html
+************************
+
+
+a generational perspective of information system development
+
+system development is categorized from a generational
+point of view that parallels the commonly 
+described computing system generations.  for each generation,
+the scope of development projects and the 
+technological world view of the system developer are examined.
+
+cacm july, 1972
+
+benjamin, r. i.
+
+computing milieu, management data processing, hardware
+systems, software systems, systems 
+************************
+, software systems, systems development 
+************************
+, systems development 
+process, 
+************************
+s development 
+process, functional systems, management systems
+
+************************
+s, management systems
+
+2.0 3.50 4.0 6.20
+
+
+************************
+
+************************
+Document:  CACM-3070.html
+************************
+
+
+hybrid simulation models of computer systems
+
+this paper describes 
+************************
+
+
+this paper describes the structure and operation
+of a hybrid simulation model in which both 
+discrete-event simulation and analytic techniques are
+combined to produce efficient yet accurate system 
+models.  in an example based 
+************************
+.  in an example based on a simple hypothetical
+computer system, discrete-event simulation is used 
+to model the arrival and activation of jobs, and a
+central-server queueing network models the use of 
+system processors. 
+************************
+ the use of 
+system processors.  the accuracy and efficiency of the
+hybrid technique are demonstrated by comparing 
+the result and computational costs of the hybrid model of
+the example with those of an equivalent simulation-only 
+model.  
+
+cacm september, 1978
+
+schwetman, h.
+
+performance evaluation, simulation, queueing
+network models, central server model
+
+************************
+
+************************
+Document:  CACM-2959.html
+************************
+
+
+the system for business automation (sba): programming language
+
+the system for business automation (sba) is a system
+within which application experts-nonprogrammers-can 
+describe and execute their applications on a computer. 
+the user of sba views his application as manipulation 
+of information in two-dimensional pictures of tables,
+business forms, and reports on a display terminal. 
+ he can gradually automate this application by giving "examples"
+to the system of how he manually manipulates 
+the information.  the query-by-example database language
+is a subset of the sba programming language.
+
+cacm june, 1977
+
+zloof, m. m.
+de jong, s. p.
+
+programming language, graphics, user in terface,
+
+************************
+hics, user in terface,
+data flow, forms flow, data abstraction, database, 
+query, data processing, business system specification, application 
+************************
+
+************************
+Document:  CACM-2424.html
+************************
+
+
+dynamic verification of operating system decisions
+
+dynamic verification of a decision implies
+that every time the decision is made there is a 
+consistency check performed on the decision using independent
+hardware and software.  the dynamic verification 
+************************
+.  the dynamic verification 
+of operating system decisions is used on the prime system
+being designed and constructed at the university 
+of california, berkeley.  prime is an experimental time-sharing
+which is to have the properties of continuous 
+availability, data privacy, and cost effectiveness.
+ the technique of dynamic verification allows the 
+construction of an operating system which does not make certain
+decisions improperly even in the presence 
+of a single hardware or software fault.  furthermore,
+
+************************
+ fault.  furthermore,
+multiple faults lead to unreliable operation only 
+if the faults happen to reinforce each other.  on prime,
+dynamic verification is used to ensure that 
+one user's information cannot become available to another
+user gratuitously even in the presence of a 
+single hardware or software fault.the amount of 
+************************
+ fault.the amount of additional
+hardware and software required for dynamic 
+************************
+ required for dynamic 
+verification can be modest.
+
+cacm november, 1973
+
+fabry, r. s.
+
+operating systems, data security, fault 
+************************
+s, data security, fault tolerance,
+software reliability, data privacy, program 
+verification, modular computer systems
+
+4.32
+
+ca731102 jb 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a 
+************************
+s
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident 
+************************
+-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+bucci, g.
+streeter, d.
+
+distributed processing, system design, cost minimization, distributed
+database, interactive computing, 
+************************
+
+************************
+Document:  CACM-0322.html
+************************
+
+
+operational compatibility of systems-conventions
+
+the general 
+************************
+s-conventions
+
+the general standards committee of the share
+organization has devoted considerable effort to 
+the problem of operating a computer efficiently in
+view of the growing number of programming systems 
+available.  each of 
+************************
+s 
+available.  each of these programming systems has been
+coded to utilize 
+************************
+s has been
+coded to utilize a fixed set of hardware components 
+without recognizing the fact that others may be occupying
+a storage medium required by the first.  these 
+incompatibilities are currently resolved by manually setting
+up the computer for each system as required. 
+ the following 
+************************
+
+************************
+Document:  CACM-2720.html
+************************
+
+
+optimal balancing of i/o requests to disks
+
+determining a policy for efficient allocation
+and utilization of a set of disk drives with 
+differing operational characteristics is examined using
+analytical techniques.  using standard queueing 
+theory, each disk drive is characterized by a queueing
+model with service time of a disk drive represented 
+by the probability density function of the sum of two
+uniform distributions. total response time of the 
+set of disk models is then minimized under 
+************************
+ is then minimized under varying
+load conditions. the results indicate that faster 
+devices should have higher utilization factors and that
+the number of different device types utilized 
+tends to decrease with decreasing load.  specific examples
+using 2314 and 3330 combinations are examined.
+
+cacm september, 1975
+
+piepmeier, w. f.
+
+disk drive hierarchies, system evaluation, input/output,
+
+************************
+
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been 
+************************
+
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional 
+************************
+s-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.
+
+************************
+s is included as an appendix.
+
+cacm may, 1968
+
+randell, b.
+kuehner, c. j.
+
+segmentation, paging, multiprogramming, storage
+allocation, storage management, virtual memories, 
+
+************************
+
+************************
+Document:  CACM-1532.html
+************************
+
+
+the hardware-software complementarity
+
+cacm 
+************************
+
+************************
+Document:  CACM-1325.html
+************************
+
+
+remote, on-line, real-time computer diagnosis
+of the clinical electrocardiogram
+
+presented in this paper is a brief report on
+the hardware, software, system configuration 
+************************
+, system configuration and 
+function of a system for the remote, online, real-time digital
+computer diagnosis of clinical electrocardiograms. 
+ it seems likely that efforts of this sort will lead
+to a satisfactory solution to the problem of the 
+automatic diagnosis of electrocardiograms.  current
+attempts by the authors to extend the diagnostic 
+capabilities of the present system are particularly concerned
+with increasing the fidelity of the adaptive 
+matched filters, the development of three dimensional pattern analysis,
+the analysis of parallel electrocardiographer-computer 
+diagnostic 
+************************
+
+************************
+Document:  CACM-2358.html
+************************
+
+
+the multics virtual memory: concepts and design
+
+as experience with use of on-line operating
+systems has grown, the need 
+************************
+s has grown, the need to share information 
+among system users has become increasingly apparent.
+ many contemporary systems permit some degree of 
+sharing.  usually, sharing is accomplished by allowing
+several users to share data via input and output 
+of information stored in files kept in secondary storage.
+ through the use of segmentation, however, 
+multics provides direct hardware addressing by user and
+system programs of all information, independent 
+of its physical 
+************************
+ent 
+of its physical storage location.  information is stored
+in segments each of which is potentially sharable 
+and carries its own independent attributes of size and access
+privilege.  here, the design and implementation 
+considerations of segmentation and sharing in multics
+are first discussed under the assumption that all 
+information resides in large, segmented main memory. 
+since the size of main memory on contemporary systems 
+is rather limited, 
+************************
+s 
+is rather limited, it is then shown how the multics
+software achieves the effect of a large segmented 
+main memory through the use of the honeywell
+645 segmentation and paging hardware.
+
+cacm may, 1972
+
+bensoussan, 
+************************
+.
+
+cacm may, 1972
+
+bensoussan, a.
+clingen, c. t.
+daley, r. c.
+
+operating system, multics, virtual memory, segmentation,
+information sharing, paging, memory management, 
+memory hierarchy
+
+
+************************
+
+************************
+Document:  CACM-1844.html
+************************
+
+
+a modular computer sharing system
+
+an alternative approach to the design and organization
+of a general purpose interactive multiterminal 
+computing system is presented.  the system organization described
+is a conceptually simple arrangement 
+of a bank of interchangeable computers, each of which
+is a memory/processor pair, that are assigned to 
+process terminal jobs as they arrive.  one of the computers
+serves as the master or control computer 
+and supervises the collection and distribution of messages
+from and to the remote terminals.  in the 
+simplest form there is a disk drive for each connected
+terminal.  a crosspoint switching network allows 
+any such disk drive to be connected to any computer.
+ thus, while each active terminal user "occupies" 
+a dedicated disk drive, he may share the computer with
+many other terminal users in a simple manner. 
+ the ratio of users to computers is dependent on both
+the size and power of the machines used and the 
+computation requirements of the particular mix of users.
+ this system organization is inherently a simpler 
+and therefore more reliable approach to time-sharing computers
+and has the potential of a highly available 
+system at relatively low cost.  economic configurations
+are possible for a range of systems sizes that 
+span at least one order of magnitude.  finally, problem
+programs developed by remote terminal users can 
+be run on a dedicated batch system if compatible computers are used.
+
+cacm october, 1969
+
+baskin, h. b.
+horowitz, e. b.
+tennison, r. d.
+rittenhouse, l. e.
+
+multiple terminal systems, terminal oriented systems,
+multiple processor systems, high availability, 
+conversational systems, general purpose time-sharing systems,
+real-time response system, modular constructed 
+systems, modular computer-sharing systems, graphics,
+file switch, intercomputer 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work 
+************************
+s
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+************************
+s has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including 
+************************
+ organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of 
+************************
+s.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  in particular,
+the 
+************************
+
+************************
+Document:  CACM-2718.html
+************************
+
+
+a preliminary system for the design of dbtg data structures
+
+the functional approach to database design is
+introduced. 
+************************
+ design is
+introduced.  in this approach the goal of design 
+is to derive a data structure which is capable of supporting
+a set of anticipated queries rather than 
+a structure which "models the business" in some other
+way. an operational computer program is described 
+which utilizers the functional approach to design data
+structures conforming to the data base task group 
+specifications.  the automatic programming technology
+utilized by this program, although typically used 
+to generate procedure, is here used to generate declaratives.
+
+cacm october, 1975
+
+gerritsen, r.
+
+network model of databases, data base task group, 
+************************
+
+************************
+Document:  CACM-1366.html
+************************
+
+
+computer simulation-discussion of the
+technique and comparison of languages 
+
+the purpose of this paper is to present a comparison
+of some computer simulation languages 
+and of some of the involved in comparing software packages
+for digital computers 
+************************
+
+for digital computers are discussed in part 
+i.  the issue is obvious: users of digital computers
+must choose from available languages or write their 
+own.  substantial costs can occur, particularly in training,
+implementation and computer time if an inappropriate 
+language is chosenore and more computer simulation
+languages are being developed: comparisons and 
+evaluations of existing languages are useful for designers
+and implementers as well as users.  the second 
+part is devoted to computer simulation and simulation
+languages.  the computational characteristics of 
+simulation are discussed with  special attention being
+paid to a distinction between continuous and discrete 
+change models.  part iii presents a detailed comparison
+of six simulation languages and packages: simscript, 
+clp, csl, gasp, 
+************************
+
+************************
+Document:  CACM-3011.html
+************************
+
+
+management utilization of computers in american local governments
+
+traditional concepts of management information
+systems (mis) bear little relation to the information 
+systems currently in use by top management in most us local
+governments.  what exists is management-oriented 
+computing, involving the use of relatively unsophisticated
+applications.  despite the unsophisticated 
+nature of these systems, management use of computing is
+surprisingly common, but also varied in its extent 
+among local governments.  management computing is most
+prevalent in those governments with professional 
+management practices where top management is supportive
+of computing and tends to control computing 
+************************
+s to control computing decisions 
+and where department users have less control over design
+and implementation activities.  finally, management 
+computing clearly has impacts for top managers, mostly
+involving improvements in decision information.
+
+cacm march, 1978
+
+dutton, w.
+kraemer, k.
+
+computer utilization, management information system,
+american local government, 
+************************
+,
+american local government, city government 
+computers, county government computers, computer impacts, management computing
+
+2.0 2.1 2.11 
+************************
+
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description 
+************************
+ is followed by a description of 
+a hardware and software scheme for measuring 
+************************
+ scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+systems, software measurement, user program 
+measurement, measurement technology, tx-2 computer,
+virtual computers, performance improvement
+
+************************
+
+************************
+Document:  CACM-3164.html
+************************
+
+
+progressive acyclic digraphs-a tool for database integrity
+
+a progressive 
+************************
+ integrity
+
+a progressive acyclic digraph (pad) algorithm accepts are requests and
+maintains a graph in an acyclic state.  when a request creates a cycle,
+nodes are, "detached" until the new are can be entered acyclically
+this process is important in certain areas of database implementation
+in which there are constraints on the permissible sequences
+of actions. two pad algorithms are presented; one uses a simple
+path matrix representation and the other uses a list with an
+"artificial gradient."  experiments suggest that for large n the second
+is considerably faster, though both are asymptotically o(nr),
+where n is the number of nodes and r is the expected number
+of nodes reachable along paths from any given node.
+
+cacm september, 1979
+
+hansen, w.
+
+list processing, data structures, topological sort,
+acyclic digraph, database integrity, network, deadlock
+
+4.34 5.32 
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+************************
+ in performance evaluation
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes circumstances 
+************************
+ and establishes circumstances under
+which the use of a model is appropriate.
+
+cacm july,1972
+
+kimbleton, s. r.
+
+modeling, evaluation, performance, analytic-models,
+simulation-models, system-models
+
+2.43 2.44 6.2 
+************************
+
+************************
+Document:  CACM-2322.html
+************************
+
+
+a view of computer architecture
+
+an attempt is made to predict the developments
+of the next 25 years in the field of computer 
+architecture.  standardized, inexpensive microcomputers
+on a single chip are 
+************************
+
+on a single chip are predicted.  these will be 
+used extensively to provide logical functions for noncomputational
+devices and incidentally for the design 
+of superscale computers. 
+
+cacm july, 1972
+
+foster, c. c.
+
+computer architecture, projection, microcomputers,
+computer design, computer 
+************************
+
+************************
+Document:  CACM-3158.html
+************************
+
+
+secure personal computing in an insecure network
+
+a method for implementing secure personal computing in a network
+with one or more central facilities is proposed.  the method employs a
+public-key encryption device and hardware keys.  each user is 
+************************
+
+************************
+Document:  CACM-2536.html
+************************
+
+
+telecommunications using a front-end minicomputer
+
+the use of a front-end minicomputer to provide
+varied remote terminal access to a large scale 
+computer is considered.  the problems of embedding
+telecommunications i/o within an operating system 
+are discussed, and it is shown how the decentralization
+of intelligence acquired by front-end processing 
+vastly simplifies the problem.  a specific implementation is
+discussed with emphasis on the main processor-minicomputer 
+link, the hardware-software implementation, the 
+************************
+ implementation, the effect
+of the main processor operating system, and an 
+assessment of the advantages over a hard wired line controller.
+
+cacm march, 1973
+
+feinroth, y.
+franceschini, e.
+goldstein, m.
+
+telecommunications, minicomputer, front-end
+processor, remote job 
+************************
+
+************************
+Document:  CACM-3058.html
+************************
+
+
+jump searching: a fast sequential search technique
+
+when sequential file structures must be used
+and binary searching is not feasible, jump searching 
+becomes an appealing alternative.  this paper explores
+variants of the classic jump searching scheme 
+where the optimum jump size is the square root of the
+number of records.  multiple level and variable 
+size jump strategies are explored, appropriate applications
+are discussed and performance is evaluated.
+
+cacm october, 1978
+
+shneiderman, b.
+
+jump searching, sequential files, file management,
+search strategies, database structures, index 
+searching
+
+************************
+
+************************
+Document:  CACM-1710.html
+************************
+
+
+asp-a ring implemented associative structure package
+
+asp is a general purpose associative data
+structure package in which an arbitrary number of 
+data items and an arbitrary number of the relationships
+between these data items may be represented. 
+ a special picture language is 
+************************
+ picture language is described which has proved
+very useful for drawing asp structures on paper. 
+ asp structures are built and manipulated by means
+of a series of macro calls, which are outlined in 
+the appendix.  emphasis is on the philosophy of the system
+rather than a particular implementation, though 
+sufficient information is included to enable the
+reader to produce his own implementation of asp.
+
+cacm august, 1968
+
+lang, c. a.
+gray, j. c.
+
+associative, data structure, ring 
+************************
+
+************************
+Document:  CACM-2628.html
+************************
+
+
+minimal-total-processing time drum and disk scheduling disciplines
+
+************************
+ scheduling disciplines
+
+this article investigates the application of
+minimal-total-processing-time (mtpt) scheduling 
+disciplines to rotating storage units when random arrival
+of requests is allowed.  fixed-head drum and 
+moving-head drum and moving-head disk storage units are
+considered, 
+************************
+ storage units are
+considered, and emphasis is placed on the relative 
+merits of the mtpt scheduling discipline with respect
+to the shortest-latency-time-first (sltf) scheduling 
+discipline.  the results of the simulation studies
+presented show that neither scheduling discipline 
+is unconditionally superior to the other.  for most
+fixed-head drum applications, the sltf discipline 
+is preferable to mtpt, but for intra-cylinder disk scheduling
+the mtpt discipline offers a distinct advantage 
+over the sltf discipline.  the computational requirements
+of an algorithm that implements the mtpt scheduling 
+discipline are shown to be comparable to sltf algorithms.
+in both cases, the sorting procedure is the 
+most time-consuming phase of the algorithm.
+
+cacm july, 1974
+
+fuller, s. h.
+
+drum scheduling, disk scheduling, shortest-latency-time-first
+(sltf), minimal-total-processing-time 
+(mtpt), 
+************************
+
+************************
+Document:  CACM-1695.html
+************************
+
+
+plexus-an on-line system for modeling neural networks
+
+a description is presented 
+************************
+s
+
+a description is presented of plexus, a system
+which enables a user to construct and specify 
+a neural network, to analyze the output 
+************************
+, to analyze the output data produced
+by the network, and to store and retrieve networks 
+and data from a library.  the system, operated entirely
+from a digital display unit, interacts directly 
+with the user and permits easy and rapid transitions
+between the various phases of the modeling process. 
+ plexus is designed to complement neurophysiological research
+so that the systematic development of neural 
+models can be coordinated with experimental work.  plexus
+networks are built up from components representing 
+individual neurons, external stimuli, and interconnecting
+fibers, each component being of a relatively 
+detailed nature.  provision is also made for the use of
+experimental data as input to a network.  convenient 
+means for specification and modification of a network and
+extensive error-checking capabilities are provided. 
+data resulting from the simulation of a network may be
+analyzed by a variety of techniques ranging from 
+examinations of the gross characteristics of the data to
+the determination of detailed statistical properties.
+
+cacm september, 1968
+
+dill, j. c.
+randall, d. l.
+richer, i.
+
+biological modeling, data analysis, discrete system
+simulation, library systems, modeling, network 
+
+************************
+, modeling, network 
+simulation, neural networks, neurophysiological
+models, on-line simulation, 
+************************
+
+************************
+Document:  CACM-2710.html
+************************
+
+
+specifying queries as relational expressions:
+the square data sublanguage
+
+this paper presents a data sublanguage called
+square, intended for use in ad hoc, 
+************************
+ed for use in ad hoc, interactive 
+problem solving by non-computer specialists. square
+is based on the relational model of data, and is 
+************************
+ model of data, and is 
+shown to be relationally complete; however, it avoids
+the quantifiers and bound variables required by 
+languages based on the relational calculus.  facilities
+for query, insertion, deletion, and update on 
+tabular data bases are described.  a syntax is given,
+and suggestions are made for alternative syntaxes, 
+including a syntax based on english key words for
+users with limited mathematical background.
+
+cacm november, 
+************************
+ground.
+
+cacm november, 1975
+
+boyce, r. f
+chamberlin, d. d.
+king, w. f. iii
+
+database, data sublanguages, relations, query languages,
+casual user, relational data model, tabular 
+************************
+
+************************
+Document:  CACM-3026.html
+************************
+
+
+the evolution of the sperry univac 1100
+series: a his tory, analysis, and projection
+
+the 1100 series systems are sperry univac's
+large-scale main frame computer systems.  beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the latest system, the 1100/80, introduced
+in 1977.  the 1100 series hardware architecture 
+is based on a 36-bit word, ones complement structure
+which obtains one operand from storage and one from 
+a high-speed register, or two operands from high-speed
+registers.  the 1100 operating system is designed 
+to support a symmetrical multiprocessor configuration
+simultaneously providing multiprogrammed batch, 
+timesharing, and transaction environments.
+
+cacm january, 1978
+
+borgherson, b.
+hanson, m.
+hartley, p.
+
+1100 computer series, computer architecture, multiprocessing
+languages, data management systems, 
+end user facilities, executive 
+************************
+
+************************
+Document:  CACM-1774.html
+************************
+
+
+program overlay techniques
+
+the general features of program overlay systems
+are described.  three 
+************************
+s
+are described.  three main types -- automatic, 
+semiautomatic and nonautomatic -- are classified, and the
+programming techniques are explained as a function 
+of machine hardware and other system features.  the
+implementation 
+************************
+ features.  the
+implementation of semiautomatic overlay facility 
+in a multiprogrammed system on the cdc 6600 is described
+in detail, with special reference to real time 
+************************
+
+************************
+Document:  CACM-2817.html
+************************
+
+
+the notions of consistency and predicate locks in a database system
+
+in database systems, users access shared 
+************************
+
+************************
+Document:  CACM-2957.html
+************************
+
+
+database abstractions: aggregation
+
+aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  aggregation transforms a relationship between
+objects into a higher-level object.  a new data 
+type, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  relational databases defined
+as 
+************************
+ databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  to main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  well-defined relations are
+distinct from relations in third normal form.  it 
+is shown that these notions are complementary and both are
+important in database design.  a top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  it is
+suggested that aggregate types, and other types 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+into programming languages.
+
+cacm june, 1977
+
+smith, j. m.
+smith, d. c. p.
+
+data abstraction, relational database, data type,
+
+************************
+
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory under the leap language and data
+structure,  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  the major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.
+
+cacm may, 1977
+
+stillman, n. j.
+berra, p. b.
+
+associative memory, associative processor, content-addressable
+memory, graphics, information retrieval, 
+data structures, software evaluation, hardware evaluation,
+parallel processing, database management
+
+3.71 3.72 3.73 3.74 
+************************
+
+************************
+Document:  CACM-2988.html
+************************
+
+
+memory management and response time
+
+this paper presents a computationally tractable
+methodology for including accurately the effects 
+of finite memory size and workload memory requirements
+in queueing network models of computer systems. 
+************************
+ of computer systems. 
+ empirical analyses and analytic studies based on applying
+this methodology to an actual multiaccess 
+in teractive system are reported.  relations between workload
+variables such as memory requirement distribution 
+and job swap time, and performance measures such as response
+time and memory utilization are graphically 
+displayed. a multiphase, analytically soluble model is
+proposed as being broadly applicable to the analysis 
+of in teractive computer systems which use nonpaged memories.
+
+cacm march, 1977
+
+brown, r. m.
+browne, j. c.
+chandy, k. m.
+
+memory management, system performance, queueing
+network models, in teractive computer 
+************************
+, in teractive computer systems
+
+4.32
+
+ca770304 jb 
+************************
+
+************************
+Document:  CACM-2380.html
+************************
+
+
+tenex, a paged time sharing system for the pdp-10
+
+tenex is a new time sharing system implemented
+on dec pdp-10 augmented by special paging hardware 
+developed at bbn.  
+************************
+ 
+developed at bbn.  this report specifies a set of goals
+which are important for any time sharing system. 
+ it describes how the tenex design and implementation
+achieve these goals.  these include specifications 
+for a powerful multiprocess large memory virtual machine,
+intimate terminal interaction, comprehensive 
+uniform file and i/o capabilities, and clean flexible
+system structure.  although the implementation 
+described here required some compromise to achieve a
+system operational within six months of hardware 
+checkout, tenex has met its major goals and provided
+reliable service at several sites and through the 
+arpa network.
+
+cacm march, 1972
+
+
+************************
+
+************************
+Document:  CACM-1959.html
+************************
+
+
+an interrupt based organization for management information systems
+
+a programming structure, 
+************************
+
+
+a programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.  the
+bases for this 
+************************
+.  the
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.  an algorithm for resolving
+conflicts which arise in scheduling the interrupt processing routines
+is presented.  dpl, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+cacm december, 1970
+
+************************
+.
+
+cacm december, 1970
+
+morgan, h. l.
+
+management information systems, integrated data processing,
+
+************************
+, integrated data processing,
+supervisors, interrupts monitoring systems, supervisory
+systems, 
+************************
+s, supervisory
+systems, interrupt scheduling, 
+************************
+
+************************
+Document:  CACM-2138.html
+************************
+
+
+bliss: a language for systems programming
+
+a language, 
+************************
+s programming
+
+a language, bliss, is described.  this language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine 
+************************
+ for a
+specific machine (the pdp-10): compilers, operating 
+systems, etc.  prime design 
+************************
+s, etc.  prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.  a major 
+************************
+s
+programs.  a major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+cacm december, 1971
+
+wulf, w. a.
+russell, d. b.
+
+programming languages, implementation language,
+systems programming, data structures
+
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication 
+************************
+s, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization an
+d retrieval of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication 
+************************
+,
+the normal multiplication table method yields far more rapid retrieval
+with a more economical space requirement than conventional systems.  
+moreover this method 
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is 
+************************
+ (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components 
+************************
+ containing components for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components of the system.  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs.  bagdams
+provides facilities for storing, retrieving, and 
+manipulating the descriptions of graphical entities
+provided by, and received by application programs,
+graphics packages, and graphical devices. 
+************************
+, and graphical devices. 
+
+cacm november, 1978
+
+wendorf, j.
+
+computer graphics, 
+************************
+orf, j.
+
+computer graphics, data structures, graphic display,
+graphic input, graphical database, device 
+independent graphics
+
+4.33 4.34 
+************************
+
+************************
+Document:  CACM-2321.html
+************************
+
+
+on the interface between computers and data communications systems
+
+future systems that 
+************************
+s
+
+future systems that combine computers, digital
+terminals, 
+************************
+, digital
+terminals, and communications equipment present 
+design optimization problems that require reconsideration
+of the traditional functional responsibilities 
+of the respective subsystems.  several "standard" 
+************************
+s.  several "standard" interfaces,
+by means of which computers and digital 
+terminals connect to the communications systems will
+be required.  
+************************
+s will
+be required.  when specifying these interfaces, 
+consideration must be given to problems of coordination,
+synchronization, error control, signaling, stream 
+multiplexing, and switch control, in addition to minimizing
+the technological interdependence of specific 
+subsystem designs.  a focus on 
+************************
+
+************************
+Document:  CACM-2577.html
+************************
+
+
+an on-site data management system application in field 
+************************
+ application in field archaeology
+
+cacm november, 1974
+
+brown, j. a.
+werner, b.
+
+apl-plus, archaeology, koster prehistoric
+site data management, retrieval systems
+
+3.36 3.70 3.73 3.89
+
+************************
+
+************************
+Document:  CACM-2888.html
+************************
+
+
+information reference coding
+
+items in business systems have to be identified
+
+************************
+s have to be identified
+by reference codes, which can later be used 
+as data codes and file keys in an associated data processing
+system.  in business systems associated 
+with large collections of integrated files (database)
+it is vital to assign 
+************************
+)
+it is vital to assign codes in a methodical way 
+so as to control future extension and changes while maintaining
+correct program action. the principles 
+of methodical coding are discussed, and the way in
+which logical connections between data items must 
+be reflected in the reference code framework is shown
+through a set-theoretic information model.
+
+cacm january, 1976
+
+florentin, j. j.
+
+data, file, reference code, systems
+analysis, information 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes 
+************************
+s
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+
+************************
+ by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a 
+************************
+s) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  the analyzed problem statement 
+was translated to the form necessary for use by the
+soda (systems optimization and design 
+************************
+s optimization and design algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+cacm december, 1976
+
+nunamaker, j. f. jr.
+konsynski, b. r. jr.
+ho, t.
+singer, c.
+
+computer-aided analysis, information systems, logical
+system design, 
+************************
+s, logical
+system design, problem statement language, 
+problem statement analyzer, physical system design,
+accurately defined systems, systems optimization 
+************************
+, systems optimization 
+and design 
+************************
+
+************************
+Document:  CACM-2106.html
+************************
+
+
+computer education in a graduate school of management
+
+several years of experience have led to the belief that the creative
+design and evaluation of management information systems requires
+a thorough 
+************************
+s requires
+a thorough understanding of the related computer technology.  concepts
+such as paging and priority interrupt systems can best be explained 
+************************
+s can best be explained at the 
+machine language level.  any machine used for exposition
+should fulfill several criteria.  it should: (1) raise as few
+spurious issues as possible; (2) allow, without undue effort, the
+solution of interesting problems; (3) be capable of exposing all
+outstanding issues of significance, capable of exposing all outstanding
+issues of significance, within the chosen machine; (4) be
+seful for pursuing issues in great depth when appropriate; (5) not
+be committed to the equipment provided by any manufacturer; (6) be able to 
+provide the student with diagnostic aids to a great depth;
+(7) allow the student ready access to the machine; (8) be capable
+of extension to expose new issues as they come along.  we have
+constructed a simulated machine and its associated software which
+meets these criteria.  this system, called the prism system,
+is documented by a primer and a reference manual.
+
+cacm february, 1970
+
+ness, d. n.
+green, r. s.
+martin, w. a.
+moulton, g. a.
+
+education, simulation, machine language,
+management information systems, interpreters
+
+1.52 
+************************
+
+************************
+Document:  CACM-3056.html
+************************
+
+
+counting large numbers of events in small registers
+
+it is possible to use a small counter to keep
+approximate counts of large numbers.  the resulting 
+expected error can be rather precisely controlled.  an
+example is given in which 8-bit counters (bytes) 
+are used to keep track of as many as 130,000 events with
+a relative error which is substantially independent 
+of the number n of events.  this relative error can
+be expected to be 24 percent or less 95 percent of 
+the time (i.e.o = n/8).  the techniques could be used
+to advantage in multichannel counting hardware 
+or software used for the monitoring 
+************************
+
+************************
+Document:  CACM-1572.html
+************************
+
+
+the simulation of time sharing systems
+
+the development of 
+************************
+s
+
+the development of new large scale time-sharing
+systems has raised a number 
+************************
+s has raised a number of problems for 
+computation center management.  not only is it necessary
+to develop an appropriate hardware configuration 
+for these systems, but appropriate software 
+************************
+s, but appropriate software adjustments
+must be made.  unfortunately, these systems often 
+do not respond 
+************************
+s often 
+do not respond to changes in the manner that intuition
+would suggest, and there are few guides to assist 
+in the analysis of performance characteristics.  the
+development of a comprehensive simulation model 
+to assist in the investigation of these questions is
+described in this paper.  the resulting model has 
+a general purpose design and can be used to study a
+variety of time-sharing systems.  it can also be 
+used 
+************************
+
+************************
+Document:  CACM-1685.html
+************************
+
+
+gan, a system for generating and analyzing activity networks
+
+gan, a system for 
+************************
+s
+
+gan, a system for generating activity networks,
+is designed to save 
+************************
+s,
+is designed to save time in the preparation 
+of activity networks and to deal conveniently with network
+programs.  a defining description of a programming 
+language designed for generating activity network from
+a set of standard networks is presented.  also, 
+a general idea of a language for performing calculations
+on activity networks (scheduling activity networks) 
+is given.
+
+cacm october, 1968
+
+schurmann, a.
+
+activity network, management project, standard network,
+
+************************
+
+************************
+Document:  CACM-2928.html
+************************
+
+
+hardware estimation of a process' primary memory requirements
+
+a minor hardware extension to the honeywell
+6180 processor is demonstrated to allow the primary 
+memory requirements of a process in multics to be approximated.
+ the additional hardware required for 
+this estimate to be computed consists of a program accessible
+register containing the miss rate of the 
+associative memory used for page table words.  this
+primary memory requirement estimate was employed 
+in an experimental version of multics to control the
+level of multiprogramming in the system and to bill 
+for memory 
+************************
+ and to bill 
+for memory usage.  the resulting system's tuning parameters
+display configuration insensitivity, and
+it is conjectured that the system would also track shifts
+in the referencing characteristics of its workload 
+and keep the system in tune.
+
+cacm september, 1977
+
+giffor, d. k.
+
+primary memory requirement, virtual memory, level
+of multiprogramming, associative memory, working 
+set, 
+************************
+
+************************
+Document:  CACM-2948.html
+************************
+
+
+a terminal-oriented communication system
+
+this paper describes a system for full-duplex
+communication between a time-shared computer 
+and its terminals.  the system consists of a communications
+computer directly connected to the time-shared 
+system, a number of small remote computers to which
+the terminals are attached, and connecting medium 
+************************
+, and connecting medium 
+speed telephone lines.  it can service a large number
+of terminals of various types.  the overall system 
+design is presented along with the algorithms used to
+solve three specific problems: local echoing, error 
+detection and correction on the telephone lines,
+and multiplexing of character output.
+
+cacm july, 1977
+
+heckel, p. g.
+lampson, b. w.
+
+terminal system, error correction, multiplexing,
+local echoing, communication system, network
+
+3.81 4.31
+
+ca770704 
+************************
+
+************************
+Document:  CACM-2876.html
+************************
+
+
+intentional resolution of privacy protection in database systems
+
+traditionally, privacy 
+************************
+
+
+traditionally, privacy protection in database
+systems is understood to be 
+************************
+ is understood to be the control over 
+what information a given user can get from a database.
+ this paper is concerned with another, independent, 
+dimension of privacy 
+************************
+ent, 
+dimension of privacy protection, the control over what
+a user is allowed to do with a piece of information 
+supplied to him by the database.  the ability to condition
+the supply of information on its intended 
+use is called here 
+************************
+
+************************
+Document:  CACM-2976.html
+************************
+************************
+Document:  CACM-2680.html
+************************
+
+
+optimal space allocation on disk storage devices
+
+when the amount of space required for file storage
+exceeds the amount which can be kept on-line, 
+decisions must be made as to which files are to be permanently
+resident and which mountable.  these decisions 
+will affect the number of mount requests issued to the
+operators.  this is often a bottleneck in a computing 
+facility, and reducing the number of mounts thus decreases
+turnaround time.  an optimization model for 
+the assignment of files to disk packs, and packs to either
+resident or nonresident status is presented. 
+ heuristics are suggested for those cases in which
+it is inefficient to compute the actual optimum.
+
+cacm march, 1974
+
+morgan, h. l.
+
+disk analysis, disk optimization, disk files,file
+systems, file scheduling, space 
+************************
+
+************************
+Document:  CACM-1808.html
+************************
+
+
+advanced cryptographic techniques for computers
+
+cryptographic techniques which can be used to
+maintain the confidentiality of information processed 
+by computers are dealt with.  special emphasis is paid
+to the unique characteristics of computer files 
+that make many cryptographic methods of little use.
+ relative security, costs, and preferred methods 
+are included in this paper.
+
+cacm december, 1969
+
+van tassel, d.
+
+cryptographic, cryptanalysis, ciphers secrecy systems,
+security systems, 
+************************
+s,
+security systems, confidential information 
+************************
+
+************************
+Document:  CACM-2375.html
+************************
+
+
+a comparative analysis of disk scheduling policies
+
+five well-known scheduling policies for movable
+head disks are compared using the performance 
+criteria of expected seek time (system oriented)and expected
+waiting time (individual i/o request oriented). 
+ both analytical and simulation results are obtained.
+ the variance of waiting time is introduced as 
+another meaningful measure of performance, showing possible
+discrimination against individual requests. 
+ then the choice of a utility function to measure total
+performance including system oriented and individual 
+request oriented measures is described.  such a function
+allows one to differentiate among the scheduling 
+policies over a wide range of input loading conditions.
+ the selection and implementation of a maximum 
+performance two-policy algorithm are discussed.
+
+cacm march, 1972
+
+teorey, t. j.
+pinkerton, t. b.
+
+access time, analytical models, auxiliary storage,
+direct access storage, disk analysis, disk scheduling, 
+performance criteria, peripheral memory devices, real-time
+systems, response time, rotational 
+************************
+, response time, rotational delay, 
+scheduling policies, seek time, simulation, storage
+units, time-sharing systems, waiting time
+
+3.72 
+************************
+
+************************
+Document:  CACM-2738.html
+************************
+
+
+use of the concept of transparency in the
+design of hierarchically structured systems
+
+this paper deals with the design of hierarchically
+structured programming systems.  it develops 
+a method for evaluating the cost of requiring programmers
+to work with an abstraction of a real machine. 
+ a number of examples from hardware and software
+are given as illustrations 
+************************
+
+are given as illustrations of the method.
+
+cacm july, 1975
+
+parnas, d. l.
+siewiorek, d. p.
+
+hierarchical systems, bottom up design, levels
+
+************************
+
+************************
+Document:  CACM-0698.html
+************************
+
+
+data-dial: two-way communication with
+computers from ordinary dial telephones
+
+an operating system is described which allows
+users to call up a remotely located computer 
+from ordinary dial telephones.  no special hardware or
+connections are required 
+************************
+
+************************
+Document:  CACM-0695.html
+************************
+
+
+use of the disk file on stretch
+
+the paper begins by briefly describing the
+stretch (ibm 7030) computer with special emphasis 
+given to the organization and operation of its input-output
+equipment.  physical characteristics of the 
+two-disk system (4,194,304 72-bit words, 8 usec-per-word
+transmission rate, etc.) are noted.  timing 
+limitations due to arm motion and disk rotation are discussed.
+ applications of disk usage are discussed 
+separately for problem programs and for systems programs
+such as compilers 
+************************
+ programs
+such as compilers and the supervisory program. 
+approximately 260,000 words of disk storage are reserved
+for the storage of systems programs and the 
+subroutine 
+************************
+s programs and the 
+subroutine library.  problem programs, however, are not
+currently filed on the disk.  certain programming 
+techniques are discussed for transmitting words between
+disk and core storage with minimum delaying and 
+interruption of the arithmetic unit.  dumps on disk are
+considered for both recovery from computer malfunction 
+and for mathematical or physical developments during
+the calculation.  some comments are made regarding 
+the reliability, economics, utility and weaknesses or
+limitations of the disk system.  several possible 
+
+************************
+
+************************
+Document:  CACM-1199.html
+************************
+
+
+a computer center simulation project
+
+today's computation centers are based on rapidly
+changing technologies of hardware and software 
+systems.  it is difficult, therefore, 
+************************
+
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately 
+************************
+"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+
+************************
+.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base management systems, programming 
+************************
+ systems, programming languages,
+
+************************
+
+************************
+Document:  CACM-2298.html
+************************
+
+
+an environment for research in microprogramming and emulation
+
+the development of the research project in
+microprogramming and emulation at state university 
+of new york at buffalo consisted of three phases: the
+evaluation of various possible machines to support 
+this research; the decision to purchase one such machine,
+which appears to be superior to the others 
+considered; and the organization and definition of goals
+for each group in the project.  each of these 
+phases is reported, with emphasis placed on the
+early results achieved in this research.
+
+cacm august, 1972
+
+rosin, r. f.
+frieder, g.
+eckhouse jr., r. h.
+
+microprogramming, emulation, computer systems, language
+processors, 
+************************
+s, language
+processors, input-output systems, nano-program, 
+project 
+************************
+s, nano-program, 
+project management, hardware evaluation
+
+4.1 4.2 
+************************
+
+************************
+Document:  CACM-2069.html
+************************
+
+
+comments on a paper by wallace and mason
+
+cacm april, 1970
+
+heess jr., w. f.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+markovian computer models, scheduling strategies,
+operating systems, memory management
+
+************************
+
+************************
+Document:  CACM-3127.html
+************************
+
+
+thoth, a portable real-time operating system 
+
+thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  it is currently running on two minicomputers
+with quite different architectures.  both the system and application
+programs which use it are written in a high-level language.
+because the system is implemented by the same software on different
+hardware, it has the same interface 
+************************
+, it has the same interface to user programs.  hence,
+application programs which use thoth are  highly portable.  thoth
+encourages structuring programs as networks of communicating processes 
+by providing efficient interprocess communication primitives.
+
+cacm february, 1979
+
+cheriton, d.
+malcolm, m.
+melen, l.
+sager, g.
+
+portability, real time, operating systems, minicomputer
+
+3.80 
+************************
+
+************************
+Document:  CACM-2002.html
+************************
+
+
+amesplot-a higher level data plotting software system
+
+amesplot is an extensible 
+************************
+
+
+amesplot is an extensible software system designed to make the 
+************************
+ designed to make the display of 
+data as simple, painless, and neat as possible.  the system described is 
+hardware-independent and has 
+************************
+-independent and has been implemented on a variety of installations,
+of different manufacturers, having diverse configurations.  the elements 
+common to all types of data plots are outlined and the way in which these 
+elements may be combined into a system based on simple modules is demonstrated.
+these modules are specified independently and are independent of the axis
+systems or other attributes 
+************************
+ or other attributes of the plot.  this enables plots of any
+complexity to be constructed by adding or replacing modules.  the
+basic syntax of amesplot is outlined, and a brief description is given
+of its current utility software, consisting of "macros" to produce
+self-scaled plots, formal tablets of text-interspersed with subplots,
+map coastlines, and 3-d plots.  the system was formulate
+d in a way such that the user could supply the minimum of information,
+and it should be fully integrable with user's program written
+in most conventional higher languages.  the functions of positioning,
+locating, and scaling (in the layout of multiple subplots) of
+axes, labels, and all other elements of the plot are handled automatically
+by the software system unless the user specifies otherwise.  the structuring 
+of plots from multiple, independent, self-contained subplots 
+************************
+ent, self-contained subplots is described.
+transformation, projection, scaling, rotation, or shifting of entire plots or 
+subplots by the action of one or more simple modules is possible.  the user 
+may interact freely with amesplot at three levels, enabling him to construct 
+his own data markers, alphabetic characters, and transformations, and
+to produce a variety of artistic and other effects.
+
+cacm september, 1970
+
+hirschsoln, i.
+
+computer graphics, data potting, data display
+syntax, hardware independent software,
+display device independent 
+************************
+,
+display device independent software, plot elements, self-scaled 
+************************
+
+************************
+Document:  CACM-2516.html
+************************
+
+
+hierarchical storage in information retrieval
+
+a probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  the data storage
+hardware is assumed to consist on n-levels of 
+linearly connected memory hardware with increasing data
+access times and increasing data storage capabilities. 
+ a system might, for example, consist of fast semiconductor
+memory, computer core memory, extended core 
+storage, disk 
+************************
+ed core 
+storage, disk memory, and data cells.  equations are derived
+to predict the effect of such a system on 
+data access times using sequential files, random access files,
+and structured files employing multiple-hierarchical 
+linked lists.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2740.html
+************************
+
+
+a large semaphore based operating system
+
+the paper describes the internal structure of
+a large operating system as a set of cooperating 
+sequential processes.  the processes synchronize by
+means of semaphores and extended semaphores (queue 
+semaphores).  the number of parallel processes is carefully
+justified, and the various semaphore constructions 
+are explained.  the system is proved to be free of "deadly
+embrace" (deadlock).  the design principle 
+is an alternative to dijkstra's hierarchical structuring
+of operating systems.  the project management 
+************************
+.  the project management 
+and the performance are discussed, too.  the operating
+system is the first large one 
+************************
+ is the first large one using the rc 4000 
+multiprogramming system.
+
+cacm july, 1975
+
+lauesen, s.
+
+cooperating processes, operating system, semaphores,
+semaphore applications, queue semaphores, 
+deadlock, deadly embrace, hierarchical structuring, multiprogramming,
+operating system structure, asynchronous 
+structuring, buffering, parallel processes, synchronizing
+primitives, reentrant code, rc 4000, project 
+management, time schedule, debugging, 
+************************
+
+************************
+Document:  CACM-3025.html
+************************
+
+
+the evolution of the dec system 10
+
+the dec system 10, also known as the pdp-10, evolved
+from the pdp-6 (circa 1963) over five generations 
+of implementations to presently include systems covering
+a price range of five to one.  the origin and 
+evolution of the hardware, operating system, and languages
+are described in terms of technological change, 
+user requirements, and user developments. the pdp-10's
+contributions to computing technology include: 
+accelerating the transition from batch oriented to time
+sharing computing systems; transferring hardware 
+technology within dec (and elsewhere) to minicomputer
+design and manufacturing; supporting minicomputer 
+hardware and software development; and serving 
+************************
+ development; and serving as a
+model for single user and timeshared interactive 
+minicomputer/microcomputer systems.
+
+cacm january, 1978
+
+************************
+
+************************
+Document:  CACM-3090.html
+************************
+
+
+automated welfare client-tracking and service
+integration: the political economy of computing
+
+the impacts of an automated client-tracking
+system on the clients, caseworkers, administrators, 
+and operations of the welfare agencies that use it are
+reported.  the major impact of this system was 
+to enhance the administrative  attractiveness of the
+using agencies in the eyes of funders rather than 
+to increase their internal administrative efficiency. 
+this impact is a joint product of both the technical 
+features of the computer-based system and of the organizational
+demands placed upon different agencies, 
+administrators, and caseworkers.  it illustrates the
+way "successful" automated information systems fit 
+the political economies of the groups that use them.    
+
+cacm june, 1978
+
+kling, r.
+
+social impacts of computing, organizational impacts
+of computing, management information systems, 
+************************
+ information systems, 
+sociology of computing, 
+************************
+s, 
+sociology of computing, information systems and
+service integration, 
+************************
+s and
+service integration, urban information systems
+
+2.11 3.53
+
+ca780607 
+************************
+
+************************
+Document:  CACM-2016.html
+************************
+
+
+the instrumentation of multics
+
+an array of measuring tools devised to aid in the implementation of a prototype
+computer utility is discussed.  these tools include special hardware
+clocks and data channels, 
+************************
+
+clocks and data channels, general purpose programmed probing
+and recording tools, and specialized measurement facilities.  some
+particular measurements of interest in a system which combines demand 
+paging with multiprogramming are described in detail.  where appropriate, 
+insight into effectiveness (or lack there of) of individual tools is provided.
+
+cacm august, 1970
+
+gintell, j. w.
+saltzer, j. h.
+
+instrumentation, performance measurement,
+multiprogramming systems, measuring tools, system 
+************************
+
+************************
+Document:  CACM-0618.html
+************************
+
+
+computers- the key to total systems control: an industrial 
+************************
+
+************************
+Document:  CACM-2715.html
+************************
+
+
+implementation of a structured english query language
+
+the relational model of data, the xrm relational
+memory system, and the sequel language 
+************************
+, and the sequel language have 
+been covered in previous papers and are reviewed. 
+sequel is a relational data sublanguages intended 
+for the ad hoc interactive 
+************************
+ed 
+for the ad hoc interactive problem solving by non-computer
+specialists.  a version of sequel that has 
+been implemented in a prototype interpreter is described.
+ the interpreter is designed to minimize the 
+data accessing operations required to respond to an arbitrary
+query.  the optimization algorithms designed 
+for this purpose are described.
+
+cacm october, 1975
+
+astrahan, m. m.
+chamberlin,d. d.
+
+relational model, query language, nonprocedural language,
+database, data structure, data 
+************************
+
+************************
+Document:  CACM-3142.html
+************************
+
+
+consumer difficulties with computerized transactions: 
+an empirical investigation
+
+the prevalence with which errors may be encountered by the 
+end targets of a computerized process is assessed.  how many and
+what type of errors occur?  how easily are they corrected?  what
+is the reaction of consumers to errors-to a failure to correct
+them?  what can be learned by designers of large management packages
+from such data? results 
+************************
+
+from such data? results show that with the present state of the
+art, approximately 40 percent of individuals (or households) having
+average contacts with different types of accounts experience one
+or more errors per year.  eighty percent relate to billing.  attempts
+to correct errors often turned out to be difficult and not always
+successful. there appears to be some conflict between computer-using
+organizations and their public.  also the role of poor man
+agement packages including poor software is indicated.  while most
+management systems may be adequate, results 
+************************
+ may be adequate, results of the survey raise
+concerns about the timeliness and the number of designs of very
+large linked program packages (as eft for instance).  
+
+cacm may, 1979
+
+sterling, t.
+
+errors, systems errors, billing errors, 
+************************
+s errors, billing errors, management systems, consumers
+
+2.0 2.1 
+************************
+
+************************
+Document:  CACM-1752.html
+************************
+
+
+resource management for a medium scale time-sharing operating system
+
+task scheduling and 
+************************
+
+
+task scheduling and resource balancing for
+a medium size virtual memory paging machine are 
+discussed in relation to a combined batch processing
+and time-sharing environment.  a synopsis is given 
+of the task scheduling and paging algorithms that were implemented,
+and the results of comparative simulation 
+are given by tracing the development of the algorithms
+through six predecessor versions.  throughout 
+the discussion particular emphasis is placed on balancing
+the system performance relative to the characteristics 
+of all the system resources.  simulation results relative
+to alternate hardware characteristics and 
+************************
+ characteristics and the 
+effects of program mix and loading variations are also presented.
+
+cacm may, 1968
+
+oppenheimer, g.
+weizer, n.
+
+time-sharing, operating systems, resource management,
+
+************************
+s, resource management,
+task scheduling, paging, system simulation, 
+memory 
+************************
+
+************************
+Document:  CACM-1083.html
+************************
+
+
+an experiment in a user-oriented computer system
+
+a version of a software-hardware system for
+
+************************
+-hardware system for
+the purpose of facilitating 
+************************
+ for
+the purpose of facilitating the programming and 
+analysis of well-formulated problems is described.  a modified
+flexowriter is used to generate computer-acceptable 
+input when equations or computable requests are typed
+in much the same manner as they would appear in 
+conventional mathematical texts.  the typing and language
+rules are quite flexible and unrestrictive. 
+ while the compiler part is efficient, the system as
+a whole has much broader aspects as a tool for the 
+study of problem solving and self-teaching systems.
+
+cacm may, 1964
+
+klerer, 
+************************
+
+************************
+Document:  CACM-2634.html
+************************
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer various types of statistical 
+packages for general use.  among those most widely available
+are osiris, spss, bmd, data-text, and tsar. 
+ in order to provide users with a basis for selection
+and use, tests were made for each of these systems, 
+and the results are 
+************************
+
+************************
+Document:  CACM-2491.html
+************************
+
+
+threaded code
+
+the concept of "threaded code" is presented as
+an alternative to machine language code.  hardware 
+and software realizations of it are 
+************************
+
+************************
+Document:  CACM-2277.html
+************************
+
+
+demand paging through utilization of working sets on the maniac ii
+
+a hardware implementation on the maniac ii computer
+of the working set model for demand paging, 
+as introduced by denning, is discussed.  characteristics
+of the maniac ii are given, along with a description 
+of the basic demand paging scheme and the associate memory
+which has been added to the maniac ii hardware. 
+ finally, a description of the hardware design for implementation
+of the working set model is discussed 
+and a specification of the actions taken under various
+conditions which may arise during the operation 
+of the full working set model, demand paging system is given.
+
+cacm october, 1972
+
+morris, j. b.
+
+demand paging, dynamic storage allocation, maniac
+ii, memory allocation, one-level store, paging, 
+paging associative memory, storage allocation,
+
+************************
+
+************************
+Document:  CACM-1912.html
+************************
+
+
+simulation of outpatient appointment systems
+
+an experimental computer 
+************************
+s
+
+an experimental computer program is described
+which simulates appointment systems employed 
+by outpatient 
+************************
+s employed 
+by outpatient departments of hospitals.  both major kinds
+of appointment systems-individual and block-can 
+************************
+s-individual and block-can 
+be simulated.  the purpose of the simulator is to enable
+the user to evaluate the effectiveness of alternative 
+appointment systems in a given clinical 
+************************
+s in a given clinical environment.
+
+cacm april, 1969
+
+katz, j. h.
+
+simulation, scheduling, appointment system, outpatient
+department, medicine, health, management
+science, operations 
+************************
+
+************************
+Document:  CACM-1165.html
+************************
+
+
+the spectra 70/45 emulator for the rca 301
+
+the rca 301 emulator system is supplied with
+the spectra 70/45 as a reprogramming aid.  it 
+allows an rca 301 object program to be run on the spectra
+70/45 without necessitating changes in the 
+rca 301 object code.  execution rates are considerably
+better than traditional simulation.  the emulator 
+provides an increase in throughput capacity for the
+301 user on the spectra 70/45.  the emulator makes 
+use of both hardware micro-program routines and
+software routines to accomplish 
+************************
+
+************************
+Document:  CACM-2188.html
+************************
+
+
+an approach to the optimum design of computer graphics systems
+
+display system designers 
+************************
+s
+
+display system designers are faced with the
+difficult task of selecting major subsystems in 
+an intelligent way.  each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its 
+************************
+hics processor and its supporting
+data processing system.  the work reported 
+here develops an objective, quantitative design procedure
+and helps give a better understanding of now 
+to  configure display systems.  this is accomplished by
+means of a mathematical model of a computer driven 
+graphics system.  the parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational 
+************************
+ 
+and of the computational requirements of the graphics application.
+ the model can be analyzed using numerical 
+queueing analysis or simulation to obtain an average
+response time prediction.  by combining the model 
+with an optimization, the best graphics system configuration,
+subject to a cost constraint, is found 
+for several applications.  the optimum configurations
+are in turn used to find general display system 
+design guidelines.
+
+cacm june, 1971
+
+foley, j. d.
+
+design guidelines, graphic display systems, mathematical
+model, 
+************************
+
+************************
+Document:  CACM-1603.html
+************************
+
+
+a multiprogramming monitor for small machines
+
+int, a combination hardware/software monitor
+designed to 
+************************
+ monitor
+designed to control a wide variety of real-time 
+input/output devices, is described.  the simple hardware
+additions provide a uniform device to machine 
+interface for such elements as keyboards graphic input
+devices, and 
+************************
+
+************************
+Document:  CACM-2951.html
+************************
+
+
+dynamic response time prediction for computer networks
+
+if the ultimate aim of a computing network
+is resource sharing, then the human component as 
+well as the technical component of networking must
+be fully investigated to achieve this goal.  this 
+research is a first step toward assisting the user in participating
+in the vast store of resources available 
+on a network. analytical, simulation, and statistical performance
+evaluation tools are employed to investigate 
+the feasibility of a dynamic response time monitor
+that is capable of providing comparative response 
+time information for users wishing to process various
+computing applications at some network computing 
+node.  the research clearly reveals that sufficient
+system data are currently obtainable, at least for 
+the five diverse arpa network systems studied in detail,
+to describe and predict the response time for 
+network time-sharing systems as it depends on some
+measure of 
+************************
+s on some
+measure of system activity or load level.
+
+cacm july, 1977
+
+mamrak, s. a.
+
+response time monitor, computer networks, time-sharing
+systems, comparative response 
+************************
+, comparative response time, arpa 
+network, anlytic modeling, simulation, benchmark jobs, system measurement
+
+4.6 6.20 
+************************
+
+************************
+Document:  CACM-2359.html
+************************
+
+
+an improved index sequential access method using hashed overflow
+
+the index sequential access method (isam) is
+one of the most important file management systems 
+used with moveable 
+************************
+ 
+used with moveable head disk devices.  this study investigates
+the use of an unconventional method of 
+treating overflow records.  the method is to use hashing
+techniques to allocate space for such records. 
+ if certain conditions are satisfied, this is superior
+to the conventional isam method of chaining the 
+overflow records via linked list techniques.  these conditions are:
+long overflow chains with significant 
+overflow; lack of tight disk space constraints; record
+keys which are small compared to the total record 
+size; and significant use of the file in the index as opposed
+to the sequential mode.  using hashed overflow, 
+the time to locate a record is dependent not on the total
+
+************************
+ent not on the total
+volume of overflow records as in conventional 
+isam, but on the percentage use of space dedicated to overflow records.
+
+cacm may, 1972
+
+mullin, j. k.
+
+isam, index sequential, hashing, scatter
+storage, disk, cylinder, overflow
+
+************************
+
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent failures
+
+************************
+ under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including availability, 
+response time, and the system saturation point.   
+
+cacm june, 1978
+
+gelenbe, e.
+derochette, d.
+
+database reliability, file systems, checkpoints, recovery
+
+************************
+
+************************
+Document:  CACM-2625.html
+************************
+
+
+capability-based addressing
+
+various addressing schemes making use of segment
+tables are examined.  the inadequacies of 
+these schemes when dealing with shared addresses are
+explained. these inadequacies are traced to the 
+lack of an efficient absolute address for objects in
+these systems.  the direct use of 
+************************
+s.  the direct use of a capability as 
+an address is shown to overcome these difficulties
+because it provides the needed absolute address.  
+implementation of capability-based addressing is discussed.
+ it is predicted that the use of tags to 
+identify capabilities will dominate.  a hardware address
+translation scheme which never requires the 
+modification of the representation of capabilities is
+suggested. the scheme uses a main memory hash table 
+for obtaining a segment's location in main memory given
+its unique code.  the hash table is avoided for
+recently accessed segments by means of a set of associative
+registers.  a computer using capability-based 
+addressing may be substantially superior to present
+systems on the basis of protection, 
+************************
+s on the basis of protection, simplicity of 
+programming conventions, and efficient implementation.
+
+cacm july, 1974
+
+fabry, r. s.
+
+addressing, capabilities, addressing hardware,
+protection, protection hardware, shared addresses, 
+information sharing, operating systems, computer
+utility, 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models of the u. computer market 
+************************
+ of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+
+************************
+ performance.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of 
+************************
+ cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market 
+************************
+s.  the other market is the developing one
+for small business computer systems, a market which is 
+************************
+

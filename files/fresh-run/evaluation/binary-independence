@@ -1,0 +1,13 @@
+Evaluation Scores
+************************
+binary-independence
+************************
+Mean Average Precision:  1.0
+Mean Reciprocal Rank:  1.0
+
+************************
+Query Information
+************************
+Q1  |  Recall:  6  |  Precision:  6  |  Precision@K=5:  1.0  |  Precision@K=20:  0.0
+Q2  |  Recall:  6  |  Precision:  6  |  Precision@K=5:  1.0  |  Precision@K=20:  0.0
+Q3  |  Recall:  6  |  Precision:  6  |  Precision@K=5:  1.0  |  Precision@K=20:  0.0

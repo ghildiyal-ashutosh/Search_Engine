@@ -1,0 +1,1248 @@
+Snippets for the query:  Q10
+************************
+Total Hits:  72
+************************
+
+************************
+Document:  CACM-0111.html
+************************
+************************
+Document:  CACM-3057.html
+************************
+************************
+Document:  CACM-1142.html
+************************
+************************
+Document:  CACM-2645.html
+************************
+************************
+Document:  CACM-2003.html
+************************
+
+
+an interactive software system for computers-aided
+design:  an application to circuit project
+
+the characteristics of an interactive software system, intended to constitute 
+an interface between designer and computer during various steps of
+the design process, are presented.  the main emphasis is given to the
+description of the features of the two high level user oriented
+languages, 
+************************
+ user oriented
+languages, operating at different levels, on which the interaction
+
+************************
+
+************************
+Document:  CACM-1642.html
+************************
+************************
+Document:  CACM-1135.html
+************************
+************************
+Document:  CACM-2456.html
+************************
+************************
+Document:  CACM-1903.html
+************************
+************************
+Document:  CACM-2647.html
+************************
+
+
+more on algorithms that reveal properties
+of floating point arithmetic units
+
+cacm may, 1974
+
+gentleman, w. m.
+marovich, s. b.
+
+floating-point arithmetic, high-level
+languages, philosophy of language 
+************************
+
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-2717.html
+************************
+
+
+convert: a high level translation
+definition 
+************************
+ translation
+definition language for data conversion
+
+this paper describes a high level and nonprocedural
+translation 
+************************
+ and nonprocedural
+translation definition language, convert, 
+which provides very powerful and highly flexible data
+restructuring capabilities. its design is based 
+on the simple underlying concept of a form which enables
+the users to visualize the translation processes, 
+and thus makes data translation a much simpler task. 
+"convert" has been chosen for conveying the purpose 
+of the language and should not be confused with any
+other language or program bearing the same name.
+
+cacm october, 1975
+
+shu, n. c.
+housel, b. c.
+lum, v. y.
+
+data conversion, data restructuring, data translation,
+database reorganization, translation definition, 
+utility program, programming languages, nonprocedural languages
+
+************************
+
+************************
+Document:  CACM-1713.html
+************************
+************************
+Document:  CACM-2527.html
+************************
+
+
+implementation of high level language machine
+
+computing 
+************************
+ language machine
+
+computing machines which directly execute
+the statements of a high level language have been 
+
+************************
+ language have been 
+proposed in the past.  this report describes the actual
+implementation of such a machine: it is a computer 
+whose "machine language" is apl.  the machine is fully
+operational and correctly executes almost all 
+of the apl operations on scalars, vectors, and arrays.
+ the machine automatically allocates memory, executes 
+statements, calls functions, converts numbers from one
+type to another, checks subscripts, and automatically 
+detects many types of programmer errors.
+
+cacm april, 1973
+
+hassitt, a.
+lageschulte, j. w.
+lyon, l. e.
+
+computer architecture, high level language machine,
+emulators, 
+************************
+
+************************
+Document:  CACM-0252.html
+************************
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification 
+************************
+ query specification supplied by
+the user.  a relational algebra interface, called 
+squiral, which was designed using this approach, is described
+in detail. squiral seeks to minimize query 
+response time and space utilization by: (1) performing
+global query optimization, (2) exploiting disjoint 
+and pipelined concurrency, (3) coordinating sort orders
+in temporary relations, (4) employing directory 
+analysis, and (5) maintaining locality in page references.
+ algorithms for implementing the operators 
+of e. f. codd's relational algebra are presented, and
+a methodology for composing them to optimize the 
+performance of a particular user query is described.
+
+cacm october, 1975
+
+smith, j. m.
+yen-tang chang, p.
+
+relational database, database optimization, inverted
+file, automatic programming, query language, 
+data manipulation language, very high level language
+
+3.70 4.13 
+************************
+
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high level algorithmic language 
+************************
+
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is described. 
+ this system is based on a simple, high level language
+which is used 
+************************
+
+************************
+Document:  CACM-2954.html
+************************
+
+
+a bounded storage algorithm for copying cyclic structures
+
+a new algorithm is presented which copies cyclic
+list structures using bounded workspace and 
+linear time. unlike a previous similar algorithm, this
+one makes no assumptions about the storage allocation 
+system in use and uses only operations likely to be available
+in a high-level language.  the distinctive 
+************************
+
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-2301.html
+************************
+************************
+Document:  CACM-3052.html
+************************
+************************
+Document:  CACM-2489.html
+************************
+************************
+Document:  CACM-2699.html
+************************
+
+
+automatic data structure choice in a language of very high level
+
+setl is a set-theoretically 
+************************
+ is a set-theoretically oriented language
+of very high level whose repertoire of 
+************************
+ whose repertoire of semantic 
+objects includes finite sets, ordered n-tuples, and
+sets of ordered n-tuples usable as mappings.  this 
+paper describes the structure of an optimizer for this
+language.  among other methods of interest, the 
+optimizer uses techniques which allow relations of inclusion
+and membership to be established, the domains 
+and ranges of (tabulated) mappings to be estimated from
+above and below, and the single-valuedness of 
+(tabulated) mappings to be proved.  once facts of this
+kind have been established, automatic choice of 
+data structures becomes possible. the methods employed
+are based upon, and extend, known techniques of 
+data flow analysis.
+
+cacm december, 1975
+
+schwartz, j. t.
+
+program optimization, automatic programming, high-level
+languages, set-theoretic languages, 
+************************
+
+************************
+Document:  CACM-2826.html
+************************
+
+
+interactive skeleton techniques for enhancing
+motion dynamics in key frame animation
+
+a significant increase in the capability for
+controlling motion dynamics in key frame animation 
+is achieved through skeleton control.  this technique
+allows an animator to develop a complex motion 
+sequence by animating a stick figure representation
+of an image.  this control sequence is then used 
+to drive an image sequence through the same movement.
+ the simplicity of the stick figure image encourages 
+a high level of interaction during 
+************************
+
+************************
+Document:  CACM-1835.html
+************************
+
+
+the iitran programming language
+
+the iitran language, developed to be used
+by students, and its important important features 
+are described. iitran is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  several novel and powerful features
+are included.  a discussion of design principles 
+to be followed in a student language is given.
+
+cacm october, 1969
+
+dewar, r. b. k.
+hochsprung, r. r.
+
+languages programming languages, student programming
+systems, language design, high school programs, 
+college 
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+
+
+programming languages: history and future
+
+this paper discusses both the history and future
+of programming languages (= higher level languages). 
+ some of 
+************************
+ languages). 
+ some of the difficulties in writing such a history
+are indicated.  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships.  reasons for the proliferation 
+of languages are given.  the major languages are listed
+with the reasons for their importance.  a section 
+on chronology indicates the happenings of the significant
+previous time periods and the major topics 
+of 1972.  key concepts other than specific languages are discussed.
+
+cacm july, 1972
+
+sammet, j. e.
+
+programming languages, higher level languages,
+languages, 
+************************
+
+************************
+Document:  CACM-2208.html
+************************
+************************
+Document:  CACM-1282.html
+************************
+************************
+Document:  CACM-2560.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves 
+************************
+
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can (or cannot) be actualized before we can say 
+we have a unified theory.
+
+cacm september, 1977
+
+scott, d. s.
+
+logic, programming languages, automata, denotational
+
+************************
+
+************************
+Document:  CACM-1098.html
+************************
+************************
+Document:  CACM-1627.html
+************************
+************************
+Document:  CACM-3150.html
+************************
+
+
+beyond programming languages
+
+as computer technology matures, our growing ability to create large systems is 
+leading to basic changes in the nature of programming.  current programming 
+language concepts will not be adequate for building and maintaining
+systems of the complexity called for by the tasks we attempt.  just
+as high level languages enabled the 
+************************
+ languages enabled the programmer to escape from the
+intricacies of a machine's order code, higher level programming systems
+
+************************
+
+************************
+Document:  CACM-2956.html
+************************
+
+
+some ideas on data types in high-level languages
+
+a number of issues 
+************************
+
+************************
+Document:  CACM-0825.html
+************************
+************************
+Document:  CACM-2661.html
+************************
+************************
+Document:  CACM-2593.html
+************************
+
+
+a back-end computer for data base management
+
+it is proposed that the data base management
+function be placed on a dedicated back-end computer 
+which accepts commands (in a relatively high level language
+such as the 
+************************
+
+************************
+Document:  CACM-1466.html
+************************
+************************
+Document:  CACM-0281.html
+************************
+************************
+Document:  CACM-1366.html
+************************
+************************
+Document:  CACM-2906.html
+************************
+
+
+a very high level programming language 
+************************
+ programming language for data processing applications
+
+application development today is too labor-in tensive.
+ in recent years, very high-level languages 
+have been increasingly 
+************************
+ 
+have been increasingly explored as a solution to this
+problem.  the business definition language (bdl) 
+is such a language, one aimed at business data processing
+problems.  the concepts in bdl mimic those 
+which have evolved through the years in businesses using
+manual methods.  this results in three different 
+sublanguages or components: one for defining the business
+forms, one for describing the business organization, 
+and one for writing calculations.
+
+cacm november, 1977
+
+hammer, m.
+owe, w. g.
+kruskal, v. j.
+wladawsky, i.
+
+very high level language, nonprocedural 
+************************
+
+************************
+Document:  CACM-2782.html
+************************
+
+
+a reply to gentleman and marovich
+
+cacm march, 1975
+
+karp, r. a.
+
+high-level languages, philosophy of language 
+************************
+
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-1861.html
+************************
+
+
+the mad definition facility
+
+one of the first definition facilities for
+higher level languages is described.  users 
+************************
+ is described.  users of the 
+language can define new operators and/or data types
+into the mad language, so that their use appears 
+as if they were predefined.  information is given on
+how one writes definitions, as well as on much of 
+the motivation behind the form in which definitions are
+written. some conclusions are drawn about future 
+definitional facilities.
+
+cacm august, 1969
+
+arden, b. w.
+galler, b. a.
+graham, r. m.
+
+mad, definitions, operators, macros, higher level language
+
+4.12 4.22
+
+************************
+
+************************
+Document:  CACM-2922.html
+************************
+************************
+Document:  CACM-0232.html
+************************
+************************
+Document:  CACM-2938.html
+************************
+
+
+toward a discipline of real-time programming
+
+programming is divided into three major categories
+with increasing complexity of reasoning 
+in program validation: sequential programming, multiprogramming,
+and real-time programming.  by adhering 
+to a strict programming discipline and by using a suitable
+high-level language molded after 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+************************
+Document:  CACM-1769.html
+************************
+
+
+the expanding world of computers
+
+the onward sweep of automatic processing of
+information is impeded by nine principal barriers: 
+geography, cost, problem complexity, man-machine communication,
+inadequate sensors, lack of understanding, 
+distance, time, and size.  the main incentive for breaching
+these barriers is the universal need for 
+processing information, ever more urgent as the greater
+part of human work activity changes from production 
+to service.  computer developments in hardware, programming,
+time-sharing, education, data communication, 
+and displays are judged by how effectively they remove these
+barriers, and their barrier-smashing potentialities 
+indicate continued rapid expansion.  problem-oriented
+languages are particularly effective over the entire 
+front.  online computers and time-sharing also rate high
+by this measure.  education 
+************************
+
+************************
+Document:  CACM-2406.html
+************************
+************************
+Document:  CACM-3026.html
+************************
+
+
+the evolution of the sperry univac 1100
+series: a his tory, analysis, and projection
+
+the 1100 series systems are sperry univac's
+large-scale main frame computer systems.  beginning 
+with the 1107 in 1962, the 1100 series has progressed
+through a succession of eight compatible computer 
+models to the latest system, the 1100/80, introduced
+in 1977.  the 1100 series hardware architecture 
+is based on a 36-bit word, ones complement structure
+which obtains one operand from storage and one from 
+a high-speed register, or two operands from high-speed
+registers.  the 1100 operating system is designed 
+to support a symmetrical multiprocessor configuration
+simultaneously providing multiprogrammed batch, 
+timesharing, and transaction environments.
+
+cacm january, 1978
+
+borgherson, b.
+hanson, m.
+hartley, p.
+
+1100 computer series, computer architecture, multiprocessing
+languages, data management systems, 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-2267.html
+************************
+
+
+algorithms to reveal properties of floating-point arithmetic
+
+two algorithms are presented in the form of
+fortran subroutines.  each subroutine computes 
+the radix and number of digits of the floating-point
+numbers and whether rounding or chopping is done 
+by the machine on which it is run.  the methods are
+shown to work on any "reasonable" floating-point 
+computer.
+
+cacm november, 1972
+
+malcolm, m. a.
+
+floating-point arithmetic, high-level
+languages, philosophy of language 
+************************
+
+************************
+Document:  CACM-2815.html
+************************
+
+
+high-level binding with low-level 
+************************
+
+************************
+Document:  CACM-0198.html
+************************
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-3027.html
+************************
+
+
+the development of the mu5 computer system
+
+following a brief outline of the background
+of the mu5 project, the aims and ideas for mu5 
+are discussed.  a description is then given of the instruction
+set, which includes a number of features 
+conducive to the production of efficient compiled code
+from high-level language source programs. 
+************************
+
+************************
+Document:  CACM-3077.html
+************************
+
+
+can programming be liberated from the von neumann
+style?  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous, but not stronger.  inherent 
+defects at the most basic level cause them to be both
+
+************************
+ cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs. an 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs. 
+ functional programs deal with structured data, are often
+nonrepetitive and nonrecursive, are hierarchically 
+constructed, do not name their arguments, and do not require
+the complex machinery of procedure declarations 
+to become generally applicable.  combining forms can
+use high level programs to build still 
+************************
+ programs to build still higher level
+ones in a style not 
+************************
+
+ones in a style not possible in conventional languages.
+ associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms. 
+ this algebra can be used to transform programs and
+to solve equations whose "unknowns" are programs 
+in much the same way one transforms equations in high
+school algebra.  these 
+************************
+
+************************
+Document:  CACM-0920.html
+************************
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed 
+************************
+ programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  based on primitive 
+************************
+
+************************
+Document:  CACM-1043.html
+************************
+
+
+talk-a high-level source language debugging
+
+************************
+ source language debugging
+technique with real-time data extraction
+
+talk, meaning take a look, is a debugging technique
+which aids substantially in debugging complex 
+real-time programming systems by interrupting the users
+program at desired points to extract previously 
+specified data.  the extracted data is later edited,
+listing the associated data with its high-level 
+source language identification.
+
+************************
+
+************************
+Document:  CACM-0755.html
+************************
+************************
+Document:  CACM-2887.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-0689.html
+************************
+************************
+Document:  CACM-2897.html
+************************
+
+
+a case study of a new code generation technique for compilers
+
+recent developments in optimizing techniques
+have allowed a new design for compilers to emerge. 
+ such a compiler translates the parsed source code into
+lower level code by a sequence of steps.  each 
+step expands higher level statements into 
+************************
+
+************************
+Document:  CACM-2923.html
+************************
+
+
+high-level data flow analysis
+
+
+************************
+ data flow analysis
+
+in contrast to the predominant use of low-level
+in termediate text, high-level data flow analysis 
+************************
+-level data flow analysis 
+deals with programs essentially at source level and
+exploits the control flow information implicit in 
+the parse tree.  the need for high-level flow analysis
+
+************************
+-level flow analysis
+arises from several aspects of recent work on 
+advanced methods of program certification and optimization.
+ this paper proposes a simple general method 
+of high-level data flow analysis 
+************************
+-level data flow analysis that allows free use
+of escape and jump statements, avoids large graphs 
+when compiling large programs, facilitates updating of
+data flow information to reflect program changes, 
+and derives new global information helpful in solving
+many familiar global flow analysis problems.  an 
+illustrative application to live variable analysis is presented.
+ many of the graphs involved are constructed 
+and analyzed before any programs are compiled, thus avoiding
+certain costs that low-level methods incur 
+repeatedly at compile time.
+
+cacm october, 1977
+
+rosen, b. k.
+
+data flow analysis, high-level language, control
+
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+************************
+Document:  CACM-3080.html
+************************
+
+
+proving the correctness of heuristically optimized code 
+
+a system for proving that programs written
+in a high level language are correctly 
+************************
+
+************************
+Document:  CACM-1678.html
+************************
+************************
+Document:  CACM-1923.html
+************************
+
+
+pseudofiles
+
+an approach to system interfaces for high
+level languages using basic input/output 
+************************
+ using basic input/output support 
+facilities is described.  it is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+facilities such as command language processors.
+
+cacm march, 1969
+
+rosin, r. f.
+
+operating systems, interfaces input-output,
+high level languages, command language
+
+4.22 
+************************
+
+************************
+Document:  CACM-2398.html
+************************
+
+
+teacher/student authored cai using the newbasic system
+
+the pedagogical advantages of a general purpose
+interactive system called newbasic/catalyst 
+are discussed.  newbasic/catalystincorporates an advanced
+implementation of basic, system-level interactive 
+features, and a general capability for extension through
+user oriented function attachment,  application 
+of this last feature to provide a flexible cai scan capability
+is illustrated.  an example of interaction 
+at the system level shows how students can mix the advantages
+of independent or "solo" mode computing 
+with those of guided or "dual" mode interaction.  preliminary
+experience with the system in an urban 
+secondary school setting is discussed.
+
+cacm january, 1972
+
+dwyer, t. a.
+
+cai, basic, catalyst, newbasic, education, computers
+in education, extended languages, interactive 
+systems
+
+************************
+
+************************
+Document:  CACM-0724.html
+************************
+
+
+a profile of the programmer
+
+synopsis: 549 members of the acm participated
+in a study concerned primarily with the attitudes 
+of programmers toward their careers and jobs.  a very
+high percentage of programmers have apparently 
+entered their careers by accident; it has proven a happy
+choice for most and they expect to remain in 
+the field during the next five years.  their principal
+job satisfactions relate to the nature of their 
+work, and mostfind their jobs offer high level of professional
+interest 
+************************
+
+************************
+Document:  CACM-0265.html
+************************
+
+
+low level language subroutines for use within fortran
+
+this paper describes some subroutines, coded
+in symbolic languages and for use within fortran 
+************************
+
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high level interrogation
+
+************************
+ level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+************************
+ volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base management systems, programming languages,
+data structures, storage 
+************************
+
+************************
+Document:  CACM-2254.html
+************************
+************************
+Document:  CACM-2246.html
+************************
+
+
+levels of language for portable software
+
+an increasing amount of software is being
+implemented in a portable form.  a popular way of 
+accomplishing this is to encode the software in a specially
+designed machine-independent language and 
+then to map this language, often using a macro processor,
+into the assembly language of each desired 
+object machine.  the design of the machine-independent
+language is the key factor in this operation. 
+ this paper discusses the relative merits of pitching
+this language at a high level or a low level, 
+************************
+
+************************
+Document:  CACM-1872.html
+************************
+************************
+Document:  CACM-3127.html
+************************
+
+
+thoth, a portable real-time operating system 
+
+thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  it is currently running on two minicomputers
+with quite different architectures.  both the system and application
+programs which use it are written in a high-level language.
+because the 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+
+
+programming languages, natural languages, and mathematics
+
+some social aspects of programming are illuminated
+through analogies with similar aspects of 
+mathematics and natural languages.  the split between
+pure and applied mathematics is found similarly 
+in programming. the development of natural languages toward
+flexion less, word-order based language types 
+speaks for programming language design based on general,
+abstract constructs.  by analogy with incidents 
+of the history of artificial, auxiliary languages it
+is suggested that fortran and cobol will remain 
+dominant for a long time to come.  the most promising
+avenues for further work of wide influence are 
+seen to be high quality program literature 
+************************
+
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-1472.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-2084.html
+************************
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-2621.html
+************************
+************************
+Document:  CACM-2787.html
+************************
+
+
+matrix reduction-an efficient method
+
+the paper describes an efficient method for
+reduction of the binary matrices which arise in 
+some school time-tabling problems.  it is a development
+of that described by john lions.  it has been 
+generalized and adapted to fit into the complete timetabling
+process; to use a more compact data representation 
+and more efficient processing techniques; to take fuller
+advantage of possible available previous knowledge 
+about the matrix.  and it is designed as a structured
+program, which can readily be coded by the reader 
+in the high level or low level programming 
+************************
+
+************************
+Document:  CACM-2305.html
+************************
+
+
+the "plankalkul" of konrad zuse: a forerunner
+of today's programming languages
+
+plankalkul was an attempt by korrad zuse in
+the 1940's to devise a notational and conceptual 
+system for writing what today is termed a program.  although
+this early approach to a programming language 
+did not lead to practical use, the plan is described
+here because it contains features that are standard 
+in today's programming languages.  the investigation
+is of historical interest; also, it may provide 
+insights that would lead to advancements in the state
+of the art.  using modern programming terminology, 
+the plankalkul is presented to the extent it has possible
+to reconstruct it from the published literature.
+
+cacm july, 1972
+
+bauer, f. l.
+wossner, h.
+
+higher programming languages, 
+************************
+
+************************
+Document:  CACM-3198.html
+************************
+************************
+Document:  CACM-1163.html
+************************
+
+
+philco/ibm translation at problem-oriented, symbolic and binary levels
+
+a translation system has been developed to
+eliminate most of the effort formerly required to 
+reprogram philco 2000 series codes for ibm 7094 operation.
+ experience with this system is limited but 
+highly successful encouraging application of the
+techniques to other source and object languages.
+
+cacm december, 1965
+
+************************
+
+************************
+Document:  CACM-0081.html
+************************
+************************
+Document:  CACM-1470.html
+************************
+************************
+Document:  CACM-2898.html
+************************
+
+
+a conceptual framework for a nonprocedural programming language
+
+a sequential programming language forces the
+programmer to prescribe explicitly the order in 
+which the operations in his program have to be executed,
+even if the order is not relevant to the solution 
+of his problem.  the requirement to indicate irrelevant
+sequencing can be removed if the language provides 
+facilities for specifying a task in a nonprocedural
+manner.  in general, a program specified in this 
+way will allow concurrent evaluation.  this paper describes
+a conceptual framework for a high level programming 
+language 
+************************
+
+************************
+Document:  CACM-2034.html
+************************
+
+
+the mobile programming system: stage2
+
+stage2 is the second level of a bootstrap sequence which
+is easily implemented on any computer.  it is a flexible,
+provided by stage2 are summarized, and the implementation techniques
+which have made it possible to have stage2 running on a new
+machine with less than one man-week of effort are discussed.  the approach
+has been successful on over 15 machines of widely varying
+characteristics.
+
+cacm july, 1970
+
+waite, w. m.
+
+bootstrapping, macro processing, machine independence,
+programming languages, implementation techniques
+
+************************
+
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-3171.html
+************************
+
+
+line numbers made cheap
+
+a technique is described for run-time line number administration
+to be used for implementations of high level languages.  under suitable
+circumstances, 
+************************
+
+************************
+Document:  CACM-2320.html
+************************
+
+
+structured multiprogramming
+
+this paper presents a proposal for structured
+representation of multiprogramming in a high 
+level language.  the notation 
+************************
+

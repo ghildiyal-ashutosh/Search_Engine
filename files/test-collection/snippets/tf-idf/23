@@ -1,0 +1,396 @@
+Snippets for the query:  Q23
+************************
+Total Hits:  6
+************************
+
+************************
+Document:  CACM-0111.html
+************************
+************************
+Document:  CACM-1886.html
+************************
+************************
+Document:  CACM-2535.html
+************************
+************************
+Document:  CACM-1631.html
+************************
+************************
+Document:  CACM-0942.html
+************************
+
+
+fortran subroutines for time series analysis
+
+the authors have recently been concerned in a
+time-series study that constituted a fairly typical 
+piece of applied statistical research, involving extensive
+computations on a moderately large quantity 
+of data.  wehave found that the many different numerical
+processes that were required could 
+************************
+
+************************
+Document:  CACM-2228.html
+************************
+************************
+Document:  CACM-1272.html
+************************
+************************
+Document:  CACM-1135.html
+************************
+************************
+Document:  CACM-2519.html
+************************
+************************
+Document:  CACM-2062.html
+************************
+************************
+Document:  CACM-2811.html
+************************
+************************
+Document:  CACM-2378.html
+************************
+************************
+Document:  CACM-3020.html
+************************
+************************
+Document:  CACM-1554.html
+************************
+************************
+Document:  CACM-3013.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+************************
+Document:  CACM-1809.html
+************************
+************************
+Document:  CACM-0298.html
+************************
+************************
+Document:  CACM-3128.html
+************************
+************************
+Document:  CACM-1637.html
+************************
+************************
+Document:  CACM-1518.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-2019.html
+************************
+************************
+Document:  CACM-1382.html
+************************
+************************
+Document:  CACM-1410.html
+************************
+
+
+interarrival statistics for time sharing systems
+
+the optimization of time-shared system performance
+requires the description of the stochastic 
+processes governing the user inputs 
+************************
+
+************************
+Document:  CACM-0078.html
+************************
+************************
+Document:  CACM-1180.html
+************************
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of 
+************************
+
+************************
+Document:  CACM-1233.html
+************************
+************************
+Document:  CACM-0243.html
+************************
+************************
+Document:  CACM-0825.html
+************************
+************************
+Document:  CACM-1748.html
+************************
+************************
+Document:  CACM-1359.html
+************************
+************************
+Document:  CACM-2882.html
+************************
+************************
+Document:  CACM-1441.html
+************************
+************************
+Document:  CACM-2523.html
+************************
+************************
+Document:  CACM-2000.html
+************************
+************************
+Document:  CACM-2895.html
+************************
+************************
+Document:  CACM-1625.html
+************************
+************************
+Document:  CACM-0095.html
+************************
+************************
+Document:  CACM-1308.html
+************************
+************************
+Document:  CACM-2672.html
+************************
+************************
+Document:  CACM-1438.html
+************************
+************************
+Document:  CACM-1541.html
+************************
+************************
+Document:  CACM-2581.html
+************************
+************************
+Document:  CACM-2555.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+************************
+Document:  CACM-1194.html
+************************
+
+
+establishment of the acm repository and principles
+of the ir system applied to its operation
+
+the history of the establishment of the acm repository
+at the moore school, university of pennsylvania, 
+is reviewed briefly.  two principles are presented as
+paramount in the provision of information services: 
+(1) easy accessibility to the information files by users
+unfamiliar with file organization, and (2) value 
+of service exceeding user costs.  these principles serve
+as guides in mechanizing the acm repository. 
+ the main features of the information system are direct
+user access via on-line teletypewriter console, 
+direct user access to all details of the system organization,
+unrestricted and expandable search vocabulary, 
+user access through many facets of document indexing,
+and stochastic search through linked 
+************************
+
+************************
+Document:  CACM-3141.html
+************************
+************************
+Document:  CACM-1696.html
+************************
+************************
+Document:  CACM-1753.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-2409.html
+************************
+************************
+Document:  CACM-3120.html
+************************
+
+
+an event-driven compiling technique
+
+due to the linear structure of source text, difficulties may arise in a 
+one-pass compilation process.  these difficulties occur when an entity
+cannot be processed because of a forward reference to information
+only obtainable from subsequent entities.  classic solutions
+ask for data structures appropriate for each case.  a technique is
+presented here which uses instead control structures, namely events
+and processes.  the work of the compiler-writer becomes easier both
+conceptually and in practice because he can forget these problems
+at the outset and he avoids special processing for each problem.
+this technique has been applied to the construction 
+************************
+
+************************
+Document:  CACM-1169.html
+************************
+************************
+Document:  CACM-1673.html
+************************
+************************
+Document:  CACM-3043.html
+************************
+************************
+Document:  CACM-1846.html
+************************
+************************
+Document:  CACM-0412.html
+************************
+************************
+Document:  CACM-2210.html
+************************
+************************
+Document:  CACM-2848.html
+************************
+************************
+Document:  CACM-3056.html
+************************
+************************
+Document:  CACM-2376.html
+************************
+************************
+Document:  CACM-2383.html
+************************
+************************
+Document:  CACM-2953.html
+************************
+************************
+Document:  CACM-2836.html
+************************
+************************
+Document:  CACM-0278.html
+************************
+************************
+Document:  CACM-1563.html
+************************
+************************
+Document:  CACM-1199.html
+************************
+************************
+Document:  CACM-1540.html
+************************
+************************
+Document:  CACM-2371.html
+************************
+************************
+Document:  CACM-2912.html
+************************
+************************
+Document:  CACM-1110.html
+************************
+************************
+Document:  CACM-0927.html
+************************
+************************
+Document:  CACM-2740.html
+************************
+************************
+Document:  CACM-1707.html
+************************
+************************
+Document:  CACM-2705.html
+************************
+************************
+Document:  CACM-0293.html
+************************
+************************
+Document:  CACM-2742.html
+************************
+************************
+Document:  CACM-0268.html
+************************
+************************
+Document:  CACM-0618.html
+************************
+************************
+Document:  CACM-2255.html
+************************
+************************
+Document:  CACM-3039.html
+************************
+************************
+Document:  CACM-3140.html
+************************
+************************
+Document:  CACM-2920.html
+************************
+************************
+Document:  CACM-2900.html
+************************
+************************
+Document:  CACM-2185.html
+************************
+************************
+Document:  CACM-2494.html
+************************
+************************
+Document:  CACM-1587.html
+************************
+************************
+Document:  CACM-2810.html
+************************
+************************
+Document:  CACM-1383.html
+************************
+************************
+Document:  CACM-1435.html
+************************
+************************
+Document:  CACM-2327.html
+************************
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-0020.html
+************************
+
+
+accelerating convergence of iterative processes
+
+a technique is discussed which, when applied
+to an iterative procedure 
+************************
+
+************************
+Document:  CACM-3078.html
+************************
+************************
+Document:  CACM-2580.html
+************************
+************************
+Document:  CACM-2268.html
+************************
+************************
+Document:  CACM-2320.html
+************************
+************************
+Document:  CACM-2342.html
+************************

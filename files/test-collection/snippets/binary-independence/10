@@ -1,0 +1,345 @@
+Snippets for the query:  Q10
+************************
+Total Hits:  2
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+************************
+Document:  CACM-1179.html
+************************
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+************************
+Document:  CACM-0963.html
+************************
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+************************
+Document:  CACM-2573.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+************************
+Document:  CACM-2842.html
+************************
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d. scott and c. strachey.  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. the first language
+considered, loop, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined.  finally, 
+the paper presents a formal definition of the language gedanken.
+
+cacm august, 1976
+
+tennent, r. d.
+
+semantics, programming language, applicative, imperative,
+environment, store, continuation, theory 
+of computation, higher-order function, recursive 
+************************
+
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-1425.html
+************************
+
+
+flow diagrams, turing machines and
+languages with only two formation rules
+
+in the first part of the paper, flow diagrams
+are introduced to represent inter al. mappings 
+of a set into itself.  although not every diagram is
+decomposable into a finite number of given base 
+diagrams, this becomes true at a semantical level due
+to a suitable extension 
+************************
+
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+************************
+Document:  CACM-1415.html
+************************
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+************************
+Document:  CACM-2691.html
+************************
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+************************
+Document:  CACM-1801.html
+************************
+************************
+Document:  CACM-2151.html
+************************
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+************************
+Document:  CACM-2670.html
+************************
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+************************
+Document:  CACM-3002.html
+************************
+************************
+Document:  CACM-2083.html
+************************
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+************************
+Document:  CACM-0185.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1614.html
+************************
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************

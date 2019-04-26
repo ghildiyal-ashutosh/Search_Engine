@@ -1,0 +1,9879 @@
+Snippets for the query:  Q32
+************************
+Total Hits:  1355
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+
+
+neater2: a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version.  when in the logical mode, neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs.  a number of options are
+available to give the user full control over the output format and
+to maximize the utility of neater2 as an aid during the early
+stages of development of a pl/i source deck.  one option, usage, causes
+neater2 to insert into each logical unit of coding a statement
+which will case the number of times each one is executed to be recorded
+during execution.  this feature is expected to provide a
+major aid in optimization of pl/i programs.
+
+cacm november, 1970
+
+conrow, k.
+smith, r. 
+************************
+
+
+conrow, k.
+smith, r. g.
+
+logical analysis of pl/i source, reformatting of pl/i
+source, documentation aid, execution time usage data
+
+1.52 4.12 4.19 4.42
+
+ca701104 
+************************
+.12 4.19 4.42
+
+ca701104 jb 
+************************
+.19 4.42
+
+ca701104 jb february 
+************************
+.42
+
+ca701104 jb february 10, 1978 
+************************
+104 jb february 10, 1978  8:40 am
+
+1974	5	1974
+
+************************
+  8:40 am
+
+1974	5	1974
+1974	5	1974
+
+************************
+4	5	1974
+1974	5	1974
+1974	5	1974
+
+************************
+974
+1974	5	1974
+1974	5	1974
+
+************************
+
+1974	5	1974
+1974	5	1974
+2971	5	1974
+
+************************
+	5	1974
+1974	5	1974
+2971	5	1974
+
+************************
+
+1974	5	1974
+2971	5	1974
+1835	6	1974
+
+************************
+	5	1974
+2971	5	1974
+1835	6	1974
+
+************************
+
+2971	5	1974
+1835	6	1974
+1974	6	1974
+
+************************
+35	6	1974
+1974	6	1974
+2534	6	1974
+
+************************
+
+1974	6	1974
+2534	6	1974
+
+
+************************
+	6	1974
+2534	6	1974
+
+
+************************
+
+2534	6	1974
+
+
+************************
+974
+
+
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+
+
+on lions' counter example for gotlieb's method
+for the construction of school timetables
+
+the timetable problem is an essentially discrete
+problem. although the discrete problem may 
+have no feasible solution, there may exist a solution
+to the equivalent continuous problem.  an example 
+is given, for which the nondiscrete solution can be
+interpreted as a set of timetables, differing from 
+week to week, which together satisfy the long-term
+requirements of the timetable problem.
+
+cacm april, 1974
+
+smith, g.
+sefton, i. 
+************************
+
+
+smith, g.
+sefton, i. m.
+
+combinatorial, multi-index problem, necessary
+conditions, schedule, school timetable, timetable
+
+3.51 5.39
+
+ca740404 jb january 18, 1978 
+************************
+0404 jb january 18, 1978  10:02 am
+
+2666	5	2666
+
+************************
+, 1978  10:02 am
+
+2666	5	2666
+
+************************
+
+************************
+Document:  CACM-0586.html
+************************
+
+
+simultaneous system of equations and
+matrix inversion routine (algorithm 92)
+
+cacm may, 1962
+
+roek, d. j.
+
+ca620519 jb march 20, 1978  1:31 pm
+
+454	5	586
+
+************************
+  1:31 pm
+
+454	5	586
+586	5	586
+586	5	586
+
+************************
+54	5	586
+586	5	586
+586	5	586
+
+************************
+6
+586	5	586
+586	5	586
+586	5	586
+152	6	586
+586	6	586
+
+
+************************
+
+************************
+Document:  CACM-0142.html
+************************
+
+
+comments on a technique for counting ones 
+
+cacm october, 1960
+
+sherman, p. m.
+
+ca601006 jb march 20, 1978  8:18 pm
+
+2952	4	142
+
+************************
+  8:18 pm
+
+2952	4	142
+2952	4	142
+2952	4	142
+142	4	142
+142	4	142
+142	4	142
+142	5	142
+142	5	142
+142	5	142
+162	5	142
+163	5	142
+192	5	142
+362	5	142
+2952	5	142
+142	6	142
+142	6	142
+162	6	142
+163	6	142
+192	6	142
+2185	6	142
+2727	6	142
+
+
+************************
+27	6	142
+
+
+************************
+
+************************
+Document:  CACM-1138.html
+************************
+
+
+formalism in programming languages*
+
+cacm february, 1964
+
+iverson, k. e.
+
+ca640205 jb march 10, 1978  4:24 am
+
+1138	5	1138
+
+************************
+  4:24 am
+
+1138	5	1138
+1138	5	1138
+1138	5	1138
+
+************************
+	5	1138
+1138	5	1138
+1138	5	1138
+
+************************
+
+1138	5	1138
+1138	5	1138
+1945	5	1138
+
+************************
+	5	1138
+1138	5	1138
+1945	5	1138
+823	6	1138
+914	6	1138
+
+************************
+5	5	1138
+823	6	1138
+914	6	1138
+915	6	1138
+917	6	1138
+
+************************
+	6	1138
+915	6	1138
+917	6	1138
+984	6	1138
+989	6	1138
+990	6	1138
+
+************************
+	6	1138
+989	6	1138
+990	6	1138
+
+************************
+
+989	6	1138
+990	6	1138
+1012	6	1138
+
+************************
+138
+990	6	1138
+1012	6	1138
+
+************************
+
+990	6	1138
+1012	6	1138
+1084	6	1138
+1098	6	1138
+1122	6	1138
+
+************************
+	6	1138
+1098	6	1138
+1122	6	1138
+
+************************
+
+1098	6	1138
+1122	6	1138
+1138	6	1138
+
+************************
+	6	1138
+1122	6	1138
+1138	6	1138
+
+************************
+
+1122	6	1138
+1138	6	1138
+1139	6	1138
+1141	6	1138
+1200	6	1138
+
+************************
+1	6	1138
+1200	6	1138
+1223	6	1138
+
+************************
+
+1200	6	1138
+1223	6	1138
+1265	6	1138
+1336	6	1138
+1396	6	1138
+1455	6	1138
+1477	6	1138
+
+************************
+55	6	1138
+1477	6	1138
+1487	6	1138
+
+************************
+77	6	1138
+1487	6	1138
+1491	6	1138
+
+************************
+87	6	1138
+1491	6	1138
+1496	6	1138
+
+************************
+	6	1138
+1491	6	1138
+1496	6	1138
+
+************************
+91	6	1138
+1496	6	1138
+483	6	1138
+
+************************
+96	6	1138
+483	6	1138
+584	6	1138
+
+************************
+83	6	1138
+584	6	1138
+669	6	1138
+680	6	1138
+763	6	1138
+
+
+************************
+63	6	1138
+
+
+************************
+
+************************
+Document:  CACM-3191.html
+************************
+
+
+   generating permutations by nested cycling
+
+   the purpose of this letter is two_fold: first to give due credit to the
+tompkins-paige algorithm, and second to clarify a comment by hill, cr review
+13891 on "programs for permutations".
+
+************************
+91 on "programs for permutations".
+
+cacm june, 1968
+
+************************
+s".
+
+cacm june, 1968
+
+langdon, glen g.
+
+permutations
+
+5.39
+
+ca680617 es 
+************************
+s
+
+5.39
+
+ca680617 es march 18, 1982 10:00 
+************************
+ es march 18, 1982 10:00 am
+
+2189	5	3191
+
+************************
+, 1982 10:00 am
+
+2189	5	3191
+3191	5	3191
+3191	5	3191
+3191	5	3191
+1594	6	3191
+2087	6	3191
+3191	6	3191
+521	6	3191
+
+************************
+
+************************
+Document:  CACM-2889.html
+************************
+
+
+performance of height-balanced trees
+
+this paper presents the results of simulations
+that investigate the performance of height-balanced 
+(hb[k]) trees.  it is shown that the only statistic
+of hb[1] trees (avl trees) that is a function of 
+the size of the tree is the time to search for an item
+in the tree.  for sufficiently large trees, the 
+execution times of all procedures for maintaining hb[1]
+trees are independent of the size of the tree. 
+ in particular, an average of .465 restructures are required
+per insertion, with an average of 2.78 nodes 
+revisited to 
+************************
+ nodes 
+revisited to restore the hb[1] property; an average of
+ .214 restructures are required 
+************************
+ restructures are required per deletion, with 
+an average of 1.91 nodes revisited to restore the hb[1]
+property.  moreover,the execution times of procedures 
+for maintaining hb[k] trees, for k>1, are also independent
+of the size of the tree except for the average 
+number of nodes revisited on a delete operation in
+order to restore the hb[k] property on trace back. 
+ the cost of maintaining hb[k] trees drops sharply as the
+allowable imbalance (k) increases.  both analytical 
+and experimental results that show the cost of maintaining
+hb[k] trees as a function of k are discussed.
+
+cacm january, 1976
+
+karlton, p. l.
+fuller, s. h.
+scroggs, r. e.
+kaehler, e. b.
+
+hb[k] trees, balanced trees, avl trees,
+information storage and retrieval, searching
+
+3.7 3.72 3.74 4.49 5.39
+
+ca760104 jb january 5, 1978  10:27 am
+
+2411	4	2889
+
+************************
+  10:27 am
+
+2411	4	2889
+2455	4	2889
+2493	4	2889
+
+************************
+89
+2455	4	2889
+2493	4	2889
+2709	4	2889
+2889	4	2889
+2889	4	2889
+2889	4	2889
+2937	4	2889
+2968	4	2889
+2968	4	2889
+2989	4	2889
+3005	4	2889
+3025	4	2889
+3042	4	2889
+3101	4	2889
+2138	5	2889
+
+************************
+01	4	2889
+2138	5	2889
+2388	5	2889
+
+************************
+89
+2138	5	2889
+2388	5	2889
+
+************************
+38	5	2889
+2388	5	2889
+2455	5	2889
+2839	5	2889
+
+************************
+55	5	2889
+2839	5	2889
+2889	5	2889
+2889	5	2889
+2889	5	2889
+3042	5	2889
+3096	5	2889
+3163	5	2889
+2455	6	2889
+
+************************
+63	5	2889
+2455	6	2889
+2839	6	2889
+
+************************
+
+************************
+Document:  CACM-1442.html
+************************
+
+
+recorded magnetic tape for information interchange
+(800 cpi, nrzi)* (proposed american standard)
+
+cacm april, 1966
+
+ca660407 jb march 3, 1978  10:39 
+************************
+ jb march 3, 1978  10:39 am
+
+1442	5	1442
+
+************************
+  10:39 am
+
+1442	5	1442
+1442	5	1442
+
+************************
+42	5	1442
+1442	5	1442
+1442	5	1442
+
+************************
+442
+1442	5	1442
+1442	5	1442
+
+************************
+442	5	1442
+1442	5	1442
+
+
+************************
+442
+1442	5	1442
+
+
+************************
+442	5	1442
+
+
+************************
+
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely functional) subsystem
+that aims to expand the class of users' needs 
+that can be met by a single print-instruction, without sacrificing
+the important properties that make 
+conventional right-hand-side expressions easy to construct and understand.
+
+cacm march, 1966
+
+landin, p. j.
+
+ca660303 jb march 3, 1978  2:05 pm
+
+1469	4	1469
+1486	4	1469
+
+************************
+69	4	1469
+1486	4	1469
+1491	4	1469
+1781	4	1469
+2178	4	1469
+
+************************
+81	4	1469
+2178	4	1469
+2326	4	1469
+
+************************
+	4	1469
+2178	4	1469
+2326	4	1469
+2470	4	1469
+
+************************
+	4	1469
+2326	4	1469
+2470	4	1469
+
+************************
+469
+2326	4	1469
+2470	4	1469
+2684	4	1469
+
+************************
+469
+2470	4	1469
+2684	4	1469
+3044	4	1469
+
+************************
+469
+2684	4	1469
+3044	4	1469
+1303	5	1469
+
+************************
+469
+3044	4	1469
+1303	5	1469
+1469	5	1469
+
+************************
+469
+1303	5	1469
+1469	5	1469
+
+************************
+303	5	1469
+1469	5	1469
+1469	5	1469
+
+************************
+69
+1469	5	1469
+1469	5	1469
+
+************************
+69	5	1469
+1469	5	1469
+1469	5	1469
+
+************************
+69
+1469	5	1469
+1469	5	1469
+
+************************
+69	5	1469
+1469	5	1469
+2060	5	1469
+
+************************
+69
+1469	5	1469
+2060	5	1469
+
+************************
+69	5	1469
+2060	5	1469
+2294	5	1469
+
+************************
+69
+2060	5	1469
+2294	5	1469
+2470	5	1469
+
+************************
+69
+2294	5	1469
+2470	5	1469
+3124	5	1469
+
+************************
+469
+2470	5	1469
+3124	5	1469
+1303	6	1469
+
+************************
+469
+3124	5	1469
+1303	6	1469
+
+************************
+24	5	1469
+1303	6	1469
+1380	6	1469
+
+************************
+469
+1303	6	1469
+1380	6	1469
+
+************************
+303	6	1469
+1380	6	1469
+1421	6	1469
+
+************************
+69
+1380	6	1469
+1421	6	1469
+1469	6	1469
+
+************************
+69
+1421	6	1469
+1469	6	1469
+
+************************
+21	6	1469
+1469	6	1469
+1469	6	1469
+
+************************
+69
+1469	6	1469
+1469	6	1469
+
+************************
+69	6	1469
+1469	6	1469
+1469	6	1469
+
+************************
+69
+1469	6	1469
+1469	6	1469
+
+************************
+69	6	1469
+1469	6	1469
+1469	6	1469
+
+************************
+69
+1469	6	1469
+1469	6	1469
+
+************************
+69	6	1469
+1469	6	1469
+1477	6	1469
+
+************************
+69
+1469	6	1469
+1477	6	1469
+
+************************
+69	6	1469
+1477	6	1469
+1491	6	1469
+
+************************
+69
+1477	6	1469
+1491	6	1469
+
+************************
+7	6	1469
+1491	6	1469
+210	6	1469
+
+************************
+69
+1491	6	1469
+210	6	1469
+
+************************
+91	6	1469
+210	6	1469
+1834	6	1469
+
+************************
+69
+210	6	1469
+1834	6	1469
+1869	6	1469
+
+************************
+34	6	1469
+1869	6	1469
+2060	6	1469
+
+************************
+69	6	1469
+2060	6	1469
+2110	6	1469
+
+************************
+69
+2060	6	1469
+2110	6	1469
+2264	6	1469
+
+************************
+69
+2110	6	1469
+2264	6	1469
+
+
+************************
+69
+2264	6	1469
+
+
+************************
+
+************************
+Document:  CACM-0460.html
+************************
+
+
+minifun (algorithm 129)
+
+cacm november, 1962
+
+whitley, v. w.
+
+ca621101 jb march 17, 1978  6:58 pm
+
+460	5	460
+460	5	460
+460	5	460
+
+************************
+
+************************
+Document:  CACM-1090.html
+************************
+
+
+incomplete beta function ratios (algorithm 222)
+
+cacm april, 1964
+
+gautschi, w.
+
+ca640418 jb march 10, 1978  12:32 
+************************
+ jb march 10, 1978  12:32 am
+
+1090	5	1090
+
+************************
+
+************************
+Document:  CACM-1439.html
+************************
+
+
+mechanization of the curve fitting process: datan
+
+a process for fitting a curve to approximate data
+and the problem it creates for the engineer-programmer 
+is defined.  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major 
+************************
+ to mechanize 
+a major portion of this process.  the techniques developed
+to accomplish the mechanization are largely 
+empirical, and are dependent for their information
+only on the actual data points.
+
+cacm april, 1966
+
+simonsen, r. h.
+anketell, d. l.
+
+ca660410 jb march 3, 1978  10:26 am
+
+1439	5	1439
+
+************************
+  10:26 am
+
+1439	5	1439
+1439	5	1439
+
+************************
+39	5	1439
+1439	5	1439
+1439	5	1439
+
+************************
+39
+1439	5	1439
+1439	5	1439
+
+************************
+39	5	1439
+1439	5	1439
+
+
+************************
+39
+1439	5	1439
+
+
+************************
+39	5	1439
+
+
+************************
+
+************************
+Document:  CACM-1179.html
+************************
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident, compile-and-go system designed
+for the ibm 7090/7094 computer is described. 
+************************
+ computer is described. 
+ in little more than half of the 32k word core memory
+pufft provides a monitor for job sequencing, a 
+translator for the full fortran iv language, the fortran
+subroutine library, an input--output system 
+for use at compile time and at execute time, and a rather
+elaborate diagnostic message writing routine. 
+ batches of small- and medium-sized fortran iv source
+language programs are processed at very high speeds. 
+ language compatibility has been maintained so that
+programs may be debugged in the pufft system and 
+then recompiled and run in the ibjob-ibftc system supplied by the manufacturer.
+
+cacm november, 1965
+
+rosen, s.
+spurgeon, a.
+donnelly, j. k.
+
+ca651102 jb march 6, 1978  6:17 pm
+
+1134	4	1179
+
+************************
+  6:17 pm
+
+1134	4	1179
+1179	4	1179
+1179	4	1179
+1288	4	1179
+1544	4	1179
+
+************************
+8	4	1179
+1544	4	1179
+1646	4	1179
+
+************************
+179
+1544	4	1179
+1646	4	1179
+
+************************
+9
+1544	4	1179
+1646	4	1179
+1861	4	1179
+2111	4	1179
+
+************************
+61	4	1179
+2111	4	1179
+2534	4	1179
+
+************************
+9
+2111	4	1179
+2534	4	1179
+2556	4	1179
+
+************************
+9
+2534	4	1179
+2556	4	1179
+2650	4	1179
+
+************************
+179
+2556	4	1179
+2650	4	1179
+
+************************
+9
+2556	4	1179
+2650	4	1179
+1179	5	1179
+
+************************
+179
+2650	4	1179
+1179	5	1179
+
+************************
+9
+2650	4	1179
+1179	5	1179
+1179	5	1179
+
+************************
+179
+1179	5	1179
+1179	5	1179
+
+************************
+9
+1179	5	1179
+1179	5	1179
+
+************************
+9	5	1179
+1179	5	1179
+1179	5	1179
+
+************************
+9
+1179	5	1179
+1179	5	1179
+
+************************
+9	5	1179
+1179	5	1179
+1646	5	1179
+
+************************
+9
+1179	5	1179
+1646	5	1179
+
+************************
+9	5	1179
+1646	5	1179
+1647	5	1179
+
+************************
+9
+1646	5	1179
+1647	5	1179
+
+************************
+6	5	1179
+1647	5	1179
+408	5	1179
+
+************************
+9
+1647	5	1179
+408	5	1179
+830	5	1179
+
+************************
+	5	1179
+408	5	1179
+830	5	1179
+
+************************
+9
+408	5	1179
+830	5	1179
+830	6	1179
+
+************************
+179
+830	5	1179
+830	6	1179
+
+************************
+9
+830	5	1179
+830	6	1179
+987	6	1179
+
+************************
+9
+830	6	1179
+987	6	1179
+1072	6	1179
+
+************************
+9
+987	6	1179
+1072	6	1179
+1179	6	1179
+
+************************
+	6	1179
+1072	6	1179
+1179	6	1179
+
+************************
+9
+1072	6	1179
+1179	6	1179
+
+************************
+2	6	1179
+1179	6	1179
+1179	6	1179
+
+************************
+9
+1179	6	1179
+1179	6	1179
+
+************************
+9	6	1179
+1179	6	1179
+1647	6	1179
+
+************************
+9
+1179	6	1179
+1647	6	1179
+
+************************
+9	6	1179
+1647	6	1179
+224	6	1179
+
+************************
+9
+1647	6	1179
+224	6	1179
+680	6	1179
+
+************************
+	6	1179
+224	6	1179
+680	6	1179
+
+
+************************
+0	6	1179
+
+
+************************
+
+************************
+Document:  CACM-2352.html
+************************
+
+
+minimax nonlinear approximation by approximation on subsets
+
+cacm may, 1972
+
+dunham, c. b.
+
+minimax approximation, nonlinear approximation, subset
+
+5.13
+
+ca720508 jb january 31, 1978  9:40 am
+
+2352	4	2352
+2353	4	2352
+
+************************
+
+************************
+Document:  CACM-2676.html
+************************
+
+
+zeros of a complex polynomial (algorithm r419)
+
+cacm march, 1973
+
+************************
+9)
+
+cacm march, 1973
+
+withers, d. h.
+
+ca740307 jb january 18, 1978  11:11 am 
+
+2676	5	2676
+
+************************
+, 1978  11:11 am 
+
+2676	5	2676
+
+************************
+  11:11 am 
+
+2676	5	2676
+2676	5	2676
+
+************************
+
+************************
+Document:  CACM-0672.html
+************************
+
+
+recent developments affecting adp in tax administration
+
+cacm december, 1963
+
+leibowitz, g. j.
+
+ca631202 jb march 13, 1978  3:14 pm
+
+672	5	672
+
+************************
+  3:14 pm
+
+672	5	672
+672	5	672
+
+************************
+
+************************
+Document:  CACM-1046.html
+************************
+
+
+a compiler-building system developed by brooker and morris
+
+in a number of articles published during the
+past two years, r. a. brooker and d. morris (joined 
+by j. rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the ferranti atlas computer.  the
+present paper describes some of the major features 
+of their system. it expands on some points that the original
+authors cover briefly, and treats only very 
+lightly some topics to which they devote considerable space.
+ the purpose of this paper is purely expository. 
+ except in some very small details, and in some comments,
+it does not intentionally depart from or add 
+to the material published in the listed references.
+
+cacm july, 1964
+
+rosen, s.
+
+ca640701 jb march 9, 1978  
+************************
+01 jb march 9, 1978  8:47 pm
+
+1046	4	1046
+
+************************
+  8:47 pm
+
+1046	4	1046
+1105	4	1046
+
+************************
+ pm
+
+1046	4	1046
+1105	4	1046
+1139	4	1046
+1140	4	1046
+1234	4	1046
+1263	4	1046
+1265	4	1046
+1496	4	1046
+1781	4	1046
+1824	4	1046
+
+************************
+81	4	1046
+1824	4	1046
+2126	4	1046
+2546	4	1046
+464	4	1046
+584	4	1046
+631	4	1046
+653	4	1046
+680	4	1046
+763	4	1046
+795	4	1046
+
+************************
+63	4	1046
+795	4	1046
+799	4	1046
+
+************************
+046
+795	4	1046
+799	4	1046
+945	4	1046
+
+************************
+046
+799	4	1046
+945	4	1046
+1046	5	1046
+
+************************
+046
+945	4	1046
+1046	5	1046
+1046	5	1046
+1046	5	1046
+1781	5	1046
+404	5	1046
+123	6	1046
+
+************************
+1	5	1046
+404	5	1046
+123	6	1046
+
+************************
+6
+404	5	1046
+123	6	1046
+196	6	1046
+
+************************
+046
+123	6	1046
+196	6	1046
+
+************************
+23	6	1046
+196	6	1046
+919	6	1046
+
+************************
+6
+196	6	1046
+919	6	1046
+990	6	1046
+
+************************
+6
+919	6	1046
+990	6	1046
+1007	6	1046
+
+************************
+6
+990	6	1046
+1007	6	1046
+1046	6	1046
+
+************************
+6
+1007	6	1046
+1046	6	1046
+1131	6	1046
+
+************************
+6
+1046	6	1046
+1131	6	1046
+
+************************
+6	6	1046
+1131	6	1046
+1139	6	1046
+
+************************
+6
+1131	6	1046
+1139	6	1046
+1140	6	1046
+
+************************
+6
+1139	6	1046
+1140	6	1046
+1149	6	1046
+
+************************
+6
+1140	6	1046
+1149	6	1046
+
+************************
+0	6	1046
+1149	6	1046
+1198	6	1046
+
+************************
+6
+1149	6	1046
+1198	6	1046
+
+************************
+9	6	1046
+1198	6	1046
+1215	6	1046
+
+************************
+6
+1198	6	1046
+1215	6	1046
+1223	6	1046
+
+************************
+6
+1215	6	1046
+1223	6	1046
+1265	6	1046
+
+************************
+6
+1223	6	1046
+1265	6	1046
+1303	6	1046
+
+************************
+6
+1265	6	1046
+1303	6	1046
+1323	6	1046
+
+************************
+6
+1303	6	1046
+1323	6	1046
+1358	6	1046
+
+************************
+6
+1323	6	1046
+1358	6	1046
+1366	6	1046
+1421	6	1046
+
+************************
+	6	1046
+1366	6	1046
+1421	6	1046
+1460	6	1046
+1462	6	1046
+1463	6	1046
+1467	6	1046
+1468	6	1046
+1477	6	1046
+1491	6	1046
+
+************************
+	6	1046
+1477	6	1046
+1491	6	1046
+
+************************
+6
+1477	6	1046
+1491	6	1046
+
+************************
+7	6	1046
+1491	6	1046
+1496	6	1046
+
+************************
+046
+1491	6	1046
+1496	6	1046
+1531	6	1046
+1535	6	1046
+1565	6	1046
+1601	6	1046
+1602	6	1046
+1613	6	1046
+1614	6	1046
+1626	6	1046
+1641	6	1046
+1787	6	1046
+1788	6	1046
+
+************************
+7	6	1046
+1788	6	1046
+205	6	1046
+
+************************
+046
+1788	6	1046
+205	6	1046
+
+************************
+88	6	1046
+205	6	1046
+224	6	1046
+
+************************
+6
+205	6	1046
+224	6	1046
+249	6	1046
+
+************************
+6
+224	6	1046
+249	6	1046
+288	6	1046
+
+************************
+046
+249	6	1046
+288	6	1046
+316	6	1046
+381	6	1046
+
+************************
+8	6	1046
+316	6	1046
+381	6	1046
+
+************************
+046
+316	6	1046
+381	6	1046
+398	6	1046
+
+************************
+6	6	1046
+381	6	1046
+398	6	1046
+
+************************
+6
+381	6	1046
+398	6	1046
+11	6	1046
+
+************************
+	6	1046
+398	6	1046
+11	6	1046
+
+************************
+6
+398	6	1046
+11	6	1046
+404	6	1046
+
+************************
+046
+11	6	1046
+404	6	1046
+410	6	1046
+
+************************
+1	6	1046
+404	6	1046
+410	6	1046
+
+************************
+6
+404	6	1046
+410	6	1046
+463	6	1046
+464	6	1046
+483	6	1046
+3184	6	1046
+
+************************
+3	6	1046
+3184	6	1046
+3188	6	1046
+
+************************
+6
+3184	6	1046
+3188	6	1046
+
+************************
+4	6	1046
+3188	6	1046
+584	6	1046
+
+************************
+046
+3188	6	1046
+584	6	1046
+600	6	1046
+
+************************
+8	6	1046
+584	6	1046
+600	6	1046
+
+************************
+046
+584	6	1046
+600	6	1046
+680	6	1046
+
+************************
+046
+600	6	1046
+680	6	1046
+691	6	1046
+763	6	1046
+
+************************
+0	6	1046
+691	6	1046
+763	6	1046
+
+************************
+6
+691	6	1046
+763	6	1046
+799	6	1046
+
+************************
+63	6	1046
+799	6	1046
+
+
+************************
+99	6	1046
+
+
+************************
+
+************************
+Document:  CACM-0021.html
+************************
+
+
+algebraic formulation of flow diagrams
+
+cacm june, 1958
+
+voorhees, e. a.
+
+ca580601 
+************************
+
+
+voorhees, e. a.
+
+ca580601 jb march 22, 1978  9:10 pm
+
+21	5	21
+21	5	21
+
+************************
+8  9:10 pm
+
+21	5	21
+21	5	21
+
+************************
+0 pm
+
+21	5	21
+21	5	21
+21	5	21
+679	5	21
+21	6	21
+407	6	21
+
+************************
+9	5	21
+21	6	21
+407	6	21
+3184	6	21
+
+
+************************
+4	6	21
+
+
+************************
+
+************************
+Document:  CACM-2639.html
+************************
+
+
+calculation of fourier integrals (algorithm r418)
+
+cacm june, 1974
+
+piessens, 
+************************
+)
+
+cacm june, 1974
+
+piessens, r.
+
+ca740607 
+************************
+
+
+piessens, r.
+
+ca740607 jb january 17, 1978 
+************************
+0607 jb january 17, 1978  3:01 pm
+
+2639	5	2639
+
+************************
+7, 1978  3:01 pm
+
+2639	5	2639
+
+************************
+978  3:01 pm
+
+2639	5	2639
+
+************************
+
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage of algol.  
+a hand calculation result of the application of the algorithm
+to all of algol is given, thus expressing 
+the revised algol 1960 syntax in completely nonrecursive
+terms, as far as its context-free portion is 
+concerned.  this description in many ways is far more
+intuitively understood than the previous recursive 
+description, it is suggested.  the paper also includes
+results of the machine program, which does not 
+include a simplification algorithm.
+
+cacm april, 1966
+
+carr iii, j. w.
+weiland, j.
+
+ca660402 jb march 3, 1978  11:02 am
+
+1086	4	1453
+
+************************
+  11:02 am
+
+1086	4	1453
+1132	4	1453
+1234	4	1453
+1263	4	1453
+1263	4	1453
+1265	4	1453
+1270	4	1453
+1323	4	1453
+
+************************
+0	4	1453
+1323	4	1453
+1358	4	1453
+
+************************
+453
+1323	4	1453
+1358	4	1453
+1379	4	1453
+1380	4	1453
+
+************************
+9	4	1453
+1380	4	1453
+1453	4	1453
+1453	4	1453
+1464	4	1453
+1484	4	1453
+1491	4	1453
+1498	4	1453
+1613	4	1453
+1614	4	1453
+1781	4	1453
+1825	4	1453
+
+************************
+81	4	1453
+1825	4	1453
+1860	4	1453
+1945	4	1453
+2083	4	1453
+2178	4	1453
+2179	4	1453
+
+************************
+8	4	1453
+2179	4	1453
+2252	4	1453
+
+************************
+453
+2179	4	1453
+2252	4	1453
+2325	4	1453
+2341	4	1453
+2546	4	1453
+2645	4	1453
+2652	4	1453
+2684	4	1453
+2842	4	1453
+
+************************
+4	4	1453
+2842	4	1453
+2929	4	1453
+2934	4	1453
+3069	4	1453
+669	4	1453
+679	4	1453
+691	4	1453
+761	4	1453
+
+************************
+9	4	1453
+691	4	1453
+761	4	1453
+
+************************
+453
+691	4	1453
+761	4	1453
+949	4	1453
+989	4	1453
+989	5	1453
+1453	5	1453
+
+************************
+9	4	1453
+989	5	1453
+1453	5	1453
+
+************************
+453
+989	5	1453
+1453	5	1453
+1453	5	1453
+
+************************
+453
+1453	5	1453
+1453	5	1453
+
+************************
+453	5	1453
+1453	5	1453
+1453	5	1453
+
+************************
+453
+1453	5	1453
+1453	5	1453
+
+************************
+453	5	1453
+1453	5	1453
+1613	5	1453
+
+************************
+453
+1453	5	1453
+1613	5	1453
+
+************************
+453	5	1453
+1613	5	1453
+3184	5	1453
+
+************************
+453
+1613	5	1453
+3184	5	1453
+
+************************
+613	5	1453
+3184	5	1453
+987	6	1453
+
+************************
+53
+3184	5	1453
+987	6	1453
+1086	6	1453
+
+************************
+4	5	1453
+987	6	1453
+1086	6	1453
+1134	6	1453
+
+************************
+	6	1453
+1086	6	1453
+1134	6	1453
+
+************************
+53
+1086	6	1453
+1134	6	1453
+1453	6	1453
+
+************************
+53
+1134	6	1453
+1453	6	1453
+3184	6	1453
+
+************************
+	6	1453
+1453	6	1453
+3184	6	1453
+
+************************
+53
+1453	6	1453
+3184	6	1453
+
+************************
+53	6	1453
+3184	6	1453
+
+
+************************
+53
+3184	6	1453
+
+
+************************
+4	6	1453
+
+
+************************
+
+************************
+Document:  CACM-0963.html
+************************
+
+
+relative effects of central processor and input-output
+speeds upon throughput on the large computer
+
+presented in this paper is a technique for
+determining the relative effects of the internal 
+speed of the computer and the speed of the input-output
+units upon the overall speed of the system. equations 
+are derived which permit the determination of these
+effects from hardware usage measurements.
+
+cacm december, 1964
+
+white, p.
+
+ca641208 jb march 9, 1978  3:34 
+************************
+ jb march 9, 1978  3:34 pm
+
+963	5	963
+
+************************
+  3:34 pm
+
+963	5	963
+963	5	963
+963	5	963
+1653	5	963
+963	6	963
+1069	6	963
+
+************************
+653	5	963
+963	6	963
+1069	6	963
+1417	6	963
+
+
+************************
+17	6	963
+
+
+************************
+
+************************
+Document:  CACM-0076.html
+************************
+
+
+binary conversion, with fixed decimal precision, of a decimal fraction
+
+cacm july, 1959
+
+taranto, d.
+
+ca590702 jb march 22, 1978 
+************************
+02 jb march 22, 1978  6:23 pm
+
+76	5	76
+76	5	76
+
+************************
+
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 1979
+
+gull,w.
+jenkins, m.
+
+************************
+9
+
+gull,w.
+jenkins, m.
+
+nested arrays, apl arrays, recursive data structures,
+trees, data-driven algorithms, theory of arrays
+
+4.22 5.29
+
+ca790203 dh april 10, 1979  3:41 pm
+
+2060	4	3124
+
+************************
+0, 1979  3:41 pm
+
+2060	4	3124
+
+************************
+9  3:41 pm
+
+2060	4	3124
+2294	4	3124
+
+************************
+ pm
+
+2060	4	3124
+2294	4	3124
+2470	4	3124
+
+************************
+24
+2294	4	3124
+2470	4	3124
+3124	4	3124
+
+************************
+24
+2470	4	3124
+3124	4	3124
+1469	5	3124
+
+************************
+24
+3124	4	3124
+1469	5	3124
+
+************************
+24	4	3124
+1469	5	3124
+3124	5	3124
+
+************************
+24
+1469	5	3124
+3124	5	3124
+
+************************
+469	5	3124
+3124	5	3124
+3124	5	3124
+
+************************
+24
+3124	5	3124
+3124	5	3124
+
+************************
+24	5	3124
+3124	5	3124
+3124	5	3124
+
+************************
+24
+3124	5	3124
+3124	5	3124
+
+************************
+24	5	3124
+3124	5	3124
+
+
+************************
+24
+3124	5	3124
+
+
+************************
+24	5	3124
+
+
+************************
+
+************************
+Document:  CACM-0475.html
+************************
+
+
+a test matrix for inversion procedures
+
+cacm october, 1962
+
+pei, m. l.
+
+ca621005 jb march 17, 1978  7:21 pm
+
+1963	5	475
+475	5	475
+475	5	475
+
+************************
+75
+475	5	475
+475	5	475
+475	5	475
+
+************************
+75	5	475
+475	5	475
+475	5	475
+
+************************
+75
+475	5	475
+475	5	475
+909	6	475
+
+************************
+75	5	475
+475	5	475
+909	6	475
+
+************************
+75
+475	5	475
+909	6	475
+475	6	475
+
+************************
+75	5	475
+909	6	475
+475	6	475
+
+************************
+75
+909	6	475
+475	6	475
+750	6	475
+
+************************
+75
+475	6	475
+750	6	475
+
+
+************************
+75	6	475
+750	6	475
+
+
+************************
+75
+750	6	475
+
+
+************************
+
+************************
+Document:  CACM-0582.html
+************************
+
+
+one lost bit
+
+cacm june, 1962
+
+oster, c. a.
+
+ca620603 jb march 17, 1978  9:36 pm
+
+582	5	582
+
+************************
+, 1978  9:36 pm
+
+582	5	582
+
+************************
+
+************************
+Document:  CACM-0516.html
+************************
+
+
+matrix inversion ii (algorithm 120)
+
+cacm august, 1962
+
+george, r.
+
+ca620812 jb march 17, 1978  9:42 pm
+
+516	5	516
+
+************************
+, 1978  9:42 pm
+
+516	5	516
+
+************************
+  9:42 pm
+
+516	5	516
+516	5	516
+516	5	516
+
+************************
+
+************************
+Document:  CACM-1235.html
+************************
+
+
+a stochastic approach to the grammatical coding of english
+
+a computer program is described which will
+assign each word in an english text to its form 
+class or part of speech.  the program operates at relatively
+high speed in only a limited storage space. 
+ about half of the word-events in a corpus are identified
+through the use of a small dictionary of function 
+words and frequently occurring lexical words.  some suffix
+tests and logical-decision rules are employed 
+to code additional words.  finally, the remaining words
+are assigned to one class or another on the basis 
+of the most probable form classes to occur within the already
+identified contexts.  the conditional probabilities 
+used as a basis for this coding were empirically derived
+from a separate hand-coded corpusn preliminary 
+trials, the accuracy of the coder was 91% to 93%, with
+obvious ways of improving the algorithm being 
+suggested by an analysis of the results.
+
+cacm june, 1965
+
+stolz, w. s.
+tannenbaum, h.
+carstensen, f. v.
+
+ca650620 jb march 6, 1978  9:35 pm
+
+1235	5	1235
+
+************************
+
+************************
+Document:  CACM-2573.html
+************************
+
+
+computer programming as an art
+
+cacm december, 1974
+
+knuth, d. e.
+
+ca741201 
+************************
+
+
+knuth, d. e.
+
+ca741201 jb january 16, 1978 
+************************
+1201 jb january 16, 1978  10:04 am
+
+1860	4	2573
+
+************************
+  10:04 am
+
+1860	4	2573
+1973	4	2573
+
+************************
+60	4	2573
+1973	4	2573
+1973	4	2573
+1992	4	2573
+1992	4	2573
+2018	4	2573
+2033	4	2573
+2107	4	2573
+
+************************
+	4	2573
+2033	4	2573
+2107	4	2573
+2109	4	2573
+2138	4	2573
+2203	4	2573
+2203	4	2573
+
+************************
+	4	2573
+2203	4	2573
+2203	4	2573
+2251	4	2573
+2251	4	2573
+2251	4	2573
+2530	4	2573
+2537	4	2573
+2543	4	2573
+2543	4	2573
+2559	4	2573
+2573	4	2573
+2573	4	2573
+2573	4	2573
+2770	4	2573
+2770	4	2573
+2991	4	2573
+3053	4	2573
+3083	4	2573
+1786	5	2573
+
+************************
+3	4	2573
+1786	5	2573
+2018	5	2573
+
+************************
+3
+1786	5	2573
+2018	5	2573
+
+************************
+86	5	2573
+2018	5	2573
+2107	5	2573
+
+************************
+8	5	2573
+2107	5	2573
+2573	5	2573
+
+************************
+3
+2107	5	2573
+2573	5	2573
+2573	5	2573
+
+************************
+
+************************
+Document:  CACM-3144.html
+************************
+
+
+a model for and discussion of multi-interpreter systems
+
+a multi-interpreter system is a system in which programs execute
+by virtue of being interpreted by other programs, which themselves may
+either be interpreted (i.e. nested interpreters) or run directly on
+the host machine.  the model reveals the anatomy of interpreters
+and how these differ from procedures, and exhibits links
+to protection domains and multiprocessor architectures.
+
+cacm may, 1979
+
+manthey, m.
+
+interpreters, 
+************************
+9
+
+manthey, m.
+
+interpreters, transfer-of-control, hierarchies
+
+4.13 3.65
+
+ca790505 dh august 
+************************
+3 3.65
+
+ca790505 dh august 21, 19791:14 pm
+
+1458	4	3144
+1523	4	3144
+1603	4	3144
+
+************************
+	4	3144
+1523	4	3144
+1603	4	3144
+1698	4	3144
+1747	4	3144
+1748	4	3144
+
+************************
+47	4	3144
+1748	4	3144
+1854	4	3144
+
+************************
+44
+1748	4	3144
+1854	4	3144
+
+************************
+48	4	3144
+1854	4	3144
+1877	4	3144
+
+************************
+44
+1854	4	3144
+1877	4	3144
+
+************************
+54	4	3144
+1877	4	3144
+1960	4	3144
+
+************************
+77	4	3144
+1960	4	3144
+2377	4	3144
+2378	4	3144
+2497	4	3144
+2558	4	3144
+
+************************
+	4	3144
+2497	4	3144
+2558	4	3144
+2625	4	3144
+2626	4	3144
+
+************************
+	4	3144
+2625	4	3144
+2626	4	3144
+2632	4	3144
+2748	4	3144
+2840	4	3144
+
+************************
+48	4	3144
+2840	4	3144
+2865	4	3144
+2866	4	3144
+2868	4	3144
+2868	4	3144
+2870	4	3144
+2876	4	3144
+
+************************
+0	4	3144
+2876	4	3144
+2898	4	3144
+
+************************
+6	4	3144
+2898	4	3144
+2941	4	3144
+2972	4	3144
+3043	4	3144
+
+************************
+2	4	3144
+3043	4	3144
+3105	4	3144
+3105	4	3144
+3105	4	3144
+3128	4	3144
+3144	4	3144
+3144	4	3144
+3144	4	3144
+3144	4	3144
+3144	4	3144
+3144	4	3144
+3144	4	3144
+1471	5	3144
+2298	5	3144
+
+************************
+1	5	3144
+2298	5	3144
+2491	5	3144
+
+************************
+4
+2298	5	3144
+2491	5	3144
+2597	5	3144
+
+************************
+	5	3144
+2491	5	3144
+2597	5	3144
+
+************************
+4
+2491	5	3144
+2597	5	3144
+2624	5	3144
+
+************************
+	5	3144
+2597	5	3144
+2624	5	3144
+
+************************
+4
+2597	5	3144
+2624	5	3144
+2625	5	3144
+
+************************
+	5	3144
+2624	5	3144
+2625	5	3144
+
+************************
+4
+2624	5	3144
+2625	5	3144
+2632	5	3144
+
+************************
+44
+2625	5	3144
+2632	5	3144
+3144	5	3144
+
+************************
+44
+2632	5	3144
+3144	5	3144
+3144	5	3144
+
+************************
+44
+3144	5	3144
+3144	5	3144
+
+************************
+44	5	3144
+3144	5	3144
+3144	5	3144
+
+************************
+44
+3144	5	3144
+3144	5	3144
+
+************************
+44	5	3144
+3144	5	3144
+
+
+************************
+44
+3144	5	3144
+
+
+************************
+44	5	3144
+
+
+************************
+
+************************
+Document:  CACM-1390.html
+************************
+
+
+convert
+
+a programming language is described which
+is applicable to problems conveniently described 
+by transformation rules.  by this is meant that patterns
+may be prescribed, each being associated with 
+a skeleton, so that a series of such pairs may be searched
+until a pattern is found which matches an 
+expression to be transformed.  the conditions for a match
+are governed by a code which also allows subexpressions 
+to be identified and eventually substituted into the
+corresponding skeleton.  the primitive patterns 
+and primitive skeletons are described, as well as the
+principle which allow their elaboration in to more 
+complicated patterns and skeletons.  the advantages of the
+language are that it allows one to apply transformation 
+rules to lists and arrays as easily as strings, that both
+patterns and skeletons may be defined recursively, 
+and that as a consequence programs may be stated quite concisely.
+
+cacm august, 1966
+
+guzman, a.
+mcintosh, h. v.
+
+ca660808 jb march 2, 1978  7:32 pm
+
+1024	4	1390
+1051	4	1390
+1102	4	1390
+
+************************
+	4	1390
+1051	4	1390
+1102	4	1390
+1132	4	1390
+1390	4	1390
+1486	4	1390
+1549	4	1390
+1706	4	1390
+1826	4	1390
+
+************************
+06	4	1390
+1826	4	1390
+1878	4	1390
+
+************************
+26	4	1390
+1878	4	1390
+378	4	1390
+
+************************
+78	4	1390
+378	4	1390
+2060	4	1390
+
+************************
+390
+378	4	1390
+2060	4	1390
+2155	4	1390
+
+************************
+390
+2060	4	1390
+2155	4	1390
+2168	4	1390
+
+************************
+390
+2155	4	1390
+2168	4	1390
+2719	4	1390
+2723	4	1390
+
+************************
+19	4	1390
+2723	4	1390
+2838	4	1390
+2842	4	1390
+
+************************
+38	4	1390
+2842	4	1390
+2855	4	1390
+
+************************
+390
+2842	4	1390
+2855	4	1390
+
+************************
+2	4	1390
+2855	4	1390
+2879	4	1390
+
+************************
+390
+2855	4	1390
+2879	4	1390
+3077	4	1390
+
+************************
+390
+2879	4	1390
+3077	4	1390
+
+************************
+9	4	1390
+3077	4	1390
+3080	4	1390
+
+************************
+390
+3077	4	1390
+3080	4	1390
+3106	4	1390
+
+************************
+390
+3080	4	1390
+3106	4	1390
+627	4	1390
+
+************************
+390
+3106	4	1390
+627	4	1390
+106	4	1390
+210	5	1390
+
+************************
+	4	1390
+106	4	1390
+210	5	1390
+
+************************
+390
+106	4	1390
+210	5	1390
+1390	5	1390
+
+************************
+
+************************
+Document:  CACM-0895.html
+************************
+
+
+a computational extension of the variate difference method
+
+presented here is a computational extension
+of the variate difference method as developed by 
+g. tintner [1].
+
+cacm march, 1963
+
+scheinok, p. a.
+
+ca630325 jb march 14, 1978  12:57 pm
+
+895	5	895
+
+************************
+  12:57 pm
+
+895	5	895
+895	5	895
+895	5	895
+
+************************
+
+************************
+Document:  CACM-1996.html
+************************
+
+
+systems of hyperbolic pde $d3) (algorithm 392)
+
+cacm september, 1970
+
+smith, r. r.
+mccall, 
+************************
+
+
+smith, r. r.
+mccall, d.
+
+hyperbolic p.d.e., characteristic, extrapolation,
+second order p.d.e., quasilinear p. d. e.
+
+5.17
+
+ca700909 jb february 
+************************
+
+
+ca700909 jb february 10, 1978  10:08 am
+
+1996	5	1996
+
+************************
+  10:08 am
+
+1996	5	1996
+1996	5	1996
+
+************************
+
+************************
+Document:  CACM-1008.html
+************************
+
+
+scheduling meetings with a computer
+
+computer scheduling of papers as it was developed
+for the 1960 meeting of the federation of 
+american societies for experimental biology (faseb) is described.
+ the faseb meeting is the largest scientific 
+meeting held in the united states each year.  the technique
+developed for faseb can be applied to schedule 
+any meeting with parallel sessions.
+
+cacm september, 1964
+
+schultz, c. k.
+brooks, a.
+schwartz, p.
+
+ca640903 jb march 9, 1978  6:16 pm
+
+1008	5	1008
+
+************************
+  6:16 pm
+
+1008	5	1008
+1008	5	1008
+1008	5	1008
+
+************************
+	5	1008
+1008	5	1008
+1008	5	1008
+
+************************
+
+1008	5	1008
+1008	5	1008
+2052	5	1008
+
+************************
+	5	1008
+1008	5	1008
+2052	5	1008
+
+************************
+
+1008	5	1008
+2052	5	1008
+1008	6	1008
+
+************************
+	5	1008
+2052	5	1008
+1008	6	1008
+
+************************
+
+2052	5	1008
+1008	6	1008
+1013	6	1008
+
+************************
+
+1008	6	1008
+1013	6	1008
+1504	6	1008
+
+************************
+	6	1008
+1013	6	1008
+1504	6	1008
+1540	6	1008
+
+
+************************
+	6	1008
+1540	6	1008
+
+
+************************
+0	6	1008
+
+
+************************
+
+************************
+Document:  CACM-0430.html
+************************
+
+
+treesort2 (algorithm 144)
+
+cacm december, 1962
+
+************************
+4)
+
+cacm december, 1962
+
+kaupe jr.,a. f.
+
+ca621209 jb march 17, 1978  5:07 pm
+
+430	5	430
+
+************************
+, 1978  5:07 pm
+
+430	5	430
+
+************************
+  5:07 pm
+
+430	5	430
+430	5	430
+430	5	430
+
+************************
+
+************************
+Document:  CACM-0810.html
+************************
+
+
+complex power (algorithm 190)
+
+cacm july, 1963
+
+relph, a. p.
+
+ca630714 jb march 14, 1978  8:32 am
+
+810	5	810
+
+************************
+  8:32 am
+
+810	5	810
+810	5	810
+810	5	810
+
+************************
+0	5	810
+810	5	810
+810	5	810
+
+************************
+0
+810	5	810
+810	5	810
+
+
+************************
+0	5	810
+810	5	810
+
+
+************************
+0
+810	5	810
+
+
+************************
+0	5	810
+
+
+************************
+
+************************
+Document:  CACM-1244.html
+************************
+
+
+bit manipulation in fortran language
+
+cacm june, 1965
+
+tobey, g. d.
+
+ca650611 jb march 6, 1978  10:12 pm
+
+1244	5	1244
+
+************************
+  10:12 pm
+
+1244	5	1244
+1244	5	1244
+
+************************
+4	5	1244
+1244	5	1244
+1244	5	1244
+
+************************
+244
+1244	5	1244
+1244	5	1244
+
+************************
+244	5	1244
+1244	5	1244
+
+
+************************
+244
+1244	5	1244
+
+
+************************
+244	5	1244
+
+
+************************
+
+************************
+Document:  CACM-0275.html
+************************
+
+
+dynamic storage allocation for an information retrieval system
+
+cacm october, 1961
+
+sams, b. h.
+
+ca611006 jb march 16, 1978  12:58 pm
+
+275	5	275
+
+************************
+  12:58 pm
+
+275	5	275
+275	5	275
+275	5	275
+
+************************
+
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  a number of old babylonian tablets, many 
+of which have never before been translated into english, are quoted.
+
+cacm july, 1972
+
+knuth, d. e.
+
+history 
+************************
+2
+
+knuth, d. e.
+
+history of computation, babylonian tablets,
+sexagesimal number system, sorting 
+
+1.2
+
+ca720722 jb january 30, 
+************************
+20722 jb january 30, 1978  10:50 am
+
+2306	5	2306
+
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d. scott and c. strachey.  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. the first language
+considered, loop, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined.  finally, 
+the paper presents a formal definition of the language gedanken.
+
+cacm august, 1976
+
+tennent, r. d.
+
+semantics, 
+************************
+6
+
+tennent, r. d.
+
+semantics, programming language, applicative, imperative,
+environment, store, continuation, theory 
+of computation, higher-order function, recursive definition, loop, gedanken
+
+4.22 5.24
+
+ca760802 jb january 4, 1978 
+************************
+02 jb january 4, 1978  10:33 am
+
+1024	4	2842
+
+************************
+  10:33 am
+
+1024	4	2842
+1051	4	2842
+1086	4	2842
+1102	4	2842
+1132	4	2842
+1132	4	2842
+1234	4	2842
+1263	4	2842
+1265	4	2842
+1270	4	2842
+1323	4	2842
+
+************************
+0	4	2842
+1323	4	2842
+1358	4	2842
+1379	4	2842
+1380	4	2842
+
+************************
+9	4	2842
+1380	4	2842
+1390	4	2842
+1453	4	2842
+1464	4	2842
+1484	4	2842
+1486	4	2842
+1491	4	2842
+1498	4	2842
+1549	4	2842
+1613	4	2842
+1614	4	2842
+1706	4	2842
+1781	4	2842
+
+************************
+06	4	2842
+1781	4	2842
+1825	4	2842
+
+************************
+81	4	2842
+1825	4	2842
+1826	4	2842
+1860	4	2842
+1878	4	2842
+378	4	2842
+2060	4	2842
+
+************************
+8	4	2842
+378	4	2842
+2060	4	2842
+2083	4	2842
+2155	4	2842
+2155	4	2842
+
+************************
+55	4	2842
+2155	4	2842
+2168	4	2842
+2178	4	2842
+2179	4	2842
+
+************************
+8	4	2842
+2179	4	2842
+2252	4	2842
+
+************************
+9	4	2842
+2252	4	2842
+2294	4	2842
+2314	4	2842
+2317	4	2842
+2325	4	2842
+2326	4	2842
+
+************************
+	4	2842
+2325	4	2842
+2326	4	2842
+2341	4	2842
+2457	4	2842
+2546	4	2842
+2558	4	2842
+
+************************
+	4	2842
+2546	4	2842
+2558	4	2842
+2645	4	2842
+2652	4	2842
+2684	4	2842
+2719	4	2842
+2723	4	2842
+
+************************
+19	4	2842
+2723	4	2842
+2838	4	2842
+
+************************
+42
+2723	4	2842
+2838	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2855	4	2842
+2879	4	2842
+2903	4	2842
+2929	4	2842
+2934	4	2842
+3069	4	2842
+3077	4	2842
+3077	4	2842
+3080	4	2842
+3106	4	2842
+3150	4	2842
+
+************************
+06	4	2842
+3150	4	2842
+627	4	2842
+
+************************
+42
+3150	4	2842
+627	4	2842
+669	4	2842
+
+************************
+42
+627	4	2842
+669	4	2842
+679	4	2842
+691	4	2842
+761	4	2842
+106	4	2842
+
+************************
+	4	2842
+761	4	2842
+106	4	2842
+
+************************
+61	4	2842
+106	4	2842
+949	4	2842
+
+************************
+42
+106	4	2842
+949	4	2842
+989	4	2842
+
+************************
+42
+949	4	2842
+989	4	2842
+210	5	2842
+2060	5	2842
+
+************************
+0	5	2842
+2060	5	2842
+2148	5	2842
+
+************************
+2
+2060	5	2842
+2148	5	2842
+2192	5	2842
+
+************************
+2
+2148	5	2842
+2192	5	2842
+
+************************
+8	5	2842
+2192	5	2842
+2837	5	2842
+
+************************
+2
+2192	5	2842
+2837	5	2842
+2842	5	2842
+
+************************
+2
+2837	5	2842
+2842	5	2842
+2842	5	2842
+
+************************
+2
+2842	5	2842
+2842	5	2842
+
+************************
+2	5	2842
+2842	5	2842
+2842	5	2842
+
+************************
+2
+2842	5	2842
+2842	5	2842
+
+************************
+2	5	2842
+2842	5	2842
+3150	5	2842
+
+************************
+2
+2842	5	2842
+3150	5	2842
+
+************************
+2	5	2842
+3150	5	2842
+3184	5	2842
+
+************************
+2
+3150	5	2842
+3184	5	2842
+2060	6	2842
+
+************************
+2
+3184	5	2842
+2060	6	2842
+
+************************
+4	5	2842
+2060	6	2842
+2704	6	2842
+
+************************
+42
+2060	6	2842
+2704	6	2842
+2784	6	2842
+
+************************
+04	6	2842
+2784	6	2842
+2842	6	2842
+
+************************
+42
+2784	6	2842
+2842	6	2842
+
+************************
+4	6	2842
+2842	6	2842
+2842	6	2842
+
+************************
+42
+2842	6	2842
+2842	6	2842
+2939	6	2842
+2940	6	2842
+2941	6	2842
+2943	6	2842
+3073	6	2842
+3148	6	2842
+
+************************
+3	6	2842
+3148	6	2842
+
+
+************************
+2
+3148	6	2842
+
+
+************************
+8	6	2842
+
+
+************************
+
+************************
+Document:  CACM-2219.html
+************************
+
+
+a policy-driven scheduler for a time-sharing system
+
+the service received by a process from a time-sharing
+operating system can be characterized 
+by a resource count sum{w[i]r[ij]} where r[ij] is the
+number of units of service received by process 
+i from resource i and w[i] is the cost per unit of the
+service.  each class of users can be characterized 
+by a policy function which specifies the amount of service
+a user who belongs to this class should receive 
+as a function of time.  priority changes dynamically
+as a function of the difference between the service 
+promised to the user by the policy function and the service
+he actually receives.  a scheduling and swapping 
+algorithm which keeps the resource count of each process
+above its policy function will provide the specified 
+level of service.  overhead can be reduced by avoiding
+swaps of process which have received at least 
+his level of service.  the algorithm has been implemented
+in a general purpose operating system, and 
+it has provided significantly better service to interactive
+and to batch jobs than the previous scheduler.
+
+cacm february, 1971
+
+bernstein, a. j.
+sharp, 
+************************
+
+
+bernstein, a. j.
+sharp, j. c.
+
+scheduler, time-sharing, operating system,
+resource allocation and swapping
+
+4.32
+
+ca710202 jb february 8, 1978 
+************************
+0202 jb february 8, 1978  9:54 am
+
+2219	4	2219
+
+************************
+8  9:54 am
+
+2219	4	2219
+2344	4	2219
+
+************************
+ am
+
+2219	4	2219
+2344	4	2219
+1938	5	2219
+2219	5	2219
+2219	5	2219
+
+************************
+	5	2219
+2219	5	2219
+2219	5	2219
+2219	5	2219
+2950	5	2219
+3072	5	2219
+1713	6	2219
+2219	6	2219
+2219	6	2219
+2245	6	2219
+2375	6	2219
+
+************************
+5	6	2219
+2375	6	2219
+
+
+************************
+
+************************
+Document:  CACM-1297.html
+************************
+
+
+steep1 (algorithm 203 [e4])
+
+cacm march, 1965
+
+************************
+])
+
+cacm march, 1965
+
+varah, j. m.
+
+ca650310 jb march 7, 1978  6:02 pm
+
+1297	5	1297
+
+************************
+  6:02 pm
+
+1297	5	1297
+1297	5	1297
+1297	5	1297
+
+************************
+	5	1297
+1297	5	1297
+1297	5	1297
+
+************************
+
+1297	5	1297
+1297	5	1297
+
+
+************************
+	5	1297
+1297	5	1297
+
+
+************************
+
+1297	5	1297
+
+
+************************
+	5	1297
+
+
+************************
+
+************************
+Document:  CACM-1256.html
+************************
+
+
+dynamic variable formatting
+
+cacm may, 1965
+
+king, d. r.
+
+ca650515 jb march 7, 1978  12:53 pm
+
+1256	5	1256
+
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+bucci, g.
+streeter, 
+************************
+9
+
+bucci, g.
+streeter, d.
+
+distributed processing, system design, cost minimization, distributed
+database, interactive computing, economic modeling, transaction processing
+
+4.32 4.33 6.2 8.1
+
+ca790403 dh may 21, 1979 
+************************
+90403 dh may 21, 1979  1:25 pm
+
+3137	5	3137
+
+************************
+9  1:25 pm
+
+3137	5	3137
+3137	5	3137
+3137	5	3137
+
+************************
+	5	3137
+3137	5	3137
+3137	5	3137
+
+************************
+
+3137	5	3137
+3137	5	3137
+
+
+************************
+	5	3137
+3137	5	3137
+
+
+************************
+
+3137	5	3137
+
+
+************************
+	5	3137
+
+
+************************
+
+************************
+Document:  CACM-1425.html
+************************
+
+
+flow diagrams, turing machines and
+languages with only two formation rules
+
+in the first part of the paper, flow diagrams
+are introduced to represent inter al. mappings 
+of a set into itself.  although not every diagram is
+decomposable into a finite number of given base 
+diagrams, this becomes true at a semantical level due
+to a suitable extension of the given set and of 
+the basic mappings defined in it.  two normalization
+methods of flow diagrams are given.  the first has 
+three base diagrams; the second, only two.  in the second
+part of the paper, the second method is applied 
+to the theory of turing machines.  with every turing
+machine provided with a two-way half-tape, there 
+is associated a similar machine, doing essentially
+the same job, but working on a tape obtained from 
+the first one by interspersing alternate blank squares.
+ the new machine belongs to the family, elsewhere 
+introduced, generated by composition and iteration from
+the two machines l and r.  that family is a proper 
+subfamily of the whole family of turing machines.
+
+cacm may, 1966
+
+bohm, c.
+jacopini, g.
+
+ca660512 jb march 3, 1978  9:35 am
+
+1425	4	1425
+
+************************
+  9:35 am
+
+1425	4	1425
+1781	4	1425
+438	4	1425
+762	4	1425
+
+************************
+1	4	1425
+438	4	1425
+762	4	1425
+249	5	1425
+
+************************
+62	4	1425
+249	5	1425
+1425	5	1425
+
+************************
+425
+249	5	1425
+1425	5	1425
+1425	5	1425
+
+************************
+425
+1425	5	1425
+1425	5	1425
+
+************************
+425	5	1425
+1425	5	1425
+1425	5	1425
+
+************************
+425
+1425	5	1425
+1425	5	1425
+
+************************
+425	5	1425
+1425	5	1425
+2709	5	1425
+
+************************
+425
+1425	5	1425
+2709	5	1425
+
+************************
+425	5	1425
+2709	5	1425
+2802	5	1425
+
+************************
+09	5	1425
+2802	5	1425
+3004	5	1425
+
+************************
+25
+2802	5	1425
+3004	5	1425
+1425	6	1425
+
+************************
+25
+3004	5	1425
+1425	6	1425
+1425	6	1425
+
+************************
+425
+1425	6	1425
+1425	6	1425
+1425	6	1425
+2138	6	1425
+2204	6	1425
+2247	6	1425
+2356	6	1425
+2456	6	1425
+
+************************
+	6	1425
+2356	6	1425
+2456	6	1425
+
+************************
+25
+2356	6	1425
+2456	6	1425
+2456	6	1425
+
+************************
+25
+2456	6	1425
+2456	6	1425
+2477	6	1425
+
+************************
+425
+2456	6	1425
+2477	6	1425
+3186	6	1425
+
+************************
+7	6	1425
+3186	6	1425
+
+
+************************
+25
+3186	6	1425
+
+
+************************
+6	6	1425
+
+
+************************
+
+************************
+Document:  CACM-0434.html
+************************
+
+
+character manipulation in 1620 fortran ii
+
+cacm december, 1962
+
+poore jr., j. h.
+
+ca621205 jb march 17, 1978  5:11 pm
+
+434	5	434
+434	5	434
+434	5	434
+
+************************
+
+************************
+Document:  CACM-0150.html
+************************
+
+
+rational interpolation by continued fractions (algorithm 18)
+
+cacm september, 1960
+
+************************
+)
+
+cacm september, 1960
+
+floyd, r. w.
+
+ca600907 jb march 20, 1978  8:44 pm
+
+150	5	150
+150	5	150
+
+************************
+4 pm
+
+150	5	150
+150	5	150
+150	5	150
+
+************************
+
+************************
+Document:  CACM-0584.html
+************************
+
+
+report on the algorithmic language fortran ii
+
+cacm june, 1962
+
+rabinowitz, i. n.
+
+ca620601 jb march 17, 1978  9:38 pm
+
+1046	4	584
+1105	4	584
+1139	4	584
+
+************************
+6	4	584
+1105	4	584
+1139	4	584
+1140	4	584
+1234	4	584
+1263	4	584
+1265	4	584
+1496	4	584
+1781	4	584
+1824	4	584
+2126	4	584
+
+************************
+81	4	584
+1824	4	584
+2126	4	584
+2546	4	584
+464	4	584
+584	4	584
+631	4	584
+653	4	584
+680	4	584
+763	4	584
+795	4	584
+799	4	584
+
+************************
+63	4	584
+795	4	584
+799	4	584
+945	4	584
+949	5	584
+1781	5	584
+1945	5	584
+
+************************
+781	5	584
+1945	5	584
+404	5	584
+
+************************
+1	5	584
+1945	5	584
+404	5	584
+
+************************
+
+1945	5	584
+404	5	584
+584	5	584
+
+************************
+5	5	584
+404	5	584
+584	5	584
+
+************************
+
+404	5	584
+584	5	584
+584	5	584
+
+************************
+4
+584	5	584
+584	5	584
+584	5	584
+
+************************
+4	5	584
+584	5	584
+584	5	584
+
+************************
+4
+584	5	584
+584	5	584
+823	6	584
+
+************************
+4	5	584
+584	5	584
+823	6	584
+
+************************
+4
+584	5	584
+823	6	584
+123	6	584
+
+************************
+4	5	584
+823	6	584
+123	6	584
+
+************************
+4
+823	6	584
+123	6	584
+196	6	584
+
+************************
+23	6	584
+123	6	584
+196	6	584
+914	6	584
+
+************************
+23	6	584
+196	6	584
+914	6	584
+915	6	584
+
+************************
+96	6	584
+914	6	584
+915	6	584
+
+************************
+
+914	6	584
+915	6	584
+917	6	584
+
+************************
+	6	584
+915	6	584
+917	6	584
+
+************************
+
+915	6	584
+917	6	584
+919	6	584
+
+************************
+
+917	6	584
+919	6	584
+984	6	584
+
+************************
+	6	584
+919	6	584
+984	6	584
+
+************************
+
+919	6	584
+984	6	584
+989	6	584
+
+************************
+
+984	6	584
+989	6	584
+990	6	584
+
+************************
+	6	584
+989	6	584
+990	6	584
+
+************************
+
+989	6	584
+990	6	584
+990	6	584
+1007	6	584
+1012	6	584
+1046	6	584
+
+************************
+	6	584
+1012	6	584
+1046	6	584
+
+************************
+012	6	584
+1046	6	584
+1084	6	584
+
+************************
+
+1046	6	584
+1084	6	584
+1098	6	584
+
+************************
+6	6	584
+1084	6	584
+1098	6	584
+
+************************
+084	6	584
+1098	6	584
+1122	6	584
+
+************************
+	6	584
+1098	6	584
+1122	6	584
+
+************************
+098	6	584
+1122	6	584
+1131	6	584
+
+************************
+122	6	584
+1131	6	584
+1138	6	584
+
+************************
+
+1131	6	584
+1138	6	584
+1139	6	584
+
+************************
+
+1138	6	584
+1139	6	584
+1139	6	584
+
+************************
+
+1139	6	584
+1139	6	584
+1140	6	584
+
+************************
+
+1139	6	584
+1140	6	584
+1141	6	584
+
+************************
+
+1140	6	584
+1141	6	584
+1149	6	584
+
+************************
+0	6	584
+1141	6	584
+1149	6	584
+
+************************
+141	6	584
+1149	6	584
+1198	6	584
+
+************************
+1	6	584
+1149	6	584
+1198	6	584
+
+************************
+
+1149	6	584
+1198	6	584
+1200	6	584
+
+************************
+9	6	584
+1198	6	584
+1200	6	584
+
+************************
+198	6	584
+1200	6	584
+1215	6	584
+
+************************
+
+1200	6	584
+1215	6	584
+1223	6	584
+
+************************
+
+1215	6	584
+1223	6	584
+1223	6	584
+
+************************
+
+1223	6	584
+1223	6	584
+1265	6	584
+
+************************
+
+1223	6	584
+1265	6	584
+1265	6	584
+
+************************
+
+1265	6	584
+1265	6	584
+1303	6	584
+
+************************
+
+1265	6	584
+1303	6	584
+1323	6	584
+
+************************
+
+1303	6	584
+1323	6	584
+1336	6	584
+
+************************
+
+1323	6	584
+1336	6	584
+1358	6	584
+
+************************
+
+1336	6	584
+1358	6	584
+1366	6	584
+
+************************
+
+1358	6	584
+1366	6	584
+1396	6	584
+
+************************
+
+1366	6	584
+1396	6	584
+1421	6	584
+
+************************
+
+1396	6	584
+1421	6	584
+1455	6	584
+
+************************
+
+1421	6	584
+1455	6	584
+1460	6	584
+
+************************
+21	6	584
+1455	6	584
+1460	6	584
+
+************************
+
+1455	6	584
+1460	6	584
+1462	6	584
+
+************************
+55	6	584
+1460	6	584
+1462	6	584
+
+************************
+460	6	584
+1462	6	584
+1463	6	584
+
+************************
+462	6	584
+1463	6	584
+1467	6	584
+
+************************
+463	6	584
+1467	6	584
+1468	6	584
+1477	6	584
+
+************************
+	6	584
+1468	6	584
+1477	6	584
+
+************************
+468	6	584
+1477	6	584
+1477	6	584
+
+************************
+477	6	584
+1477	6	584
+1487	6	584
+
+************************
+7	6	584
+1477	6	584
+1487	6	584
+
+************************
+477	6	584
+1487	6	584
+1491	6	584
+
+************************
+7	6	584
+1487	6	584
+1491	6	584
+
+************************
+487	6	584
+1491	6	584
+1491	6	584
+
+************************
+	6	584
+1491	6	584
+1491	6	584
+
+************************
+491	6	584
+1491	6	584
+1496	6	584
+
+************************
+4
+1491	6	584
+1496	6	584
+
+************************
+491	6	584
+1496	6	584
+1496	6	584
+
+************************
+4
+1496	6	584
+1496	6	584
+
+************************
+496	6	584
+1496	6	584
+1531	6	584
+
+************************
+496	6	584
+1531	6	584
+1535	6	584
+
+************************
+531	6	584
+1535	6	584
+1565	6	584
+
+************************
+
+1535	6	584
+1565	6	584
+1601	6	584
+
+************************
+
+1565	6	584
+1601	6	584
+1602	6	584
+
+************************
+
+1601	6	584
+1602	6	584
+1613	6	584
+
+************************
+
+1602	6	584
+1613	6	584
+1614	6	584
+
+************************
+
+1613	6	584
+1614	6	584
+1626	6	584
+
+************************
+
+1614	6	584
+1626	6	584
+1641	6	584
+
+************************
+4
+1626	6	584
+1641	6	584
+
+************************
+626	6	584
+1641	6	584
+1787	6	584
+
+************************
+641	6	584
+1787	6	584
+1788	6	584
+
+************************
+	6	584
+1787	6	584
+1788	6	584
+205	6	584
+
+************************
+87	6	584
+1788	6	584
+205	6	584
+
+************************
+	6	584
+1788	6	584
+205	6	584
+224	6	584
+
+************************
+88	6	584
+205	6	584
+224	6	584
+249	6	584
+288	6	584
+316	6	584
+381	6	584
+398	6	584
+
+************************
+6	6	584
+381	6	584
+398	6	584
+
+************************
+
+381	6	584
+398	6	584
+11	6	584
+
+************************
+	6	584
+398	6	584
+11	6	584
+404	6	584
+
+************************
+
+398	6	584
+11	6	584
+404	6	584
+410	6	584
+
+************************
+1	6	584
+404	6	584
+410	6	584
+
+************************
+
+404	6	584
+410	6	584
+463	6	584
+464	6	584
+
+************************
+0	6	584
+463	6	584
+464	6	584
+
+************************
+
+463	6	584
+464	6	584
+483	6	584
+
+************************
+4
+464	6	584
+483	6	584
+483	6	584
+
+************************
+4
+483	6	584
+483	6	584
+483	6	584
+
+************************
+3	6	584
+483	6	584
+483	6	584
+
+************************
+
+483	6	584
+483	6	584
+3184	6	584
+
+************************
+3	6	584
+483	6	584
+3184	6	584
+
+************************
+
+483	6	584
+3184	6	584
+3184	6	584
+
+************************
+3	6	584
+3184	6	584
+3184	6	584
+
+************************
+
+3184	6	584
+3184	6	584
+3188	6	584
+
+************************
+4	6	584
+3184	6	584
+3188	6	584
+
+************************
+4
+3184	6	584
+3188	6	584
+584	6	584
+
+************************
+4	6	584
+3188	6	584
+584	6	584
+
+************************
+4
+3188	6	584
+584	6	584
+584	6	584
+
+************************
+8	6	584
+584	6	584
+584	6	584
+584	6	584
+600	6	584
+669	6	584
+680	6	584
+680	6	584
+691	6	584
+763	6	584
+763	6	584
+799	6	584
+
+************************
+63	6	584
+763	6	584
+799	6	584
+
+
+************************
+63	6	584
+799	6	584
+
+
+************************
+99	6	584
+
+
+************************
+
+************************
+Document:  CACM-1283.html
+************************
+
+
+matrix inversion (algorithm 231 [f1])
+
+cacm april, 1965
+
+ferring, m.
+
+ca650408 jb march 7, 1978  3:53 pm
+
+1283	5	1283
+
+************************
+, 1978  3:53 pm
+
+1283	5	1283
+
+************************
+  3:53 pm
+
+1283	5	1283
+1283	5	1283
+
+************************
+3	5	1283
+1283	5	1283
+1283	5	1283
+
+************************
+3
+1283	5	1283
+1283	5	1283
+
+************************
+3	5	1283
+1283	5	1283
+
+
+************************
+3
+1283	5	1283
+
+
+************************
+3	5	1283
+
+
+************************
+
+************************
+Document:  CACM-2119.html
+************************
+
+
+derivatives (algorithm 282 $s22))
+
+cacm january, 1970
+
+gautschi, w.
+klein, 
+************************
+
+
+gautschi, w.
+klein, b. j.
+
+recursive computation, successive derivatives, error control
+
+5.11 5.12
+
+ca700112 jb february 
+************************
+1 5.12
+
+ca700112 jb february 14, 1978  1:45 pm
+
+1909	4	2119
+
+************************
+, 1978  1:45 pm
+
+1909	4	2119
+
+************************
+  1:45 pm
+
+1909	4	2119
+2119	4	2119
+
+************************
+5 pm
+
+1909	4	2119
+2119	4	2119
+2119	4	2119
+
+************************
+	2119
+2119	4	2119
+2119	4	2119
+2149	4	2119
+
+************************
+	2119
+2119	4	2119
+2149	4	2119
+1023	5	2119
+
+************************
+	2119
+2149	4	2119
+1023	5	2119
+
+************************
+9	4	2119
+1023	5	2119
+2119	5	2119
+
+************************
+19
+1023	5	2119
+2119	5	2119
+2119	5	2119
+2119	5	2119
+2129	5	2119
+2404	5	2119
+2119	6	2119
+
+************************
+04	5	2119
+2119	6	2119
+
+
+************************
+
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  the basic purpose 
+of the paper is to provide a useful perspective from
+which the utility of various hardware facilities 
+may be assessed.  a brief survey of storage allocation
+facilities in several representative computer 
+systems is included as an appendix.
+
+cacm may, 1968
+
+randell, b.
+kuehner, 
+************************
+
+
+randell, b.
+kuehner, c. j.
+
+segmentation, paging, multiprogramming, storage
+allocation, storage management, virtual memories, 
+storage fragmentation, storage hierarchies, addressing mechanisms
+
+4.30 6.20
+
+ca680502 jb february 23, 1978  9:49 am
+
+1754	4	1754
+
+************************
+8  9:49 am
+
+1754	4	1754
+1754	4	1754
+
+************************
+54	4	1754
+1754	4	1754
+2358	4	1754
+
+************************
+54
+1754	4	1754
+2358	4	1754
+
+************************
+54	4	1754
+2358	4	1754
+488	4	1754
+
+************************
+54
+2358	4	1754
+488	4	1754
+274	5	1754
+
+************************
+54
+488	4	1754
+274	5	1754
+1754	5	1754
+
+************************
+54
+274	5	1754
+1754	5	1754
+
+************************
+4	5	1754
+1754	5	1754
+1754	5	1754
+
+************************
+54
+1754	5	1754
+1754	5	1754
+
+************************
+54	5	1754
+1754	5	1754
+1754	5	1754
+
+************************
+54
+1754	5	1754
+1754	5	1754
+
+************************
+54	5	1754
+1754	5	1754
+1879	5	1754
+
+************************
+54
+1754	5	1754
+1879	5	1754
+
+************************
+54	5	1754
+1879	5	1754
+1884	5	1754
+
+************************
+54
+1879	5	1754
+1884	5	1754
+
+************************
+79	5	1754
+1884	5	1754
+1901	5	1754
+
+************************
+84	5	1754
+1901	5	1754
+376	5	1754
+
+************************
+54
+1901	5	1754
+376	5	1754
+
+************************
+901	5	1754
+376	5	1754
+2095	5	1754
+
+************************
+54
+376	5	1754
+2095	5	1754
+
+************************
+6	5	1754
+2095	5	1754
+2277	5	1754
+
+************************
+54
+2095	5	1754
+2277	5	1754
+2297	5	1754
+
+************************
+54
+2277	5	1754
+2297	5	1754
+
+************************
+7	5	1754
+2297	5	1754
+2365	5	1754
+
+************************
+754
+2297	5	1754
+2365	5	1754
+168	6	1754
+
+************************
+754
+2365	5	1754
+168	6	1754
+185	6	1754
+
+************************
+754
+168	6	1754
+185	6	1754
+
+************************
+68	6	1754
+185	6	1754
+987	6	1754
+
+************************
+54
+185	6	1754
+987	6	1754
+1728	6	1754
+
+************************
+5	6	1754
+987	6	1754
+1728	6	1754
+
+************************
+54
+987	6	1754
+1728	6	1754
+1728	6	1754
+
+************************
+	6	1754
+1728	6	1754
+1728	6	1754
+
+************************
+54
+1728	6	1754
+1728	6	1754
+
+************************
+28	6	1754
+1728	6	1754
+1751	6	1754
+
+************************
+54
+1728	6	1754
+1751	6	1754
+
+************************
+28	6	1754
+1751	6	1754
+1751	6	1754
+
+************************
+54
+1751	6	1754
+1751	6	1754
+
+************************
+51	6	1754
+1751	6	1754
+1751	6	1754
+
+************************
+54
+1751	6	1754
+1751	6	1754
+
+************************
+51	6	1754
+1751	6	1754
+1754	6	1754
+
+************************
+54
+1751	6	1754
+1754	6	1754
+
+************************
+51	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1754	6	1754
+
+************************
+54
+1754	6	1754
+1754	6	1754
+
+************************
+54	6	1754
+1754	6	1754
+1879	6	1754
+
+************************
+54
+1754	6	1754
+1879	6	1754
+
+************************
+54	6	1754
+1879	6	1754
+1924	6	1754
+
+************************
+54
+1879	6	1754
+1924	6	1754
+
+************************
+79	6	1754
+1924	6	1754
+2362	6	1754
+
+************************
+
+1924	6	1754
+2362	6	1754
+
+
+************************
+54
+2362	6	1754
+
+
+************************
+
+************************
+Document:  CACM-0015.html
+************************
+
+
+recursive curve fitting technique
+
+cacm august, 1958
+
+giblin, j.
+
+ca580803 
+************************
+
+
+giblin, j.
+
+ca580803 jb march 22, 1978  9:02 pm
+
+15	5	15
+15	5	15
+
+************************
+8  9:02 pm
+
+15	5	15
+15	5	15
+15	5	15
+
+************************
+5	5	15
+15	5	15
+15	5	15
+75	5	15
+15	6	15
+94	6	15
+
+************************
+5	5	15
+15	6	15
+94	6	15
+
+
+************************
+
+************************
+Document:  CACM-0469.html
+************************
+
+
+critical path scheduling (algorithm 40)
+
+cacm october, 1962
+
+hellberg, l.
+
+ca621011 jb march 17, 1978  7:15 pm
+
+469	5	469
+
+************************
+, 1978  7:15 pm
+
+469	5	469
+
+************************
+  7:15 pm
+
+469	5	469
+469	5	469
+
+************************
+
+************************
+Document:  CACM-0030.html
+************************
+
+
+algorithm for analyzing logical statements
+to produce a truth function table
+
+cacm march, 1958
+
+wolpe, h.
+
+ca580302 
+************************
+
+
+wolpe, h.
+
+ca580302 jb march 22, 1978  9:20 pm
+
+30	5	30
+30	5	30
+
+************************
+
+************************
+Document:  CACM-1230.html
+************************
+
+
+method for hyphenating at the end of a printed line
+
+a description of a method of hyphenation is
+presented as a result of application of several 
+general rules.  the character sets considered by the
+routine and the method are briefly outlined.
+
+cacm july, 1965
+
+rich, r. p.
+stone, a. g.
+
+ca650705 jb march 6, 1978  9:03 pm
+
+1230	5	1230
+
+************************
+
+************************
+Document:  CACM-3118.html
+************************
+
+
+permutation of data blocks in a bubble memory
+
+a common internal organization of bubble memories consists of a set of (minor) 
+loops, connected through another (major) loop.  the problem of obtaining any 
+give n permutation of the minor loop contents in minimum time is studied
+in this paper.  a lower bound to the number of steps required buy
+a permutation algorithm is derived, and the class of optimum algorithms is 
+identified.
+
+cacm january, 1979
+
+bongiovanni, g.
+luccio, 
+************************
+9
+
+bongiovanni, g.
+luccio, f.
+
+bubble memory, memory loops, permutation algorithm, data block shift
+
+4.34 5.30 6.34
+
+ca790103 
+************************
+.34 5.30 6.34
+
+ca790103 dh april 10, 1979 
+************************
+90103 dh april 10, 1979  12:04 pm
+
+3118	5	3118
+3118	5	3118
+3118	5	3118
+
+************************
+	5	3118
+3118	5	3118
+3118	5	3118
+
+************************
+
+3118	5	3118
+3118	5	3118
+
+
+************************
+	5	3118
+3118	5	3118
+
+
+************************
+
+3118	5	3118
+
+
+************************
+	5	3118
+
+
+************************
+
+************************
+Document:  CACM-0118.html
+************************
+
+
+character scanning on the ibm 7070
+
+cacm november, 1960
+
+speckhard, a. e.
+
+************************
+960
+
+speckhard, a. e.
+
+ca601117 jb march 20, 1978  6:52 pm
+
+118	5	118
+
+************************
+  6:52 pm
+
+118	5	118
+118	5	118
+118	5	118
+
+************************
+	5	118
+118	5	118
+118	5	118
+
+************************
+
+118	5	118
+118	5	118
+
+
+************************
+	5	118
+118	5	118
+
+
+************************
+
+118	5	118
+
+
+************************
+	5	118
+
+
+************************
+
+************************
+Document:  CACM-0306.html
+************************
+
+
+invrs (algorithm 66)
+
+cacm july, 1961
+
+caffery, j.
+
+ca610711 jb march 16, 1978 
+************************
+11 jb march 16, 1978  10:19 pm
+
+306	5	306
+
+************************
+
+************************
+Document:  CACM-0248.html
+************************
+
+
+what is proprietary in mathematical programming?-impressions
+of a panel discussion
+
+a panel discussion on "what is proprietary
+in mathematical programming?" was sponsored by the 
+special interest committee on mathematical programming
+of the acm during a hall of discussion/on september 
+7th at the 16th national acm meeting in los angeles.  this
+note consists solely of the impressions garnered 
+by the moderator of the panel and does not necessarily
+represent the position of any of the panelists 
+or other participants in the discussion.
+
+cacm december, 1961
+
+smith, l. w.
+
+ca611202 jb march 15, 1978  10:31 pm
+
+248	5	248
+248	5	248
+248	5	248
+
+************************
+8	5	248
+248	5	248
+248	5	248
+
+************************
+8
+248	5	248
+248	5	248
+
+
+************************
+8	5	248
+248	5	248
+
+
+************************
+8
+248	5	248
+
+
+************************
+8	5	248
+
+
+************************
+
+************************
+Document:  CACM-1415.html
+************************
+
+
+automatic derivation of microsentences
+
+the decomposition of long complex english sentences
+into shorter kernel-like constituent sentences 
+(microsentences)has often been suggested as an avenue
+toward conducting automatic retrieval of natural 
+language messages.  to explore the prospects of such
+a step, the authors attempted in 1963 to prepare 
+a general program for deriving microsentences from longer
+sentences that had been syntactically analyzed 
+by the harvard multipath analysis program.  the basic
+idea was to extract the subject, verb and object 
+(if any) of each clause and to reassemble these materials
+into a grammatical microsentence.  a program 
+is described in this paper, which was designed to operate
+on the tree structure output of the analyzer, 
+and the microsentences that were produced are exhibited.
+ the authors conclude that while microsentences 
+of the quality achieved do not open up immediate prospects
+for improving the performance of automatic 
+message retrieval systems, they may have practical
+value in man-machine systems using human monitors 
+to select the preferred syntactic interpretation of a sentence.
+
+cacm june, 1966
+
+carmody, b. t
+jones jr., p. e.
+
+ca660606 jb march 3, 1978  8:47 am
+
+1415	5	1415
+
+************************
+  8:47 am
+
+1415	5	1415
+1415	5	1415
+
+************************
+ am
+
+1415	5	1415
+1415	5	1415
+
+************************
+15	5	1415
+1415	5	1415
+1415	5	1415
+
+************************
+15
+1415	5	1415
+1415	5	1415
+
+************************
+15	5	1415
+1415	5	1415
+
+
+************************
+15
+1415	5	1415
+
+
+************************
+15	5	1415
+
+
+************************
+
+************************
+Document:  CACM-0612.html
+************************
+
+
+permute (algorithm 86)
+
+cacm april, 1962
+
+peck, j. e. l.
+schrack, 
+************************
+962
+
+peck, j. e. l.
+schrack, g. f.
+
+ca620405 jb march 20, 1978  2:21 pm
+
+3188	5	612
+
+************************
+  2:21 pm
+
+3188	5	612
+612	5	612
+612	5	612
+
+************************
+8	5	612
+612	5	612
+612	5	612
+
+************************
+2
+612	5	612
+612	5	612
+612	5	612
+1594	6	612
+612	6	612
+
+
+************************
+
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+programmer-defined data types data types and generic
+routines, programmer control over type conversion, 
+and very flexible data type behavior, in a context that
+allows efficient compiled code and compact data 
+representation.
+
+cacm may, 1974
+
+wegbreit, b.
+
+data 
+************************
+
+
+wegbreit, b.
+
+data types, modes, mode unions, type conversion,
+coercion, generic functions, extensible languages, 
+data type definition, data description language, compilation
+
+4.12 4.13 4.22
+
+ca740502 
+************************
+2 4.13 4.22
+
+ca740502 jb january 
+************************
+3 4.22
+
+ca740502 jb january 17, 
+************************
+40502 jb january 17, 1978  4:32 pm
+
+2651	5	2651
+
+************************
+, 1978  4:32 pm
+
+2651	5	2651
+
+************************
+  4:32 pm
+
+2651	5	2651
+2651	5	2651
+2651	5	2651
+2723	5	2651
+2941	5	2651
+
+************************
+23	5	2651
+2941	5	2651
+2956	5	2651
+
+************************
+1	5	2651
+2956	5	2651
+3030	5	2651
+1379	6	2651
+1471	6	2651
+1549	6	2651
+
+************************
+71	6	2651
+1549	6	2651
+1749	6	2651
+
+************************
+	6	2651
+1549	6	2651
+1749	6	2651
+1826	6	2651
+
+************************
+49	6	2651
+1826	6	2651
+210	6	2651
+
+************************
+26	6	2651
+210	6	2651
+2247	6	2651
+2356	6	2651
+2356	6	2651
+
+************************
+	6	2651
+2356	6	2651
+2356	6	2651
+2457	6	2651
+2558	6	2651
+2651	6	2651
+2651	6	2651
+
+************************
+	6	2651
+2651	6	2651
+2651	6	2651
+2651	6	2651
+2651	6	2651
+2958	6	2651
+2972	6	2651
+627	6	2651
+731	6	2651
+
+************************
+2	6	2651
+627	6	2651
+731	6	2651
+
+
+************************
+	6	2651
+731	6	2651
+
+
+************************
+
+************************
+Document:  CACM-2691.html
+************************
+
+
+comments on the algorithms of verhelst for the
+conversion of limited-entry decision tables to 
+flowcharts
+
+cacm january, 1974
+
+king, p. j. h.
+johnson, 
+************************
+
+
+king, p. j. h.
+johnson, r. g.
+
+decision table, flowcharting, preprocessor, optimal programs, search 
+
+3.50 3.59 4.19 4.29 4.49 5.31
+
+ca740108 jb january 18, 1978 
+************************
+ jb january 18, 1978  1:45 pm
+
+2598	4	2691
+
+************************
+, 1978  1:45 pm
+
+2598	4	2691
+
+************************
+  1:45 pm
+
+2598	4	2691
+2691	4	2691
+2726	4	2691
+3113	4	2691
+
+************************
+26	4	2691
+3113	4	2691
+2263	5	2691
+
+************************
+
+3113	4	2691
+2263	5	2691
+2598	5	2691
+2691	5	2691
+2691	5	2691
+
+************************
+	5	2691
+2691	5	2691
+2691	5	2691
+2691	5	2691
+3113	5	2691
+1172	6	2691
+1354	6	2691
+1548	6	2691
+2220	6	2691
+2263	6	2691
+
+************************
+	6	2691
+2220	6	2691
+2263	6	2691
+2263	6	2691
+2453	6	2691
+2598	6	2691
+
+************************
+53	6	2691
+2598	6	2691
+2691	6	2691
+2691	6	2691
+
+************************
+	6	2691
+2691	6	2691
+2691	6	2691
+2856	6	2691
+
+
+************************
+
+************************
+Document:  CACM-0364.html
+************************
+
+
+on the compilation of subscripted variables 
+
+cacm april, 1961
+
+nather, r. e.
+
+ca610404 jb march 17, 1978  12:10 am
+
+222	4	364
+
+************************
+, 1978  12:10 am
+
+222	4	364
+
+************************
+  12:10 am
+
+222	4	364
+224	4	364
+267	4	364
+1134	4	364
+1139	4	364
+1141	4	364
+1141	4	364
+1215	4	364
+1223	4	364
+1647	4	364
+1781	4	364
+1787	4	364
+1792	4	364
+
+************************
+1	4	364
+1787	4	364
+1792	4	364
+364	4	364
+
+************************
+87	4	364
+1792	4	364
+364	4	364
+364	4	364
+
+************************
+792	4	364
+364	4	364
+364	4	364
+364	4	364
+364	4	364
+364	4	364
+405	4	364
+405	4	364
+438	4	364
+438	4	364
+561	4	364
+44	4	364
+763	4	364
+
+************************
+	4	364
+44	4	364
+763	4	364
+100	5	364
+224	5	364
+364	5	364
+
+************************
+00	5	364
+224	5	364
+364	5	364
+364	5	364
+364	5	364
+44	5	364
+77	5	364
+98	5	364
+
+
+************************
+7	5	364
+98	5	364
+
+
+************************
+
+************************
+Document:  CACM-2925.html
+************************
+
+
+optimal surface reconstruction from planar contours
+
+in many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  this paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+this surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  a new fast algorithm for finding such
+cycles is utilized.  also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  an illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.
+
+cacm october, 1977
+
+fuchs, h.
+kedem,z. 
+************************
+7
+
+fuchs, h.
+kedem,z. m.
+uselton, s. p.
+
+surface reconstruction, contour data, serial sections,
+three-dimensional computer graphics, minimum 
+cost paths, continuous tone displays
+
+5.25 5.32 8.2
+
+ca771001 jb december 27, 1977 
+************************
+001 jb december 27, 1977  12:40 pm
+
+2925	5	2925
+
+************************
+, 1977  12:40 pm
+
+2925	5	2925
+
+************************
+7  12:40 pm
+
+2925	5	2925
+
+************************
+
+************************
+Document:  CACM-0556.html
+************************
+
+
+on translation of boolean expressions
+
+cacm july, 1972
+
+bottenbirruch, h. h
+grau, a. a.
+
+ca620705 jb march 17, 1978  8:52 pm
+
+1139	4	556
+1947	4	556
+556	4	556
+
+************************
+	556
+1947	4	556
+556	4	556
+799	4	556
+
+************************
+	4	556
+556	4	556
+799	4	556
+399	5	556
+556	5	556
+
+************************
+
+************************
+Document:  CACM-0591.html
+************************
+
+
+evaluation of asymptotic expression for the
+fresnel sine and cosine integrals (algorithm 88)
+
+cacm may, 1962
+
+cundiff, j. l.
+
+ca620514 jb march 20, 1978  1:37 pm
+
+591	5	591
+
+************************
+8  1:37 pm
+
+591	5	591
+591	5	591
+
+************************
+:37 pm
+
+591	5	591
+591	5	591
+591	5	591
+
+************************
+
+************************
+Document:  CACM-1427.html
+************************
+
+
+simulation of radioisotope scans by computer
+
+in radioisotope scanning, a field which is assuming
+increasing importance in medical diagnosis, 
+the scan is a two-dimensional pattern made up of dots.
+ areas of increased source activity are represented 
+on the scan by areas of increased dot density.  to study
+the output of scanners with various characteristics, 
+a program which simulates radioisotope scans has been
+written  for a pdp-1 computer with auxiliary disk 
+storage and cathode ray tube display.  past and present
+research using the output of the simulator has 
+shown the flexibility of the system to be important.
+ the structure of this program can be useful in 
+the simulation of the output of any quantum-limited system.
+
+cacm may, 1966
+
+pizer, s. m.
+
+ca660510 jb march 3, 1978  9:47 am
+
+1427	5	1427
+
+************************
+  9:47 am
+
+1427	5	1427
+1427	5	1427
+
+************************
+ am
+
+1427	5	1427
+1427	5	1427
+
+************************
+27	5	1427
+1427	5	1427
+1427	5	1427
+
+************************
+27
+1427	5	1427
+1427	5	1427
+
+************************
+27	5	1427
+1427	5	1427
+
+
+************************
+27
+1427	5	1427
+
+
+************************
+27	5	1427
+
+
+************************
+
+************************
+Document:  CACM-1801.html
+************************
+
+
+analysis of variance for balanced experiments (algorithm 367 [g2])
+
+cacm december, 1969
+
+claringbold, p. 
+************************
+969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance, regression
+analysis, experimental design, balanced 
+experiment, missing data, interblock estimate, intra block estimate
+
+5.14 5.5
+
+ca691211 jb february 15, 1978  2:14 pm
+
+1801	4	1801
+
+************************
+  2:14 pm
+
+1801	4	1801
+1801	5	1801
+
+************************
+01	4	1801
+1801	5	1801
+1801	5	1801
+
+************************
+01
+1801	5	1801
+1801	5	1801
+
+************************
+01	5	1801
+1801	5	1801
+1801	5	1801
+
+************************
+01
+1801	5	1801
+1801	5	1801
+
+************************
+01	5	1801
+1801	5	1801
+1802	5	1801
+
+************************
+01
+1801	5	1801
+1802	5	1801
+
+************************
+01	5	1801
+1802	5	1801
+
+
+************************
+01
+1802	5	1801
+
+
+************************
+02	5	1801
+
+
+************************
+
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, 
+************************
+
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+systems, software measurement, user program 
+measurement, measurement technology, tx-2 computer,
+virtual computers, performance improvement
+
+4.30 4.32 4.42 4.43
+
+ca711005 jb february 2, 1978 
+************************
+1005 jb february 2, 1978  1:05 pm
+
+1957	4	2151
+
+************************
+  1:05 pm
+
+1957	4	2151
+2151	4	2151
+2151	4	2151
+2151	4	2151
+2318	4	2151
+3103	4	2151
+3148	4	2151
+
+************************
+	4	2151
+3103	4	2151
+3148	4	2151
+1653	5	2151
+1747	5	2151
+1860	5	2151
+
+************************
+47	5	2151
+1860	5	2151
+2151	5	2151
+
+************************
+	5	2151
+1860	5	2151
+2151	5	2151
+
+************************
+60	5	2151
+2151	5	2151
+2151	5	2151
+2151	5	2151
+2719	5	2151
+2967	5	2151
+
+************************
+19	5	2151
+2967	5	2151
+1626	6	2151
+210	6	2151
+
+************************
+	5	2151
+1626	6	2151
+210	6	2151
+2151	6	2151
+2151	6	2151
+2167	6	2151
+2210	6	2151
+2645	6	2151
+2657	6	2151
+
+************************
+5	6	2151
+2657	6	2151
+
+
+************************
+
+************************
+Document:  CACM-0026.html
+************************
+
+
+a subroutine method for calculating logarithms
+
+cacm may, 1958
+
+bemer, r. w.
+
+ca580502 
+************************
+
+
+bemer, r. w.
+
+ca580502 jb march 22, 1978  9:16 pm
+
+26	5	26
+26	5	26
+
+************************
+8  9:16 pm
+
+26	5	26
+26	5	26
+
+************************
+6 pm
+
+26	5	26
+26	5	26
+26	5	26
+848	5	26
+26	6	26
+35	6	26
+
+************************
+
+************************
+Document:  CACM-1984.html
+************************
+
+
+tableless date conversion $z) (algorithm 398)
+
+cacm october, 1970
+
+stone, r. a.
+
+date, 
+************************
+
+
+stone, r. a.
+
+date, calendar
+
+5.9
+
+ca701006 jb february 10, 1978  9:25 am
+
+1984	5	1984
+1984	5	1984
+1984	5	1984
+
+************************
+	5	1984
+1984	5	1984
+1984	5	1984
+
+************************
+
+1984	5	1984
+1984	5	1984
+
+
+************************
+	5	1984
+1984	5	1984
+
+
+************************
+
+1984	5	1984
+
+
+************************
+	5	1984
+
+
+************************
+
+************************
+Document:  CACM-2374.html
+************************
+
+
+a study of storage partitioning using a mathematical model of locality
+
+both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  the storage requirement of programs is modeled
+as a stationary gaussian process.  experiments 
+justifying this model are described.  by means of this
+model dynamic storage partitioning is shown to 
+provide substantial increases in storage utilization
+and operating efficiency over fixed partitioning. 
+
+cacm march, 1972
+
+coffman jr., e. g.
+
+************************
+2
+
+coffman jr., e. g.
+ryan jr., t. a.
+
+storage partitioning, memory management, dynamic
+storage allocation, space sharing, multiprogrammed 
+storage, working-sets, program behavior models, mathematical modeling
+
+4.32 4.39
+
+ca720307 jb january 31, 1978  2:29 pm
+
+1892	4	2374
+
+************************
+  2:29 pm
+
+1892	4	2374
+1924	4	2374
+
+************************
+92	4	2374
+1924	4	2374
+2095	4	2374
+2218	4	2374
+2297	4	2374
+2374	4	2374
+
+************************
+	4	2374
+2297	4	2374
+2374	4	2374
+2374	4	2374
+2374	4	2374
+2380	4	2374
+2450	4	2374
+2481	4	2374
+2526	4	2374
+2595	4	2374
+
+************************
+	4	2374
+2526	4	2374
+2595	4	2374
+2667	4	2374
+2668	4	2374
+2669	4	2374
+2862	4	2374
+2863	4	2374
+2863	4	2374
+2996	4	2374
+3006	4	2374
+3016	4	2374
+3052	4	2374
+
+************************
+6	4	2374
+3052	4	2374
+3067	4	2374
+1728	5	2374
+1901	5	2374
+
+************************
+728	5	2374
+1901	5	2374
+2373	5	2374
+
+************************
+901	5	2374
+2373	5	2374
+2374	5	2374
+
+************************
+
+2373	5	2374
+2374	5	2374
+2374	5	2374
+2374	5	2374
+2450	5	2374
+3006	5	2374
+3067	5	2374
+1410	6	2374
+1751	6	2374
+1751	6	2374
+1751	6	2374
+1810	6	2374
+1884	6	2374
+
+************************
+10	6	2374
+1884	6	2374
+1951	6	2374
+
+************************
+84	6	2374
+1951	6	2374
+2374	6	2374
+
+************************
+	6	2374
+1951	6	2374
+2374	6	2374
+
+************************
+
+1951	6	2374
+2374	6	2374
+2374	6	2374
+
+************************
+
+2374	6	2374
+2374	6	2374
+2374	6	2374
+
+************************
+	6	2374
+2374	6	2374
+2374	6	2374
+
+************************
+
+2374	6	2374
+2374	6	2374
+2374	6	2374
+
+************************
+	6	2374
+2374	6	2374
+2374	6	2374
+
+************************
+
+2374	6	2374
+2374	6	2374
+2373	6	2374
+
+************************
+	6	2374
+2374	6	2374
+2373	6	2374
+
+************************
+
+2374	6	2374
+2373	6	2374
+2373	6	2374
+
+************************
+	6	2374
+2373	6	2374
+2373	6	2374
+
+************************
+
+2373	6	2374
+2373	6	2374
+2373	6	2374
+2595	6	2374
+2595	6	2374
+2682	6	2374
+2863	6	2374
+
+************************
+2	6	2374
+2863	6	2374
+2864	6	2374
+
+************************
+
+2863	6	2374
+2864	6	2374
+3006	6	2374
+
+************************
+
+2864	6	2374
+3006	6	2374
+
+
+************************
+4
+3006	6	2374
+
+
+************************
+
+************************
+Document:  CACM-0074.html
+************************
+
+
+a high-speed sorting procedure
+
+cacm july, 1959
+
+shell, d. l.
+
+ca590704 jb march 22, 1978  6:20 pm
+
+1919	5	74
+
+************************
+  6:20 pm
+
+1919	5	74
+74	5	74
+74	5	74
+74	5	74
+
+************************
+
+74	5	74
+74	5	74
+74	5	74
+
+************************
+	5	74
+74	5	74
+74	5	74
+852	5	74
+
+************************
+
+74	5	74
+74	5	74
+852	5	74
+
+************************
+	5	74
+74	5	74
+852	5	74
+864	5	74
+
+************************
+
+74	5	74
+852	5	74
+864	5	74
+
+************************
+	5	74
+852	5	74
+864	5	74
+865	5	74
+
+************************
+
+852	5	74
+864	5	74
+865	5	74
+864	6	74
+
+************************
+
+864	5	74
+865	5	74
+864	6	74
+1175	6	74
+
+************************
+4
+865	5	74
+864	6	74
+1175	6	74
+
+************************
+65	5	74
+864	6	74
+1175	6	74
+232	6	74
+
+************************
+
+864	6	74
+1175	6	74
+232	6	74
+
+************************
+4
+1175	6	74
+232	6	74
+232	6	74
+
+************************
+175	6	74
+232	6	74
+232	6	74
+
+************************
+5	6	74
+232	6	74
+232	6	74
+308	6	74
+
+************************
+
+232	6	74
+232	6	74
+308	6	74
+309	6	74
+
+************************
+
+232	6	74
+308	6	74
+309	6	74
+309	6	74
+
+************************
+
+308	6	74
+309	6	74
+309	6	74
+74	6	74
+
+************************
+
+309	6	74
+309	6	74
+74	6	74
+74	6	74
+
+************************
+
+309	6	74
+74	6	74
+74	6	74
+74	6	74
+
+************************
+
+74	6	74
+74	6	74
+74	6	74
+
+************************
+	6	74
+74	6	74
+74	6	74
+74	6	74
+
+************************
+
+74	6	74
+74	6	74
+74	6	74
+
+************************
+	6	74
+74	6	74
+74	6	74
+3187	6	74
+
+************************
+
+74	6	74
+74	6	74
+3187	6	74
+
+************************
+	6	74
+74	6	74
+3187	6	74
+
+
+************************
+
+74	6	74
+3187	6	74
+
+
+************************
+	6	74
+3187	6	74
+
+
+************************
+
+3187	6	74
+
+
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization an
+d retrieval of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication table method yields far more rapid retrieval
+with a more economical space requirement than conventional systems.  
+moreover this method incorporates an improved modification of the inverted 
+file technique.
+
+cacm march, 1979
+
+motzkin, d.
+
+information 
+************************
+9
+
+motzkin, d.
+
+information retrieval, inverted files, multiattribute retrieval,
+multilist file, normal multiplication table, queries,
+rapid retrieval, space economy
+
+3.70 3.73 3.79
+
+ca790305 dh may 21, 1979  9:46 am
+
+2140	4	3134
+2452	4	3134
+
+************************
+6 am
+
+2140	4	3134
+2452	4	3134
+
+************************
+0	4	3134
+2452	4	3134
+2575	4	3134
+
+************************
+34
+2452	4	3134
+2575	4	3134
+2765	4	3134
+
+************************
+34
+2575	4	3134
+2765	4	3134
+2901	4	3134
+
+************************
+34
+2765	4	3134
+2901	4	3134
+2966	4	3134
+
+************************
+34
+2901	4	3134
+2966	4	3134
+3134	4	3134
+3134	4	3134
+3134	4	3134
+3134	4	3134
+1976	5	3134
+2160	5	3134
+
+************************
+6	5	3134
+2160	5	3134
+2524	5	3134
+
+************************
+
+2160	5	3134
+2524	5	3134
+2990	5	3134
+
+************************
+
+2524	5	3134
+2990	5	3134
+3134	5	3134
+
+************************
+34
+2990	5	3134
+3134	5	3134
+3134	5	3134
+
+************************
+34
+3134	5	3134
+3134	5	3134
+
+************************
+34	5	3134
+3134	5	3134
+3134	5	3134
+
+************************
+34
+3134	5	3134
+3134	5	3134
+
+************************
+34	5	3134
+3134	5	3134
+
+
+************************
+34
+3134	5	3134
+
+
+************************
+34	5	3134
+
+
+************************
+
+************************
+Document:  CACM-2670.html
+************************
+
+
+efficient implementation of a variable projection
+algorithm for nonlinear least squares problems
+
+nonlinear least squares frequently arise for which
+the variables to be solved for can be separated 
+into a linear and a nonlinear part.  a variable projection
+algorithm has been developed recently which 
+is designed to take advantage of the structure of a problem
+whose variables separate in this way.  this 
+paper gives a slightly more efficient and slightly more
+general version of this algorithm than has appeared 
+earlier.
+
+cacm march, 1974
+
+krogh, f. t.
+
+nonlinear 
+************************
+
+
+krogh, f. t.
+
+nonlinear least squares, parameter estimation, variable projection
+
+5.14 5.15
+
+ca740313 jb january 
+************************
+ 5.15
+
+ca740313 jb january 18, 1978 
+************************
+0313 jb january 18, 1978  10:49 am
+
+2670	5	2670
+
+************************
+, 1978  10:49 am
+
+2670	5	2670
+
+************************
+  10:49 am
+
+2670	5	2670
+2670	5	2670
+
+************************
+
+************************
+Document:  CACM-2758.html
+************************
+
+
+a note on the lu factorization of a symmetric matrix
+
+cacm may, 1975
+
+evans, d. j.
+hatzopoulos, m.
+
+symmetric matrices, factorization, test matrices,
+matrix inversion, separable systems
+
+5.14
+
+ca750509 jb january 9, 1978  2:26 pm
+
+2758	5	2758
+
+************************
+  2:26 pm
+
+2758	5	2758
+2758	5	2758
+2758	5	2758
+
+************************
+	5	2758
+2758	5	2758
+2758	5	2758
+
+************************
+
+2758	5	2758
+2758	5	2758
+
+
+************************
+	5	2758
+2758	5	2758
+
+
+************************
+
+2758	5	2758
+
+
+************************
+	5	2758
+
+
+************************
+
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of lp algorithms.  other lp applications are indicated.
+
+cacm july, 1969
+
+fox, b. l.
+
+linear programming, revised simplex
+method, multiple pricing, inner product
+
+5.19 5.41
+
+ca690707 jb february 17, 19789:08 
+************************
+07 jb february 17, 19789:08 am
+
+1873	5	1873
+
+************************
+7, 19789:08 am
+
+1873	5	1873
+
+************************
+9789:08 am
+
+1873	5	1873
+
+************************
+9:08 am
+
+1873	5	1873
+1873	5	1873
+
+************************
+873	5	1873
+1873	5	1873
+
+************************
+3	5	1873
+1873	5	1873
+1873	5	1873
+
+************************
+3
+1873	5	1873
+1873	5	1873
+
+************************
+3	5	1873
+1873	5	1873
+
+
+************************
+3
+1873	5	1873
+
+
+************************
+3	5	1873
+
+
+************************
+
+************************
+Document:  CACM-1497.html
+************************
+
+
+on the normalization requirement of
+divisor in divide- and- correct methods
+
+this paper presents an analysis on the normalization
+requirement of the divisor in a divide-and-correct 
+method.  this analysis is made subject to the condition
+that not more than one correction is required 
+to obtain the true quotient character, from the trial
+estimate got from the division of a two-precision 
+segment of every partial remainder by a suitably rounded
+single-precision divisor.  (this segmented division 
+is denoted here as a (2, 1) precision basic division.)
+ it is found that the normalization requirement 
+could be narrowed down to a smaller range of divisors,
+provided the magnitude of the character next to 
+the leading character of the divisor is known.  if,
+however, the normalization is to be eliminated one 
+has to choose proper higher precision segments of operands
+for the basic division.  also considered is 
+the possibility of eliminating the normalization by an
+increase on the number of corrections on the quotient 
+estimate got from a (2, 1) precision basic division.
+ it is shown that such a scheme is economical only 
+for small radices.
+
+cacm december, 1967
+
+krishnamurthy, e. v.
+nandi, s. k.
+
+ca671210 jb february 26, 1978  2:15 pm
+
+1026	4	1497
+1258	4	1497
+1258	4	1497
+
+************************
+	1497
+1258	4	1497
+1258	4	1497
+
+************************
+97
+1258	4	1497
+1258	4	1497
+
+************************
+258	4	1497
+1258	4	1497
+1292	4	1497
+
+************************
+497
+1258	4	1497
+1292	4	1497
+
+************************
+258	4	1497
+1292	4	1497
+1292	4	1497
+
+************************
+497
+1292	4	1497
+1292	4	1497
+
+************************
+292	4	1497
+1292	4	1497
+1497	4	1497
+
+************************
+497
+1292	4	1497
+1497	4	1497
+
+************************
+292	4	1497
+1497	4	1497
+1497	4	1497
+
+************************
+497
+1497	4	1497
+1497	4	1497
+
+************************
+497	4	1497
+1497	4	1497
+1497	4	1497
+
+************************
+497
+1497	4	1497
+1497	4	1497
+
+************************
+497	4	1497
+1497	4	1497
+1497	4	1497
+
+************************
+497
+1497	4	1497
+1497	4	1497
+
+************************
+497	4	1497
+1497	4	1497
+1593	4	1497
+
+************************
+497
+1497	4	1497
+1593	4	1497
+
+************************
+497	4	1497
+1593	4	1497
+1975	4	1497
+
+************************
+497
+1593	4	1497
+1975	4	1497
+
+************************
+593	4	1497
+1975	4	1497
+1975	4	1497
+
+************************
+497
+1975	4	1497
+1975	4	1497
+
+************************
+975	4	1497
+1975	4	1497
+2605	4	1497
+
+************************
+497
+1975	4	1497
+2605	4	1497
+
+************************
+975	4	1497
+2605	4	1497
+107	5	1497
+
+************************
+497
+2605	4	1497
+107	5	1497
+1026	5	1497
+
+************************
+497
+107	5	1497
+1026	5	1497
+
+************************
+07	5	1497
+1026	5	1497
+1292	5	1497
+
+************************
+97
+1026	5	1497
+1292	5	1497
+
+************************
+026	5	1497
+1292	5	1497
+1497	5	1497
+
+************************
+97
+1292	5	1497
+1497	5	1497
+
+************************
+292	5	1497
+1497	5	1497
+1497	5	1497
+
+************************
+97
+1497	5	1497
+1497	5	1497
+
+************************
+97	5	1497
+1497	5	1497
+1497	5	1497
+
+************************
+97
+1497	5	1497
+1497	5	1497
+
+************************
+97	5	1497
+1497	5	1497
+1593	5	1497
+
+************************
+97
+1497	5	1497
+1593	5	1497
+
+************************
+97	5	1497
+1593	5	1497
+1975	5	1497
+
+************************
+97
+1593	5	1497
+1975	5	1497
+
+************************
+593	5	1497
+1975	5	1497
+1026	6	1497
+
+************************
+97
+1975	5	1497
+1026	6	1497
+
+************************
+975	5	1497
+1026	6	1497
+1292	6	1497
+
+************************
+97
+1026	6	1497
+1292	6	1497
+
+************************
+026	6	1497
+1292	6	1497
+1497	6	1497
+
+************************
+97
+1292	6	1497
+1497	6	1497
+
+************************
+292	6	1497
+1497	6	1497
+
+
+************************
+97
+1497	6	1497
+
+
+************************
+97	6	1497
+
+
+************************
+
+************************
+Document:  CACM-1454.html
+************************
+
+
+a simple user-oriented compiler source language
+for programming automatic test equipment
+
+for the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  a simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  the language described in this paper is
+used to write computer programs which test electronic 
+equipment.  because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ a simple and direct language will suffice for the 
+problem.  the eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or significant programming
+training.  for this nonprogramming-oriented 
+user, it was essential to create a language using familiar
+engineering statements; programming-oriented 
+conventions would have unnecessarily complicated his task.
+
+cacm april, 1966
+
+scheff, b. h.
+
+ca660401 jb march 3, 1978  11:09 am
+
+1454	5	1454
+
+************************
+  11:09 am
+
+1454	5	1454
+1454	5	1454
+
+************************
+54	5	1454
+1454	5	1454
+1454	5	1454
+
+************************
+454
+1454	5	1454
+1454	5	1454
+
+************************
+454	5	1454
+1454	5	1454
+
+
+************************
+454
+1454	5	1454
+
+
+************************
+454	5	1454
+
+
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+primary record.  the model that is presented in 
+this paper, both as a nonlinear programming model and
+a mixed integer programming model, is a very general 
+one; several types of file systems may be derived from
+it by an appropriate selection of its parameters. 
+ this model has already been used in the optimization of
+library routines' storage at a large scale operating 
+system.
+
+cacm january, 1977
+
+babad, j. m.
+
+file 
+************************
+7
+
+babad, j. m.
+
+file system, file design, file partitioning, record partitioning
+
+3.73
+
+ca770103 jb january 3, 1978 
+************************
+03 jb january 3, 1978  12:28 am
+
+3002	5	3002
+
+************************
+  12:28 am
+
+3002	5	3002
+3002	5	3002
+
+************************
+ am
+
+3002	5	3002
+3002	5	3002
+3002	5	3002
+3168	5	3002
+2965	6	3002
+3002	6	3002
+
+************************
+
+************************
+Document:  CACM-2083.html
+************************
+
+
+creation and control of internal data bases
+under a fortran programming environment
+
+a method is described for the definition of a user's common structure
+and the automatic generation of the necessary common, dimension, equivalence,
+and type declarations for each of the user's routines.  the definition
+for the common is contained in an easy to modify form, thus
+allowing the control of general communications of data between routines.
+the described system has been implemented on the ibm 7094,
+cdc 6000 series, and the ibm 360.  the method has proved to be invaluable
+for the definition and control of common in many large-scale programs.
+
+cacm april, 1970
+
+desalvio, a. j.
+purdy, 
+************************
+
+
+desalvio, a. j.
+purdy, j. g.
+rau, j.
+
+data base, fortran, common, common equivalencing,
+subroutine communication, data communication
+
+3.73 4.12 4.43
+
+ca700401 jb 
+************************
+.12 4.43
+
+ca700401 jb february 
+************************
+.43
+
+ca700401 jb february 13, 1978  3:34 pm
+
+1086	4	2083
+
+************************
+  3:34 pm
+
+1086	4	2083
+1132	4	2083
+1234	4	2083
+1263	4	2083
+1265	4	2083
+1270	4	2083
+1323	4	2083
+
+************************
+0	4	2083
+1323	4	2083
+1358	4	2083
+1379	4	2083
+1380	4	2083
+
+************************
+9	4	2083
+1380	4	2083
+1453	4	2083
+1464	4	2083
+1484	4	2083
+1491	4	2083
+1498	4	2083
+1613	4	2083
+1614	4	2083
+1781	4	2083
+1825	4	2083
+
+************************
+81	4	2083
+1825	4	2083
+1845	4	2083
+1860	4	2083
+1900	4	2083
+2083	4	2083
+2083	4	2083
+2154	4	2083
+2178	4	2083
+2179	4	2083
+
+************************
+8	4	2083
+2179	4	2083
+2252	4	2083
+
+************************
+9	4	2083
+2252	4	2083
+2270	4	2083
+2325	4	2083
+2341	4	2083
+2546	4	2083
+2645	4	2083
+
+************************
+	4	2083
+2546	4	2083
+2645	4	2083
+2652	4	2083
+2684	4	2083
+2693	4	2083
+2842	4	2083
+2929	4	2083
+2934	4	2083
+3069	4	2083
+669	4	2083
+679	4	2083
+691	4	2083
+761	4	2083
+949	4	2083
+
+************************
+	4	2083
+761	4	2083
+949	4	2083
+
+************************
+61	4	2083
+949	4	2083
+989	4	2083
+
+************************
+3
+949	4	2083
+989	4	2083
+988	5	2083
+
+************************
+3
+989	4	2083
+988	5	2083
+2083	5	2083
+
+************************
+	2083
+988	5	2083
+2083	5	2083
+2083	5	2083
+2083	5	2083
+3184	5	2083
+
+
+************************
+
+************************
+Document:  CACM-2349.html
+************************
+
+
+generation of random correlated normal variables [g5] (algorithm a425)
+
+cacm may, 1972
+
+hurst, r. l.
+knop, 
+************************
+2
+
+hurst, r. l.
+knop, r. e.
+
+random number, normal density, normal distribution,
+gaussian density, gaussian distribution, simulation, 
+monte carlo
+
+5.5
+
+ca720511 jb january 31, 1978  9:35 am
+
+1663	4	2349
+2057	4	2349
+2349	4	2349
+
+************************
+	2349
+2057	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2349	4	2349
+2565	4	2349
+1648	5	2349
+1716	5	2349
+
+************************
+648	5	2349
+1716	5	2349
+1794	5	2349
+
+************************
+16	5	2349
+1794	5	2349
+1894	5	2349
+
+************************
+94	5	2349
+1894	5	2349
+2043	5	2349
+
+************************
+94	5	2349
+2043	5	2349
+2349	5	2349
+2349	5	2349
+2349	5	2349
+501	5	2349
+613	5	2349
+774	5	2349
+
+
+************************
+74	5	2349
+
+
+************************
+
+************************
+Document:  CACM-1268.html
+************************
+
+
+logarithm of a complex number (algorithm 243 [b3])
+
+cacm may, 1965
+
+boothroyd, j.
+
+ca650502 jb march 7, 1978  3:11 pm
+
+1268	5	1268
+
+************************
+  3:11 pm
+
+1268	5	1268
+1268	5	1268
+1268	5	1268
+
+************************
+	5	1268
+1268	5	1268
+1268	5	1268
+
+************************
+
+1268	5	1268
+1268	5	1268
+1858	5	1268
+
+************************
+	5	1268
+1268	5	1268
+1858	5	1268
+
+************************
+
+1268	5	1268
+1858	5	1268
+1268	6	1268
+
+************************
+	5	1268
+1858	5	1268
+1268	6	1268
+
+************************
+
+1858	5	1268
+1268	6	1268
+
+************************
+58	5	1268
+1268	6	1268
+1857	6	1268
+
+************************
+268
+1268	6	1268
+1857	6	1268
+
+************************
+268	6	1268
+1857	6	1268
+
+
+************************
+268
+1857	6	1268
+
+
+************************
+857	6	1268
+
+
+************************
+
+************************
+Document:  CACM-1104.html
+************************
+
+
+an undergraduate curriculum in numerical analysis
+
+cacm april, 1964
+
+forsythe, 
+************************
+
+
+cacm april, 1964
+
+forsythe, g. e.
+
+ca640404 jb march 10, 1978  1:51 am
+
+1104	5	1104
+
+************************
+  1:51 am
+
+1104	5	1104
+1104	5	1104
+1104	5	1104
+1205	5	1104
+1100	6	1104
+1104	6	1104
+1107	6	1104
+68	6	1104
+
+
+************************
+	6	1104
+
+
+************************
+
+************************
+Document:  CACM-1339.html
+************************
+
+
+a contribution to the development of algol
+
+cacm december, 1966
+
+wirth, n.
+hoare, c. a. r.
+
+ca661210 jb march 30, 1978  9:13 am
+
+1339	5	1339
+
+************************
+
+************************
+Document:  CACM-2307.html
+************************
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process. 
+ methods are described for an automatic query modification
+based on user needs, and for a continuous 
+reorganization of the stored information as a function of
+earlier file processing and of normal collection 
+growth.  the proposed procedures provide powerful tools
+for information retrieval and for the control 
+of dynamic library collections in which new items
+are continually added and old ones are retired.
+
+cacm july, 1972
+
+salton, g.
+
+automatic indexing, automatic search and retrieval,
+iterative searching, mechanized library processing, 
+collection growth, collection retirement, feedback search
+
+3.62 3.71 3.73 3.74
+
+ca720721 jb january 30, 1978  10:59 am
+
+2307	5	2307
+
+************************
+  10:59 am
+
+2307	5	2307
+2307	5	2307
+2307	5	2307
+
+************************
+
+************************
+Document:  CACM-0185.html
+************************
+
+
+multiprogram scheduling parts 1 and 2.  introduction and theory*
+
+in order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ the scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ the construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+with respect to each other.  a concise 
+scheduling algorithm is described which tends to minimize
+the time for executing the entire pending workload 
+(or any subset of it), subject to external constraints
+such as precedence, urgency, etc.  the algorithm 
+is applicable to a wide class of machines.
+
+cacm june, 1960
+
+codd, e. f.
+
+ca600605 jb march 20, 1978  9:46 pm
+
+185	5	185
+
+************************
+  9:46 pm
+
+185	5	185
+185	5	185
+185	5	185
+
+************************
+5	5	185
+185	5	185
+185	5	185
+
+************************
+5
+185	5	185
+185	5	185
+1713	5	185
+
+************************
+5	5	185
+185	5	185
+1713	5	185
+
+************************
+5
+185	5	185
+1713	5	185
+1901	5	185
+
+************************
+5	5	185
+1713	5	185
+1901	5	185
+
+************************
+5
+1713	5	185
+1901	5	185
+491	5	185
+
+************************
+13	5	185
+1901	5	185
+491	5	185
+
+************************
+5
+1901	5	185
+491	5	185
+168	6	185
+
+************************
+5
+491	5	185
+168	6	185
+168	6	185
+
+************************
+5
+168	6	185
+168	6	185
+168	6	185
+
+************************
+	6	185
+168	6	185
+168	6	185
+
+************************
+5
+168	6	185
+168	6	185
+185	6	185
+
+************************
+	6	185
+168	6	185
+185	6	185
+
+************************
+5
+168	6	185
+185	6	185
+185	6	185
+185	6	185
+196	6	185
+1751	6	185
+1754	6	185
+46	6	185
+
+************************
+51	6	185
+1754	6	185
+46	6	185
+
+************************
+5
+1754	6	185
+46	6	185
+
+
+************************
+5
+46	6	185
+
+
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major components of every
+programming language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently from list processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+cacm february, 1966
+
+raphael, b.
+
+ca660202 jb march 3, 1978  3:46 pm
+
+1024	4	1485
+
+************************
+  3:46 pm
+
+1024	4	1485
+1051	4	1485
+1098	4	1485
+1214	4	1485
+1380	4	1485
+1388	4	1485
+1393	4	1485
+1485	4	1485
+1487	4	1485
+1549	4	1485
+1570	4	1485
+
+************************
+	4	1485
+1549	4	1485
+1570	4	1485
+
+************************
+485
+1549	4	1485
+1570	4	1485
+
+************************
+5
+1549	4	1485
+1570	4	1485
+1878	4	1485
+
+************************
+5
+1570	4	1485
+1878	4	1485
+1946	4	1485
+
+************************
+5
+1878	4	1485
+1946	4	1485
+
+************************
+8	4	1485
+1946	4	1485
+1957	4	1485
+
+************************
+485
+1946	4	1485
+1957	4	1485
+
+************************
+5
+1946	4	1485
+1957	4	1485
+2168	4	1485
+
+************************
+5
+1957	4	1485
+2168	4	1485
+2723	4	1485
+
+************************
+5
+2168	4	1485
+2723	4	1485
+2857	4	1485
+
+************************
+	1485
+2723	4	1485
+2857	4	1485
+
+************************
+85
+2723	4	1485
+2857	4	1485
+3112	4	1485
+
+************************
+485
+2857	4	1485
+3112	4	1485
+1485	5	1485
+
+************************
+485
+3112	4	1485
+1485	5	1485
+
+************************
+5
+3112	4	1485
+1485	5	1485
+1485	5	1485
+
+************************
+5
+1485	5	1485
+1485	5	1485
+
+************************
+85	5	1485
+1485	5	1485
+1485	5	1485
+
+************************
+85
+1485	5	1485
+1485	5	1485
+
+************************
+85	5	1485
+1485	5	1485
+731	5	1485
+
+************************
+85
+1485	5	1485
+731	5	1485
+
+************************
+85	5	1485
+731	5	1485
+
+
+************************
+85
+731	5	1485
+
+
+************************
+
+************************
+Document:  CACM-2087.html
+************************
+
+
+a number system for the permutations
+
+cacm march, 1970
+
+pager, d.
+
+permutation, 
+************************
+
+
+pager, d.
+
+permutation, ordering, number, number system, p-number, combinatorial
+
+4.49 5.39
+
+ca700311 jb february 13, 1978 
+************************
+1 jb february 13, 1978  3:42 pm
+
+2087	4	2087
+
+************************
+  3:42 pm
+
+2087	4	2087
+2189	4	2087
+3188	4	2087
+
+************************
+	4	2087
+2189	4	2087
+3188	4	2087
+
+************************
+
+2189	4	2087
+3188	4	2087
+
+************************
+9	4	2087
+3188	4	2087
+1594	5	2087
+
+************************
+
+3188	4	2087
+1594	5	2087
+
+************************
+8	4	2087
+1594	5	2087
+2087	5	2087
+
+************************
+
+1594	5	2087
+2087	5	2087
+2087	5	2087
+
+************************
+
+2087	5	2087
+2087	5	2087
+2087	5	2087
+
+************************
+	5	2087
+2087	5	2087
+2087	5	2087
+
+************************
+
+2087	5	2087
+2087	5	2087
+2189	5	2087
+
+************************
+	5	2087
+2087	5	2087
+2189	5	2087
+
+************************
+
+2087	5	2087
+2189	5	2087
+1594	6	2087
+
+************************
+	5	2087
+2189	5	2087
+1594	6	2087
+
+************************
+
+2189	5	2087
+1594	6	2087
+
+************************
+9	5	2087
+1594	6	2087
+2087	6	2087
+
+************************
+594	6	2087
+2087	6	2087
+3191	6	2087
+
+************************
+
+2087	6	2087
+3191	6	2087
+521	6	2087
+
+************************
+	6	2087
+3191	6	2087
+521	6	2087
+
+************************
+
+3191	6	2087
+521	6	2087
+
+
+************************
+
+521	6	2087
+
+
+************************
+
+************************
+Document:  CACM-1971.html
+************************
+
+
+recorded magnetic tape for information interchange (1600
+cpi, phase encoded)* (proposed american national standard)
+
+cacm november, 1970
+
+input-output, magnetic tape, information interchange,
+measurement, instrumentation, phase encoded recording 
+
+2.49 6.35
+
+ca701107 jb february 9, 1978  4:49 pm
+
+1971	5	1971
+1971	5	1971
+1971	5	1971
+
+************************
+	5	1971
+1971	5	1971
+1971	5	1971
+
+************************
+
+1971	5	1971
+1971	5	1971
+
+
+************************
+	5	1971
+1971	5	1971
+
+
+************************
+
+1971	5	1971
+
+
+************************
+	5	1971
+
+
+************************
+
+************************
+Document:  CACM-0035.html
+************************
+
+
+a machine method for square-root computation
+
+cacm january, 1958
+
+bemer, r. w.
+
+ca580101 
+************************
+
+
+bemer, r. w.
+
+ca580101 jb march 22, 1978 
+************************
+01 jb march 22, 1978  9:27 pm
+
+35	5	35
+35	5	35
+
+************************
+  9:27 pm
+
+35	5	35
+35	5	35
+35	5	35
+848	5	35
+26	6	35
+35	6	35
+
+************************
+
+************************
+Document:  CACM-2244.html
+************************
+
+
+product type trapezoidal integration (algorithm a436)
+
+cacm december, 1972
+
+boland, w. r.
+
+numerical 
+************************
+2
+
+boland, w. r.
+
+numerical integration, product type quadrature, trapezoidal integration
+
+5.16
+
+ca721211 jb january 27, 1978  9:11 am
+
+2244	5	2244
+2244	5	2244
+
+************************
+
+************************
+Document:  CACM-1614.html
+************************
+
+
+a proposal for definitions in algol
+
+an extension to algol is proposed for adding
+new data types and operators to the language. 
+ definitions may occur in any block heading and terminate
+with the block.  they are an integral part 
+of the program and are not fixed in the language.  even
+the behavior of existing operators may be redefined. 
+ the processing of text containing defined contexts features
+a "replacement rule" that eliminates unnecessary 
+iterations and temporary storage.  examples of definition sets
+are given for real and complex matrices, 
+complex numbers, file 
+************************
+, 
+complex numbers, file processing, and list manipulation.
+
+cacm april, 1967
+
+galler, b. a.
+perlis, 
+************************
+
+
+galler, b. a.
+perlis, a. j.
+
+ca670401 jb february 28, 1978  11:43 am
+
+1086	4	1614
+
+************************
+, 1978  11:43 am
+
+1086	4	1614
+
+************************
+  11:43 am
+
+1086	4	1614
+1132	4	1614
+1234	4	1614
+1263	4	1614
+1265	4	1614
+1270	4	1614
+1323	4	1614
+
+************************
+0	4	1614
+1323	4	1614
+1358	4	1614
+
+************************
+614
+1323	4	1614
+1358	4	1614
+
+************************
+
+1323	4	1614
+1358	4	1614
+1379	4	1614
+1380	4	1614
+
+************************
+9	4	1614
+1380	4	1614
+1453	4	1614
+1464	4	1614
+1484	4	1614
+1491	4	1614
+1498	4	1614
+1613	4	1614
+1614	4	1614
+1614	4	1614
+1781	4	1614
+1825	4	1614
+
+************************
+81	4	1614
+1825	4	1614
+1860	4	1614
+2083	4	1614
+2178	4	1614
+2179	4	1614
+
+************************
+8	4	1614
+2179	4	1614
+2252	4	1614
+
+************************
+614
+2179	4	1614
+2252	4	1614
+2253	4	1614
+2325	4	1614
+2341	4	1614
+2546	4	1614
+2557	4	1614
+2645	4	1614
+2652	4	1614
+2684	4	1614
+2842	4	1614
+
+************************
+4	4	1614
+2842	4	1614
+2929	4	1614
+2934	4	1614
+3069	4	1614
+669	4	1614
+679	4	1614
+691	4	1614
+761	4	1614
+
+************************
+9	4	1614
+691	4	1614
+761	4	1614
+
+************************
+614
+691	4	1614
+761	4	1614
+949	4	1614
+989	4	1614
+1614	5	1614
+
+************************
+9	4	1614
+1614	5	1614
+1614	5	1614
+1614	5	1614
+1693	5	1614
+1781	5	1614
+1824	5	1614
+
+************************
+1	5	1614
+1824	5	1614
+1861	5	1614
+
+************************
+24	5	1614
+1861	5	1614
+2126	5	1614
+
+************************
+61	5	1614
+2126	5	1614
+437	5	1614
+
+************************
+
+2126	5	1614
+437	5	1614
+3184	5	1614
+823	6	1614
+
+************************
+	5	1614
+3184	5	1614
+823	6	1614
+123	6	1614
+
+************************
+4	5	1614
+823	6	1614
+123	6	1614
+
+************************
+614
+823	6	1614
+123	6	1614
+
+************************
+
+823	6	1614
+123	6	1614
+196	6	1614
+
+************************
+
+123	6	1614
+196	6	1614
+196	6	1614
+919	6	1614
+990	6	1614
+1007	6	1614
+1046	6	1614
+1131	6	1614
+
+************************
+	6	1614
+1046	6	1614
+1131	6	1614
+
+************************
+
+1046	6	1614
+1131	6	1614
+
+************************
+6	6	1614
+1131	6	1614
+1139	6	1614
+
+************************
+
+1131	6	1614
+1139	6	1614
+1140	6	1614
+1149	6	1614
+1198	6	1614
+1215	6	1614
+1223	6	1614
+
+************************
+	6	1614
+1215	6	1614
+1223	6	1614
+
+************************
+
+1215	6	1614
+1223	6	1614
+1265	6	1614
+1303	6	1614
+1323	6	1614
+1358	6	1614
+1358	6	1614
+1366	6	1614
+
+************************
+	6	1614
+1358	6	1614
+1366	6	1614
+1421	6	1614
+
+************************
+	6	1614
+1366	6	1614
+1421	6	1614
+1421	6	1614
+1460	6	1614
+1462	6	1614
+1463	6	1614
+1467	6	1614
+1468	6	1614
+1477	6	1614
+1477	6	1614
+
+************************
+	6	1614
+1477	6	1614
+1477	6	1614
+
+************************
+7	6	1614
+1477	6	1614
+1491	6	1614
+
+************************
+614
+1477	6	1614
+1491	6	1614
+
+************************
+
+1477	6	1614
+1491	6	1614
+
+************************
+7	6	1614
+1491	6	1614
+1491	6	1614
+
+************************
+614
+1491	6	1614
+1491	6	1614
+1496	6	1614
+1531	6	1614
+1535	6	1614
+1565	6	1614
+1601	6	1614
+1602	6	1614
+1613	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1626	6	1614
+1641	6	1614
+1693	6	1614
+1781	6	1614
+1781	6	1614
+
+************************
+1	6	1614
+1781	6	1614
+1787	6	1614
+
+************************
+81	6	1614
+1787	6	1614
+1788	6	1614
+
+************************
+87	6	1614
+1788	6	1614
+205	6	1614
+
+************************
+	6	1614
+1788	6	1614
+205	6	1614
+
+************************
+88	6	1614
+205	6	1614
+224	6	1614
+
+************************
+
+205	6	1614
+224	6	1614
+249	6	1614
+
+************************
+
+224	6	1614
+249	6	1614
+288	6	1614
+
+************************
+614
+249	6	1614
+288	6	1614
+
+************************
+
+249	6	1614
+288	6	1614
+316	6	1614
+381	6	1614
+
+************************
+8	6	1614
+316	6	1614
+381	6	1614
+
+************************
+614
+316	6	1614
+381	6	1614
+
+************************
+
+316	6	1614
+381	6	1614
+398	6	1614
+11	6	1614
+
+************************
+1	6	1614
+398	6	1614
+11	6	1614
+404	6	1614
+
+************************
+	6	1614
+11	6	1614
+404	6	1614
+
+************************
+
+11	6	1614
+404	6	1614
+404	6	1614
+404	6	1614
+408	6	1614
+410	6	1614
+463	6	1614
+
+************************
+	6	1614
+410	6	1614
+463	6	1614
+464	6	1614
+483	6	1614
+3184	6	1614
+
+************************
+3	6	1614
+3184	6	1614
+3188	6	1614
+
+************************
+4	6	1614
+3188	6	1614
+584	6	1614
+
+************************
+614
+3188	6	1614
+584	6	1614
+
+************************
+
+3188	6	1614
+584	6	1614
+600	6	1614
+
+************************
+8	6	1614
+584	6	1614
+600	6	1614
+
+************************
+614
+584	6	1614
+600	6	1614
+
+************************
+
+584	6	1614
+600	6	1614
+680	6	1614
+
+************************
+	6	1614
+600	6	1614
+680	6	1614
+691	6	1614
+763	6	1614
+
+************************
+0	6	1614
+691	6	1614
+763	6	1614
+799	6	1614
+
+************************
+63	6	1614
+799	6	1614
+
+
+************************
+99	6	1614
+
+
+************************
+
+************************
+Document:  CACM-1246.html
+************************
+
+
+deeply nested iterations 
+
+cacm june, 1965
+
+korphage, r. r.
+
+ca650609 jb march 6, 1978  10:15 pm
+
+1246	5	1246
+
+************************
+  10:15 pm
+
+1246	5	1246
+1246	5	1246
+
+************************
+6	5	1246
+1246	5	1246
+1246	5	1246
+
+************************
+6
+1246	5	1246
+1246	5	1246
+
+************************
+6	5	1246
+1246	5	1246
+
+
+************************
+6
+1246	5	1246
+
+
+************************
+6	5	1246
+
+
+************************
+
+************************
+Document:  CACM-1655.html
+************************
+
+
+code extension procedures for information
+interchange* (proposed usa standard)
+
+cacm december, 1968
+
+standard code, code, 
+************************
+
+
+standard code, code, information interchange, characters,
+shift out, shift in, escape, data link 
+escape, control functions, standard procedures,
+code extension, code table, bit pattern
+
+1.0 2.0 2.43 3.20 3.24 3.50 3.51 3.52 3.53 3.54 3.55 3.56 3.57 3.70 3.71 3.72 
+3.73, 3.74, 3.75, 3.80, 3.81, 3.82, 3.83, 
+************************
+0, 3.81, 3.82, 3.83, 5.0, 5.1, 
+************************
+, 3.82, 3.83, 5.0, 5.1, 6.2, 6.21, 6.22
+
+ca681211 
+************************
+, 6.2, 6.21, 6.22
+
+ca681211 jb february 21, 
+************************
+1211 jb february 21, 1978  12:16 pm
+
+1655	5	1655
+
+************************
+
+************************
+Document:  CACM-0263.html
+************************
+
+
+library loading with alternate routine selection
+
+cacm november, 1961
+
+moore, d. p.
+
+ca611105 jb march 15, 1978  10:55 pm
+
+263	5	263
+
+************************
+
+************************
+Document:  CACM-2919.html
+************************
+
+
+the programmer's workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  it is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered.  in this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated to that purpose.  such a computer
+is here called a programmer's workbench.  the four 
+basic sections of the paper in troduce the subject,outline
+the general concept, discuss areas where such 
+an approach may prove beneficial, and describe
+an operational system utilizing this concept.
+
+cacm october, 1977
+
+ivie, e. l.
+
+computer configurations, computer networks, software
+development, software engineering, software 
+main tenance, unix
+
+3.2 3.5 3.7 3.8 4.0
+
+ca771007 jb december 
+************************
+.0
+
+ca771007 jb december 27, 1977  10:37 am
+
+2626	4	2919
+2786	4	2919
+2840	4	2919
+
+************************
+6	4	2919
+2840	4	2919
+2919	4	2919
+2919	4	2919
+2919	4	2919
+3017	4	2919
+3110	4	2919
+3174	4	2919
+
+************************
+	4	2919
+3110	4	2919
+3174	4	2919
+
+************************
+9
+3110	4	2919
+3174	4	2919
+2536	5	2919
+
+************************
+4	4	2919
+2536	5	2919
+2593	5	2919
+
+************************
+
+************************
+Document:  CACM-1930.html
+************************
+
+
+extremely portable random number generator
+
+extremely portable subroutines are sometimes
+needed for which moderate quality and efficiency 
+suffice.  typically, this occurs for library functions
+(like random number generation and in core sorting) 
+which are not entirely universal or are not used in a
+standardized way.  the literature on random number 
+generators does not seem to contain an algorithm that
+meets requirements of this sort.  an extremely 
+portable 8-line fortran program is provided which based
+on an important paper by coveyou and macpherson 
+(1967)sing their methods, 
+************************
+)sing their methods, fourier analysis is applied
+to the probability function for the consecutive 
+n-tuples provided by our generator (with n less than
+or equal to 4).  while the small modulus which must 
+be used to maintain portability prevents the quality
+of the generator from being high, the generator 
+compares well with the bounds established in the above mentioned paper.
+
+cacm february, 1969
+
+kruskal, j. b.
+
+random number generators, random numbers, random
+number analysis, random generators, linear sequential 
+generators, random number program, pseudo random numbers 
+
+4.49 5.19 5.5
+
+ca690208 jb february 20, 1978  10:43 am
+
+1930	5	1930
+
+************************
+8  10:43 am
+
+1930	5	1930
+
+************************
+0:43 am
+
+1930	5	1930
+1930	5	1930
+
+************************
+
+************************
+Document:  CACM-1847.html
+************************
+
+
+an algorithm for finding a fundamental set of cycles of a graph
+
+a fast method is presented for finding a fundamental
+set of cycles for an undirected finite 
+graph.  a spanning tree is grown and the vertices examined
+in turn, unexamined vertices being stored 
+in a pushdown list to await examination.  one stage
+in the process is to take the top element v of the 
+pushdown list and examine it, i.e. inspect all those
+edges (v,z) of the graph for which z has not yet 
+been examined.  if z is already in the tree, a fundamental
+cycle is added; if not, the edge (v,z) is 
+placed in the tree.  there is exactly one such stage
+for each of the n vertices of the graph.  for large 
+n, the store required in creases as n^2 and the time as
+n^g where g depends on the type of graph involved. 
+ g is bounded below by 2 and above by 3, and it is shown
+that both bounds are attained.  in terms of 
+storage our algorithm is similar to that of gotlieb and
+corneil and superior to that of welch; in terms 
+of speed it is similar to that of welch and superior
+to that of gotlieb and corneil.  testsshow our 
+algorithm to be remarkably efficient (g=2) on random graphs.
+
+cacm september, 1969
+
+paton, k.
+
+fundamental cycle set, graph, algorithm, cycle, spanning tree
+
+5.32
+
+ca690909 jb february 15, 1978  4:29 pm
+
+1847	4	1847
+
+************************
+  4:29 pm
+
+1847	4	1847
+1961	4	1847
+
+************************
+47	4	1847
+1961	4	1847
+2052	4	1847
+
+************************
+47
+1961	4	1847
+2052	4	1847
+1504	5	1847
+
+************************
+47
+2052	4	1847
+1504	5	1847
+1847	5	1847
+
+************************
+47
+1504	5	1847
+1847	5	1847
+
+************************
+504	5	1847
+1847	5	1847
+1847	5	1847
+
+************************
+47
+1847	5	1847
+1847	5	1847
+
+************************
+47	5	1847
+1847	5	1847
+1847	5	1847
+
+************************
+47
+1847	5	1847
+1847	5	1847
+
+************************
+47	5	1847
+1847	5	1847
+1961	5	1847
+
+************************
+47
+1847	5	1847
+1961	5	1847
+
+************************
+47	5	1847
+1961	5	1847
+2177	5	1847
+
+************************
+47
+1961	5	1847
+2177	5	1847
+
+************************
+961	5	1847
+2177	5	1847
+2763	5	1847
+
+************************
+47
+2177	5	1847
+2763	5	1847
+
+************************
+
+2177	5	1847
+2763	5	1847
+
+************************
+7	5	1847
+2763	5	1847
+1369	6	1847
+
+************************
+47
+2763	5	1847
+1369	6	1847
+
+************************
+
+2763	5	1847
+1369	6	1847
+1504	6	1847
+
+************************
+47
+1369	6	1847
+1504	6	1847
+
+************************
+369	6	1847
+1504	6	1847
+1847	6	1847
+
+************************
+
+1504	6	1847
+1847	6	1847
+1847	6	1847
+
+************************
+47
+1847	6	1847
+1847	6	1847
+
+************************
+47	6	1847
+1847	6	1847
+1847	6	1847
+
+************************
+47
+1847	6	1847
+1847	6	1847
+
+************************
+47	6	1847
+1847	6	1847
+
+
+************************
+47
+1847	6	1847
+
+
+************************
+47	6	1847
+
+
+************************
+47
+
+
+************************
+
+************************
+Document:  CACM-1879.html
+************************
+
+
+a note on storage fragmentation and program segmentation
+
+the main purpose of this paper is the presentation
+of some of the results of a series of simulation 
+experiments investigating the phenomenon of storage fragmentation.
+ two different types of storage fragmentation 
+are distinguished: (1) external fragmentation, namely the
+loss in storage utilization caused by the inability 
+to make use of all available storage after it has been
+fragmented into a large number of separate blocks; 
+and (2) internal fragmentation, the loss of utilization
+caused by rounding up a request for storage, 
+rather than allocating only the exact number of words required.
+ the most striking result is the apparently 
+general rule that rounding up requests for storage,
+to reduce the number of different sizes of blocks 
+coexisting in storage, causes more loss of storage
+by increased internal fragmentation than is saved 
+by decreased external fragmentation.  described also are
+a method of segment allocation and an accompanying 
+technique for segment addressing which take advantage
+of the above result.  evidence is presented of 
+possible advantages of the method over conventional paging techniques.
+
+cacm july, 1969
+
+randell, b.
+
+storage allocation, storage fragmentation,
+paging, segmentation, addressing
+
+6.2 6.20
+
+ca690701 jb february 17, 1978  9:46 am
+
+1879	4	1879
+1884	4	1879
+
+************************
+6 am
+
+1879	4	1879
+1884	4	1879
+
+************************
+9	4	1879
+1884	4	1879
+1901	4	1879
+
+************************
+79
+1884	4	1879
+1901	4	1879
+
+************************
+84	4	1879
+1901	4	1879
+2095	4	1879
+
+************************
+879
+1901	4	1879
+2095	4	1879
+
+************************
+9
+1901	4	1879
+2095	4	1879
+2277	4	1879
+
+************************
+79
+2095	4	1879
+2277	4	1879
+2297	4	1879
+
+************************
+79
+2277	4	1879
+2297	4	1879
+2365	4	1879
+
+************************
+79
+2297	4	1879
+2365	4	1879
+1754	5	1879
+
+************************
+79
+2365	4	1879
+1754	5	1879
+1879	5	1879
+
+************************
+79
+1754	5	1879
+1879	5	1879
+1879	5	1879
+
+************************
+79
+1879	5	1879
+1879	5	1879
+
+************************
+79	5	1879
+1879	5	1879
+1879	5	1879
+
+************************
+79
+1879	5	1879
+1879	5	1879
+
+************************
+79	5	1879
+1879	5	1879
+2095	5	1879
+
+************************
+79
+1879	5	1879
+2095	5	1879
+
+************************
+79	5	1879
+2095	5	1879
+2218	5	1879
+
+************************
+79
+2095	5	1879
+2218	5	1879
+2498	5	1879
+
+************************
+79
+2218	5	1879
+2498	5	1879
+2596	5	1879
+
+************************
+	5	1879
+2498	5	1879
+2596	5	1879
+
+************************
+9
+2498	5	1879
+2596	5	1879
+2734	5	1879
+
+************************
+879
+2596	5	1879
+2734	5	1879
+
+************************
+9
+2596	5	1879
+2734	5	1879
+2902	5	1879
+
+************************
+9
+2734	5	1879
+2902	5	1879
+2911	5	1879
+
+************************
+79
+2902	5	1879
+2911	5	1879
+3000	5	1879
+
+************************
+79
+2911	5	1879
+3000	5	1879
+1051	6	1879
+
+************************
+79
+3000	5	1879
+1051	6	1879
+1062	6	1879
+
+************************
+79
+1051	6	1879
+1062	6	1879
+1184	6	1879
+
+************************
+79
+1062	6	1879
+1184	6	1879
+1184	6	1879
+
+************************
+79
+1184	6	1879
+1184	6	1879
+1211	6	1879
+
+************************
+	6	1879
+1184	6	1879
+1211	6	1879
+
+************************
+9
+1184	6	1879
+1211	6	1879
+1380	6	1879
+
+************************
+	6	1879
+1211	6	1879
+1380	6	1879
+
+************************
+9
+1211	6	1879
+1380	6	1879
+1552	6	1879
+
+************************
+9
+1380	6	1879
+1552	6	1879
+
+************************
+0	6	1879
+1552	6	1879
+1572	6	1879
+
+************************
+9
+1552	6	1879
+1572	6	1879
+1728	6	1879
+
+************************
+9
+1572	6	1879
+1728	6	1879
+1728	6	1879
+
+************************
+79
+1728	6	1879
+1728	6	1879
+
+************************
+728	6	1879
+1728	6	1879
+1751	6	1879
+
+************************
+879
+1728	6	1879
+1751	6	1879
+
+************************
+9
+1728	6	1879
+1751	6	1879
+
+************************
+28	6	1879
+1751	6	1879
+1751	6	1879
+
+************************
+879
+1751	6	1879
+1751	6	1879
+
+************************
+9
+1751	6	1879
+1751	6	1879
+
+************************
+51	6	1879
+1751	6	1879
+1754	6	1879
+
+************************
+79
+1751	6	1879
+1754	6	1879
+1752	6	1879
+
+************************
+79
+1754	6	1879
+1752	6	1879
+1810	6	1879
+
+************************
+79
+1752	6	1879
+1810	6	1879
+1879	6	1879
+
+************************
+79
+1810	6	1879
+1879	6	1879
+
+************************
+10	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+1879	6	1879
+
+************************
+9
+1879	6	1879
+1879	6	1879
+
+************************
+9	6	1879
+1879	6	1879
+273	6	1879
+
+************************
+9
+1879	6	1879
+273	6	1879
+2095	6	1879
+
+************************
+9	6	1879
+273	6	1879
+2095	6	1879
+
+************************
+9
+273	6	1879
+2095	6	1879
+2095	6	1879
+
+************************
+79
+2095	6	1879
+2095	6	1879
+2095	6	1879
+
+************************
+79
+2095	6	1879
+2095	6	1879
+2435	6	1879
+
+************************
+79
+2095	6	1879
+2435	6	1879
+2435	6	1879
+
+************************
+79
+2435	6	1879
+2435	6	1879
+2435	6	1879
+
+************************
+79
+2435	6	1879
+2435	6	1879
+2498	6	1879
+
+************************
+79
+2435	6	1879
+2498	6	1879
+2596	6	1879
+
+************************
+79
+2498	6	1879
+2596	6	1879
+2734	6	1879
+
+************************
+879
+2596	6	1879
+2734	6	1879
+
+************************
+9
+2596	6	1879
+2734	6	1879
+2734	6	1879
+
+************************
+9
+2734	6	1879
+2734	6	1879
+2747	6	1879
+
+************************
+79
+2734	6	1879
+2747	6	1879
+2768	6	1879
+
+************************
+79
+2747	6	1879
+2768	6	1879
+2773	6	1879
+
+************************
+79
+2768	6	1879
+2773	6	1879
+2864	6	1879
+
+************************
+879
+2773	6	1879
+2864	6	1879
+
+************************
+9
+2773	6	1879
+2864	6	1879
+2983	6	1879
+
+************************
+79
+2864	6	1879
+2983	6	1879
+
+
+************************
+879
+2983	6	1879
+
+
+************************
+9
+2983	6	1879
+
+
+************************
+

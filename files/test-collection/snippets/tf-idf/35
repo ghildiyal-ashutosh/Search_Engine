@@ -1,0 +1,1667 @@
+Snippets for the query:  Q35
+************************
+Total Hits:  116
+************************
+
+************************
+Document:  CACM-1737.html
+************************
+
+
+a global parser for context-free phrase structure grammars
+
+************************
+
+************************
+Document:  CACM-1073.html
+************************
+************************
+Document:  CACM-2603.html
+************************
+
+
+the equivalence of reducing transition
+languages and deterministic languages
+
+the class of reducing transition languages
+introduced by eickel, paul, bauer, and samelson 
+was shown by morris to be a proper superclass of the
+simple precedence languages.  in this paper this 
+result is extended, showing that, in fact, the first class
+is equivalent to the class of deterministic 
+context free languages.
+
+cacm september, 
+************************
+ languages.
+
+cacm september, 1974
+
+schkolnick, m.
+
+reducing transition languages, syntax controlled
+generators, deterministic context-free grammars
+
+4.12 5.23
+
+************************
+
+************************
+Document:  CACM-2061.html
+************************
+
+
+an algorithm for the construction of bounded-context parsers
+
+an algorithm is described which accepts an arbitrary context-free
+grammar and constructs 
+************************
+
+grammar and constructs a bounded-context parser for
+it whenever such a parser exists.  in the first part of the paper
+the definition of a context-free grammar and the working of a
+bounded-context parser are recalled.  the notion of reduction class for
+a context-free grammar is then introduced and its connection with
+the structure of a bounded-context parser is indicated.  next,
+pushdown automata which generate the different reduction classes
+of a context-free grammar are defined.  finally, the algorithm is described;
+it essentially carries out an exhaustive study of all possible
+runs of the pushdown automata generating the reduction classes.
+in the second part, the utility of the algorithm is discuss
+ed in the light of the experience gained from its use in compiler design.
+the algorithm is claimed to be particularly useful in the
+simultaneous design of a language and a compiler for it.
+
+cacm may, 1970
+
+loeckx, j.
+
+bounded-context parsing, bounded-context syntactic 
+************************
+, bounded-context syntactic analysis, parser 
+construction, syntactical analyzer construction, generators, compiler 
+compilers, compiler writing systems, translator writing systems metacompilers,
+context-free grammars, formal languages, pushdown automata
+
+************************
+
+************************
+Document:  CACM-1681.html
+************************
+************************
+Document:  CACM-1917.html
+************************
+
+
+an algol procedure for the fast fourier transform
+with arbitrary factors (algorithm 339 [c6])
+
+cacm march, 
+************************
+
+************************
+Document:  CACM-1921.html
+************************
+
+
+an algol convolution procedure based on the
+fast fourier transform (algorithm 345 [c6])
+
+cacm march, 
+************************
+
+************************
+Document:  CACM-2811.html
+************************
+
+
+structural pattern recognition of carotid pulse
+waves using a general waveform parsing system
+
+a general waveform 
+************************
+ system
+
+a general waveform parsing system with application
+to structural pattern recognition of carotid 
+pulse waves 
+************************
+ of carotid 
+pulse waves is described.  the carotid arterial pulse
+wave is of medical importance because of variation 
+in its structure induced by arterial aging and cardiovascular
+disease.  the syntax-driven waveform analysis 
+system has been applied with good results to these pulse
+waves to detect and measure structural variations. 
+ the waveform parsing system is modeled on a compiler-compiler
+system and allows the user to enter application 
+specific information as data.  it is thus general
+enough to be applicable to other waveforms.
+
+cacm december, 1976
+
+stockman, g.
+kanal, l.
+kyle, m. c.
+
+structural pattern recognition, parsing, waveform analysis, 
+************************
+
+************************
+Document:  CACM-2050.html
+************************
+
+
+automatic parsing for content analysis
+
+although automatic syntactic and semantic analysis is not yet possible for
+all of an unrestricted natural language text, some applications, 
+************************
+ text, some applications, of which 
+content analysis is one, do not have such a stringent coverage requirement.
+preliminary studies show that the harvard syntactic analyzer can
+produce correct and unambiguous identification of the subject and
+object of certain verbs for approximately half of the relevant occurrences. 
+this provides a degree of coverage for content analysis variables which 
+compares favorably to manual methods, in variables which compares favorably 
+to manual methods, in which only a sample of the total available text is 
+normally processed.
+
+cacm june, 1970
+
+damerau, f. j.
+
+content analysis, parsing, syntactic analysis, natural language processing,
+information 
+************************
+
+************************
+Document:  CACM-2370.html
+************************
+************************
+Document:  CACM-2481.html
+************************
+************************
+Document:  CACM-1399.html
+************************
+
+
+on top-to-bottom recognition and left recursion
+
+a procedure is given for obtaining structural
+descriptions in a context-free grammar by performing 
+************************
+ grammar by performing 
+the recognition according to a strongly equivalent, 
+left-recursion-freegrammar. the effect of 
+************************
+
+************************
+Document:  CACM-3102.html
+************************
+************************
+Document:  CACM-1569.html
+************************
+
+
+implementing phrase-structure productions in pl/i
+
+a method is described for implementing the productions
+of a context-free phrase structure grammar 
+************************
+
+************************
+Document:  CACM-2084.html
+************************
+
+
+a note on the complement of inherently ambiguous context-free languages
+
+cacm march, 1970
+
+
+************************
+s
+
+cacm march, 1970
+
+maurer, h. a.
+
+ambiguity, inherent ambiguity, complement, context-free language,
+chomsky-language, phrase 
+************************
+
+************************
+Document:  CACM-1525.html
+************************
+
+
+on computing the fast fourier transform
+
+cooley and tukey have proposed a fast algorithm
+for computing complex 
+************************
+
+for computing complex fourier transform and 
+have shown major time savings in using it to compute
+large transforms on a digital computer.  with n 
+a power of two, computing time for this algorithm is
+proportional to n log2 n, a major improvement over 
+other methods with computing time proportional to n^2.
+ in this paper, the fast fourier transform algorithm 
+************************
+ fourier transform algorithm 
+is briefly reviewed and fast difference equation 
+************************
+
+************************
+Document:  CACM-2786.html
+************************
+
+
+a system for typesetting mathematics
+
+this paper describes the design and implementation
+of a system for typesetting mathematics. 
+ the language has been designed to be easy to learn
+and to use by people (for example, secretaries and 
+mathematical typists) who know neither mathematics nor
+typesetting.  experience indicates that the language 
+can be learned in an hour or so, for it has few rules
+and fewer exceptions.  for typical expressions, 
+the size and font changes, positioning, line drawing, and
+the like necessary to print according to mathematical 
+conventions are all done automatically.  for example,
+the input sum from i=o to infinity x sub i=pi over 
+2 produces (formula).  the syntax of the language is specified
+by a small context-free grammar; a compiler-compiler 
+************************
+
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-1768.html
+************************
+
+
+a global parser for context-free phrase structure grammars
+
+an algorithm for analyzing any context-free 
+************************
+ for analyzing any context-free phrase
+structure grammar 
+************************
+ phrase
+structure grammar and for generating a program 
+which can then parse any sentence in the language (or
+indicate that the given sentence is invalid) is 
+described. the parser is of the "top-to-bottom" type
+and is recursive . a number of heuristic procedures 
+whose purpose is to shorten the basic algorithm by quickly
+ascertaining that certain substrings of the 
+input sentence cannot correspond to the target nonterminal
+symbols are included.  both the generating 
+algorithm and the parser have been implemented in rca
+snobol and have been tested successfully on a number 
+of artificial grammars and on a subset of algol.  a
+number of the routines for extracting data about 
+a grammar, such as minimum lengths of n-derivable strings
+and possible prefixes, are given and may be 
+of interest apart from their application in this particular context.
+
+cacm april, 1968
+
+
+************************
+.
+
+cacm april, 1968
+
+unger, s. h.
+
+parser, syntax-directed compiler, context-free
+grammars, syntactic 
+************************
+
+************************
+Document:  CACM-1989.html
+************************
+
+
+transition network grammars for natural language analysis
+
+the use of augmented transition network grammars for the analysis
+of natural language sentences is described.  structure-building
+actions associated with the arcs of the grammar network allow for the reordering,
+restructuring, and copying of constituents necessary to produce
+deep-structure representations of the type normally obtained from a
+transformational analysis, and conditions on the arcs allow for a
+powerful selectivity which can rule out meaningless analyses and take
+advantage of semantic information to guide the parsing.  the
+advantage of this 
+************************
+.  the
+advantage of this model for natural language analysis are discussed
+in detail and illustrated by examples.  an implementation of an
+experimental parsing system for transition 
+************************
+ system for transition network grammars is briefly 
+described.
+
+cacm october, 1970
+
+woods, w. a.
+
+computational linguistics, grammars, grammar models, linguistics,
+natural language analysis, parsing, semantic interpretation,
+
+************************
+
+************************
+Document:  CACM-1910.html
+************************
+
+
+an algorithm for solving a special class
+of tridiagonal systems of linear equations
+
+an algorithm is presented for solving a system
+of linear equation bu=k where b is tridiagonal 
+and of a special form.  it is shown that this algorithm
+is almost twice as fast as the gaussian elimination 
+************************
+
+************************
+Document:  CACM-2301.html
+************************
+
+
+generating parsers for affix grammars
+
+affix grammars are two-level grammars which
+are similar to van wijngaarden's two-level grammars 
+used in the definition of algol 68.  affix grammars are shown
+by koster to be equal in power to van wijngaarden 
+grammars.  they are much more suited to parsing than
+are the latter, however.  koster, the inventor of 
+affix based on recursive procedures.  this paper presents
+a bottom-up scheme for parsing them, based 
+on an extension of floyd production language (fpl).  included
+is an algorithm, similar to that of 
+************************
+, similar to that of deremer's, 
+for converting a large class of affix grammars into fpl.
+ the paper concludes by discussing briefly the 
+applicabilities of the conversion algorithm and affix
+grammars in general, and some possible extensions 
+to koster's definition of affix grammars.
+
+cacm august, 1972
+
+crowe, d.
+
+algorithmic language processing,bottom-up parsing,
+floyd production language, 
+************************
+,
+floyd production language, parsing, syntax 
+directed compiling, 
+************************
+
+************************
+Document:  CACM-1350.html
+************************
+
+
+the augmented predictive analyzer for context-free
+languages-its relative efficiency
+
+************************
+s-its relative efficiency
+
+it has been proven by greibach that for a given
+context-free grammar g, a standard-form 
+************************
+ grammar g, a standard-form grammar 
+gs can be constructed, which generates the same languages
+as is generated by g and whose rules are all 
+of the form z --> cy(1) ... y(m), (m >= o) where z and
+y(i) are intermediate symbols and c a terminal 
+symbol.  since the predictive analyzer at harvard uses
+a standard-form grammar, it can accept the language 
+of any context-free grammar g, given an 
+************************
+ grammar g, given an equivalent standard-form
+grammar gs.  the structural descriptions 
+sd(gs,x) assigned to a given sentence x by the predictive
+analyzer, however, are usually different from 
+the structural descriptions sd(g,x) assigned to the
+same sentence by the original context-free grammar 
+g from which gs is derived.  in section 1, an algorithm,
+originally due to abbott is described standard-form 
+grammar each of whose rules is in standard form, supplemented
+by additional information describing its 
+derivation from the original context-free grammar. 
+a technique for performing the sd(gs,x) to sd(g,x) 
+transformation effectively is also described.  in section
+2, the augmented predictive analyzer as a parsing 
+algorithm for arbitrary context-free languages is compared
+with two 
+************************
+s is compared
+with two other parsing algorithms: a selective 
+top-to-bottom 
+************************
+
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-2643.html
+************************
+
+
+the minimization of spatially-multiplexed character sets
+
+the paper describes a technique for compacting
+character sets in a digital computer while retaining 
+fast access to individual bits.  it considers the problem
+of minimizing the storage needed to contain 
+such tables.  reduction techniques are developed, and
+the problem is shown to reduce to a covering problem.
+
+cacm june, 1974
+
+gimpel, j. f.
+
+parsing, lexical analysis,scanning,
+
+************************
+
+************************
+Document:  CACM-2492.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+************************
+Document:  CACM-2908.html
+************************
+************************
+Document:  CACM-2230.html
+************************
+************************
+Document:  CACM-2644.html
+************************
+************************
+Document:  CACM-0099.html
+************************
+************************
+Document:  CACM-2215.html
+************************
+************************
+Document:  CACM-2353.html
+************************
+************************
+Document:  CACM-1335.html
+************************
+************************
+Document:  CACM-2184.html
+************************
+
+
+on the meaning of names in programming systems
+
+it is assumed that there is a similarity of
+function between the data names of a programming 
+language and the file names of an operating system.
+ the two functions are discussed in terms of the 
+same basic concepts in order to identify the extent
+to which they overlap. it is suggested that there 
+is some similarity between the idea of a file directory
+and a storable object of type context.  manipulations 
+with 
+************************
+.  manipulations 
+with contexts are then discussed at length.  it is noted
+that there is a simple extension of church's 
+lambda notation that deals nicely with these ideas of
+context manipulation.  whereas a function can be 
+regarded as the abstraction based upon the first two terms of
+the expression lambda(name list)(expression)(value list), 
+it is found that a context can be viewed as an abstraction
+based upon the first two terms in the equivalent 
+expression mu(name list)(value list)(expression).
+
+cacm july, 1971
+
+fraser, a. g.
+
+file, operating system, programming language, functions,
+names, context, 
+************************
+
+************************
+Document:  CACM-2389.html
+************************
+
+
+preliminary report on a system for general space planning
+
+a computer language and a set of programs within
+that language are described which allow the 
+formulating and solving of a class of space planning
+problems.  the language is an extension of algol 
+and includes means to represent spaces and objects, to manipulate
+them, and to test the resulting arrangements 
+according to a variety of constraints.  the algorithms
+used to solve problems 
+************************
+s
+used to solve problems expressed in this language 
+rely on heuristic programming.  both the language
+and the search algorithms are detailed.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2112.html
+************************
+
+
+translation equations
+
+input limited transduction expressions, or translation equations,
+are used to describe the syntax and left-context sensitive semantics for 
+context-free languages.  a formal procedure 
+************************
+s.  a formal procedure is given for deriving from
+a set of translation equations the specifications for a pushdown translator.
+the translator consists of mealy form finite-state automata interacting
+by means of a pushdown stack.  within the framework described string 
+recognition and parsing may be treated as special cases of the translation 
+problem.
+
+cacm february, 1970
+
+vere, s.
+
+automata, turing machines, regular expression, transduction
+expression, context-free languages, translation, recognizers,
+
+************************
+
+************************
+Document:  CACM-2476.html
+************************
+
+
+equivalence between and/or graphs and context-free grammars
+
+cacm july, 
+************************
+ grammars
+
+cacm july, 1973
+
+hall, p. a. v.
+
+artificial intelligence, and/or graphs,
+language theory, context-free grammars
+
+3.60 
+************************
+
+************************
+Document:  CACM-2110.html
+************************
+
+
+an efficient context-free parsing algorithm
+
+a parsing algorithm 
+************************
+
+
+a parsing algorithm which seems to be the 
+************************
+ which seems to be the most efficient general context-free 
+algorithm known is described. 
+************************
+ known is described.  it is similar to both knuth's lr(k) algorithm 
+and the familiar top-down algorithm.  it has a time bound proportional to 
+n^3 (where n is the length of the string being parsed) in general; it has a 
+n^2 bound for unambiguous grammars; and it runs in linear time on a large 
+class of grammars, which seems to include most practical context-free
+programming language grammars.  in an empirical 
+************************
+ grammars.  in an empirical comparison it appears
+to be superior to the top-down and bottom-up algorithms studied by griffiths 
+and petrick.
+
+cacm february, 1970
+
+earley, j.
+
+syntax analysis, parsing, context-free grammar,
+compilers, 
+************************
+
+************************
+Document:  CACM-2702.html
+************************
+
+
+on the complexity of lr(k) testing
+
+the problem of determining whether an arbitrary
+context-free grammar is a member 
+************************
+ grammar is a member of some easily 
+parsed subclass of grammars such as the lr(k) grammars
+is considered.  the time complexity of this problem 
+is analyzed both when k is considered to be a fixed
+integer and when k is considered to be a parameter 
+of the test.  in the first case, it is shown that for
+every k there exists an o(n(k+2)) algorithm for 
+testing the lr(k) property, where n is the size of the
+grammar in question.  on the other hand, if both 
+k and the subject grammar are problem parameters, then
+the complexity of the problem depends very strongly 
+on the representation chosen for k.  more specifically,
+it is shown that this problem is np-complete 
+when k is expressed in unary.  when k is expressed in
+binary the problem is complete for nondeterministic 
+exponential time.  these results carry over to many
+other parameterized classes of grammars, such as 
+the ll(k), strong ll(k), slr(k), lc(k), and strong lc(k) grammars.
+
+cacm december, 1975
+
+hunt, h. b. iii
+szymanski, t. g.
+ullman, j. d.
+
+computational complexity, context-free grammars,
+parsing, lr(k) grammars, np-complete 
+************************
+
+************************
+Document:  CACM-0281.html
+************************
+************************
+Document:  CACM-2906.html
+************************
+************************
+Document:  CACM-0204.html
+************************
+************************
+Document:  CACM-2698.html
+************************
+
+
+syntax-directed least-errors analysis for
+context-free languages: a practical approach
+
+************************
+s: a practical approach
+
+a least-errors recognizer is developed informally
+using the well-known recognizer of earley, 
+along with elements of bellman's dynamic programming.
+ the analyzer takes a general class of context-free 
+grammars as drivers, 
+************************
+ 
+grammars as drivers, and any finite string as input.
+ recognition consists of a least-errors count for 
+a corrected version of the input relative to the driver
+grammar. the algorithm design emphasizes practical 
+aspects which help in programming it.
+
+cacm january, 1974
+
+lyon, g.
+
+arbitrary input strings, context-free grammars,
+parsing, dynamic programming, 
+************************
+
+************************
+Document:  CACM-2195.html
+************************
+
+
+on the optimal detection of curves in noisy pictures
+
+a technique for recognizing systems of lines
+is presented.  in this technique the heuristic 
+of the problem is not embedded in the recognition algorithm
+but is expressed in 
+************************
+
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment. 
+************************
+s
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered by the 
+************************
+
+************************
+Document:  CACM-2733.html
+************************
+
+
+deterministic parsing of ambiguous grammars
+
+methods of describing the syntax of programming
+languages in ways that are more flexible and 
+natural than conventional bnf descriptions are considered.
+ these methods involve the use of ambiguous 
+context-free grammars together with 
+************************
+ grammars together with rules to resolve
+syntactic ambiguities.  it is shown how efficient 
+lr and ll parsers can be constructed directly from
+certain classes of these specifications.  
+
+cacm august, 1975
+
+aho, a. v.
+johnson, s. c.
+ullman, j. d.
+
+programming language specification, parser generation,
+translator writing systems, syntax analysis, 
+lr parsing, ll parsing, ambiguous 
+************************
+
+************************
+Document:  CACM-1679.html
+************************
+
+
+a fast fourier transform algorithm for real-valued series
+
+************************
+ for real-valued series
+
+a new procedure is presented for calculating the
+complex, discrete fourier transform of real-valued 
+time series.  this procedure is described for an example
+where the number of points in the series is 
+an integral power of two.  this algorithm preserves
+the order and symmetry of the cooley-turkey fast 
+fourier transform algorithm 
+************************
+ 
+fourier transform algorithm while effecting the two-to-one
+reduction in computation and storage which 
+can be achieved when the series is real.  also discussed
+are hardware and software implementations of 
+the algorithm which perform only (n/4) log2 (n/2) complex
+multiply and add operations, and which require 
+only n real storage locations in analyzing each n-point record.
+
+cacm october, 1968
+
+bergland, g. d.
+
+fast fourier transform, time 
+************************
+
+************************
+Document:  CACM-1454.html
+************************
+************************
+Document:  CACM-1162.html
+************************
+************************
+Document:  CACM-2880.html
+************************
+
+
+a fast division technique for constant divisors
+
+a fast algorithm for division by constant 
+************************
+
+************************
+Document:  CACM-2581.html
+************************
+
+
+a locally-organized parser for spoken input
+
+this paper describes lpars, a locally-organized
+parsing system, designed for use in a continuous 
+speech recognizer.  lpars processes a string of phonemes
+which contains ambiguity and error. the system 
+is locally-organized in the sense that it builds local
+parse structures from reliable word candidates 
+recognized anywhere in an input utterance.  these local
+structures are used as "islands of reliability" 
+to guide the search for more highly garbled
+words which might complete the utterance.  
+
+cacm november, 1974
+
+miller, p. l.
+
+parsing, speech recognition, speech understanding,
+
+************************
+
+************************
+Document:  CACM-0655.html
+************************
+************************
+Document:  CACM-1837.html
+************************
+
+
+an algol convolution procedure based on the
+fast fourier transform (algorithm 345 [c6])
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-2641.html
+************************
+
+
+a minimal spanning tree clustering method [z] (algorithm a479)
+
+cacm june, 1974
+
+page, r. l.
+
+clustering, pattern recognition, feature
+selection, 
+************************
+
+************************
+Document:  CACM-2971.html
+************************
+************************
+Document:  CACM-1668.html
+************************
+
+
+an algol procedure for the fast fourier transform
+with arbitrary factors (algorithm 339 [c6])
+
+cacm november, 
+************************
+
+************************
+Document:  CACM-1253.html
+************************
+************************
+Document:  CACM-2030.html
+************************
+
+
+context-sensitive parsing
+
+this paper presents a canonical form for context-sensitive
+derivations and a parsing algorithm which finds
+each context-sensitive analysis once and only once.  the amount of memory
+required by the algorithm is essentially no more than the required to 
+store a single complete derivation.  in addition, a modified
+version of the basic algorithm is presented which blocks infinite analyses 
+for grammars which contain loops.  the algorithm is
+also compared with several previous parsers for context-sensitive
+grammars and general rewriting systems, and the difference between
+the two types of analyses is discussed.  the algorithm appears to
+be complementary to an algorithm by s. kuno in several respects, including 
+the space-time trade-off and the degree of context dependence involved.
+
+cacm july, 1970
+
+woods, w. a.
+
+context-sensitive grammars, context-sensitive parsing, formal grammars,
+formal language theory, parsing, parsing algorithms, recognition algorithms
+
+3.42 5.22 
+************************
+
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions for pattern classification
+
+in two-class pattern recognition, it is a standard
+technique 
+************************
+, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+hyperplanes are tested on three data sets.  although frequently
+used practice, the modified relaxation algorithm is very poor. 
+three algorithms which are defined in the paper are found to be
+quite good.
+
+cacm march, 1979
+
+slagle, j.
+
+pattern recognition, pattern classification, 
+************************
+
+************************
+Document:  CACM-1548.html
+************************
+
+
+parsing of decision tables
+
+reduction in the size of decision tables can be
+accomplished by several techniques.  the techniques 
+considered in this paper are on the parsing of decision
+tables with regard to horizontal and vertical 
+data structures, job identity, hardware and job priorities,
+and context relationships.  such 
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+************************
+Document:  CACM-2703.html
+************************
+
+
+the intrinsically exponential complexity of
+the circularity problem for attribute grammars
+
+attribute grammars are an extension of context-free
+grammars devised by 
+************************
+
+grammars devised by knuth as a mechanism 
+for including the semantics of a context-free language
+with the syntax of the 
+************************
+
+with the syntax of the language.  the circularity 
+problem for a grammar is to determine whether the semantics
+for all possible sentences (programs) in 
+fact will be well defined.  it is proved that this problem
+is, in general, computationally intractable. 
+ specifically, it is shown that any deterministic algorithm
+which solves the problem must for infinitely 
+many cases use an exponential amount of timen improved
+version of knuth's circularity testing algorithm 
+is also given, which actually solves the problem within exponential time.
+
+cacm december, 1975
+
+jazayeri, m.
+ogden, w. f.
+rounds, w. c.
+
+attribute grammars, circularity problem, context-free
+grammars, computational 
+************************
+
+************************
+Document:  CACM-2054.html
+************************
+************************
+Document:  CACM-2287.html
+************************
+
+
+a new approach to automatic scanning of contour maps
+
+the problem of automatic digitizing of contour
+maps is discussed.  the structure of a general 
+contour map is analyzed, and its topological properties
+are utilized in developing a new scanning algorithm. 
+ the problem of detection and recognition of contour
+lines is 
+************************
+
+************************
+Document:  CACM-2836.html
+************************
+
+
+weighted derivation trees
+
+the nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  an algorithm is presented
+for constructing 
+************************
+ is presented
+for constructing the optimal derivation tree having 
+the same structure as a given weighted derivation tree.
+ in addition, the correctness of the algorithm 
+is established.  the method may be applied to problems
+involving probabilistic parsing or combinatorial 
+optimization.
+
+************************
+
+************************
+Document:  CACM-1348.html
+************************
+************************
+Document:  CACM-3176.html
+************************
+
+
+storing a sparse table
+
+the problem of storing and searching large sparse tables is ubiquitous in 
+computer science.  the standard technique for storing such tables is
+hashing, but hashing has poor worst-case performance.  we propose
+a good worst-case method for storing a static table of n entries,
+each an integer between 0 and n - 1.  the method requires 0(n) w
+words of storage and allows o(logn n) access time.  although our method
+is a little complicated to use in practice, our analysis shows
+why a simpler algorithm used for compressing lr parsing tables works so well.
+
+************************
+
+************************
+Document:  CACM-3079.html
+************************
+
+
+an algorithm for reasoning about equality
+
+a simple technique for reasoning about equalities
+that is fast and complete for ground 
+************************
+
+************************
+Document:  CACM-1400.html
+************************
+************************
+Document:  CACM-2937.html
+************************
+************************
+Document:  CACM-1012.html
+************************
+
+
+formal parsing systems
+
+automatic syntactic analysis has recently become
+important for both natural language data processing 
+and syntax-directed compilers.  a formal parsing system
+g = (v,u,t,r) consists of two finite disjoint 
+vocabularies, v and t, a many-many map, u, from v onto
+t, and a recursive set r of strings in t called 
+syntactic sentence classes.  every program for automatic
+syntactic analysis determines a formal parsing 
+system.  a directed production analyzer (i,t,x,p) is a
+nondeterministic pushdown-store machine with internal 
+vocabulary i, input vocabulary t, and all productions
+of p in the form:  (z,a) -> ay1 ... ym where  z, 
+yi are elements of the set i and a is an element of the
+set t.  every context-free language can be analyzed 
+by a directed production analyzer.  the kuno-oettinger
+multiple-path syntactic analyzer for english is 
+a concrete example of a directed production analyzer
+and of a working parsing algorithm.  the connection 
+between 
+************************
+
+************************
+Document:  CACM-2980.html
+************************
+
+
+the editing  of picture segmentations using local analysis of graphs
+
+a major problem in picture processing is the
+elimination of the large number of spurious regions 
+that result from an initial segmentation by region growing
+techniques.  such regions have been eliminated 
+either on the basis of semantic information or on the
+basis of size and contrast.  a scheme is presented 
+which performs eliminations on the basis of local properties
+of the region adjacency graph.  the scheme 
+is based on definitions of graph properties which are
+satisfied when a spurious region is present; then 
+editing is equivalent to fast graph operations.  a number of examples are shown.
+
+cacm april, 1977
+
+tanimoto, s. l.
+pavlidis, t.
+
+picture processing, pattern recognition, segmentation, region 
+************************
+
+************************
+Document:  CACM-1527.html
+************************
+
+
+a grammar base question answering procedure
+
+the subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or implicitly represented,
+through questions posed in natural language 
+sentences.  this procedure makes use of a sentence recognition
+device for the class 
+************************
+
+device for the class of grammars which 
+will correctly decide between the grammatical and ungrammatical
+sentences of a natural language.  it 
+is possible to make use of a recognition device of this
+sort 
+************************
+ device of this
+sort for the following reason: much data is fully 
+expressible as a set of sentences in a natural language,
+a set which can be exhaustively and exclusively 
+generated by a grammar.  based upon the rules of this grammar,
+a sentence recognizer will evaluate sentences, 
+questions in the normal situation.  since the recognition
+function succeeds just 
+************************
+
+************************
+Document:  CACM-2794.html
+************************
+
+
+state-space, problem-reduction, and theorem proving-some relationships
+
+this paper suggests a bidirectional relationship
+between state-space and problem-reduction 
+representations. it presents a formalism based on multiple-input
+and multiple-output operators which 
+provides a basis for viewing the two types of representations
+in this manner.  a representation of the 
+language recognition problem which is based on the cocke
+parsing algorithm is used as an illustration. 
+************************
+ is used as an illustration. 
+ a method for representing problems in first-order logic
+in such a way that the inference system employed 
+by a resolution-based theorem prover determines whether
+the set of clauses is interpreted in the state-spacer 
+mode or in the problem-reduction mode is presented.
+ the analogous concepts in problem-reduction and 
+theorem proving, and the terminology used to refer to them,
+are noted.  the relationship between problem-reduction, 
+input resolution, and linear resolution is discussed.
+
+cacm february, 1975
+
+vanderbrug, g. j.
+minker, j.
+
+artificial intelligence, state-space representation,
+problem-reduction representation, theorem 
+proving, language recognition
+
+3.64
+
+ca750205 jb january 
+************************
+
+************************
+Document:  CACM-2785.html
+************************
+
+
+glypnir-a programming language for illiac iv
+
+glypnir is one of the earliest existing languages
+designed for programming the illiac iv computer. 
+the syntax of the language is based on algol 60, but has
+been extended to allow the programmer explicitly 
+to specify the parallelism of his algorithm in terms of 64-word
+
+************************
+
+************************
+Document:  CACM-2246.html
+************************
+************************
+Document:  CACM-1178.html
+************************
+
+
+algol 60 reference language editor (algorithm 268 [r2])
+
+cacm november, 
+************************
+
+************************
+Document:  CACM-2310.html
+************************
+
+
+language analysis in the humanities
+
+the use of the computer in the language-oriented
+humanities for exhaustive listing of detail 
+(as in indices and concordances) is widespread and accepted
+as desirable.  the implications of the computer 
+for a "science" of the humanities-a science entailing
+gathering data for the construction and testing 
+of models-are neither widely recognized nor accepted.
+ this paper argues that the computer's  major role 
+as to language analysis in the humanities will be the
+establishing of such a sciencehus, for those 
+areas of the humanities for which rigor and precision
+are necessary (e.g. analyzing literature or teaching 
+a student to write a composition) the computer
+can be a critically important facilitator.
+
+cacm july, 1972
+
+sedelow, s. y.
+
+language analysis, humanities, science of the humanities,
+pattern recognition, pattern generation, 
+************************
+
+************************
+Document:  CACM-0462.html
+************************
+************************
+Document:  CACM-2019.html
+************************
+************************
+Document:  CACM-2730.html
+************************
+************************
+Document:  CACM-2527.html
+************************
+************************
+Document:  CACM-1020.html
+************************
+
+
+free field read (algorithm 239 [i5])
+
+cacm august, 
+************************
+
+************************
+Document:  CACM-2754.html
+************************
+
+
+a syntactic algorithm for peak detection
+in waveforms with applications to cardiography
+
+peaks in a digitized waveform are detected by an
+algorithm incorporating piecewise linear approximation 
+and tabular parsing techniques.  several parameters serve
+to identify the waveform context enabling accurate 
+measurement 
+************************
+ enabling accurate 
+measurement of peak amplitude, duration, and shape.  the
+algorithm is of sufficient speed to allow on-line 
+real-time processing.  an example of its application
+is demonstrated on an electrocardiogram.
+
+cacm may, 1975
+
+horowitz, s. l.
+
+peak detection, digitized waveform, piecewise linear
+approximation, context-free grammar, bottom-up 
+parsing, electrocardiogram.
+
+************************
+
+************************
+Document:  CACM-3198.html
+************************
+************************
+Document:  CACM-1669.html
+************************
+
+
+algol procedures for the fast fourier transform (algorithm 338 [c6])
+
+cacm november, 
+************************
+
+************************
+Document:  CACM-2739.html
+************************
+
+
+the restriction language for computer grammars of natural language
+
+over the past few years, a number of systems
+for the computer analysis of natural language 
+sentences have been based on augmented context-free
+grammars: a context-free 
+************************
+-free
+grammars: a context-free grammar which defines 
+************************
+-free grammar which defines a 
+set of parse trees for a sentence, plus a group of restrictions
+to which a tree must conform in order 
+to be a valid sentence analysis.  as the coverage of the
+grammar is increased, an efficient representation 
+becomes essential for further development.  this paper
+presents a programming language designed specifically 
+for the compact and perspicuous statement of restrictions
+of a natural language grammar.  it is based 
+on ten years' experience parsing text sentences with
+
+************************
+ text sentences with
+the comprehensive english grammar of the n. 
+linguistic string project, and embodies in its syntax
+and routines the relations which were found to 
+be useful and adequate for computerized natural language
+analysis.  the language is used in the current 
+implementation of the linguistic string parser.
+
+cacm july 1975
+
+sager, n.
+grishman, r.
+
+natural language, parsing, grammar, programming 
+************************
+
+************************
+Document:  CACM-2795.html
+************************
+
+
+sentence paraphrasing from a conceptual base
+
+a model of natural language based on an underlying
+language-free representation of meaning 
+************************
+ representation of meaning 
+is described.  a program based on this model is able
+to produce sentence paraphrases which demonstrate 
+understanding with respect to a given context.  this
+generator operates in conjunction with a natural 
+language analyzer and a combined 
+************************
+
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-1885.html
+************************
+
+
+a computer system for transformational grammar
+
+a comprehensive system for transformational
+grammar has been designed and implemented on the 
+ibm 360/67 computer.  the system deals with the transformational
+model of syntax, along the lines of 
+chomsky's aspects of the theory of syntax. the major
+innovations include a full,formal description of 
+the syntax of a transformational grammar, a directed random
+phrase structure generator, a lexical insertion 
+algorithm, an extended definition of analysis, and
+a simple problem-oriented programming language in 
+which the algorithm 
+************************
+ in 
+which the algorithm for application of transformations
+can be expressed.  in this paper we present the 
+system as a whole, first discussing the general attitudes underlying
+the development of the system, then 
+outlining the system and discussing its more important
+special features.  references are given to papers 
+which consider some particular aspect of the system in detail.
+
+cacm june, 1969
+
+friedman, j.
+
+transformational grammar, natural language syntax,
+language processing, 
+************************
+
+************************
+Document:  CACM-1855.html
+************************
+
+
+a program for the syntactic analysis of english sentences
+
+a program is described which produces syntactic
+analyses of english sentences with respect 
+to a transformational grammar.  the main features of the
+analyzer are that it uses only a limited dictionary 
+of english words and that it pursues all analysis paths
+simultaneously while processing the sentence 
+from left to right.  the form of representation used
+for the dictionary and the grammar is indicated 
+and an outline account is given of the analysis procedure.
+ techniques for keeping the size of the analysis 
+record within reasonable limits and for avoiding the need
+for dynamic application of certain transformational 
+rules are described.   a number of examples of output
+produced by the program are given.  the output 
+includes timing information.
+
+cacm august, 1969
+
+dewar, h.
+bratley, p.
+
+syntactic analysis, language processing, language
+analysis, parsing, analysis procedure, 
+************************
+
+************************
+Document:  CACM-3172.html
+************************
+
+
+an algorithm for planning collision-free
+paths among polyhedral 
+************************
+
+paths among polyhedral obstacles
+
+this paper describes a collision avoidance algorithm
+for planning a safe path for a polyhedral object moving among
+known polyhedral objects.  the algorithm transforms the obstacles
+so that they represent the locus of forbidden positions for an arbitrary
+reference point on the moving object.  a trajectory of this
+reference point which avoids all forbidden regions is free of collisions.
+trajectories 
+************************
+
+************************
+Document:  CACM-2340.html
+************************
+
+
+a boolean matrix method for the computation
+of linear precedence functions
+
+a modified version of bell's boolean matrix
+method for the computation of linear precedence 
+functions associated with a conflict-free matrix of
+precedence relations is given.  this algorithm not 
+only detects when the precedence functions do not  exist,
+but also provides an indication of why they 
+do not exist, so that corrective action can be taken
+if possible.  necessary and sufficient conditions 
+for the existence of precedence functions are given.
+ the use of boolean matrices to prove the existence 
+of precedence functions associated with classes of conflict-free
+grammars is illustrated through an example.
+
+cacm june, 1972
+
+martin, d. f.
+
+precedence grammars, context-free parsing
+
+4.12
+
+ca720605 jb january 
+************************
+
+************************
+Document:  CACM-1612.html
+************************
+
+
+top-to-bottom parsing rehabilitated?
+
+this note is concerned with the efficiency
+of the top-to-bottom parsing algorithm as used in 
+connection with programming language grammars.  it is
+shown, 
+************************
+
+************************
+Document:  CACM-2898.html
+************************
+
+
+a conceptual framework for a nonprocedural programming language
+
+a sequential programming language forces the
+programmer to prescribe explicitly the order in 
+which the operations in his program have to be executed,
+even if the order is not relevant to the solution 
+of his problem.  the requirement to indicate irrelevant
+sequencing can be removed if the language provides 
+facilities for specifying a task in a nonprocedural
+manner.  in general, a program specified in this 
+way will allow concurrent evaluation.  this paper describes
+a conceptual framework for a high level programming 
+language providing both nonprocedural and sequential
+facilities.  within a program, nonprocedural and 
+sequential program modules may be nested freely.
+
+cacm december, 1977
+
+************************
+
+************************
+Document:  CACM-2113.html
+************************
+
+
+the multistore parser for hierarchical syntactic structures
+
+a syntactic parser is described for hierarchical concatenation patterns
+that are presented to the analyzer in the form of linear strings.  particular
+emphasis is given to the system of "significant addresses" by means
+of which processing times for large-scale matching procedures
+can be substantially reduced.  the description makes frequent use
+of examples taken from the fully operational implementation of the
+parser in an experimental english sentence analyzer.  by structuring
+an area of the computer's central core storage in such a way
+that the individual locations of bytes and bits come to represent the
+data involved in the matching procedure, the shifting of information
+is reduced to a minimum, and the searching of lists is eliminated
+altogether.  the matches are traced by means of binary masks
+and the state of single bits determines the operational flow of the
+procedure.  the method could be implemented with any interpretive
+grammar, provided it can be expressed by the functional classification
+of the items composing the input hierarchical structures.
+
+cacm february, 1970
+
+von glasersfeld, e.
+
+parsing, syntactic analysis, natural-language analysis, linguistic data
+processing, computational linguistics, correlational grammar, structure
+recognition, pattern recognition, 
+************************
+
+************************
+Document:  CACM-2832.html
+************************
+
+
+faster retrieval from context trees (corrigendum)
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts.  this note presents an algorithm which improves
+on previous 
+************************
+ which improves
+on previous context tree retrieval algorithms. 
+it is based on the 
+************************
+s. 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals, 
+so that data can be cached to speed up retrieval.  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+the search rapid.  algorithms for addition and 
+deletion 
+************************
+
+************************
+Document:  CACM-1619.html
+************************
+
+
+error-free methods for statistical computations
+
+neely has discussed computational error generated
+by some algorithms used to compute various 
+************************
+
+************************
+Document:  CACM-1865.html
+************************
+
+
+algol 60 reference language editor (algorithm 268 [r2])
+
+cacm july, 
+************************
+

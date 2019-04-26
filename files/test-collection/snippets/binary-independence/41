@@ -1,0 +1,644 @@
+Snippets for the query:  Q41
+************************
+Total Hits:  27
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+
+
+neater2: a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version.  when in the logical mode, neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs. 
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+
+
+performance of height-balanced trees
+
+this paper 
+************************
+nced trees
+
+this paper presents the results of simulations
+that investigate the performance of height-balanced 
+
+************************
+
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+
+
+mechanization of the curve fitting process: datan
+
+a process for fitting a curve to approximate data
+and the problem it creates for the engineer-programmer 
+is defined.  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major portion of this process.  the techniques developed
+to accomplish the mechanization are largely 
+empirical, and 
+************************
+
+************************
+Document:  CACM-1179.html
+************************
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident, compile-and-go system designed
+for the ibm 7090/7094 computer is described. 
+ in little 
+************************
+
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+
+
+a compiler-building system developed by brooker and morris
+
+in a number of articles published during the
+past two years, r. a. brooker and d. morris (joined 
+by j. rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the ferranti atlas computer.  the
+present paper 
+************************
+
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying 
+************************
+
+************************
+Document:  CACM-0963.html
+************************
+
+
+relative effects of central processor and input-output
+speeds upon throughput on the large computer
+
+presented in this paper 
+************************
+
+
+presented in this paper is a technique for
+determining the relative effects of the internal 
+speed of the computer and the speed of the 
+************************
+
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+
+
+a stochastic approach to the grammatical coding of english
+
+a computer program is described which will
+assign each word in an english text to its form 
+class or part of speech. 
+************************
+
+************************
+Document:  CACM-2573.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+
+
+convert
+
+a programming language is described which
+is applicable to problems conveniently described 
+by transformation rules.  by this is meant that patterns
+may be prescribed, 
+************************
+s
+may be prescribed, each being associated with 
+a skeleton, so that a series of such pairs may be searched
+until a pattern is found which matches an 
+expression to be transformed.  the conditions for a match
+are governed by a code which also allows subexpressions 
+to be identified and eventually substituted into the
+corresponding skeleton.  the primitive patterns 
+and primitive skeletons are described, as well as the
+principle which allow their elaboration in to more 
+
+************************
+boration in to more 
+complicated patterns and skeletons.  the advantages of the
+language are that it allows 
+************************
+
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+
+
+scheduling meetings with a computer
+
+computer scheduling of papers as it was developed
+for the 1960 meeting of the federation of 
+american societies for experimental biology (faseb) is described.
+ the faseb meeting is the largest scientific 
+meeting 
+************************
+
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  a number of old babylonian tablets, many 
+of which have never before been translated into english, are 
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+************************
+Document:  CACM-1425.html
+************************
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+
+
+dynamic storage allocation systems
+
+in many recent computer system designs, hardware
+facilities have been provided for easing the 
+problems of storage allocation.  a method of characterizing
+dynamic storage allocation systems-according 
+to the functional capabilities provided and the underlying
+techniques used-is presented.  
+************************
+
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+************************
+Document:  CACM-1415.html
+************************
+
+
+automatic derivation of microsentences
+
+the decomposition of long complex english sentences
+into shorter kernel-like constituent sentences 
+(microsentences)has often been suggested as an avenue
+toward conducting automatic retrieval of natural 
+language messages.  to explore the prospects of such
+a step, the authors attempted in 1963 to prepare 
+a general program for deriving microsentences from longer
+sentences that had been syntactically analyzed 
+by the harvard multipath analysis program.  the basic
+idea was to extract the subject, verb and object 
+(if any) of each clause and to reassemble these materials
+into a grammatical microsentence.  a program 
+is described in this paper, which was designed to operate
+on the tree structure output of the analyzer, 
+and the microsentences that were produced are exhibited.
+ the authors conclude that while microsentences 
+of the quality achieved do not open up immediate prospects
+for improving the performance of automatic 
+message 
+************************
+
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+************************
+Document:  CACM-2691.html
+************************
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+
+
+optimal surface reconstruction from planar contours
+
+in many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  this paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+this surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  a new fast algorithm for finding such
+cycles is utilized.  also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  an illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.
+
+cacm october, 1977
+
+fuchs, h.
+kedem,z. m.
+uselton, s. p.
+
+surface reconstruction, contour data, serial sections,
+three-dimensional computer graphics, minimum 
+cost 
+************************
+
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+
+
+simulation of radioisotope scans by computer
+
+in radioisotope scanning, a field which is assuming
+increasing importance in medical diagnosis, 
+the scan is a two-dimensional pattern made up of dots.
+ areas 
+************************
+ made up of dots.
+ areas of increased source activity are represented 
+on the scan by areas of increased dot density.  to study
+the output of scanners with various characteristics, 
+a program which simulates radioisotope scans has been
+written  for a pdp-1 computer with auxiliary disk 
+************************
+
+************************
+Document:  CACM-1801.html
+************************
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for 
+************************
+boratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+systems, software measurement, user program 
+measurement, measurement technology, tx-2 computer,
+virtual computers, performance improvement
+
+4.30 4.32 
+************************
+
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+************************
+Document:  CACM-2670.html
+************************
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+
+
+a simple user-oriented compiler source language
+for programming automatic test equipment
+
+for the nonprogrammer, difficulty in using
+a language increases rapidly with the number of 
+nonproblem-oriented conventions.  a simple language, even
+if inelegant, which considers the user's background 
+as part of the problem may be more effective than a source
+language containing subtle and more powerful 
+capabilities.  the language described in this paper is
+used to write computer programs which test 
+************************
+ programs which test electronic 
+equipment.  because this testing process contains few
+complex ideas, there is little need for the elegance 
+and redundancy of a highly syntax-oriented language.
+ a simple and direct language will suffice for the 
+problem.  the eventual users of this language are military
+depot personnel who cannot he expected to 
+have computer programming skill or 
+************************
+
+************************
+Document:  CACM-3002.html
+************************
+************************
+Document:  CACM-2083.html
+************************
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+************************
+Document:  CACM-0185.html
+************************
+
+
+multiprogram scheduling parts 1 and 2.  introduction and theory*
+
+in order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1614.html
+************************
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+
+
+the programmer's workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  it is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered.  in this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated 
+************************
+
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************
+
+
+a note on storage fragmentation and program segmentation
+
+the main purpose of this paper is the presentation
+of some of the results of a series of simulation 
+experiments investigating the phenomenon of storage fragmentation.
+ two different types of storage fragmentation 
+are distinguished: (1) external fragmentation, namely the
+loss in storage utilization caused by the inability 
+to make use of all available storage after it has been
+fragmented into a large number of separate blocks; 
+and (2) internal fragmentation, the loss of utilization
+caused by rounding up a request for storage, 
+rather than allocating only the exact number of words required.
+ the most striking result is the apparently 
+general rule that rounding up requests for storage,
+to reduce the number of different sizes of blocks 
+coexisting in storage, causes more loss of storage
+by increased internal fragmentation than is saved 
+by decreased external fragmentation.  described also are
+a method of segment allocation and an accompanying 
+technique for segment addressing which take advantage
+of the above result.  evidence is presented of 
+possible advantages of the method over conventional paging techniques.
+
+cacm july, 1969
+
+randell, 
+************************
+

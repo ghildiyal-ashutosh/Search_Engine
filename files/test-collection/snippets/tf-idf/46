@@ -1,0 +1,2649 @@
+Snippets for the query:  Q46
+************************
+Total Hits:  214
+************************
+
+************************
+Document:  CACM-0292.html
+************************
+
+
+an information retrieval language for legal studies
+
+************************
+
+************************
+Document:  CACM-2235.html
+************************
+************************
+Document:  CACM-2344.html
+************************
+
+
+on the optimization of performance of time-sharing systems by simulation
+
+a simulation 
+************************
+s by simulation
+
+a simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the variation of system
+parameters such as store size, number of jobs 
+allowed to execute simultaneously, job-scheduling algorithm,
+etc.  the effects of these variations on 
+a measure of system performance is used to ascertain 
+************************
+ is used to ascertain which
+of the parameters controllable by the job-scheduling 
+algorithm, including the scheduling itself, require optimization,
+and which of the parameters not normally 
+controllable by the scheduling algorithm have a marked
+effect on system performance.  system performance 
+************************
+.  system performance 
+is based upon the mean 
+************************
+ 
+is based upon the mean cost of delay to all jobs processed.
+ it is shown that significant improvements 
+in the measure of system performance can be obtained by
+using 
+************************
+ can be obtained by
+using variable time-slice techniques and by selecting 
+the optimum round-robin cycle time.  it appears that these
+features would benefit from optimization whereas 
+other parameters controllable by the scheduling algorithm
+affect system performance in a predictable 
+manner 
+************************
+ in a predictable 
+manner and would not benefit from optimization.  features
+not normally under the control of the scheduling 
+algorithm can also have a marked effect on the measure
+of performance; in particular, supervisor overheads, 
+the size of the store, and the speed of the cpu.  a comparison
+is made between the results of the simulation 
+model and two analytical equations for quantum-oriented
+nonpreemptive time-sharing systems.  the comparison 
+is 
+************************
+
+************************
+Document:  CACM-1814.html
+************************
+************************
+Document:  CACM-2846.html
+************************
+
+
+compressed tries
+
+this paper presents a new data structure,
+called a compressed trie or c-trie, to be used in 
+information retrieval systems.  it has the same underlying
+
+************************
+
+************************
+Document:  CACM-1281.html
+************************
+
+
+data input by question and answer
+
+a data input scheme for a time-sharing computer
+is described in this paper.  instead of using
+format statements to determine the input, the computer
+asks the user for the required values 
+************************
+
+************************
+Document:  CACM-1705.html
+************************
+
+
+a set of basic input-output procedures (algorithm 335 [15])
+
+by means of the primitives in symbol, outsymbol
+and length, as requested by this journal's 
+algorithms policy [comm. acm 10 (nov. 67), 729] a basic
+set of input-output procedures is defined aiming 
+at quality and flexibility.  outreal, for instance, is
+written as a derived procedure; it outputs using 
+the fixed point or the floating point representation,
+and rounds properly.  variants can easily be written 
+because of the explicit call of the procedures decompose
+integer and decompose real.  the highly recommended 
+practice of echoing input is made easy with one subset
+of derived procedures (ioi, ior, iob, ioa).  the 
+documentation of output in the form of equivalent algol
+statements is also provided when use is made 
+of the subset oti, otr, otb, ota.  the berkeley style
+of providing information on the form of output 
+************************
+ on the form of output 
+using prior calls of procedures such as real format is
+defined.  a use of the parameter outchannel to 
+provide information for simultaneous output 
+************************
+
+************************
+Document:  CACM-2519.html
+************************
+
+
+on the problem of communicating complex information
+
+the nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined.  the problem 
+************************
+
+is examined.  the problem is analyzed in terms of 
+psychological and information-processing processes, and
+what turns out to be a vicious circle of effects 
+is described.  these include ways of augmenting written
+natural language by various notational and linguistic 
+devices, the exhibition of the structure inherent in the
+information we are communicating, and a sophisticated 
+interactive system controlled by computer.
+
+************************
+ controlled by computer.
+
+cacm may, 1973
+
+pager, d.
+
+complex information, information, communication,
+mathematics, proof, interactive system, language
+
+1.0 1.1 1.50 
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated in terms of cpu:i/o and i/o:i/o overlap
+and applied to the analysis of these problems. 
+ the percentage performance improvement from cpu:i/o
+
+************************
+ improvement from cpu:i/o
+overlap is found to be greatest for systems which 
+are in approximate cpu:i/o utilization balance and for
+low degrees of multiprogramming.  the percentage 
+improvement from i/o:i/o overlap is found to be greatest
+for systemtems in which the i/o system is more 
+utilized than the cpu.
+
+cacm october, 1978
+
+towsley, d.
+chandy, k.
+browne, j.
+
+multiprogramming, parallel processing, queueing
+network models, multiprocessing of 
+************************
+
+************************
+Document:  CACM-1681.html
+************************
+
+
+easy english,a language for information
+retrieval through a remote typewriter 
+************************
+ through a remote typewriter console
+
+easy english is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  it has been developed
+for retrieval of documents from a computerized 
+data base, the moore school information systems laboratory
+files.  
+************************
+s laboratory
+files.  requests are formulated in a standardized 
+syntactical form (examples of which are presented), and
+this form is then transformed into an equivalent 
+query expressed in the retrieval system's original symbolic
+
+************************
+'s original symbolic
+command language, which is briefly described. 
+ operation of easy english is detailed by illustration
+of the transformations performed upon a sample 
+request up to the point at which the request string
+is sent to the system.  a macro flowchart of easy 
+english is included, and an appendix provides
+the printout of a retrieval demonstration.
+
+cacm october, 1968
+
+rubinoff, m.
+bergman, s.
+cautin, h.
+rapp, f.
+
+natural language communication, on-line searching,
+remote console communication, 
+************************
+ing,
+remote console communication, information retrieval, 
+man-machine communication, 
+************************
+, 
+man-machine communication, remote terminal communication,
+translator, document retrieval, conversational 
+mode, information retrieval language, 
+************************
+
+************************
+Document:  CACM-2372.html
+************************
+
+
+on the implementation of security measures in information systems
+
+the security of an information system may be
+represented by a model matrix whose elements are 
+decision rules and whose row and column 
+************************
+ and whose row and column indices are
+users and data items respectively.  a set of four 
+functions is used to access this matrix at translation
+and execution time.  distinguishing between data 
+dependent and data independent decision rules enables
+one to perform 
+************************
+ enables
+one to perform much of the checking of security 
+only once at translation time rather than repeatedly
+at execution time.  the model is used to explain 
+security features of several existing systems, and serves
+as a framework for a proposal for general security 
+system implementation within today's languages and operating systems.
+
+cacm april, 1972
+
+conway, r. w.
+maxwell, w. l.
+morgan, h. l.
+
+security, privacy, access control confidentiality,
+operating systems, access management, data banks, 
+management information systems
+
+3.50 3.73 4.12 
+************************
+
+************************
+Document:  CACM-2370.html
+************************
+
+
+an experimental laboratory for pattern recognition and signal processing
+
+an interactive computer-controlled scanning
+and display system has been in operation at the 
+ibm thomas j. watson research center for three years.
+ the system includes two flying-spot scanners 
+************************
+ two flying-spot scanners and 
+a tv camera specially interfaced to a process control
+digital computer, dot-mode and vector displays, 
+analog input and output facilities, and a variety of
+other experimental equipment.  the system design 
+and programming 
+************************
+
+************************
+Document:  CACM-1474.html
+************************
+************************
+Document:  CACM-0239.html
+************************
+
+
+inefficiency of the use of boolean functions
+for information retrieval systems
+
+cacm december, 1961
+
+************************
+
+************************
+Document:  CACM-1506.html
+************************
+
+
+the laconiq monitor: time sharing for online dialogues
+
+the laconiq (laboratory computer online inquiry)
+monitor was developed primarily to support 
+non-numerical applications such as retrieval from very
+large files by means of a "dialogue" between a 
+system user and a retrieval application. 
+************************
+ and a retrieval application.  the monitor
+was designed so that it could work with a small 
+computer (an ibm system 360/30).  therefore techniques
+for resource allocation were important.  for this 
+reason the use of core storage, computational facilities,
+and input-output were all scheduled. 
+************************
+
+************************
+Document:  CACM-0594.html
+************************
+
+
+an advanced input-output system for a cobol compiler
+
+************************
+
+************************
+Document:  CACM-3084.html
+************************
+
+
+interpolation search -a log logn search
+
+interpolation search is a method of retrieving
+a desired record by key in an ordered file by 
+using the value of the key and the statistical distribution
+of the keys.  it is shown that on the average 
+log logn file accesses are required to retrieve a key,
+assuming that the n keys are uniformly distributed. 
+ the number of extra accesses is also estimated and shown
+to be very low.  the same holds if the cumulative 
+distribution function of the keys is known.  computational
+experiments confirm these results.  
+
+cacm july, 1978
+
+perl, y.
+itai, a.
+avni, h.
+
+average number of accesses, binary search, database,
+interpolation search, retrieval, searching, 
+uniform 
+************************
+
+************************
+Document:  CACM-2622.html
+************************
+
+
+a user authentication scheme not requiring secrecy in the computer
+
+in many computer operating systems a user authenticates
+himself by entering a secret password 
+known solely to himself and the system.  the system compares
+this password with one recorded in a password 
+table which is available to only the authentication
+program.  the integrity of the system depends on 
+keeping the table secret.  in this paper a password
+scheme is presented which does not require secrecy 
+in the computer.    all aspects of the system, including
+all relevant code and data bases, may be known 
+by anyone attempting to intrude.  the scheme is based
+on using a function h which the would-be intruder 
+is unable to invert.  this function is applied to the
+user's password and the result compared to a table 
+entry, a match being interpreted as authentication of
+the user.  the intruder may know all about h and 
+have access to the table, but he can penetrate the system
+only if he can invert h to determine an input 
+that produces a given output.  this paper discusses
+
+************************
+
+************************
+Document:  CACM-2990.html
+************************
+
+
+effective information retrieval using term accuracy
+
+the performance of information retrieval systems
+can be evaluated in 
+************************
+s
+can be evaluated in a number of different 
+ways.  much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user 
+************************
+ of an average 
+user query.  unfortunately, formal proofs are difficult
+to construct for the average case.  in the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query. 
+************************
+ of a specific user query.  the concept 
+of query term accuracy is in troduced as the probability
+of occurrence of a query term in the documents 
+relevant to that query.  by relating term accuracy
+to the frequency of occurrence of the term in the 
+documents of a collection it is possible to give formal
+proofs of the effectiveness with respect to a 
+given user query of a number of automatic indexing systems
+that have been used successfully in experimental 
+situations.  among these are inverse document frequency
+weighting, thesaurus construction, and phrase 
+generation.
+
+cacm march, 1977
+
+yu, c. t.
+salton, g.
+
+information retrieval, automatic indexing, 
+************************
+
+************************
+Document:  CACM-1671.html
+************************
+
+
+a phonological rule tester
+
+the design and implementation of a system to
+alleviate the problem of rule evaluation for the 
+linguist in the area of phonology are presented.  it
+permits the user to define, on-line, sets of rules 
+statable within the 
+************************
+ 
+statable within the framework presented in the sound
+patterns of english by chomsky and halle, 1968, 
+to define phonemes as bundles of specified distinctive
+features, to define data as strings of phonemes 
+with associated grammatical structure, to test the effect
+of applying rules to the data, and to store 
+both the definitions and results.  the rule application
+facility described in detail was implemented 
+by translating linguistic rules to rules in flip, a
+format-directed list processor embedded in lisp. 
+ this made the system construction easy while providing
+sophisticated capabilities for the linguist. 
+ the system is written in bbn lisp on the scientific
+data system 940 computer and is designed to be used 
+on-line in interactive fashion, with control returned
+to the user after each command is 
+************************
+
+************************
+Document:  CACM-2575.html
+************************
+
+
+the best-match problem in document retrieval
+
+cacm november, 1974
+
+van rijsbergen, c. j.
+
+document retrieval, best match, clustering, file
+searching, matching, dissimilarity, 
+************************
+
+************************
+Document:  CACM-2293.html
+************************
+
+
+comment on average binary search length
+
+cacm august, 1972
+
+jones, p. r.
+
+searching, binary searching, record retrieval
+
+3.74
+
+ca720809 jb january 
+************************
+
+************************
+Document:  CACM-2158.html
+************************
+
+
+a stopping criterion for the newton-raphson method
+in implicit multistep integration algorithms 
+for nonlinear systems of ordinary differential 
+************************
+
+************************
+Document:  CACM-1267.html
+************************
+
+
+performance of systems used for data transmission
+
+************************
+s used for data transmission
+transfer rate of information bits -an asa tutorial 
+standard
+
+information thruput as a characteristic of
+systems performance is discussed.  this discussion 
+includes the pertinent aspects 
+************************
+ the pertinent aspects of information transfer,
+of determination of transfer rate of information 
+bits (trib), of residual errors, and of standard measurement
+conditions.  the paper also presents an 
+orderly arrangement of characteristics and parameters
+that affect information thruput, and some examples 
+on procedures for determining a thruput rate in terms of
+trib.  it concludes that a performance characteristic 
+involving 
+************************
+
+************************
+Document:  CACM-3033.html
+************************
+
+
+optimizing decision trees through heuristically guided search
+
+optimal decision table 
+************************
+
+
+optimal decision table conversion has been
+tackled in the literature using two approaches, 
+dynamic programming and branch-and-bound.  the former
+technique is quite effective, but its time and 
+space requirements are independent of how "easy" the
+given table is.  furthermore, it cannot be used 
+to produce good, quasi optimal solutions.  the branch-and-bound
+technique uses a good heuristic to direct 
+the search, but is cluttered up 
+************************
+, but is cluttered up by an enormous search
+space, since the number of solutions increases 
+with the number of test variables according to a double 
+exponential.  in this paper we suggest a heuristically 
+guided top-down search algorithm which, like dynamic
+programming, recognizes identical subproblems but 
+which can be used to find both optimal and quasi optimal
+solutions.  the heuristic search method introduced 
+in this paper combines the positive aspects of the above
+two techniques.  compressed tables with a large 
+number of variables can be handled without deriving expanded tables first. 
+
+cacm december, 1978
+
+martelli, a.
+montanari, u.
+
+decision table, optimal decision 
+************************
+ table, optimal decision table conversion,
+decision tree, heuristic search, and/or graphs, 
+dynamic 
+************************
+
+************************
+Document:  CACM-1715.html
+************************
+************************
+Document:  CACM-3012.html
+************************
+
+
+the use of an interactive information storage
+and retrieval system in medical research
+
+************************
+ in medical research
+
+this paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system.  a monitor built into 
+************************
+.  a monitor built into the computer
+system provided usage data for the study.  additional 
+data on user reactions were gathe red from a questionnaire.
+ the results show the important role played 
+by frequently chosen laboratory reference leaders in influencing
+the use of this system.  the implications 
+of the study for the design of similar systems are discussed.
+
+cacm march, 1978
+
+lucas, hr.
+
+implementation, system use, information storage and retrieval system
+
+2.10 3.50 3.72
+
+************************
+
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is described. 
+ this system is based on a simple, high level language
+which is used to describe the evolving system 
+at all stages of its development.  the source language
+description is used as direct input to performance 
+analysis and simulation routines.  using the performance
+information obtained from these 
+************************
+ obtained from these routines as 
+feedback, the problems which adversely affect performance
+are detected early enough so that they can 
+be corrected without costly major reimplementation of the proposed system.
+
+cacm february, 1973
+
+************************
+
+************************
+Document:  CACM-2878.html
+************************
+
+
+joining policies in a multipriority multiclass batch computer system
+
+consider a multipriority batch computer system
+which users from several different 
+************************
+s from several different classes may 
+join, its toll, service, and waiting charges.  such a
+system is formulated here as a semi-markov decision 
+process, in which the aim of arriving users is to minimize
+their 
+************************
+s is to minimize
+their expected loss.  the optimal joining 
+policy is one of arriving users who may join the system
+at some of its queues 
+************************
+
+at some of its queues is a control limit policy, 
+with a single control number for any possible queue
+and the user's class; a newly arriving user will 
+join a queue that is not filled up to the control number
+corresponding to this queue and the user's class. 
+ in this paper control numbers, as well as lower and upper
+bounds for the control numbers and the capacities 
+of the system's queues, are derived.
+
+************************
+
+************************
+Document:  CACM-1432.html
+************************
+
+
+incorporation of nonstandard input/output devices into fortran systems
+
+a fortran system may 
+************************
+s
+
+a fortran system may readily be modified to
+handle input/output with nonstandard media 
+************************
+ with nonstandard media on the 
+same basis on which it handles the standard media.  this
+is done by providing a character-handling subroutine 
+suited to the nonstandard medium and arranged to be called
+by an otherwise unused output statement type 
+or unit number. this method was used to control output
+of alphanumeric information on a digital graph 
+
+************************
+
+************************
+Document:  CACM-1516.html
+************************
+
+
+automatic data compression
+
+the "information explosion" noted in recent
+years makes it essential that storage requirements 
+for all information be kept to a minimum.  a fully automatic
+and rapid three-part compressor which can 
+be used with "any" body of information to greatly reduce
+slow external storage requirements and to increase 
+the rate of information transmission through a computer
+is described in this paper.  the system will 
+also automatically 
+************************
+
+************************
+Document:  CACM-1412.html
+************************
+
+
+the banking information system concept
+
+most large 
+************************
+ concept
+
+most large commercial banks have progressed to
+the  point where their major accounting applications 
+have been automated and more sophisticated usage of
+data processing equipment is being sought.  this, 
+coupled with the availability of equipment well suited
+to real-time, direct access processing,has led 
+to development within some banks of the central file
+of data base approach toward a banking information 
+system.  the banking information 
+************************
+.  the banking information system now serves the
+two-fold 
+************************
+ now serves the
+two-fold purpose of providing real-time responses 
+to inquires about individual account stasus and providing
+more complex combinations of information for 
+management use.  both kinds of processing draw upon a
+common store of data contained in the direct access 
+central file.  this data base includes indexes which
+facilitate cross referencing of account information 
+so that all relationships between bank and customer may
+be discerned.  in introducing the banking information 
+system concept, a gradual approach 
+************************
+
+************************
+Document:  CACM-1033.html
+************************
+
+
+experimental personalized array translator system
+
+a system designed for intimate man-machine
+interaction in a general-purpose problem-solving 
+environment is experimentally operational.  the system
+utilizers an array-oriented symbolic source language 
+containing powerful statement types.  these include numeric,
+boolean, relational and selection operators 
+on operands which can be entire arrays.  the system also
+permits simple specification of test and argument 
+arrays in single statements.  the completely symbolic
+operating system includes display and entry of 
+program and data.  sequence control is aided by an interrupt
+switch which allows the user to interact 
+with the 
+************************
+
+************************
+Document:  CACM-2492.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a 
+************************
+s
+
+a macro model of a distributed information system in presented.  the model
+
+************************
+ in presented.  the model
+describes the major costs of using an information
+system from the perspective 
+************************
+ from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+
+************************
+
+************************
+Document:  CACM-1994.html
+************************
+************************
+Document:  CACM-1627.html
+************************
+
+
+application of level changing to a multilevel storage organization
+
+a technique for organizing the devices of a computer
+storage system is described.  this technique, 
+called the multilevel store, provides a means for economically
+satisfying the requirements for very large 
+storage capacities of certain data management and information
+retrieval systems.  the concept 
+************************
+ systems.  the concept of level 
+changing is introduced and its application to the multilevel
+store is discussed.  a possible means for 
+physically organizing the information for efficient
+use of 
+************************
+
+************************
+Document:  CACM-2535.html
+************************
+
+
+the effects of multiplexing on a computer-communications system
+
+a study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process from a user to the computer
+and, consequently, affects the performance 
+of a time-shared computer-communications system.  it is
+concluded that while, for certain values of system 
+parameters, there is noticeable improvement in the
+performance of the computer (model), in the sense 
+that time-shared scheduling delays are reduced, these
+improvements are offset by the transmission delays 
+imposed by multiplexing so that there may be little or
+no change in the computer-communications system 
+performance.  analytical and simulation results are
+based on the model of the computer-communications 
+system being an m/d/1 queue (the multiplexor) in tandem
+with a single exponential server (the computer). 
+ analytical results include a general description of the
+output process of an m/d/1 
+************************
+ process of an m/d/1 queue and the conditions 
+under which this output process is approximately poisson.
+
+cacm march, 1973
+
+pack, c. d.
+
+computer communications, time-sharing, multiplexing,
+scheduling algorithms, operating systems
+
+3.80 3.81 6.20
+
+ca730304 
+************************
+
+************************
+Document:  CACM-1830.html
+************************
+
+
+retrieval times for a packed direct access inverted file
+
+cacm october, 1969
+
+bayes, a. j.
+
+information retrieval, direct access 
+************************
+
+************************
+Document:  CACM-3041.html
+************************
+
+
+median split trees: a fast lookup technique for frequently occuring keys
+
+split trees are a new technique for searching sets
+of keys with highly skewed frequency distributions. 
+ a split tree is a binary search tree each node of which
+contains two key values-a node value which is 
+a maximally frequent key in that subtree, and a split
+value which partitions the remaining keys (with 
+respect to their lexical ordering) between the left and
+right subtrees.  a median split tree (mst) uses 
+the lexical median of a node's descendents as its split
+value to force the search tree to be perfectly 
+balanced, achieving both a space efficient representation
+of the tree and high search speed.  unlike 
+frequency ordered binary search trees, the cost of a
+successful search of an mst is log n bounded and 
+very stable around minimal values.  further, an mst
+can be built for a given key ordering and set of 
+frequencies in time n log n, as opposed to n2 for an
+optimum binary search tree.  a discussion of the 
+application of mst's to dictionary lookup for english is
+presented, and the performance obtained is contrasted 
+with that of other techniques.
+
+cacm november, 1978
+
+sheil, b.
+
+tree search, dictionary lookup, binary search, heaps,
+balanced trees, zipf's law, information retrieval
+
+3.74 5.25 5.39
+
+ca781110 
+************************
+
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0892.html
+************************
+
+
+recol-a retrieval command language
+
+an interrogation scheme is described for the
+retrieval and manipulation of data file records. 
+ the language of the interrogation scheme allows for selecting
+file records with the are of logical condition 
+statements, defining record classes, associating file
+records, editing printed output, and summarizing 
+the 
+************************
+
+************************
+Document:  CACM-1938.html
+************************
+
+
+some criteria for time-sharing system performance
+
+time-sharing systems, 
+************************
+
+
+time-sharing systems, as defined in this article,
+are those multiaccess systems which permit 
+a terminal user to utilize essentially the full resources
+of the system while sharing its time with other 
+terminal users.  it is each terminal user's ability
+to utilize the full resources of the system that 
+makes quantitative evaluation of time-sharing systems
+particularly difficult.  six criteria are described 
+which have been successfully used to perform first-level
+quantitative time-sharing system performance 
+evaluation.
+
+cacm january, 
+************************
+ 
+evaluation.
+
+cacm january, 1969
+
+stimler, s.
+
+time-sharing performance criteria, time-sharing
+system operation, time-sharing 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work 
+************************
+s
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+************************
+s has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect 
+************************
+ which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval 
+************************
+s.  these data retrieval systems can
+be organized under 
+************************
+s can
+be organized under several database organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  in particular,
+the impact of query complexity is analyzed.
+
+cacm february, 1976
+
+siler, k. f.
+
+database architecture, database performance and
+evaluation, invented list, threaded list, cellular 
+list, information retrieval, database 
+************************
+
+************************
+Document:  CACM-3086.html
+************************
+
+
+on the complexity of computing the measure of u[ai, bi]
+
+the decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  the existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  these
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+
+cacm july, 1978
+
+fredman, m.
+weide, b.
+
+analysis of algorithms, combinatorial problems,
+computational complexity, computational models, 
+decision tree programs, 
+************************
+
+************************
+Document:  CACM-1359.html
+************************
+
+
+data filtering applied to information storage and retrieval applications
+
+manipulation 
+************************
+ applications
+
+manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications.  data 
+************************
+ applications.  data string manipulation
+is discussed within the context of an interpretive 
+processing environment controlled by the use of procedural
+directives.  the sequence of procedural directives 
+is derived from a job assumed to be expressed in a user-oriented
+source language.  each data string with 
+the structured data environment (data bank) is explicitly
+or implicitly related to a format declaration
+residing in a format library.  the processing mechanics
+associated with data string manipulation is developed 
+in accordance with a generalized data filtering concept.
+ this results in the implementation of a two-part 
+data filter module that satisfies internal processing
+functions by filtering data strings through format 
+declarations associated with its input and output ports.
+
+cacm november, 
+************************
+
+************************
+Document:  CACM-2160.html
+************************
+
+
+canonical structure in attribute based file organization
+
+a new file structure for attribute based retrieval
+is proposed in this paper.  it allows queries 
+involving arbitrary boolean functions of the attribute-value
+pairs to be processed without taking intersections 
+of lists.  the structure is highly dependent on the
+way in which the file is to be used and is uniquely 
+determined by the specification of the allowed queries.
+ thus, for example, the structure for retrieval 
+on the basis of ranges of values of a given attribute would
+be very different from one where only retrieval 
+on the basis of a single value is permitted.  the file
+organization being proposed is based on the atoms 
+of a boolean algebra generated by the queries.  the desirable
+properties claimed for this structure are 
+proved, and file maintenance questions are discussed.
+
+cacm september, 1971
+
+wong, e.
+chiang, t. c.
+
+address calculation, atoms of boolean algebra,
+attributes, boolean functions, boolean queries, 
+file organization, information retrieval, inverted
+file, key words, multilist, queries, searches 
+
+3.70 3.73 3.74
+
+
+************************
+
+************************
+Document:  CACM-1236.html
+************************
+
+
+the smart automatic document retrieval system-an illustration
+
+a fully 
+************************
+-an illustration
+
+a fully automatic document retrieval system
+operating on the ibm 
+************************
+
+operating on the ibm 7094 is described.  the system 
+is characterized by the fact that several hundred different
+methods are available to analyze documents 
+and search requests.  this feature is used in the retrieval
+process by leaving the exact sequence of 
+operations initially unspecified, and adapting the
+search strategy to the needs of individual users. 
+ the system is used 
+************************
+s. 
+ the system is used not only to simulate an actual operating
+environment, but also to test the effectiveness 
+of the various available processing methods.  results obtained
+so far seem to indicate that some combination 
+of analysis procedures can in general be relied upon to
+retrieve the wanted information.  a typical search 
+request is used as 
+************************
+
+************************
+Document:  CACM-2722.html
+************************
+
+
+multidimensional binary search trees used for associative searching
+
+this paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a data structure for storage of
+information to be retrieved by associative searches. 
+the k-d tree is defined and examples are given. it
+is shown to be quite in its storage requirements. 
+ a significant advantage of this structure is that a single
+data structure can handle many types of queries 
+very efficiently.  various utility algorithms are developed;
+their proven average running times in an 
+n record file are: insertion, o (log n); deletion of
+the root, o (n^(k-1)/k); deletion of a random node, 
+o (log n); and optimization (guarantees logarithmic performance
+of searches), o (n log n).  search algorithms 
+are given for partial match queries with t keys specified
+[proven maximum running time of o (n^(k-t)/k)] 
+and for nearest neighbor queries [empirically observed average
+running time of o (log n).]  these performances 
+far surpass the best currently known algorithms for
+these tasks.  an algorithm is presented to handle 
+any general intersection query. the main focus of this
+paper theoretical.  it is felt, however, that 
+k-d trees could be quite useful in many applications,
+and examples of potential uses are given.
+
+cacm september, 1975
+
+bently, j. l.
+
+associative retrieval, binary search trees, key,
+attribute, information retrieval system, nearest 
+neighbor queries, 
+************************
+
+************************
+Document:  CACM-1427.html
+************************
+
+
+simulation of radioisotope scans by computer
+
+in radioisotope scanning, a field which is assuming
+increasing importance in medical diagnosis, 
+the scan is a two-dimensional pattern made up of dots.
+ areas of increased source activity are represented 
+on the scan by areas of increased dot density.  to study
+the output of scanners with various characteristics, 
+a program which simulates radioisotope scans has been
+written  for a pdp-1 computer with auxiliary disk 
+storage and cathode ray tube display.  past and present
+research using the output of the simulator has 
+shown the flexibility of the system to be important.
+ the 
+************************
+ to be important.
+ the structure of this program can be useful in 
+the simulation of the output of any quantum-limited system.
+
+cacm may, 1966
+
+pizer, 
+************************
+
+************************
+Document:  CACM-0275.html
+************************
+
+
+dynamic storage allocation for an information retrieval system
+
+cacm october, 1961
+
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+models constitute 
+************************
+ evaluation
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+examines 
+************************
+.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes circumstances 
+************************
+s and establishes circumstances under
+which the use of a model is appropriate.
+
+cacm july,1972
+
+kimbleton, s. r.
+
+modeling, evaluation, performance, analytic-models,
+simulation-models, system-models
+
+2.43 2.44 6.2 
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication 
+************************
+s, using the normal multiplication table as a directory
+for the information system.  algorithms for the 
+************************
+.  algorithms for the organization an
+d retrieval of information are described.  this 
+************************
+ are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication table method yields far more rapid retrieval
+with a more economical 
+************************
+
+with a more economical space requirement than conventional systems.  
+moreover this method incorporates an improved modification of the inverted 
+file technique.
+
+cacm march, 1979
+
+motzkin, d.
+
+information retrieval, inverted files, multiattribute 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information 
+************************
+
+
+automatic information retrieval programs require
+the 
+************************
+ programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed. 
+************************
+s are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.  advantages of these programming languages
+for the retrieval application are examined, 
+************************
+ application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval.
+
+cacm march, 1966
+
+
+************************
+
+************************
+Document:  CACM-2711.html
+************************
+
+
+a vector space model for automatic indexing
+
+in a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search requests), it appears that the best indexing 
+(property) space is one where each entity lies as far away
+from the others as possible; in these circumstances 
+the value of an indexing system may be expressible
+as a function of the density of the object space; 
+in particular, retrieval performance may correlate inversely
+
+************************
+ may correlate inversely
+with space density.  an approach based on 
+space density computations is used to choose an optimum
+indexing vocabulary for a collection of documents. 
+ typical evaluation results are shown, demonstrating
+the usefulness of the model.
+
+cacm november, 1975
+
+salton, g.
+wong, a.
+yang, c. s.
+
+automatic information retrieval, automatic
+indexing, 
+************************
+
+************************
+Document:  CACM-2288.html
+************************
+
+
+file organization: the consecutive retrieval property
+
+the consecutive retrieval property is an important
+relation between a query set and record 
+set.  its existence enables the design of an information
+retrieval system with a minimal search 
+************************
+ with a minimal search time 
+and no redundant storage.  some important theorems on
+the consecutive retrieval property are proved in 
+this paper.  conditions under which the consecutive retrieval
+property exists and remain invariant have 
+been established.  an outline for designing an information
+retrieval system based on the consecutive 
+************************
+ based on the consecutive 
+retrieval property is also discussed.
+
+cacm september, 1972
+
+ghosh, s. p.
+
+file organization, consecutive storage, consecutive
+retrieval, information retrieval, record organization, 
+************************
+
+************************
+Document:  CACM-1264.html
+************************
+
+
+blnsys-a 1401 operating system with braille capabilities
+
+blnsys is an operating system designed for
+a 4k 1401 with common optional features and two 
+attached tape drives.  printed output of this system
+or of executing programs may be in either english 
+or braille.  even though this system was written for
+a small machine with minimal peripheral equipment, 
+jobs may be batched, so that card handling and lost
+processing time is at a minimum.  this system will 
+perform any or all of the following users specified
+functions: 
+************************
+s specified
+functions: assemble sps source decks, post list, 
+produce condensed or uncondensed object decks, execute
+user's program, list card input to a program, 
+list punched output, provide a storage dump, 
+************************
+, provide a storage dump, execute
+a program submitted for execution as an uncondensed 
+object deck under debugging trace control, card-to-braille
+conversion, brailled listings of 7040 ibsys 
+batch output, and update or duplicate the system tape
+itself.  input-ouput 
+************************
+
+************************
+Document:  CACM-1680.html
+************************
+
+
+a general-purpose display processing and tutorial system
+
+adept (a display-expedited processing and tutorial)
+system is described.  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  it is written in fortran 
+************************
+.  it is written in fortran 
+iv (g) for the ibm system/360, model 40, and the ibm 2250
+display unit under operating system/360.  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  illustrations of the various
+applications are presented and their implications 
+are discussed.
+
+cacm october, 1968
+
+engvold, k. j.
+hughes, j. l.
+
+computer-assisted instruction, tutorial systems,
+programming, simulation, modeling, information 
+retrieval operating systems, graphics, 
+************************
+
+************************
+Document:  CACM-3034.html
+************************
+************************
+Document:  CACM-1725.html
+************************
+
+
+a simple proof of lewin's ordered-retrieval
+theorem for associative memories
+
+an efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of the memory.  thus the
+circuits indicate whether the individual digit 
+columns contain digits of both values, or of only one
+value, or contain no digits at all (i.e. that the 
+memory is empty).  the use of these circuits, which
+in this paper are termed column value indicators, 
+reduces considerably the number of memory accesses necessary
+to retrieve in order a number of distinct 
+words from the memory.  lewin proves that, for the readout
+by the described method of m distinct binary 
+words, 2m - 1 memory accesses are necessary.  (thus he
+proves that the number of necessary memory accesses 
+of his method, unlike those of other methods, is independent
+of the word length.)  in this paper a very 
+simple proof of this theorem derived from some elementary
+aspects of the structure of sets of binary 
+numbers is presented.
+
+cacm july, 1968
+
+wolinsky, a.
+
+associative memories, content-addressed memories,
+ordered lists, ordered information retrieval, 
+ordered 
+************************
+
+************************
+Document:  CACM-2439.html
+************************
+
+
+multiple terminals under user program
+control in a time-sharing environment
+
+user-written programs on the dartmouth time-sharing
+system can communicate with 
+************************
+ can communicate with many remote 
+terminals simultaneously and can control the interactions
+between these terminals.  such programs can 
+be written using standard input and output instructions
+in any language available on the system.  this 
+paper describes 
+************************
+
+************************
+Document:  CACM-1115.html
+************************
+
+
+randomized binary searching with tree structure
+
+a more efficient method of using tree structures
+is proposed, which utilizers both plus and 
+minus branches in the search path.  very significant
+gains result when the search key includes alphabetic 
+characters.
+
+************************
+
+************************
+Document:  CACM-0891.html
+************************
+
+
+everyman's information retrieval system
+
+the information retrieval 
+************************
+
+
+the information retrieval problem whose solution
+
+************************
+ problem whose solution
+is presented here was posed by a technical 
+library with limited bubget and personnel.  the solution,
+however, is quite general and is applicable 
+to many different types of retrieval problems.  further,the
+method of solution makes it possible for 
+many groups who have previously dismissed an information
+retrieval program as 
+************************
+
+retrieval program as expensive and difficult 
+(from a programming stand-point) to reconsider their position,
+for the present solution makes it possible 
+to install an information retrieval program in 
+************************
+
+************************
+Document:  CACM-2307.html
+************************
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process. 
+ methods are described for an automatic query modification
+based on user needs, and for a continuous 
+reorganization of the stored information as a function of
+earlier file processing and of normal collection 
+growth.  the proposed procedures provide powerful tools
+for information retrieval and for the control 
+************************
+ and for the control 
+of dynamic library collections in which new items
+are continually added and old ones are retired.
+
+cacm july, 1972
+
+salton, g.
+
+automatic indexing, automatic search and retrieval,
+iterative searching, 
+************************
+
+************************
+Document:  CACM-1194.html
+************************
+
+
+establishment of the acm repository and principles
+of the ir system applied to its operation
+
+the history of the establishment of the acm repository
+at the moore school, university of pennsylvania, 
+is reviewed briefly.  two principles are presented as
+paramount in the provision of information services: 
+(1) easy accessibility to the information files by users
+unfamiliar with file organization, and (2) value 
+of service exceeding user costs.  these principles serve
+as guides in mechanizing the acm repository. 
+ the main features of the information system are direct
+user access via on-line teletypewriter console, 
+direct user access to all details of the system organization,
+unrestricted and expandable search vocabulary, 
+user access through many facets of document indexing,
+and stochastic search through linked index terms 
+and other file relationships.  the first contribution
+to the acm repository consisted of 315 documents, 
+relating primarily to early research on compilers.  these
+documents have been cataloged and indexed and 
+the catalog is scheduled to appear in computing reviews.
+ the indexing system is described in detail. 
+ the main catalog is used to describe the documents,
+and inverted lists are provided by the repository 
+system for retrieval by concept coordination.
+
+************************
+
+************************
+Document:  CACM-0651.html
+************************
+
+
+a survey of languages and systems for information retrieval
+
+cacm january, 1962
+
+************************
+
+************************
+Document:  CACM-2157.html
+************************
+
+
+average binary search length for dense ordered lists
+
+cacm september, 1971
+
+flores, i.
+madpis, g.
+
+searching, binary searching, record retrieval
+
+3.74
+
+ca710907 jb february 
+************************
+
+************************
+Document:  CACM-1519.html
+************************
+
+
+george 3-a general purpose time sharing and operating system
+
+an operating system is described which will
+run on a wide variety of configurations of the 
+i. 1900, and can handle a large number of online console
+users while at the same time running several 
+off line (background) jobs.  the system is not oriented
+towards either mode and can be either a batch 
+processing system (such as the atlas supervisor, ibsys,
+or gecos), or a multiaccess system (resembling, 
+to the user, ctss or multics), or both simultaneously,
+depending on the installation, which can adjust 
+the schedulers.  both online users and off line jobs use
+a common command language.  the system includes 
+a multilevel device-independent 
+************************
+
+************************
+Document:  CACM-1514.html
+************************
+
+
+on the expected gain from adjust ing matched term retrieval systems
+
+a file adjustment 
+************************
+s
+
+a file adjustment procedure based on maximizing
+the bayes expected gain proposed for matched 
+term retrieval systems.  the expected gain 
+************************
+s.  the expected gain and its probability
+distribution are derived as a function 
+of: (1) the prior proportion of omitted terms, and (2) the
+coefficient of separation between two distributions 
+corresponding to values of an adjustment statistic.  an
+example evaluates the gain parameters for a typical 
+information retrieval system.
+
+cacm november, 1967
+
+************************
+
+************************
+Document:  CACM-2984.html
+************************
+
+
+cost/utilization: a measure of system performance
+
+a method is presented 
+************************
+
+
+a method is presented for evaluating computer
+system performance in terms of a cost/utilization 
+************************
+ in terms of a cost/utilization 
+factor and a measure of imbalance.  these coefficients
+indicate the extent to which the total system 
+cost is effectively utilized.  the method includes a
+technique for the visual representation of system 
+performance.
+
+cacm march, 1977
+
+
+************************
+.
+
+cacm march, 1977
+
+borovits, i.
+ein-dor, p.
+
+computer system, performance evaluation, cost/utilization, 
+************************
+
+************************
+Document:  CACM-2947.html
+************************
+
+
+sitar: an interactive text processing system for small computers
+
+sitar, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems, but has several 
+************************
+ systems, but has several 
+additional features. it is implemented on a pdp/11 time-sharing
+computer invoked by a crt with microprogrammed 
+editing functions.  it uses a simple command language designating
+a function, a file, and a search template 
+consisting of the textual string desired and strings
+delimiting the context in which the hit is to be 
+delivered.  extensive experience with sitar shows that
+the combined powers of simple commands, string 
+orientation, circular file structure, a crt with local
+memory, and conversational computing produce a 
+system much more powerful than the sum of its parts.
+
+cacm july, 1977
+
+schneider, b. r. jr.
+watts, r. m.
+
+information retrieval, text editing, minicomputers,
+
+************************
+, text editing, minicomputers,
+crts,time sharing, bibliographic search and 
+retrieval, literary analysis, 
+************************
+
+************************
+Document:  CACM-1719.html
+************************
+
+
+a methodology for calculating and
+optimizing real-time system performance
+
+the continually increasing 
+************************
+
+
+the continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.  real-time data processing 
+************************
+.  real-time data processing systems 
+as typified by the automated airline reservation system
+are discussed in this paper.  criteria for evaluating 
+performance are described; a methodology 
+************************
+ are described; a methodology for calculating
+and optimizing is outlined; and the method is 
+illustrated by carrying out a portion of the performance
+calculation and the optimization of a drum-oriented 
+message switching system.
+
+cacm july, 1968
+
+stimler, 
+************************
+.
+
+cacm july, 1968
+
+stimler, s.
+brons, k. a.
+
+real-time system analysis, real-time system design,
+real-time system performance criteria, real-time 
+************************
+ criteria, real-time 
+system cost performance ratio
+
+3.27 3.80 3.81 
+************************
+
+************************
+Document:  CACM-1168.html
+************************
+
+
+across machine lines in cobol
+
+the production of a large, file-maintenance-and-retrieval
+program system written in cobol is 
+************************
+
+************************
+Document:  CACM-1699.html
+************************
+
+
+experimental evaluation of information
+retrieval through a teletypewriter
+
+************************
+ through a teletypewriter
+
+experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis on 
+************************
+s, 
+with emphasis on interactive (man-machine) language and on
+some of the mechanical and psychological limitations 
+in their design, were conducted at the moore school information
+systems laboratory.  the basic 
+************************
+s laboratory.  the basic assumption 
+of the research is that an information retrieval system
+that provides for man-machine 
+************************
+
+that provides for man-machine dialogue at a remote 
+inquiry terminal should provide a searcher with many
+of the tools which would be available to him were 
+he actually performing his search at a library or repository
+of documents.  factors involved in evaluation 
+of such a system include ease of use, learning time, and
+effectiveness of actual retrieval.  three experiments 
+and the conclusions resulting from them are detailed.
+
+cacm september, 1968
+
+rubinoff, m.
+bergman, s.
+franks, w.
+rubinoff, e.
+
+information retrieval testing,  information system
+evaluation, experimental document retrieval, 
+document retrieval, document perusal, man-machine communication,
+remote console communication, teletypewriter 
+communication, remote terminal communication, retrieval
+command language, symbolic command language, 
+interactive systems, user learning factors, on-line 
+************************
+
+************************
+Document:  CACM-2848.html
+************************
+
+
+synthesis of decision rules
+
+decision tables can 
+************************
+
+
+decision tables can be used as an effective
+tool during an interview to record the logic of 
+processes to be automated.  the result of such an interview
+is not a structure of complete decision tables 
+but rather sets of decision rules.  the purpose of this
+paper is to provide a procedure for synthesizing 
+the decision rules and thus provide an aid in developing
+a structure of complete decision tables.
+
+cacm july, 1976
+
+cheng, c.
+rabin, j.
+
+decision rules, decision tables, logical tables,
+logical design, system design, specification 
+************************
+
+************************
+Document:  CACM-2631.html
+************************
+
+
+an information-theoretic approach to
+text searching in direct access 
+************************
+ing in direct access systems
+
+using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems often associated with information
+retrieval, namely, the maintenance 
+************************
+, namely, the maintenance and use of large 
+dictionaries, the greater part of which is used only
+infrequently.  a novel method is presented, which 
+maps the hyperbolic frequency distribution.  this is
+more suited to implementation on storage devices. 
+ this method treats text as a string of characters rather
+than words bounded by spaces, and chooses subsets 
+of strings such that their frequencies of occurrence are
+more even than those of word types.  the members 
+of this subset are then used as index keys for retrieval.
+the rectangular distribution of key frequencies 
+results in a much simplified file organization
+and promises considerable cost advantages.
+
+cacm june, 1974
+
+barton, i. j.
+creasey, s. e.
+lynch, m. f.
+snell, m. j.
+
+text searching, information theory, file organization,
+
+************************
+ theory, file organization,
+direct access, information retrieval, character 
+string, 
+************************
+
+************************
+Document:  CACM-2287.html
+************************
+************************
+Document:  CACM-1827.html
+************************
+
+
+performance monitoring in a time-sharing system
+
+a software measurement facility which is part of
+a general purpose time-sharing system is described. 
+ the date collection facility (dcf) has been implemented
+in the michigan terminal system (mts) for the 
+system/360 model 67.  it exists for the purpose of monitoring
+operating system and user program behavior 
+and 
+************************
+ program behavior 
+and performance.  the overall structure of mts is outlined
+in order to explain the implementation of 
+the dcf.  events in the system are identified and recorded
+from within the supervisor, and dumped to 
+magnetic tape by an auxiliary program for off-line processing.
+ events in user programs which are unrelated 
+to system actions are recorded with a supervisor call.
+ the time of occurrence of each event is accurately 
+recorded, and data items are further identified by job and
+type.  the overhead associated with data collection 
+and its interference with normal jobs is carefully analyzed,
+and both are shown to be minimal.  several 
+examples are given of information obtained with the
+facility 
+************************
+ obtained with the
+facility and of applications in which it has been 
+useful.  some general guidelines are offered for
+the construction of future monitoring programs.
+
+cacm november, 1969
+
+pinkerton, t. b.
+
+performance monitoring, performance measurement,
+program behavior, performance data, multiprogramming 
+performance, software measurement, time-sharing performance,
+system evaluation, software 
+************************
+
+************************
+Document:  CACM-2114.html
+************************
+
+
+a formal system for information retrieval from files
+
+a generalized 
+************************
+ from files
+
+a generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and record retrieval are defined
+and from which some of the frequently used file structures such
+as inverted files, index-sequential files, and multilist files are
+derived.  two algorithms which retrieve records from the generalized file 
+structure are presented.
+
+cacm february, 1970
+
+hsiao, d.
+
+attribute-value pair, index, keyword, record, record address,
+k-pointer, k-list, file, directory, generalized file
+structure, inverted file, index-sequential-file, multilist file,
+description, file search, directory search, serial 
+************************
+
+************************
+Document:  CACM-2140.html
+************************
+
+
+retrieval-update speed tradeoffs using combined indices
+
+in a paper in the november 1970 communications
+of the acm, v. y. lum introduced a technique 
+of file indexing named combined indices.  this technique
+permitted decreased retrieval time at the cost 
+of increased storage space.  this paper examines combined
+indices under conditions of file usage with 
+different fractions of retrieval and update.  tradeoff
+curves are developed to show minimal cost of file 
+usage by grouping various partially combined indices.
+
+cacm december, 1971
+
+mullin, j. k.
+
+file organization, combined index files, inverted
+files, information retrieval, query, multi-attribute 
+************************
+
+************************
+Document:  CACM-2070.html
+************************
+
+
+a formal system for information retrieval from files
+
+cacm april, 
+************************
+
+************************
+Document:  CACM-2976.html
+************************
+
+
+approximating block accesses in database organizations
+
+cacm april, 1977
+
+yao, s. b.
+
+database, inverted file organization, database performance
+and measurement, information retrieval, 
+query answering
+
+3.70 
+************************
+
+************************
+Document:  CACM-3169.html
+************************
+
+
+note on "an optimal evaluation of boolean expressions 
+in an online query system."
+
+cacm october, 1979
+
+gudes, e.
+hoffman, a.
+
+query, boolean expression, optimal evaluation, information retrieval
+
+3.50 3.70 3.74
+
+ca791002 
+************************
+
+************************
+Document:  CACM-1815.html
+************************
+************************
+Document:  CACM-3095.html
+************************
+
+
+a selective traversal algorithm for binary search trees
+
+the problem of selecting data items from
+a binary search tree according to a list of range 
+conditions is considered.  the process of visiting a
+minimal number of nodes to retrieve data satisfying 
+the range conditions is called selective traversal.  presented
+in this paper is an algorithm for selective 
+traversal which uses a tag field for each node in the
+tree.  the algorithm is particularly useful and 
+efficient when examination of data is more time
+consuming than examination of a tag field. 
+
+cacm june, 1978
+
+driscoll, j.
+lien, y.
+
+data retrieval, range conditions, binary 
+************************
+
+************************
+Document:  CACM-1271.html
+************************
+
+
+secondary key retrieval using an ibm 7090-1301 system
+
+the secondary key retrieval method involves
+the preparation of secondary storage lists from 
+primary data records. search requests are satisfied 
+************************
+
+************************
+Document:  CACM-2278.html
+************************
+
+
+on foster's information storage and retrieval using avl trees
+
+cacm 
+************************
+ using avl trees
+
+cacm september, 1972
+
+tan, k. c.
+
+binary trees, search trees, information storage, information retrieval
+
+3.70 3.73 3.74
+
+ca720912 
+************************
+
+************************
+Document:  CACM-2516.html
+************************
+
+
+hierarchical storage in information retrieval
+
+a probabilistic analysis 
+************************
+
+
+a probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  the data 
+************************
+ operations.  the data storage
+hardware is assumed to consist on n-levels of 
+linearly connected memory hardware with increasing data
+access times and increasing data storage capabilities. 
+ a system might, for example, consist of fast semiconductor
+memory, computer core memory, extended core 
+storage, disk memory, and data cells.  equations are derived
+to predict the effect of such a system on 
+data access times using sequential files, random access files,
+and structured files employing multiple-hierarchical 
+linked lists.
+
+cacm may, 1973
+
+salasin, j.
+
+information retrieval, hierarchical storage
+
+************************
+
+************************
+Document:  CACM-2726.html
+************************
+
+
+combining decision rules in a decision table
+
+************************
+ in a decision table
+
+the techniques for minimizing logic circuits
+are applied to the simplification of decision 
+tables by the combining of decision rules. this method
+is logically 
+************************
+. this method
+is logically equivalent to the quien-mccluskey 
+method for finding prime implicants.  if some of the
+decision rules implied in the else 
+************************
+ implied in the else rule occur with 
+low frequency, then the else rule can be used to further
+simplify the decision table.  several objectives 
+merit consideration in optimizing a decision table:(1)
+reducing machine execution time; (2) reducing 
+preprocessing time; (3) reducing required machine memory;
+(4) reducing the number of decision rules. 
+ (this often improves 
+************************
+. 
+ (this often improves the clarity of the decision table
+to a human reader.)  it will be shown that objectives 
+(3) and (4) can be furthered with the above methods.
+ objective (1) is also attained if overspecified 
+decision rules are not combined.  objective 
+************************
+
+************************
+Document:  CACM-1935.html
+************************
+
+
+randomized binary search technique
+
+a mathematical model is developed for the mean
+and variance of the number of trials to recover 
+a given document in a randomly received list of files.
+ the search method described is binary in nature 
+and offers new potential for information retrieval systems.
+
+cacm february, 1969
+
+************************
+s.
+
+cacm february, 1969
+
+arora, s. r.
+dent, w. t.
+
+binary pattern, file examination, graph theory, information
+retrieval, mathematical model, 
+************************
+
+************************
+Document:  CACM-1937.html
+************************
+
+
+codas: a data display system
+
+codas, a customer oriented data system, is
+a user-oriented data retrieval and display system. 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  data is displayed as tables and
+graphs produced in a format ready for publication. 
+ in this paper the statements of the request language
+and the general system design are described.
+
+cacm february, 1969
+
+day, r. h.
+mansfield, m. k.
+ellis, m. e.
+
+data display, information retrieval, graphic display,
+
+************************
+
+************************
+Document:  CACM-1032.html
+************************
+
+
+theoretical considerations in information retrieval systems
+
+information storage 
+************************
+s
+
+information storage and retrieval systems are composed
+of three 
+************************
+s are composed
+of three major components: (a) identification 
+of information and tagging it for effective retrieval,
+(b) searching strategy, 
+************************
+,
+(b) searching strategy, how to enter the file 
+to circumvent the scanning of nonrelevant material, and
+(c) file organization to make access to information 
+efficient.  for identification of information the paper
+suggests that a metalanguage (recently discussed 
+in a paper by goffman, verhoeff and belzer) associated
+with an object language be used.  for searching 
+strategy, a linear model for an evaluation function
+of relevancy is developed which rewards the system 
+for retrieving relevant documents and not retrieving
+the nonrelevant, and penalizes the system for the 
+escaped relevant documents and false drops.  the inadequacies
+of a linear model are indicated.  two approaches 
+to file organization are discussed.  one is self-organization
+of the file based on its history and past 
+performance, and the second is a 
+************************
+
+************************
+Document:  CACM-2979.html
+************************
+
+
+studies in machine cognition using the game of poker
+
+a progress report is presented of on-going
+research efforts concerning human decision making 
+under uncertainly and risk and human problem solving
+and learning processes on the one hand, and machine 
+learning, large scale programming systems, and novel
+programming techniques on the other.  there has 
+also been in terest in how humans make deductive and inductive
+inferences and form and optimize heuristic 
+rules, and how machines can 
+************************
+, and how machines can reach similar results.
+ although the vehicle of these investigations has 
+been the game of poker, a conceptual framework has been
+provided that should have a fairly wide range 
+of applicability.  the models of human judgment, choice,
+and decision making are incorporated 
+************************
+ making are incorporated in a large 
+scale complex program.  they represent both descriptive
+and normative theories of behavior. an in teractive 
+game environment has been recently established which,
+besides its usefulness for experiments in game 
+playing, enables humans to construct machine strategies
+"on-line" in a question answering, advice taking 
+mode.
+
+cacm april, 1977
+
+findler, n. v.
+
+machine learning, game playing programs, decision
+making under uncertain ty and risk, automatic 
+forming and optimizing of heuristic rules, automatic
+inductive 
+************************
+
+************************
+Document:  CACM-0693.html
+************************
+************************
+Document:  CACM-2561.html
+************************
+
+
+a heuristic approach to inductive inference in fact retrieval systems
+
+heuristic procedures 
+************************
+s
+
+heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  the procedures make use
+of a similarity structure which is imposed on the 
+data base using nonnumerical clustering algorithms.  they
+are implemented in a model fact retrieval system 
+which uses a formal 
+************************
+ 
+which uses a formal query language and a property-list data
+structure.  a program of experiments is described 
+wherein the procedures are used with test data bases
+which are altered by deleting part of the data and 
+by purposely introducing false data.  it is found that
+the system can infer the correct response under 
+a variety of conditions involving incomplete and inconsistent data.
+
+cacm december, 1974
+
+skinner, c. w.
+
+inference, inductive inference, clustering, fact retrieval, heuristics
+
+3.61 3.71 
+************************
+
+************************
+Document:  CACM-1908.html
+************************
+
+
+time-sharing and batch-processing:  an experimental
+comparison of their values in a problem - 
+solving situation
+
+an experimental comparison of problem-solving
+using time-sharing and batch-processing computer 
+systems conducted at mit is described in this paper.
+ this study is the first known attempt to evaluate 
+two such systems for what may well be the predominant user
+population within the next decade-the professionals 
+who, as nonprogrammers, are using the computer as an
+aid in decision-making and problem-solving 
+************************
+-making and problem-solving rather 
+than as a programming end in itself.  statistically
+and logically significant results indicate equal 
+cost for usage of the two computer systems; however,
+a much higher level of performance is attained by 
+time-sharing users.  there are indications 
+************************
+s.  there are indications that significantly
+lower costs would have resulted if the 
+time-sharing users had stopped work when they reached
+a performance level equal to that of the batch 
+users.  the users' speed of problem-solving and their
+attitudes made time-sharing the more favorable 
+system.
+
+cacm may, 1969
+
+gold, m. m.
+
+time-sharing vs batch-processing, user performance,
+man/machine communications, cost effectiveness, 
+on-line vs off-line performance, decision-making performance,
+
+************************
+-making performance,
+user/programmer behavior, 
+************************
+
+************************
+Document:  CACM-2832.html
+************************
+
+
+faster retrieval from context trees (corrigendum)
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts.  this note presents an algorithm which improves
+on previous context tree retrieval algorithms. 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals, 
+so that data can be cached to speed up retrieval.  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+the search rapid.  algorithms for 
+************************
+
+************************
+Document:  CACM-1652.html
+************************
+
+
+a code for non-numeric information processing
+applications in online systems
+
+a code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications, and to maximize the transfer 
+rate of the information channel linking the system and
+the system user.  the code has direct application 
+to problems in area such as information retrieval, document
+classification, 
+************************
+
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent 
+************************
+s under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including 
+************************
+ measures, including availability, 
+response time, and the system saturation point.   
+
+cacm june, 1978
+
+gelenbe, e.
+derochette, d.
+
+database reliability, file systems, checkpoints, recovery
+procedures, checking techniques, reliability 
+and system performance evaluation
+
+3.72 3.73 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models 
+************************
+s
+
+econometric models of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of 
+************************
+.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of 
+************************
+ cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market is the developing one
+for small business computer systems, a market which is relatively
+unstable with low price predictability. 
+
+cacm april, 1979
+
+cale, e.
+gremillion, l.
+mckenney, j.
+
+price/performance, grosch's law, u. computer 
+************************
+

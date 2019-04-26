@@ -1,0 +1,1770 @@
+Snippets for the query:  Q63
+************************
+Total Hits:  104
+************************
+
+************************
+Document:  CACM-1972.html
+************************
+
+
+a  nonrecursive list compacting algorithm 
+
+a simple nonrecursive list structure compacting scheme or garbage 
+collector suitable for both compact and lisp-like list structures is presented.
+the algorithm avoids the need for recursion by using the partial structure as 
+it is built up to keep track of those lists that have been copied.
+
+cacm november, 1970
+
+cheney, c. j.
+
+list 
+************************
+970
+
+cheney, c. j.
+
+list compacting, garbage collection, compact list, lisp
+
+4.19 4.49
+
+ca701106 jb february 
+************************
+
+************************
+Document:  CACM-1588.html
+************************
+
+
+pl/i list processing
+
+the concepts of list processing have been introduced
+into the pl/i language.  with these new 
+facilities, it is possible to write pl/i procedures that
+operate on simple and complex data list organizations. 
+ most list-processing languages have suffered from their
+inability to deal directly with complex data 
+structures and/or from their inability to perform the
+complete range of programming language operations 
+upon the data list structures.  these two problems have
+been eliminated in the list-processing 
+************************
+iminated in the list-processing facilities 
+of pl/i.  the basic concepts of list processing and
+the philosophy of the pl/i language extensions are 
+discussed.  in addition, several detailed list-processing examples are provided.
+
+cacm june, 1967
+
+lawson jr., h. w.
+
+************************
+
+************************
+Document:  CACM-2885.html
+************************
+
+
+on self-organizing sequential search heuristics
+
+this paper examines a class of heuristics for
+maintaining a sequential list in approximately 
+optimal 
+************************
+ in approximately 
+optimal order with respect to the average time required
+to search for a specified element, assuming that 
+each element is searched for with a fixed probability
+independent of previous searches performed.  the 
+"move to front" and "transposition" heuristics are shown
+to be optimal to within a constant factor, and 
+the transposition rule is shown to be the more efficient
+of the two. empirical evidence suggests that 
+transposition is in fact optimal for any distribution of search probabilities.
+
+cacm february, 1976
+
+rivest, r.
+
+searching, self-organizing, list-processing, heuristics
+
+************************
+
+************************
+Document:  CACM-2662.html
+************************
+************************
+Document:  CACM-2519.html
+************************
+************************
+Document:  CACM-0916.html
+************************
+************************
+Document:  CACM-1288.html
+************************
+
+
+clp-the cornell list processor
+
+presented 
+************************
+ processor
+
+presented in this paper are the highlights of
+clp, a teaching language which has been employed 
+at cornell university and was constructed to serve as a means
+of introducing simulation and other list-processing 
+concepts. 
+************************
+-processing 
+concepts.  the various advantages of clp are discussed and examples are given.
+
+cacm april, 1965
+
+conway, r. w.
+delfausse, j. j.
+maxwell, 
+************************
+fausse, j. j.
+maxwell, w. l.
+walker, w. e.
+
+ca650403 jb march 7, 1978  4:02 pm
+
+1179	4	1288
+
+************************
+
+************************
+Document:  CACM-1307.html
+************************
+
+
+a lightpen-controlled program for on-line data analysis
+
+this paper describes a technique designed
+to ease the use of a data processing system by a 
+person, in particular, a scientist, who is intimately and
+primarily concerned with interpreting the significance 
+of data handled by the system.  since such a person is
+often unable to spend the time necessary to master 
+a programming language, it is essential that he be aided
+in composing commands to the computer.  in the 
+system described, the user is not required to learn
+or remember the vocabulary of the language because 
+the vocabulary is displayed before him on"menus" by
+means of a computer-drive scope.  he selects the 
+various vocabulary elements required by pointing with
+the light pen.  by use of a small unordered set 
+of rewriting rules applied as a result of light pen
+selections, the user generates only syntactically
+correct commands to the system.  he does not have to learn
+or remember the grammar.  the program restricts 
+the user severely in the particular language he can use,
+but the method for communicating with the program 
+makes these restrictions seem quite natural and unconstraining.
+ the program has been used successfully 
+for over ten months.
+
+cacm february, 1965
+
+goodenough, j. b.
+
+************************
+
+************************
+Document:  CACM-2237.html
+************************
+************************
+Document:  CACM-0193.html
+************************
+************************
+Document:  CACM-2962.html
+************************
+
+
+production and employment of ph.'s in computer science-1976
+
+statistics are presented on the production
+and employment of ph.'s in computer science for 
+the calendar year 1975-76.  data include profiles of graduate
+students and of faculty at 60 ph.-producing 
+departments as well as a breakdown of degrees 
+************************
+
+************************
+Document:  CACM-1424.html
+************************
+
+
+automatic analysis of electronic digital circuits using list processing
+
+a mapping from black diagrams of digital circuits
+to list structures is described, together 
+with a list processing program written for the control
+data 3600 which uses this mapping to automatically 
+carry out circuit analysis.
+
+cacm may, 1966
+
+shalla, l.
+
+ca660513 
+************************
+
+************************
+Document:  CACM-0191.html
+************************
+************************
+Document:  CACM-3112.html
+************************
+
+
+list processing in real time on a serial computer
+
+a real-time list processing system is one
+in which the time required by the elementary list 
+operations (e.g. cons, car, cdr, rplaca, replacd, eq,
+and atom in lisp) is bounded by a (small) constant. 
+ classical implementations of list processing systems
+lack this property because allocating a list cell 
+from the heap may cause a garbage collection, which process
+requires time proportional to the heap size 
+to finish.  a real-time list processing system is presented
+which continuously reclaims garbage, including 
+************************
+aims garbage, including 
+directed cycles, while linearizing and compacting the
+accessible cells into contiguous locations to avoid 
+fragmenting the free storage pool.  the program is small
+and requires no time-sharing interrupts, making 
+it suitable for microcode.  finally, the system requires
+the same average time, and not more than twice 
+the space, of a classical implementation, and those
+space requirements can be reduced to approximately 
+classical proportions by compact list representation.
+ arrays of different sizes, a program stack, and 
+hash linking are simple extensions to our system, and
+reference counting is found to be inferior for 
+many applications.
+
+cacm april, 1978
+
+baker, h.
+
+real-time, 
+************************
+978
+
+baker, h.
+
+real-time, compacting,garbage collection, list processing,
+virtual memory, file or database management, 
+storage management, storage allocation, lisp, cdr-coding, reference counting.  
+
+3.50 3.60 3.73 3.80 4.13 4.22 4.32 4.33 4.35 
+************************
+
+************************
+Document:  CACM-2855.html
+************************
+
+
+an efficient list-moving algorithm using constant workspace
+
+an efficient algorithm is presented for moving
+arbitrary list structures, using no storage 
+(apart from program variables) other than that required
+to hold the original list and the copy.  the 
+original list is destroyed as it is moved.  no mark
+bits are necessary, but pointers to the copy must 
+be distinguishable from pointers to the original.  the
+algorithm is superior in execution speed to previous 
+algorithms for the same problem.  some variations
+and extensions of the algorithm are discussed.
+
+cacm june, 1976
+
+clark, d. w.
+
+list 
+************************
+976
+
+clark, d. w.
+
+list moving, list copying, lisp, space complexity, constant workspace
+
+4.34 4.49 5.25
+
+ca760607 jb january 4, 1978  1:43 pm
+
+1024	4	2855
+
+************************
+
+************************
+Document:  CACM-2772.html
+************************
+
+
+on maintenance of the opportunity list
+for class-teacher timetable problems
+
+one of the principal components of procedures
+for the solution of class-teacher timetable problems 
+is that for maintenance of the opportunity list.  opportunity
+list maintenance methods are based on necessary 
+conditions for the existence of a solution. a general
+framework for necessary conditions, together with 
+four specific sets of necessary conditions, is given.
+
+cacm april, 1975
+
+smith, g.
+
+combinatorial, 
+************************
+975
+
+smith, g.
+
+combinatorial, necessary conditions, opportunity
+list, schedule,school timetable, timetable
+
+3.51 5.39
+
+ca750405 jb january 
+************************
+
+************************
+Document:  CACM-1035.html
+************************
+
+
+characteristics of the fortran cep language
+
+the fortran cep languages differs from fortran
+ii mainly because: (1) it extends the variety 
+of the modes for real quantities; (2) it allows suitable
+mixtures, in an input/output list or in an expression, 
+************************
+ or in an expression, 
+of quantities that occur under different modes; (3)
+it makes it possible to address a greater number 
+of input/output equipment; and (4) it removes the restrictions
+on the complexity of the list of quantities 
+to be transmitted between the magnetic core memory
+and the drum or the magnetic tape units.
+
+cacm july, 1964
+
+mancino. o. g.
+
+
+************************
+
+************************
+Document:  CACM-0898.html
+************************
+************************
+Document:  CACM-0199.html
+************************
+************************
+Document:  CACM-3024.html
+************************
+
+
+the cray-1 computer system
+
+this paper describes the cray-1, discusses
+the evolution of its architecture, and gives an 
+account of some of the problems that were overcome during
+its manufacture.  the cray-1 is the only computer 
+to have been built to date that satisfies erda's class
+vi requirement (a computer capable of processing 
+from 20 to 60 million floating point operations per
+second) [1].  the cray-1's fortran compiler (cft) 
+is designed to give the scientific user immediate access
+to the benefits of the cray-1's vector processing 
+architecture.  an optimizing compiler, cft, "vectorizes"
+innermost do loops.  compatible with the ansi 
+1966 fortran standard and with many commonly supported
+fortran extensions, cft does not require any source 
+program modifications or the use of additional nonstandard
+fortran statements to achieve vectorization. 
+ thus the user's investment of hundreds of man months
+of effort to develop fortran programs for 
+************************
+op fortran programs for other 
+contemporary computers is protected.
+
+cacm january, 1978
+
+russell, r.
+
+architecture, 
+************************
+
+************************
+Document:  CACM-0905.html
+************************
+************************
+Document:  CACM-0195.html
+************************
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  in particular,
+the impact of query complexity is analyzed.
+
+cacm february, 1976
+
+siler, k. f.
+
+database 
+************************
+976
+
+siler, k. f.
+
+database architecture, database performance and
+evaluation, invented list, threaded list, cellular 
+list, information 
+************************
+lular 
+list, information retrieval, database organizations,
+query complexity, stochastic model, monte carlo 
+simulation
+
+3.70 3.71 3.72 3.73 3.74 3.79
+
+************************
+
+************************
+Document:  CACM-0482.html
+************************
+
+
+tall-a list processor for the philco 200 computer
+
+cacm september, 1962
+
+feldman, j.
+
+ca620910 
+************************
+962
+
+feldman, j.
+
+ca620910 jb march 17, 1978  
+************************
+
+************************
+Document:  CACM-2838.html
+************************
+
+
+analysis of an algorithm for real time garbage collection
+
+a real time garbage collection system avoids
+suspending the operations of a list processor 
+for the long times that garbage collection normally requires
+by performing garbage collection on a second 
+processor in parallel with list processing operations,
+or on a single processor time-shared with them. 
+ algorithms for recovering discarded list structures in
+this manner are presented and analyzed to determine 
+sufficient conditions under which the list processor never
+needs to wait on the collector.  these techniques 
+are shown to require at most twice as much processing
+power as regular garbage collectors, if they are 
+used efficiently.  the average behavior of the program
+is shown to be very nearly equal to the worst-case 
+performance, so that the sufficient conditions are also
+suitable for measuring the typical behavior of 
+the algorithm.
+
+cacm september, 1976
+
+wadler, p. l.
+
+garbage 
+************************
+976
+
+wadler, p. l.
+
+garbage collection, storage reclamation, list
+processing, lisp, time-sharing, multiprocessing, 
+parallel processing, real time, 
+************************
+
+************************
+Document:  CACM-0812.html
+************************
+************************
+Document:  CACM-2361.html
+************************
+
+
+a note on cheney's nonrecursive list-compacting algorithm
+
+cacm april, 1972
+
+walden, d. c.
+
+list 
+************************
+972
+
+walden, d. c.
+
+list compacting, garbage collection
+
+4.19 4.49
+
+ca720412 jb january 
+************************
+
+************************
+Document:  CACM-0413.html
+************************
+************************
+Document:  CACM-2767.html
+************************
+
+
+a comparison of simulation event list algorithms
+
+four algorithms are considered which can be used
+to schedule events in a general purpose discrete 
+simulation system.  two of the algorithms are new, one
+is based on an end-order tree structure for event 
+notices, and another uses an indexed linear list. the algorithms
+are tested with a set of typical stochastic 
+scheduling distributions especially chosen to show
+the advantages and limitations of the algorithms. 
+ the end-order tree algorithm is shown to be an advantageous,
+immediate replacement for the algorithm 
+in use with current simulation languages.  the most
+promising algorithm uses the indexed list concept. 
+ it will require an adaptive routine before it can
+be employed in general purpose simulators,but its 
+performance is such that further study would be fruitful.
+
+cacm april, 1975
+
+vaucher, j. g.
+duval, 
+************************
+975
+
+vaucher, j. g.
+duval, p.
+
+simulation, time flow mechanisms, event list algorithm,
+simulation, time flow mechanisms, event 
+list algorithm, simulation executive, event scheduling
+routine, discrete system simulation, sorting
+
+3.74 4.22 8.1
+
+ca750410 jb january 
+************************
+
+************************
+Document:  CACM-2663.html
+************************
+************************
+Document:  CACM-3122.html
+************************
+************************
+Document:  CACM-1830.html
+************************
+
+
+retrieval times for a packed direct access inverted file
+
+cacm october, 1969
+
+bayes, a. j.
+
+information retrieval, direct access memory, data base, inverted list
+
+3.70 4.41
+
+ca691016 
+************************
+
+************************
+Document:  CACM-2661.html
+************************
+************************
+Document:  CACM-3106.html
+************************
+
+
+a fast algorithm for copying list structures
+
+an algorithm is presented for copying an arbitrarily
+linked list structure into a block of 
+contiguous storage locations without destroying  the original
+list.  apart from a fixed number of program 
+variables, no auxiliary storage, such as a stack, is used.
+ the algorithm needs no mark bits and operates 
+in linear time.  it is shown to be significantly faster
+than fisher's algorithm, the fastest previous 
+linear-time algorithm for the same problem.  its speed
+comes mainly from its efficient list-traversal 
+technique, which folds the processing stack into the
+structure being built, and from its classification 
+of list cells into nine types, which 
+************************
+ls into nine types, which enables processing
+operations to be optimized for each type.
+
+cacm may, 1978
+
+clark, d.
+
+list copying, lisp, space 
+************************
+
+************************
+Document:  CACM-2184.html
+************************
+
+
+on the meaning of names in programming systems
+
+it is assumed that there is a similarity of
+function between the data names of a programming 
+language and the file names of an operating system.
+ the two functions are discussed in terms of the 
+same basic concepts in order to identify the extent
+to which they overlap. it is suggested that there 
+is some similarity between the idea of a file directory
+and a storable object of type context.  manipulations 
+with contexts are then discussed at length.  it is noted
+that there is a simple extension of church's 
+lambda notation that deals nicely with these ideas of
+context manipulation.  whereas a function can be 
+regarded as the abstraction based upon the first two terms of
+the expression lambda(name list)(expression)(value list), 
+************************
+)(expression)(value list), 
+it is found that a context can be viewed as an abstraction
+based upon the first two terms in the equivalent 
+expression mu(name list)(value list)(expression).
+
+cacm july, 1971
+
+fraser, a. g.
+
+file, 
+************************
+
+************************
+Document:  CACM-0900.html
+************************
+************************
+Document:  CACM-1106.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general 
+************************
+
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a 
+************************
+
+************************
+Document:  CACM-1193.html
+************************
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must arrange data for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical data.
+
+cacm june, 1970
+
+frantz, d. g.
+
+comparative 
+************************
+970
+
+frantz, d. g.
+
+comparative linguistics, natural
+language processing, comparative method, historical linguistics, diachronic
+linguistics, genetic relationship, sound change, sound
+correspondence, regular correspondence, list processing
+
+3.42
+
+ca700604 jb february 13, 1978  11:51 am
+
+2051	5	2051
+
+************************
+
+************************
+Document:  CACM-1890.html
+************************
+
+
+simulation of traffic flows in a network
+
+a computer simulation program which deals
+with traffic flows in the network of a large area 
+is described.  each road is segmented into blocks of
+several ten-meter lengths and is represented by 
+a bidirectional list in computer memory.  the movement
+of cars, i.e. the transfer of cars from one block 
+to the next, is expressed by a proper formula.  this
+formula is based on the supposition that the speed 
+of cars in a block is determined only by the density of
+cars in the block, and this speed-versus-density 
+curve is empirically given the numerical values.  this
+simulation scheme has its excellent point in that 
+it 
+************************
+lent point in that 
+it makes it possible to trace the dynamic behavior
+of traffic flows in a variety of situations, some 
+examples of which are given for an actual area of the city of kyoto, japan.
+
+june, 1969
+
+sakai, t.
+nagao, m.
+
+traffic simulation, traffic flow, traffic network
+traffic control, traffic density, intersection, 
+signal setting, vehicle, road network, list structure, computer 
+************************
+
+************************
+Document:  CACM-2513.html
+************************
+
+
+a nonrecursive list moving algorithm
+
+an efficient, nonrecursive algorithm is given
+for moving any lisp-type list.  in particular, 
+the algorithm requires no storage other than the new
+nodes into which the list is to be moved, and no 
+additional bits per node for marking; the algorithm
+runs in time proportional to the number of nodes 
+in the list.  the original list structure is destroyed as it is moved.
+
+cacm may, 1973
+
+reingold, e. m.
+
+************************
+973
+
+reingold, e. m.
+
+list moving, list copying, list traversal, garbage collection lisp
+
+4.19 4.49
+
+ca730507 jb january 
+************************
+
+************************
+Document:  CACM-0367.html
+************************
+
+
+topological ordering of a list of
+randomly-numbered elements of a network
+
+
+************************
+ements of a network
+
+a network of directed line segments free of circular
+elements is assumed.  the lines are identified 
+by their terminal nodes and the nodes are assumed to
+be numbered by a non-topological system.  given 
+a list of these lines in numeric order, a simple technique
+can be used to create at high speed a list 
+in topological order.
+
+cacm april, 1961
+
+lasser, d. j.
+
+ca610401 
+************************
+
+************************
+Document:  CACM-0143.html
+************************
+
+
+a list of computer systems programs for
+the ibm 650, datatron 205, and univac ss-80
+
+cacm october, 1960
+
+romberg, a.
+
+ca601005 
+************************
+
+************************
+Document:  CACM-0903.html
+************************
+************************
+Document:  CACM-1495.html
+************************
+
+
+solution of transcendental equations by series reversion
+
+an algorithm is developed for expressing the
+solution y, of the equation f(y) = g(x) as a power 
+series in (x - x0) when f and g are given as power series,and
+the root y0, is known at y=x0.  the algorithm 
+is illustrated for the equation y^y = x, i.e., (1+y)*ln(1+y) = ln(1+x).
+
+************************
+
+************************
+Document:  CACM-1717.html
+************************
+
+
+generating prime implicants via ternary encoding and decimal arithmetic
+
+decimal arithmetic, ternary encoding of cubes,
+and topological considerations are used in an 
+algorithm to obtain the extremals and prime implicants
+of boolean functions. the algorithm, which has 
+been programmed in the fortran language, generally requires
+less memory than other minimization procedures, 
+and treats don't care terms in an efficient manner.
+
+cacm july, 1968
+
+dietmeyer, d. l.
+
+************************
+
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-0593.html
+************************
+************************
+Document:  CACM-1264.html
+************************
+
+
+blnsys-a 1401 operating system with braille capabilities
+
+blnsys is an operating system designed for
+a 4k 1401 with common optional features and two 
+attached tape drives.  printed output of this system
+or of executing programs may be in either english 
+or braille.  even though this system was written for
+a small machine with minimal peripheral equipment, 
+jobs may be batched, so that card handling and lost
+processing time is at a minimum.  this system will 
+perform any or all of the following users specified
+functions: assemble sps source decks, post list, 
+produce condensed or uncondensed object decks, execute
+user's program, list card input to a program, 
+list punched output, provide a storage dump, execute
+a program submitted for execution as an uncondensed 
+object deck under debugging trace control, card-to-braille
+conversion, brailled listings of 7040 ibsys 
+batch output, and update or duplicate the system tape
+itself.  input-ouput subroutines 
+************************
+f.  input-ouput subroutines are also included 
+in the system.
+
+cacm may, 1965
+
+landwehr, j. b.
+mclaughlin, c.
+mueller, h.
+lichstein, m.
+
+************************
+
+************************
+Document:  CACM-0283.html
+************************
+************************
+Document:  CACM-2665.html
+************************
+
+
+copying list structures using bounded workspace
+
+two new algorithms are presented for list structure
+copying using bounded workspace.  the first, 
+of primarily theoretical interest, shows that without
+cell tag bits the task can 
+************************
+l tag bits the task can be performed in time 
+n^2.  the second algorithm, assuming one tag bit in
+each cell, delivers attractive practical speed.  
+any noncyclic structure is copied in linear speed, while
+cyclic structures are copied in average time 
+less than nlogn.  no foreknowledge of cycle absence
+is necessary to achieve linear speed.  a variation 
+of the second algorithm solves an open problem concerning
+list structure marking.  that result demonstrates 
+that marking can be done in average time nlogn 
+************************
+e in average time nlogn without
+the aid of supplemental tag bits or stacks.
+
+cacm april, 1974
+
+lindstrom, g.
+
+list processing, copying, 
+************************
+
+************************
+Document:  CACM-1590.html
+************************
+
+
+pitch period determination of speech sounds
+
+a computer procedure which determines pitch
+periods by the recognition of the peak structure 
+of the speech waveform is described.  speech sounds were
+sampled by a microphone and an analog-to-digital 
+converter attached to an interconnected ibm 7090-pdp-1
+system.  these utterances were recorded at the 
+normal noise level of the computer room 
+************************
+ of the computer room but were not
+band-compressed or phase-distorted in any manner. 
+ a sequence of operations defined on the speech wave selects
+a list of points along the 
+************************
+
+************************
+Document:  CACM-2659.html
+************************
+************************
+Document:  CACM-0572.html
+************************
+
+
+add item to chain-linked list (algorithm 100)
+
+cacm june, 1962
+
+************************
+
+************************
+Document:  CACM-1594.html
+************************
+
+
+an algorithm for generating permutations
+
+an algorithm is described which under repeated
+application generates all permutations of k 
+elements.  only the previously generated permutation,
+the constant k, and a temporary index are needed. 
+ starting with a particular ordering of k elements (abcd),
+repeated application of the algorithm will 
+generate k-1 additional permutations by k-1 successive
+rotations.  from the initial circular ordering 
+of k objects, another circular ordering can be obtained
+by rotating the k-1 lowest elements.  for each 
+new k-1 circular ordering, another k-2 can be obtained
+by rotating the k-2 lowest elements.  by continuing 
+in this manner, applications of the algorithm will generate
+all (k-1)! circular orderings, or since each 
+circular ordering yields k permutations the
+algorithm generates all k! permutations.
+
+cacm may, 1967
+
+langdon jr., g. g.
+
+ca670508 
+************************
+
+************************
+Document:  CACM-1878.html
+************************
+
+
+recovery of reentrant list structures in slip
+
+one consequence of the reference-count-based
+space-recovery system employed by slip is that 
+reentrant list structures are not recovered even when
+explicitly erased.  lisp-like garbage-collection 
+schemes are free of this impediment.  they however,
+depend on being able to find and mark nodes that 
+are reachable from program variables.  by tracing all
+descendants from program variables may then be 
+identified and collected.  the list-creating function
+list of slip may be amended to mark those lists 
+for which the programmer wishes to assume responsibility.
+ given this modification, a lisp-like garbage 
+collector that recovers abandoned reentrant list structures
+may then be appended to the slip system.
+
+cacm july, 1969
+
+weizenbaum, j.
+
+
+************************
+969
+
+weizenbaum, j.
+
+list processing, slip, garbage-collection
+
+4.22 4.40
+
+ca690702 jb february 17, 1978  9:39 am
+
+1024	4	1878
+
+************************
+
+************************
+Document:  CACM-0001.html
+************************
+
+
+preliminary report-international algebraic language
+
+cacm december, 1958
+
+perlis, a. j.
+samelson,k.
+
+************************
+958
+
+perlis, a. j.
+samelson,k.
+
+ca581203 jb march 22, 1978 
+************************
+
+************************
+Document:  CACM-1095.html
+************************
+************************
+Document:  CACM-2570.html
+************************
+
+
+a comparison of list schedules for parallel processing systems
+
+
+************************
+ processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.  cases where task execution times are 
+deterministic and others in which execution times are
+random variables are analyzed.  it is shown that 
+different algorithms suggested in the literature vary significantly
+in execution time and that the b-schedule 
+of coffman and graham is near-optimal.  a dynamic programming
+solution for the case in which execution 
+times are random variables is presented.
+
+cacm december, 1974
+
+adam, t. l.
+chandy, k. m.
+dickson, j. r.
+
+parallel processing, precedence graphs, scheduling,
+list scheduling, optimization, 
+************************
+
+************************
+Document:  CACM-2766.html
+************************
+
+
+copying cyclic list structures in linear time using bounded workspace
+
+a bounded workspace copying algorithm for arbitrary
+list structures is given.  this algorithm 
+operates in linear time and does not require tag bits. 
+the best previous bounded workspace copying algorithms 
+achieved n^2 time without tag bits and n log n time with
+one tag.  the only restriction on the algorithm 
+given here is that the copy must be placed into a contiguous
+section of memory.  the method is applicable 
+to fixed or variable size nodes.
+
+cacm may, 1975
+
+fisher, d. a.
+
+list 
+************************
+975
+
+fisher, d. a.
+
+list processing, copying, linear time, space complexity
+
+4.49 5.25
+
+ca750501 jb january 9, 1978  
+************************
+
+************************
+Document:  CACM-1853.html
+************************
+
+
+compact list representation: definition,
+garbage collection, and system implementation
+
+compact lists are stored sequentially in memory,
+rather than chained with pointers.  since 
+this is not always convenient, the swym system permits
+a list to be chained, compact, or any combination 
+of the two.  a description is given of that list representation
+and the operators implemented (most are 
+similar to those of lisp 1.5).  the system garbage collector
+attempts to make all lists compact; it relocates 
+and rearranges all of list storage using temporary storage.
+ this unique list-compacting garbage collection 
+algorithm is presented in detail.  several classes of the
+macros used to implement the system are described. 
+ finally, consideration is given to those design factors
+essential to the success of a plex processing 
+system implementation.
+
+cacm september, 1969
+
+hansen, w. j.
+
+data structure, data representation, list structure,
+list representation, list, compact list, garbage 
+collection, relocation, storage reclamation, macro,
+primitive 
+************************
+amation, macro,
+primitive list operations, plex processing, plex, 
+pointer, list processing system, lisp, free storage
+
+3.49 4.20 4.22 4.49 4.9
+
+ca690902 jb february 15, 1978  5:01 pm
+
+1853	4	1853
+
+************************
+
+************************
+Document:  CACM-0395.html
+************************
+************************
+Document:  CACM-2998.html
+************************
+
+
+an empirical study of list structure in lisp
+
+static measurements of the list structure of
+five large lisp programs are reported and analyzed 
+in this paper.  these measurements reveal substantial
+regularity, or predictability, among poin ters to 
+atoms and especially among poin ters to lists.  pointers
+to atoms are found to obey, roughly, zipf's law, 
+which governs word frequencies in natural languages; poin ters
+to lists usually poin t to a location physically 
+nearby in memory.  the use of such regularities in the
+space-efficient representation of list structure 
+is discussed.  linearization of lists, whereby successive
+cdrs (or cars) are placed in consecutive memory 
+locations whenever possible, greatly strengthens the
+observed regularity of list structure.  it is shown 
+that under some reasonable assumptions, the entropy or
+information content of a car-cdr pair in the programs 
+measured is about 10 to 15 bits before linearization,
+
+************************
+0 to 15 bits before linearization,
+and about 7 to 12 bits after.
+
+cacm february, 1977
+
+clark, d. w.
+green, c. c.
+
+list structure measurement, 
+************************
+ structure measurement, lisp, list structure
+regularity, poin ter compression, zipf's law, list 
+linearization, poin ter entropy
+
+3.69 4.29 4.34 4.6 5.6
+
+ca770202 jb december 30, 1977  2:55 am
+
+2855	5	2998
+
+************************
+
+************************
+Document:  CACM-3007.html
+************************
+************************
+Document:  CACM-0910.html
+************************
+
+
+selective instruction trap for the 7090
+
+cacm march, 1963
+
+mayer, r. j.
+
+ca630311 
+************************
+
+************************
+Document:  CACM-1103.html
+************************
+************************
+Document:  CACM-0197.html
+************************
+************************
+Document:  CACM-0573.html
+************************
+
+
+remove item from chain-linked list (algorithm 101)
+
+cacm june, 1962
+
+************************
+
+************************
+Document:  CACM-0604.html
+************************
+************************
+Document:  CACM-0100.html
+************************
+
+
+recursive subscripting compilers and list-types memories
+
+cacm february, 1959
+
+carr iii, j. w.
+
+************************
+
+************************
+Document:  CACM-2262.html
+************************
+
+
+garbage collection for virtual memory computer systems
+
+in list processing there is typically a growing
+demand for space during program execution. 
+ this paper examines the practical implications of this
+growth within a virtual memory computer system, 
+proposes two new garbage collection techniques for virtual
+memory systems, and compares them with traditional 
+methods by discussion and by simulation.
+
+cacm november, 1972
+
+baecker, h. d.
+
+
+************************
+972
+
+baecker, h. d.
+
+garbage collection, virtual memory, list
+processing, paging, segmentation, page tables
+
+4.32
+
+ca721107 jb january 27, 1978 
+************************
+
+************************
+Document:  CACM-1255.html
+************************
+
+
+a method of data list processing with application to eeg analysis
+
+a set of subroutines is discussed, which is
+designed to aid in the programming of computations 
+on indexed lists of numbers using machine language
+or a symbolic assembly system.  the most commonly 
+performed list operations are outlined, and logically
+arranged into five groups.  as an example, the 
+computation of power spectral density from the autocovariance
+function is discussed for a class of eeg 
+signals.
+
+cacm may, 1965
+
+philpott, c. m.
+
+************************
+
+************************
+Document:  CACM-0913.html
+************************
+
+
+neliac
+
+cacm march, 1963
+
+halstead, m. h. 
+************************
+
+************************
+Document:  CACM-0599.html
+************************
+
+
+a report writer for cobol
+
+cacm may, 1962
+
+donally, w. l.
+
+ca620506 
+************************
+
+************************
+Document:  CACM-1094.html
+************************
+************************
+Document:  CACM-0394.html
+************************
+************************
+Document:  CACM-1957.html
+************************
+
+
+the list set generator: a construct for evaluating set expressions
+
+the list set generator is defined and algorithms
+for its use are given.  the list set generator is
+a construct which may be added to a list processing system or any
+system that handles sets.  it efficiently generates the set which
+results from any expression involving sets and set operators.  the
+efficiency derives from evaluating the expression as a whole and
+in parallel, rather than evaluating 
+************************
+, rather than evaluating subexpressions and
+then using those sets to arrive at the final result.
+
+cacm december, 1970
+
+shapiro, s. c.
+
+set manipulating, list processing, set
+generation, 
+************************
+ processing, set
+generation, sets, lists, file processing
+
+3.73 3.74 4.22
+
+ca701206 jb february 9, 1978 
+************************
+
+************************
+Document:  CACM-0908.html
+************************
+************************
+Document:  CACM-0592.html
+************************
+************************
+Document:  CACM-2857.html
+************************
+
+
+referencing lists by an edge
+
+an edge reference into a list structure is a pair
+of pointers to adjacent nodes.  such a reference 
+often requires little additional space, but its use can
+yield efficient algorithms. for instance, a circular 
+link between the ends of a list is redundant if the list
+is always referenced by that edge, and list traversal 
+is easier when that link is null.  edge references also
+allow threading of nonrecursive lists, can replace 
+some header cells, and enhance the famous
+exclusive-or-trick to double-link lists
+
+cacm june, 1976
+
+wise, d. s.
+
+list 
+************************
+976
+
+wise, d. s.
+
+list processing, circular, doubly linked, overlapping
+sublist, header cell, pointer, cursor
+
+3.73 
+************************
+
+************************
+Document:  CACM-1461.html
+************************
+************************
+Document:  CACM-0397.html
+************************
+
+
+a card format for reference files in information processing
+
+this paper proposes a card format suitable for
+a variety of reference files in information 
+processing.  an 80-column ibm card is divided into two
+fields-reference material field (columns 1-67) 
+and identification 
+************************
+-67) 
+and identification field (columns 68-80).  the format
+for the reference material is flexible, while the 
+format for the identification is rigid.  the reference
+material includes basically an index, title, source, 
+class, summary and cross reference for each entry. 
+the identification includes basically codes for a 
+matrix of descriptors, an entry number, and the kind,
+major interest, and source of the reference.  the 
+identification also provides a choice to identify material
+for personal as well as general files.  since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books, articles, programming terms, hardware terms, equipment,
+machine systems, abbreviations, etc., it 
+is suitable as a standard for card reference files in information processing.
+
+cacm february, 1961
+
+grems, m.
+
+ca610201 
+************************
+
+************************
+Document:  CACM-0588.html
+************************
+************************
+Document:  CACM-0906.html
+************************
+************************
+Document:  CACM-2725.html
+************************
+
+
+a comparison of simulation event list algorithms (corrigendum)
+
+cacm august, 1975
+
+vaucher, j. c.
+duval, 
+************************
+
+************************
+Document:  CACM-2144.html
+************************
+
+
+on accurate floating-point summation
+
+the accumulation of floating-point sums is
+considered on a computer which performs t-digit 
+base b floating-point addition with exponents in the range
+-m to m.  an algorithm is given for accurately 
+summing n t-digit floating-point numbers.  each of
+these n numbers is split into q parts, forming qn 
+t-digit floating-point numbers.  each of these is then
+added to the appropriate one of n auxiliary t-digit 
+accumulators.  finally, the accumulators are added together
+to yield the computed sum.  in all, qn+n-1 
+t-digit floating-point 
+************************
+ 
+t-digit floating-point additions are performed.  under
+usual conditions, the relative error in the computed 
+sum is at most [(t+1)/v]b^(1-t) for some 
+************************
+
+************************
+Document:  CACM-0527.html
+************************
+
+
+the description list of concepts
+
+a concept is defined as a class of objects
+whose members can be distinguished by processing 
+its properties.  property is defined to mean a partition
+of the set of all objects into disjoint classes. 
+ the formal definition of a concept is recursive in nature.
+ a concept is described by a list structure. 
+ a one-to-one correspondence is established between the
+recursive definition of a concept and its description 
+list structure.  like the definition, the description
+list structure of a concept is also built up from 
+elementary list structures by a recursive process. 
+the list structures obtained this way are compared 
+with the description list structure discussed
+by the author in a previous publication.
+
+cacm august, 1962
+
+banerji, r. b.
+
+
+************************
+
+************************
+Document:  CACM-0717.html
+************************
+
+
+partitioning algorithms for finite sets
+
+the partitions of a set with n elements are represented
+by certain n-tuples of positive integers. 
+ algorithm are described which generate without repetitions
+the n-tuples corresponding to: (1) all partitions 
+of 
+************************
+
+************************
+Document:  CACM-2397.html
+************************
+
+
+optimizing the polyphase sort (corrigendum)
+
+cacm january, 1972
+
+shell, d. l.
+
+ca720106 jb 
+************************
+
+************************
+Document:  CACM-0602.html
+************************
+************************
+Document:  CACM-3164.html
+************************
+
+
+progressive acyclic digraphs-a tool for database integrity
+
+a progressive acyclic digraph (pad) algorithm accepts are requests and
+maintains a graph in an acyclic state.  when a request creates a cycle,
+nodes are, "detached" until the new are can be entered acyclically
+this process is important in certain areas of database implementation
+in which there are constraints on the permissible sequences
+of actions. two pad algorithms are presented; one uses a simple
+path matrix representation and the other uses a list with an
+"artificial gradient."  experiments suggest that for large n the second
+is considerably faster, though both are asymptotically o(nr),
+where n is the number of nodes and r is the expected number
+of nodes reachable along paths from any given node.
+
+cacm september, 1979
+
+hansen, w.
+
+list 
+************************
+979
+
+hansen, w.
+
+list processing, data structures, topological sort,
+acyclic digraph, database integrity, network, deadlock
+
+4.34 5.32 4.33
+
+ca790905 db january 14, 1980  11:56 am
+
+3164	4	3164
+
+************************
+
+************************
+Document:  CACM-0782.html
+************************
+
+
+telescope 1 (algorithm 37)
+
+cacm 
+************************
+
+************************
+Document:  CACM-3061.html
+************************
+
+
+simulations of dynamic sequential search algorithms
+
+none
+
+cacm september, 1978
+
+tenenbaum, a.
+
+searching, list processing, sequential
+
+************************
+
+************************
+Document:  CACM-0228.html
+************************
+************************
+Document:  CACM-0212.html
+************************
+************************
+Document:  CACM-3055.html
+************************
+************************
+Document:  CACM-0190.html
+************************
+************************
+Document:  CACM-2137.html
+************************
+
+
+new lisp techniques for a paging environment
+
+the system described herein employs the block
+concept, and that of global and local variables, 
+in addition to the methods applied in most lisp systems.
+ also, a new means of list representation is 
+used: "local sequential" for lists created during compilation,
+and "block level sequential" for those 
+************************
+ sequential" for those 
+created dynamically.  a new garbage collection algorithm
+has been introduced to make lists as compact 
+as possible; partial garbage collection is performed after
+each block exit instead of total garbage collection 
+when storage is exhausted.  the algorithm does not use
+the customary flagging procedure.  this combination 
+of features has eliminated the need for a free list,
+and effectively minimizes the number of pages used 
+at any moment.
+
+cacm december, 1971
+
+rochfeld, a.
+
+lisp, 
+************************
+971
+
+rochfeld, a.
+
+lisp, list processing, 
+************************
+d, a.
+
+lisp, list processing, paging, virtual memory,
+garbage collection, core fragmentation, compact 
+list structures, block, segment
+
+4.12 4.22 4.32
+
+ca711206 
+************************
+
+************************
+Document:  CACM-1670.html
+************************

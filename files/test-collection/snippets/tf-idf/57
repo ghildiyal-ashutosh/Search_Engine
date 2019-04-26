@@ -1,0 +1,1943 @@
+Snippets for the query:  Q57
+************************
+Total Hits:  161
+************************
+
+************************
+Document:  CACM-2224.html
+************************
+************************
+Document:  CACM-2216.html
+************************
+
+
+on the probability distribution of the values of binary trees
+
+an integral equation is derived for the generating
+function for binary tree values, the values 
+reflecting sorting effort. the analysis does not assume
+uniformly distributed branching ratios, and 
+therefore is applicable to a family of sorting algorithms
+discussed by hoare, singleton, and van emden. 
+ the solution to the integral equation indicates that
+using more advanced algorithms in the family makes 
+only minor reductions in the expected sorting effort,
+but substantially reduces the variance in sorting 
+effort.  statistical tests of the values of several
+
+************************
+s of the values of several
+thousand trees containing up to 10,000 points have 
+given first, second, and third moments of the value distribution
+function in satisfactory agreement with 
+the moments computed from the generating function.  the
+empirical tests, as well as the analytical 
+************************
+
+************************
+Document:  CACM-2604.html
+************************
+
+
+an interactive graphic display for region
+partitioning by linear programming
+
+using linear programming, an interactive graphic
+display system has been implemented 
+************************
+ has been implemented to solve 
+the region design problem of partitioning 
+************************
+ problem of partitioning a region into
+n nonoverlapping subregions in such a way that 
+their areas are in specified proportions and that the
+total cost of servicing them is a minimum.  in 
+a conversational manner, a user can easily obtain different
+partitionings by specifying and modifying 
+the boundary, the service centers' locations, the area
+proportions, and the cost functions.  examples 
+are included.
+
+cacm september, 1974
+
+cheung, t.
+
+interactive graphic display, region partitioning,
+area specification, linear programming
+
+5.41 8.2 
+************************
+
+************************
+Document:  CACM-1631.html
+************************
+
+
+testing a random number generator
+
+the first 1,000,000 numbers produced by the
+random number generator used in the general purpose 
+systems simulator (gpss) were subjected to statistical
+tests.  the tests are described 
+************************
+.  the tests are described and the 
+************************
+ are described and the results 
+of the tests are presented.  these 
+************************
+ are presented.  these particular tests indicate
+that the numbers 
+************************
+ indicate
+that the numbers are satisfactory.  it is 
+recommended that suitable tests be applied to all
+random 
+************************
+
+************************
+Document:  CACM-0942.html
+************************
+************************
+Document:  CACM-1816.html
+************************
+
+
+generalized least squares fit by orthogonal
+polynomials 
+************************
+ fit by orthogonal
+polynomials (algorithm 296 [e2])
+
+cacm november, 1969
+
+watson, w. t.
+
+least squares, curve fitting, orthogonal polynomials,
+three-term recurrence, polynomial regression, 
+approximation, forsythe's 
+************************
+
+************************
+Document:  CACM-2351.html
+************************
+************************
+Document:  CACM-2930.html
+************************
+
+
+the gre advanced test in computer science
+
+this report describes the advanced test in
+computer science which was recently in troduced in 
+the graduate record examination program.  the gre program
+is described in general, and, the events leading 
+to the establishment of the advanced computer science
+test are discussed.  content specifications and 
+their rationale are given.  a set of sample questions is included.
+
+cacm september, 1977
+
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated in terms of cpu:i/o 
+************************
+ted in terms of cpu:i/o and i/o:i/o overlap
+and applied to the analysis of these problems. 
+ the percentage performance improvement from cpu:i/o
+overlap is found to be greatest for systems which 
+are in approximate 
+************************
+s which 
+are in approximate cpu:i/o utilization balance and for
+low degrees of multiprogramming.  the percentage 
+improvement from i/o:i/o overlap is found to be greatest
+for systemtems in which the i/o 
+************************
+tems in which the i/o system is more 
+utilized than the cpu.
+
+cacm october, 1978
+
+towsley, d.
+chandy, k.
+browne, j.
+
+multiprogramming, parallel processing, queueing
+network models, multiprocessing of 
+************************
+
+************************
+Document:  CACM-2062.html
+************************
+
+
+the application of sequential sampling
+to simulation: an example inventory model
+
+four different sequential sampling procedures are applied
+to the analysis of data generated by a computer simulation
+experiment with a multi-item inventory model.  for each procedure
+the cost of computer time required to achieve given levels of
+statistical precision is calculated.  also the cost of computer time
+using comparable fixed sample size methods is calculated.  the
+computer costs of fixed sample size procedures versus
+sequential sampling procedures are compared.
+
+cacm may, 1970
+
+sasser, w. e.
+burdick, d. s.
+graham, d. a.
+naylor, t. h.
+
+simulation, inventory models, sequential
+sampling, models, experimental design
+
+3.31 3.50 3.54 5.5
+
+************************
+
+************************
+Document:  CACM-1698.html
+************************
+
+
+a statistical model for console behavior in multiuser computers
+
+the ability of a computer system to communicate
+with the outside world efficiently is as important 
+as its ability to perform computations efficiently. 
+it is quite difficult to characterize a particular 
+user, but rather easy to characterize the entire user community.
+ based on the properties of this community 
+we have postulated a hypothetical "virtual console."
+ no claim is made that a virtual console behaves 
+like any actual console, but the entire collection of
+virtual consoles models the collection of actual 
+consoles.  using the model we answer questions like: 
+how many processes are suspended waiting for console 
+input?  what is the maximum rate at which a process can
+execute?  what bounds can be set on overall buffer 
+requirements?  answers to these and similar questions
+are needed in certain aspects of operating system 
+design.
+
+cacm september, 1968
+
+************************
+.
+
+cacm september, 1968
+
+denning, p. j.
+
+statistical models for input-output, operating
+system design, input-output design
+
+************************
+, input-output design
+
+4.30 4.41 5.5
+
+ca680903 
+************************
+
+************************
+Document:  CACM-2825.html
+************************
+
+
+the bmd and bmdp series of statistical computer programs
+
+cacm october, 1976
+
+frane, j. w.
+
+analysis of variance, cluster analysis, contingency
+tables, data analysis, discriminant analysis, 
+factor analysis, graphics, outliers, regression, time series, transformations
+
+************************
+
+************************
+Document:  CACM-1171.html
+************************
+
+
+a comparison of the primal-simplex and primal-dual
+algorithms for linear programming
+
+a statistical comparison of the primal-dual
+
+************************
+ comparison of the primal-dual
+and the more commonly used primal-simplex algorithm 
+for solving linear programming problems has been made under
+the assumption of starting with a full artificial 
+basis.  under these conditions the primal-dual method
+shows a statistically significant superiority on 
+************************
+ificant superiority on 
+randomly generated problems.  it has also been found, via
+a regression analysis, that the relevant parameters 
+in determining the difference in the number of iterations
+between the algorithms is not only the number 
+************************
+
+************************
+Document:  CACM-1734.html
+************************
+
+
+chebyshev solution to an overdetermined
+linear system (algorithm 328 [f4])
+
+************************
+ (algorithm 328 [f4])
+
+cacm june, 1968
+
+bartels, r. h.
+goulub, h. g.
+
+chebyshev solutions, overdetermined linear
+systems, linear equations, 
+************************
+
+************************
+Document:  CACM-2418.html
+************************
+************************
+Document:  CACM-2395.html
+************************
+
+
+quadratic programming for nonlinear regression
+
+a quadratic programming 
+************************
+
+
+a quadratic programming algorithm is described
+for use with the magnified diagonal method of 
+nonlinear regression with linear constraints. 
+************************
+ with linear constraints.  the
+regression method is published 
+************************
+ method is published in jacm, july 1970.
+
+cacm january, 1972
+
+shrager, r. i.
+
+nonlinear equations, nonlinear regression, nonlinear
+programming, 
+************************
+, nonlinear
+programming, quadratic programming, least 
+squares, inequality, constraints, 
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+
+
+growing applications of linear programming
+
+use of linear programming models has grown so
+extensively 
+************************
+ has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  it no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  an advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based.  these viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  some
+of the components of such a system are: 
+************************
+ of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, 
+************************
+
+************************
+Document:  CACM-1591.html
+************************
+
+
+a model for a multifunctional teaching system
+
+a teaching system model that was incorporated
+into an operating system of a large computer 
+is described.  the model transferred control to the
+operating system to execute functions other than 
+teaching, and then recovered control in order to resume
+teaching.  the teaching system (abac-ii) was 
+written to run under the operating system (ibsys) for
+the ibm 7044 graphic system.  because the teaching 
+system automatically terminated and rescheduled itself,
+a student studying a course presented 
+************************
+ studying a course presented at a cathode-ray 
+display terminal could switch readily between student
+mode and programmer mode.  during the latter, the 
+full resources of the operating system (language processors,
+
+************************
+ (language processors,
+compilers, library and user's programs) 
+were at his disposal.  he could for example, write, assemble,
+debug, and execute at the terminal a program 
+written in any language processed by the operating system.
+ a course could therefore include text material 
+interleaved with programming problems which the student
+could solve without 
+************************
+
+************************
+Document:  CACM-0319.html
+************************
+************************
+Document:  CACM-0981.html
+************************
+************************
+Document:  CACM-1637.html
+************************
+
+
+problems in the statistical analysis of simulation
+experiments: the comparison of means and the 
+length of sample records
+
+research is continued into statistical analysis
+of simulation experiments containing autocorrelated 
+time series.  it is shown how to estimate the lengths
+of sample records needed to use certain large sample 
+results in measuring stability.  analogies between autocorrelated
+data and independent observations are 
+described.  a way to test the difference of the mean
+of two experiments is suggested.  it is shown how 
+the variance of the sample mean relates to the spectrum
+of the generating process, and estimation of 
+the quantities of interest is described. the results
+
+************************
+
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure 
+************************
+
+
+a critical failure of current software system
+design and implementation methodology 
+************************
+ and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before 
+************************
+ is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is 
+************************
+
+************************
+Document:  CACM-0050.html
+************************
+************************
+Document:  CACM-1848.html
+************************
+
+
+the damped taylor's series method for minimizing
+a sum of squares and for solving systems of 
+nonlinear equations 
+************************
+s of 
+nonlinear equations (algorithm 315 [e4, c5])
+
+cacm september, 1969
+
+silverman, g.
+
+solution of equations, least squares approximation, newton's 
+************************
+
+************************
+Document:  CACM-0382.html
+************************
+************************
+Document:  CACM-1146.html
+************************
+
+
+an efficient composite formula for multidimensional quadrature
+
+a (2s+1)-point second-degree quadrature formula
+for integration over an s-dimensional hyper-rectangle 
+is presented.  all but one of the points lie on the
+surface with weights of opposite sign attached to 
+points 
+************************
+
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-1920.html
+************************
+************************
+Document:  CACM-1835.html
+************************
+
+
+the iitran programming language
+
+the iitran language, developed to be used
+by students, and its important important features 
+are described. iitran is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  several novel and powerful features
+are included.  a discussion of design principles 
+to be followed in a student language is given.
+
+cacm october, 1969
+
+dewar, r. b. k.
+hochsprung, r. r.
+
+languages programming languages, student programming
+systems, language design, high 
+************************
+s, language design, high school programs, 
+************************
+
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a 
+************************
+s
+
+a macro model of a distributed information system in presented.  the model
+describes the major costs of using an information
+system from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters 
+************************
+ and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+
+************************
+.
+
+cacm april, 1979
+
+bucci, g.
+streeter, d.
+
+distributed processing, system design, cost minimization, 
+************************
+
+************************
+Document:  CACM-1605.html
+************************
+
+
+an experimental comparison of time sharing and batch processing
+
+the effectiveness for program development
+of the mit compatible time-sharing system (ctss) 
+was compared with that of the ibm ibsys batch-processing
+system by means of a statistically designed 
+experiment. 
+************************
+ly designed 
+experiment.  an identical 
+************************
+ed 
+experiment.  an identical set of four programming problems
+was assigned to each of a group of four programming 
+subjects.  influences external to the systems, such as
+the sequence of problem solution, and programmer 
+and problem characteristics, were specified as design
+factors in the experiment.  data was obtained for 
+six variables (e.g., programmer time, computer time,
+elapsed time, etc.) which were considered to be 
+definitive of "system effectiveness," and analysis of
+variance techniques were employed to estimate system 
+differences in these variables after differences due to
+the design factors had been eliminated.  statistical 
+analysis of the experimental 
+************************
+ 
+analysis of the experimental results provided strong
+evidence of important system differences, as well 
+as a critique of the experimental design itself
+with implications 
+************************
+
+************************
+Document:  CACM-1986.html
+************************
+************************
+Document:  CACM-2405.html
+************************
+
+
+linear systems with almost tridiagonal 
+************************
+s with almost tridiagonal matrix [f4] (algorithm a470)
+
+cacm december, 1973
+
+kubicek, m.
+
+system of linear equations, almost tridiagonal 
+************************
+
+************************
+Document:  CACM-1864.html
+************************
+************************
+Document:  CACM-1252.html
+************************
+
+
+symbolic notations for statistical tables
+and an approach towards automatic system design
+
+the preparation of 
+************************
+
+
+the preparation of statistical tables is an
+important function of the data processing systems 
+of some organizations, and a symbolic notation for the
+description of tables has been shown to be a useful 
+aid to documentation.  such a notation also provides
+the first step towards making automatic a tedious 
+and time-consuming part of system design and programming
+in many 
+************************
+
+************************
+Document:  CACM-2153.html
+************************
+
+
+experiments with an automated instructional system for numerical methods
+
+a computer system was developed at purdue
+university to teach portions of an undergraduate 
+course in numerical methods.  each instructional unit
+or lesson is divided into three modes of instruction 
+which allow the student to press from a computer-controlled
+presentation to a student-controlled investigation. 
+the system is designed as a classroom-independent 
+************************
+ed as a classroom-independent course
+of study, and has been used for two semesters 
+by students in lieu of conventional classroom instruction.
+ initial measures of effectiveness, student 
+acceptance, and operational cost are the result of testing
+the system independent of instructor 
+************************
+
+************************
+Document:  CACM-1874.html
+************************
+************************
+Document:  CACM-1876.html
+************************
+
+
+generation of test matrices having certain
+sign patterns and prescribed 
+************************
+ patterns and prescribed positive spectra
+
+a class of orthogonal transformations is presented
+whose members transform a given positive 
+diagonal matrix into a matrix having one of four special sign patterns.
+
+cacm july, 1969
+
+schneider, a. j.
+
+test matrices, positive matrices, 
+************************
+
+************************
+Document:  CACM-1732.html
+************************
+************************
+Document:  CACM-0069.html
+************************
+************************
+Document:  CACM-1802.html
+************************
+
+
+regression using certain direct product matrices (algorithm 366 [g2])
+
+cacm december, 1969
+
+claringbold, p. j.
+
+analysis of variance, analysis of covariance,
+regression analysis, experimental design, matrix 
+direct product, 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+
+
+further evidence for the analysis of algorithms
+for the zero-one programming problem
+
+the purpose of this note is to report computational
+experience additional to that recently 
+summarized by gue et al, with two algorithms for the
+zero-one linear programming problem. 
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+************************
+ in performance evaluation
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+************************
+ performance.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes circumstances 
+************************
+s and establishes circumstances under
+which the use of a model is appropriate.
+
+cacm july,1972
+
+kimbleton, s. r.
+
+modeling, evaluation, performance, analytic-models,
+simulation-models, system-models
+
+2.43 2.44 6.2 
+************************
+
+************************
+Document:  CACM-2670.html
+************************
+
+
+efficient implementation of a variable projection
+algorithm for nonlinear least squares problems
+
+nonlinear 
+************************
+ problems
+
+nonlinear least squares frequently arise for 
+************************
+ frequently arise for which
+the variables to be solved for can be separated 
+into a linear and a nonlinear part.  a variable projection
+algorithm has been developed recently which 
+is designed to take advantage 
+************************
+ed to take advantage of the structure of a problem
+whose variables separate in this way.  this 
+paper gives a slightly more efficient and slightly more
+general version of this algorithm than has appeared 
+earlier.
+
+cacm march, 1974
+
+krogh, f. t.
+
+nonlinear least squares, parameter estimation, 
+************************
+
+************************
+Document:  CACM-0432.html
+************************
+************************
+Document:  CACM-2592.html
+************************
+
+
+on generation of test problems for linear programming codes
+
+users 
+************************
+ programming codes
+
+users of linear programming computer codes have
+realized the necessity of evaluating the capacity, 
+effectiveness, and accuracy of the solutions provided
+by such codes.  large scale linear programming 
+codes at most installations are assumed to be generating correct
+solutions without ever having been "bench-marked" 
+by test problems with known 
+************************
+ problems with known solutions.  the reason for
+this failure to adequately test the codes is that 
+rarely are there large problems with known solutions readily
+available.  this paper presents a theoretical 
+justification and an illustrative implementation of a method
+for generating linear programming test problems 
+************************
+ programming test problems 
+with known solutions.  the method permits the generation
+of test problems that are of arbitrary size 
+and have a wide range of numerical characteristics.
+
+cacm october, 1974
+
+charnes, a.
+raike, w. m.
+stutz, j. d.
+walters, a. s.
+
+linear programming, test problem 
+************************
+
+************************
+Document:  CACM-1578.html
+************************
+
+
+generalized least squares fit by orthogonal
+polynomials 
+************************
+
+************************
+Document:  CACM-1873.html
+************************
+
+
+accelerating lp algorithms
+
+it is shown how a novel method for computing
+(related) inner products can accelerate the pricing 
+phase of lp algorithms.  other lp applications are indicated.
+
+cacm july, 1969
+
+fox, b. l.
+
+linear programming, revised 
+************************
+
+************************
+Document:  CACM-2993.html
+************************
+
+
+occurrences of cycling and other phenomena
+arising in a class of linear programming models
+
+an investigation into 
+************************
+
+
+an investigation into the average queue size
+for a certain class of queues has resulted in 
+the formulation of linear programming problems which
+are ill-conditioned in some cases.  in attempting 
+to solve these linear programming models, using ibm's
+mps package, 
+************************
+, using ibm's
+mps package, instances of cycling were encountered. 
+ small perturbations in the input data resulted in problems
+which did not cycle.  this fact, plus several 
+other observed phenomena suggest that the primary reason
+that cycling is not known to occur more frequently 
+is the round-off errors in the computations perturb
+the problem sufficiently to prevent cycling (or at 
+least to prevent indefinite cycling).  in one case maximizing
+and minimizing an objective function subject 
+to the same constrain t set was attempted, but mps solved
+only one of these while giving an indication 
+of infeasibility for the other.
+
+cacm february, 1977
+
+kotiah, t. c. t.
+steinberg, d. i.
+
+linear programming, cycling, queueing models
+
+5.41 5.9
+
+ca770208 
+************************
+
+************************
+Document:  CACM-1629.html
+************************
+
+
+stat-pack: a biostatistical programming package
+
+a package of fortran statistical programs for use
+on almost any small to medium size (40k characters 
+or 8k words) for which a fortran ii compiler exists
+is described and its availability is announced.  
+the major design criteria of ease of 
+************************
+
+************************
+Document:  CACM-1695.html
+************************
+
+
+plexus-an on-line system for modeling neural networks
+
+a description is presented of plexus, a system
+which enables a user to construct and specify 
+a neural network, to analyze the output data produced
+by the network, and to store and retrieve networks 
+and data from a library.  the system, operated entirely
+from a digital display unit, interacts directly 
+with the user and permits easy and rapid transitions
+between the various phases of the modeling process. 
+ plexus is designed to complement neurophysiological 
+************************
+ed to complement neurophysiological research
+so that the systematic development of neural 
+models can be coordinated with experimental work.  plexus
+networks are built up from components representing 
+individual 
+************************
+ representing 
+individual neurons, external stimuli, and interconnecting
+fibers, each component being of a relatively 
+detailed nature.  provision is also made for the use of
+experimental data as input to a network.  convenient 
+means for specification and modification of a network and
+extensive error-checking capabilities are provided. 
+data resulting from the simulation of a network may be
+analyzed by a variety of techniques ranging from 
+examinations of the gross characteristics of the data to
+the determination of detailed statistical properties.
+
+cacm september, 1968
+
+dill, j. c.
+randall, d. l.
+richer, i.
+
+biological modeling, data analysis, discrete system
+simulation, library systems, modeling, network 
+simulation, neural networks, neurophysiological
+models, on-line simulation, 
+************************
+
+************************
+Document:  CACM-2950.html
+************************
+
+
+a unifying approach to scheduling
+
+this paper presents a scheme for classifying
+scheduling algorithms based on an abstract model 
+of a scheduling system which formalizes the 
+************************
+ which formalizes the notion of
+priority.  various classes of scheduling algorithms
+are defined and related to existing algorithms.  a
+criterion for the implementation efficiency of an 
+algorithm is developed and results in the definition
+of time-invariant algorithms, which include most 
+of the commonly implemented ones.  for time-invariant
+algorithms, the dependence of processing rates 
+on priorities is derived.  the abstract model provides
+a framework for implementing flexible schedulers 
+in real operating systems.  the policy-driven 
+************************
+s.  the policy-driven scheduler
+of bernstein and sharp is discussed as an example 
+of such an implementation
+
+cacm july, 1977
+
+ruschitzka, m.
+fabry, r. s.
+
+scheduling algorithms, scheduling models, priority,
+operating 
+************************
+
+************************
+Document:  CACM-1474.html
+************************
+
+
+tests of probabilistic models for propagation of roundoff 
+************************
+ for propagation of roundoff errors
+
+in any prolonged computation it is generally
+assumed that the accumulated effect of roundoff 
+errors is in some sense statistical.  the purpose of this
+paper is to give precise descriptions of certain 
+probabilistic models for roundoff error, and then to
+describe a series of experiments for testing the 
+validity of 
+************************
+ing the 
+validity of these models.  it is concluded that the models
+are in general very good.  discrepancies are 
+both rare and mild.  the test techniques can also 
+************************
+
+************************
+Document:  CACM-1274.html
+************************
+
+
+on the numerical solution of an n-point boundary
+value problem for linear ordinary differential 
+equations
+
+a method for the numerical solution of then-point
+boundary value problem for homogeneous linear 
+ordinary differential equations is developed.  the
+method requires two runge-kutta integrations over 
+the interval under consideration and the solution of
+a linear system of equations with n-1 
+************************
+
+************************
+Document:  CACM-2098.html
+************************
+
+
+t-test probabilities (algorithm 321);
+student's t-distribution (algorithm 
+************************
+'s t-distribution (algorithm 344)
+
+cacm february, 1970
+
+hill, g. w.
+loughhead, m.
+
+t-test, student's t-statistic, distribution 
+************************
+
+************************
+Document:  CACM-2101.html
+************************
+
+
+least squares fit by f(x) = acos(bx+c) (algorithm 376 $e2))
+
+cacm february, 1970
+
+spath, h.
+
+nonlinear least squares fit
+
+5.15
+
+************************
+
+************************
+Document:  CACM-0136.html
+************************
+************************
+Document:  CACM-2067.html
+************************
+
+
+comment on lawler's multilevel boolean minimization
+
+cacm april, 1970
+
+devries, r. c.
+
+multilevel logic design, generalized prime implicants,
+minimal 
+************************
+
+************************
+Document:  CACM-1482.html
+************************
+
+
+bugsys: a programming system for picture processing-not for debugging
+
+bugsys is a picture processing and measuring
+system that depends upon a pictorial input to 
+the computer's memory.  bugsys can be used for many
+types of applications.  in particular, the authors 
+have used the system for the analysis of linear graphs.
+ the main concept 
+************************
+
+************************
+Document:  CACM-1420.html
+************************
+
+
+a new uniform pseudorandom number generator
+
+a new multiplicative congruential pseudorandom
+number generator is discussed, in which the 
+modulus is the largest prime within accumulator capacity
+and the multiplier is a primitive root of that 
+prime.  this generator passes the usual statistical
+tests and in addition the 
+************************
+
+************************
+Document:  CACM-1195.html
+************************
+
+
+uplifts-university of pittsburgh linear file tandem system
+
+a series of computer 
+************************
+
+
+a series of computer programs has been developed
+and is now operational for processing the 
+national aeronautics and space administration linear file
+system on an ibm 1401-7090 
+************************
+ on an ibm 1401-7090 combined data processing 
+system.  the program are note-worthy in that they create
+fixed length logical records and fixed length 
+blocks from variable length source data, and format
+the output for optimization of processing on the 
+ibm 7090 system.  the programs are completely self-checking
+and test for both validity and 
+************************
+
+************************
+Document:  CACM-1423.html
+************************
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices.
+ it also has many applications in numerical 
+analysis, but it is not widely used because the existing
+algorithms are fairly complicated and require 
+considerable storage space.  a simple extension has
+been found to the conventional orthogonalization 
+method for inverting non-singular matrices, which gives
+the generalized inverse with little extra effort 
+and with no additional storage requirements.  the algorithm
+gives the generalized inverse for any m by 
+n matrix a, including the special case when m+n and a
+is non-singular and the case when m>n and rank(a) 
+= n.  in the first case the algorithm gives the ordinary
+inverse of a.  in the second case the algorithm 
+yields the ordinary least squares transformation matrix
+inv(a'a)a' and has the advantage of avoiding 
+the loss of significance which results 
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical 
+************************
+ for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines 
+************************
+ of sembegs and outlines the major 
+components of the system.  the design of sembegs 
+************************
+.  the design of sembegs is founded
+
+************************
+ of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs.  bagdams
+
+************************
+
+************************
+Document:  CACM-2904.html
+************************
+
+
+an algorithm for reduction of operator strength
+
+a simple algorithm which uses an indexed temporary
+table to perform reduction of operator strength 
+in strongly connected regions is presented.  several extensions,
+including linear function test replacement, 
+are discussed. 
+************************
+ replacement, 
+are discussed.  these algorithms should fit well into an
+integrated package of local optimization algorithms.
+
+cacm november, 1977
+
+cocke, j.
+
+compilers, optimization of compiled code, program analysis,
+operator strength reduction, test replacement, 
+strongly 
+************************
+
+************************
+Document:  CACM-2554.html
+************************
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes 
+************************
+s
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+************************
+ and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+************************
+ed to aid in the process 
+of applications software design, computer selection
+
+************************
+, computer selection
+and performance evaluation.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. 
+************************
+s, 
+and performance evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  the analyzed problem statement 
+was translated to the form necessary for use by the
+soda (systems optimization and design algorithm)
+program for 
+************************
+ algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+cacm december, 1976
+
+nunamaker, j. f. jr.
+konsynski, b. r. jr.
+ho, t.
+singer, c.
+
+computer-aided analysis, information systems, logical
+system design, problem statement language, 
+************************
+, problem statement language, 
+problem statement analyzer, physical system design,
+accurately defined 
+************************
+,
+accurately defined systems, systems optimization 
+and design algorithm
+
+2.44 3.50 
+************************
+
+************************
+Document:  CACM-1344.html
+************************
+
+
+statistical computations based upon algebraically specified models
+
+based upon a machine-readable statistical model
+and related symbolic specifications, an efficient 
+method of performing calculations for statistical models
+of a balanced complete nature is presented. 
+ fixes, mixed, and random analysis of variance models
+are considered.  a procedure for obtaining variance 
+components and calculated f statistics for the model terms is included.
+
+cacm december, 1966
+
+************************
+
+************************
+Document:  CACM-0529.html
+************************
+************************
+Document:  CACM-2779.html
+************************
+************************
+Document:  CACM-2114.html
+************************
+
+
+a formal system for information retrieval from files
+
+a generalized file structure is provided
+
+************************
+ file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and record retrieval are defined
+and from which some of the frequently used file structures such
+as inverted files, index-sequential files, and multilist files are
+derived.  two algorithms which retrieve records from the generalized file 
+structure are 
+************************
+
+************************
+Document:  CACM-2948.html
+************************
+
+
+a terminal-oriented communication system
+
+this paper describes a system for full-duplex
+communication between a time-shared computer 
+and its terminals.  the system consists of a communications
+computer directly connected to the time-shared 
+system, a number of small remote computers to which
+the terminals are attached, and connecting medium 
+speed telephone lines.  it can service a large number
+of terminals of various types.  the overall system 
+design is presented along with the algorithms used to
+solve three 
+************************
+
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components 
+************************
+, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, j.
+tarjan, r.
+
+graphs,analysis of algorithms, graph manipulation
+
+************************
+
+************************
+Document:  CACM-0740.html
+************************
+************************
+Document:  CACM-1238.html
+************************
+
+
+a technique for integrated reports from a multi-run system
+
+the requirements of a requisition accounting
+system for the san francisco overseas supply agency 
+(osa) included exception reporting to osa itself.  the simultaneous
+satisfaction of the reporting requirement 
+and the accounting requirements posed definite problems
+in system design, particularly the handling 
+************************
+
+************************
+Document:  CACM-0070.html
+************************
+************************
+Document:  CACM-1755.html
+************************
+
+
+proceedings of the acm symposium on operating system principles
+
+cacm may, 1968
+
+acm special interest committee
+
+ca680501 
+************************
+
+************************
+Document:  CACM-1709.html
+************************
+
+
+a modification of efroymson's technique for stepwise regression analysis
+
+the computational technique conventionally used
+for stepwise multiple linear regression requires 
+the storage of an n x n matrix of data.  when the number
+of variables, n, is large, this requirement 
+taxes the storage capacity of presently used machinery.
+ the near symmetry of the matrices involved permits 
+a modification requiring only half the storage and computations
+of the conventional algorithm and this 
+additional storage allows the analysis of problems containing
+more variables.  alternatively, it permits 
+the analysis of problems containing the same number
+of variables but with all computations performed 
+in double precision.
+
+cacm august, 1968
+
+breaux, h. j.
+
+multiple linear regression, statistical recurrence
+formulas, correlation, linear statistical models, 
+statistical computer 
+************************
+
+************************
+Document:  CACM-1586.html
+************************
+
+
+a generalized bairstow algorithm
+
+the bairstow algorithm is generalized to the
+case of a polynomial which is itself a linear 
+combination of polynomials 
+************************
+
+************************
+Document:  CACM-2225.html
+************************
+
+
+circular integer partitioning [a1] (algorithm 403)
+
+cacm january, 1971
+
+coleman, m. w.
+taylor, m. s.
+
+partitions, combinatorics, statistical design of experiments
+
+5.39 
+************************
+
+************************
+Document:  CACM-1691.html
+************************
+
+
+a comparison of the correlational behavior
+of random number generators for the ibm 360
+
+hutchinson states that the "new" (prime modulo)
+multiplicative congruential pseudorandom generator, 
+attributed to d. h. lehmer, has passed the usual statistical
+tests for random number generators. 
+************************
+s for random number generators.  it 
+is here empirically shown that generators of this type
+can produce sequences whose autocorrelation functions 
+up to lag 50 exhibit evidence of nonrandomness for many
+multiplicative constants.  an alternative generator 
+proposed by tausworthe, which uses irreducible polynomials
+over the field of characteristic two, is shown 
+to be free from this defect.  the applicability of these
+two generators to the ibm 360 is then discussed. 
+ since computer word size can affect a generator's statistical
+behavior the older mixed and simple congruential 
+generators, although extensively tested on computers
+having 36 or more bits per word, may not be optimum 
+generators for the ibm 360.
+
+cacm september, 1968
+
+whittlesey, j. r.
+
+random numbers, pseudorandom number generators, autocorrelation
+function, serial correlation, digital 
+shift-register generators, linear recurrence modulo
+two, irreducible polynomials, primitive trinomials 
+modulo two, congruential generators, prime numbers,
+statistical tests for randomness, ibm 
+************************
+
+************************
+Document:  CACM-2488.html
+************************
+
+
+least squares piecewise cubic curve fitting
+
+the matrices involved in a linear least squares
+formulation are determined for 
+************************
+
+************************
+Document:  CACM-1632.html
+************************
+
+
+programming the tabular method of analysis
+of variance for factorial experiments 
+
+the ease of programming the tabular method of analysis
+of variance for complete factorial experiments 
+in a fortran language is demonstrated.  in this method,
+the total sum of squares is partitioned into 
+orthogonal single degree of freedom sums of squares;
+main effect and interaction sums of squares are 
+then obtained by appropriate pooling of the single degree
+of freedom sums of squares.  program segments 
+to accomplish the procedure are presented.  modifications
+to handle hierarchical designs and replicated 
+experiments 
+************************
+
+************************
+Document:  CACM-3166.html
+************************
+
+
+computing standard deviations: accuracy
+
+four algorithms for the numerical computation
+of the standard deviation of (unweighted) sampled data
+are analyzed.  two of the algorithms are well-known in the statistical
+and computational literature; the other two are new algorithms
+specifically intended for automatic computation.  our discussion is 
+expository, with emphasis on reaching a suitable definition of
+"accuracy."  each of the four algorithms is analyzed for the conditions
+under which it will be accurate.  we conclude that all four
+algorithms will provide accurate answers for many problems, but two
+of the algorithms, one new, one old, are substantially more accurate
+on difficult problems than are the other two.
+
+cacm september, 1979
+
+chan, t.
+lewis, j.
+
+mean, standard deviation, least squares, updating
+estimates, 
+************************
+
+************************
+Document:  CACM-1398.html
+************************
+
+
+robot data screening: a solution to multivariate
+type problems in the biological and social sciences
+
+a new approach is outlined toward the solution
+of the type of multivariate problem that is 
+found usually in the biological and social sciences as
+well as in medicine.  this approach uses a "logical" 
+rather than a "statistical" criterion by which 
+************************
+
+************************
+Document:  CACM-0536.html
+************************
+
+
+nonlinear regression and the solution of 
+************************
+ and the solution of simultaneous equations
+
+if one has a set of observables (z1,...,zm) which
+are bound in a relation with certain parameters 
+(a1,...,an) by an equation s(z1,...;a1,...)=0, one frequently
+has the problem of determining a set of 
+values of the ai which minimizes the sum of squares of
+differences between observed and calculated values 
+of a distinguished observable, say zm.  if the solution
+of the above equation for zm,  zm=n(z1,...;a1,...) 
+gives rise to a function n which is nonlinear in the ai,
+then one may rely on a version of gaussian regression 
+[1,2] for an iteration 
+************************
+
+************************
+Document:  CACM-0356.html
+************************
+************************
+Document:  CACM-1206.html
+************************
+
+
+the self-judgment method of curve fitting
+
+a computer-oriented method for processing and
+communicating numerical data is described.  the 
+instrument reliability factors (irf), which exactly
+define the limits of reliability of each measured 
+item of information, are used to compute the maximum
+permitted error (mpe) associated with each values 
+of each ordinate.  the self-judgment principle (sjp)
+is used to discard wrong information and to compute 
+mean values of the parameters and their mpe's in terms
+of the irf.  data compatibility tests with any 
+number of 
+************************
+ with any 
+number of different equations can be made quickly. 
+otherwise intractable problems are easily solved, 
+and the design of many experiments 
+************************
+
+************************
+Document:  CACM-2533.html
+************************
+
+
+gray code and the +- sign sequence when
++-f (+-f(+-f(...+-f(x)...))) is ordered
+
+cacm march, 1973
+
+salzer, h. e.
+
+gray code, sign sequences, ordering, positive
+monotonic functions, binary system, galois sum
+
+5.10
+
+ca730306 
+************************
+
+************************
+Document:  CACM-1875.html
+************************
+
+
+polynomial and spline approximation by quadratic programming
+
+the problem of approximation to a given function,
+or of fitting a given set of data, where 
+the approximating function is required to have certain
+of its derivations of specified sign over the 
+whole range of approximation, is studied.  two approaches
+are presented, in each of which quadratic programming 
+is used to provide both the constraints on the derivatives
+and the selection of the function which yields 
+the best fit.  the first is a modified bernstein polynomial
+scheme, and the second is a spline fit.
+
+cacm july, 1969
+
+amos, d. e.
+slater, m. l.
+
+constant sign derivatives, bernstein polynomials,
+linear concavity constraints, 
+************************
+
+************************
+Document:  CACM-2634.html
+************************
+
+
+an evaluation of statistical software in the social sciences 
+
+several hundred college and university computer
+installations now offer various types of statistical 
+packages for general use.  among those most widely available
+are osiris, spss, bmd, data-text, and tsar. 
+ in order to provide users with a basis for selection
+and use, tests were made for each of 
+************************
+ were made for each of these systems, 
+and the results are summarized as to cost and performance.
+
+cacm june, 1974
+
+slysz, w. d.
+
+statistical computation, statistical software,
+descriptive statistics, bivariate tables, pearson 
+correlation, regression, factor analysis, one-way 
+************************
+
+************************
+Document:  CACM-1644.html
+************************
+************************
+Document:  CACM-0060.html
+************************
+
+
+the alpha vector transformation of a system of linear constraints
+
+cacm september, 
+************************
+
+************************
+Document:  CACM-3138.html
+************************
+
+
+a mathematical programming updating method using modified
+givens transformations and applied to lp problems
+
+an efficient and numerically stable method is presented for the problem of
+updating an orthogonal decomposition of a matrix of column (or row) vectors.
+the fundamental idea is to add a column (or row) analogous
+to adding an additional row of data in a linear least squares problem.
+a column (or 
+************************
+ problem.
+a column (or row) is dropped by a formal scaling with the
+imaginary unit,  -1, followed by least squares addition of the column
+(or row).  the elimination process for the procedure is successive
+ssive application of the givens transformation in modified (more efficient)
+form.  these ideas are illustrated with an implementation
+of the revised simplex method.  the algorithm is a general purpose
+one that does not account for any particular structure or sparsity
+in the equations.  some suggested computational tests for determining
+signs of various controlling 
+************************
+s of various controlling parameters in the revised simplex
+algorithm are mentioned.  a simple means of constructing
+test cases and some sample computing times are presented. 
+
+cacm april, 1979
+
+hanson, r.
+wisniewski, j.
+
+linear programming, numerical 
+************************
+ programming, numerical linear algebra, modified givens transformations,
+linear programming test cases
+
+5 5.4 5.41 5.1 
+************************
+
+************************
+Document:  CACM-2145.html
+************************
+
+
+automation of etching-pattern layout
+
+help (heuristic etching-pattern layout program)
+is an application program developed to computerize 
+the tedious and error-prone although vitally important
+wiring design of printed circuit boards.  help 
+helps automate a design stage one step closer to production
+than logical design.  it can be used to design 
+wiring patterns of two-layer circuit boards on which
+ics in dual-in-line packages as well as discrete 
+components such as transistors 
+************************
+ such as transistors and resistors have been
+placed.  help employs two methods of wiring.  
+one is the heuristic method, which simulates human
+approaches to wiring design, and the other is the 
+************************
+, and the other is the 
+theoretically interesting but time-consuming method of
+maze-running, based on the lee's algorithm.  help 
+performs more than 90 percent of required wiring by
+the heuristic path with respect to a performance 
+function for each point-to-point, and point-to-line
+connection.  it can bring the number of successful 
+wiring connections very close to 100 percent.
+
+cacm november, 1971
+
+aramaki, i.
+kawabata, t.
+kazuhiko, a.
+
+heuristic etching-pattern layout, wiring design of
+printed circuit board, 
+************************
+
+************************
+Document:  CACM-1823.html
+************************
+************************
+Document:  CACM-1619.html
+************************
+
+
+error-free methods for statistical computations
+
+neely has discussed computational error generated
+by some algorithms used to compute various 
+************************
+
+************************
+Document:  CACM-0755.html
+************************
+
+
+an exponential method of numerical integration
+of ordinary differential equations
+
+a formula for numerical integration is prepared,
+which involves an exponential term.  this 
+formula is compared to two standard integration methods,
+and it is shown that for a large class of differential 
+equations, the exponential formula has superior stability
+properties for large step sizes.  thus this 
+formula may be used with a large step size to decrease the
+total computing time for a solution significantly, 
+particularly 
+************************
+
+************************
+Document:  CACM-2999.html
+************************
+
+
+an approach to multidimensional data array processing by computer
+
+some recent work on the development of general-purpose
+computer-based statistical and data 
+processing capabilities for handling multidimensional
+
+************************
+ for handling multidimensional
+arrays of data is presented. attention is first 
+given to some of the general problems of multidimensional
+table and array processing.  this is followed 
+by a summary of some recent developments in array processing
+capabilities at the world bank, in particular, 
+the system identified as wraps(world 
+************************
+ identified as wraps(world bank
+retrieval and array processing system).
+
+cacm february, 1977
+
+muller, m. e.
+
+array processing, table processing, statistical
+analysis, data retrieval, 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models of the u. computer market 
+************************
+ of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost 
+************************
+

@@ -1,0 +1,781 @@
+Snippets for the query:  Q46
+************************
+Total Hits:  35
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+
+
+neater2: a pl/i source statement reformatter
+
+neater2 accepts a pl/i source program and operates on it to produce
+a reformatted version.  when in the logical mode, neater2 indicates
+the logical structure of the source program in the indentation
+pattern of its output.  logic errors discovered through neater2
+logical analysis are discovered much more economically than is possible
+through compilation and trial runs.  a number of options are
+available to give the user full control over the 
+************************
+
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-2889.html
+************************
+
+
+performance of height-balanced trees
+
+this paper presents the results of simulations
+that investigate the performance of height-balanced 
+(hb[k]) trees.  it is shown that the only statistic
+of hb[1] trees (avl trees) that is a function of 
+the size of the tree is the time to search for an item
+in the tree.  for sufficiently large trees, the 
+execution times of all procedures for maintaining hb[1]
+trees are independent of the size of the tree. 
+ in particular, an average of .465 restructures are required
+per insertion, with an average of 2.78 nodes 
+revisited to restore the hb[1] property; an average of
+ .214 restructures are required per deletion, with 
+an average of 1.91 nodes revisited to restore the hb[1]
+property.  moreover,the execution times of procedures 
+for maintaining hb[k] trees, for k>1, are also independent
+of the size of the tree except for the average 
+number of nodes revisited on a delete operation in
+order to restore the hb[k] property on trace back. 
+ the cost of maintaining hb[k] trees drops sharply as the
+allowable imbalance (k) increases.  both analytical 
+and experimental results that show the cost of maintaining
+hb[k] trees as a function of k are discussed.
+
+cacm january, 1976
+
+karlton, p. l.
+fuller, s. h.
+scroggs, r. e.
+kaehler, e. b.
+
+hb[k] trees, balanced trees, avl trees,
+information storage and retrieval, searching
+
+3.7 3.72 
+************************
+
+************************
+Document:  CACM-1442.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the 
+************************
+-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely functional) subsystem
+that aims to expand the class of users' needs 
+that can be 
+************************
+
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1090.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+
+
+mechanization of the curve fitting process: datan
+
+a process for fitting a curve to approximate data
+and the problem it creates for the engineer-programmer 
+is defined.  an approach has also been defined and a system
+has been written for the sru 1107 to mechanize 
+a major portion of this process.  the techniques developed
+to accomplish the mechanization are largely 
+empirical, and are dependent for their information
+only on the actual data 
+************************
+
+************************
+Document:  CACM-1179.html
+************************
+
+
+pufft-the purdue university fast fortran translator
+
+a core resident, compile-and-go system designed
+for the ibm 7090/7094 computer is described. 
+ in little more than half of the 32k word core memory
+pufft provides a monitor for job sequencing, a 
+translator for the full fortran iv language, the fortran
+subroutine library, an input--output system 
+for use at compile 
+************************
+
+************************
+Document:  CACM-2352.html
+************************
+************************
+Document:  CACM-2676.html
+************************
+************************
+Document:  CACM-0672.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+************************
+Document:  CACM-0021.html
+************************
+************************
+Document:  CACM-2639.html
+************************
+************************
+Document:  CACM-1453.html
+************************
+
+
+a nonrecursive method of syntax specification
+
+the use of the kleene regular expression notation
+for describing algebraic language syntax, 
+in particular of algol, is described in this paper. 
+a fortran ii computer program for carrying out the 
+elimination algorithm of gorn,similar to gaussian elimination
+for linear systems of algebraic equations, 
+is described.  this was applied to numerous smaller
+languages, including some sublanguage of algol.  
+a hand calculation result of the application of the algorithm
+to all of algol is given, thus expressing 
+the revised algol 1960 syntax in completely nonrecursive
+terms, as far as its context-free portion is 
+concerned.  this description in many ways is far more
+intuitively understood than the previous recursive 
+description, it is suggested.  the paper also includes
+results of the machine 
+************************
+
+************************
+Document:  CACM-0963.html
+************************
+
+
+relative effects of central processor and input-output
+speeds upon throughput on the large computer
+
+presented in this paper is a technique for
+determining the relative effects of the internal 
+speed of the computer and the speed of the input-output
+units upon the overall speed of the system. equations 
+are derived 
+************************
+
+************************
+Document:  CACM-0076.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions 
+************************
+
+************************
+Document:  CACM-0475.html
+************************
+************************
+Document:  CACM-0582.html
+************************
+************************
+Document:  CACM-0516.html
+************************
+************************
+Document:  CACM-1235.html
+************************
+
+
+a stochastic approach to the grammatical coding of english
+
+a computer program is described which will
+assign each word in an english text to its form 
+class or part of speech.  the program operates at relatively
+high speed in only a limited storage space. 
+ about half of the word-events in a corpus are identified
+through the use of a small dictionary of function 
+words and frequently occurring lexical words.  some suffix
+tests and logical-decision rules are employed 
+to code 
+************************
+
+************************
+Document:  CACM-2573.html
+************************
+************************
+Document:  CACM-3144.html
+************************
+************************
+Document:  CACM-1390.html
+************************
+
+
+convert
+
+a programming language is described which
+is applicable to problems conveniently described 
+by transformation rules.  by this is meant that patterns
+may be prescribed, each being associated with 
+a skeleton, so that a series of such pairs may be searched
+until a pattern is 
+************************
+
+************************
+Document:  CACM-0895.html
+************************
+************************
+Document:  CACM-1996.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-0430.html
+************************
+************************
+Document:  CACM-0810.html
+************************
+************************
+Document:  CACM-1244.html
+************************
+************************
+Document:  CACM-0275.html
+************************
+
+
+dynamic storage allocation for an information retrieval system
+
+cacm october, 1961
+
+************************
+
+************************
+Document:  CACM-2306.html
+************************
+************************
+Document:  CACM-2842.html
+************************
+************************
+Document:  CACM-2219.html
+************************
+
+
+a policy-driven scheduler for a time-sharing system
+
+the service received by a process from a time-sharing
+operating system can be characterized 
+by a resource count sum{w[i]r[ij]} where r[ij] is the
+number of units of service received by process 
+i from resource i and w[i] is the cost per unit of the
+service.  each class of users can be characterized 
+************************
+s can be characterized 
+by a policy function which specifies the amount of service
+a user who belongs to this class should receive 
+as a function of time.  priority changes dynamically
+as a function of the difference between the service 
+promised to the user by the policy function and the service
+he actually receives.  a scheduling and swapping 
+algorithm which keeps the resource count of each process
+above its policy function will provide the specified 
+level of service.  overhead can be reduced by avoiding
+swaps of process which have received at least 
+his level of service.  the algorithm has been implemented
+in a general purpose operating system, and 
+it has provided 
+************************
+
+************************
+Document:  CACM-1297.html
+************************
+************************
+Document:  CACM-1256.html
+************************
+************************
+Document:  CACM-3137.html
+************************
+
+
+a methodology for the design of distributed information systems
+
+a macro model of a 
+************************
+s
+
+a macro model of a distributed information system in presented.  the model
+
+************************
+ in presented.  the model
+describes the major costs of using an information
+system from the perspective 
+************************
+ from the perspective of the end-user.  the making evident the effect of
+various design and operating parameters on overall cost per transaction.
+ the technique is illustrated by application to the design
+of an interactive transaction processing system.
+
+cacm april, 1979
+
+
+************************
+
+************************
+Document:  CACM-1425.html
+************************
+************************
+Document:  CACM-0434.html
+************************
+************************
+Document:  CACM-0150.html
+************************
+************************
+Document:  CACM-0584.html
+************************
+************************
+Document:  CACM-1283.html
+************************
+************************
+Document:  CACM-2119.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+************************
+Document:  CACM-0015.html
+************************
+************************
+Document:  CACM-0469.html
+************************
+************************
+Document:  CACM-0030.html
+************************
+************************
+Document:  CACM-1230.html
+************************
+************************
+Document:  CACM-3118.html
+************************
+************************
+Document:  CACM-0118.html
+************************
+************************
+Document:  CACM-0306.html
+************************
+************************
+Document:  CACM-0248.html
+************************
+************************
+Document:  CACM-1415.html
+************************
+
+
+automatic derivation of microsentences
+
+the decomposition of long complex english sentences
+into shorter kernel-like constituent sentences 
+(microsentences)has often been suggested as an avenue
+toward conducting automatic retrieval of natural 
+language messages.  to explore the prospects of such
+a step, the authors attempted in 1963 to prepare 
+a general program for deriving microsentences from longer
+sentences that had been syntactically analyzed 
+by the harvard multipath analysis program.  the basic
+idea was to extract the subject, verb and object 
+(if any) of each clause and to reassemble these materials
+into a grammatical microsentence.  a program 
+is described in this paper, which was designed to operate
+on the tree structure output of the analyzer, 
+and the microsentences that were produced are exhibited.
+ the authors conclude that while microsentences 
+of the quality achieved do not open up immediate prospects
+for improving the performance of automatic 
+message retrieval systems, they may have practical
+
+************************
+
+************************
+Document:  CACM-0612.html
+************************
+************************
+Document:  CACM-2651.html
+************************
+************************
+Document:  CACM-2691.html
+************************
+
+
+comments on the algorithms of verhelst for the
+conversion of limited-entry decision tables to 
+flowcharts
+
+cacm january, 1974
+
+king, p. j. h.
+johnson, r. g.
+
+decision table, flowcharting, preprocessor, optimal programs, search 
+
+3.50 3.59 4.19 4.29 
+************************
+
+************************
+Document:  CACM-0364.html
+************************
+************************
+Document:  CACM-2925.html
+************************
+************************
+Document:  CACM-0556.html
+************************
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+
+
+simulation of radioisotope scans by computer
+
+in radioisotope scanning, a field which is assuming
+increasing importance in medical diagnosis, 
+the scan is a two-dimensional pattern made up of dots.
+ areas of increased source activity are represented 
+on the scan by areas of increased dot density.  to study
+the output of scanners with various characteristics, 
+a program which simulates radioisotope scans has been
+written  for a pdp-1 computer with auxiliary disk 
+storage and cathode ray tube display.  past and present
+research using the output of the simulator has 
+shown the flexibility of the system to be important.
+ the 
+************************
+ to be important.
+ the structure of this program can be useful in 
+the simulation of the output of any quantum-limited system.
+
+cacm may, 1966
+
+pizer, 
+************************
+
+************************
+Document:  CACM-1801.html
+************************
+************************
+Document:  CACM-2151.html
+************************
+
+
+user program measurement in a time-shared environment
+
+a general discussion of the measurement of
+software systems is followed by a description of 
+a hardware and software scheme for measuring user programs
+in a time-shared environment.  the tx-2 computer 
+at mit lincoln laboratory was used for the implementation
+of such a system and the characteristics of 
+this implementation are reported.  a scenario showing
+the system in use is presented.  finally, it is 
+shown how other time-sharing systems may provide similar measuring facilities.
+
+cacm october, 1971
+
+nemeth, a. g.
+rovner, p. d.
+
+operating systems, multiprogramming systems, time-sharing
+systems, software measurement, user program 
+measurement, measurement technology, tx-2 computer,
+virtual computers, performance improvement
+
+4.30 4.32 
+************************
+
+************************
+Document:  CACM-0026.html
+************************
+************************
+Document:  CACM-1984.html
+************************
+************************
+Document:  CACM-2374.html
+************************
+
+
+a study of storage partitioning using a mathematical model of locality
+
+both fixed and dynamic storage partitioning
+procedures are examined for use in multiprogramming 
+systems.  the storage requirement of programs is modeled
+as a stationary gaussian process.  experiments 
+justifying this model are described.  by means of this
+model dynamic storage partitioning is shown to 
+provide substantial increases in storage utilization
+and operating efficiency over fixed partitioning. 
+
+cacm march, 1972
+
+coffman jr., e. g.
+ryan jr., t. a.
+
+storage partitioning, memory management, dynamic
+storage allocation, space sharing, multiprogrammed 
+storage, working-sets, program behavior models, mathematical modeling
+
+************************
+
+************************
+Document:  CACM-0074.html
+************************
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication 
+************************
+s, using the normal multiplication table as a directory
+for the information system.  algorithms for the 
+************************
+.  algorithms for the organization an
+d retrieval of information are described.  this 
+************************
+ are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication table method yields far more rapid retrieval
+with a more economical 
+************************
+
+with a more economical space requirement than conventional systems.  
+moreover this method incorporates an improved modification of the inverted 
+file technique.
+
+cacm march, 1979
+
+motzkin, d.
+
+information retrieval, inverted files, multiattribute 
+************************
+
+************************
+Document:  CACM-2670.html
+************************
+************************
+Document:  CACM-2758.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1497.html
+************************
+************************
+Document:  CACM-1454.html
+************************
+************************
+Document:  CACM-3002.html
+************************
+
+
+a record and file partitioning model
+
+one of the main objectives in the design of
+a file system is the reduction of storage and data 
+transfer costs.  this paper presents a model in which
+several  requests access the file system, and each 
+request requires information from one or more variable
+
+************************
+ from one or more variable
+length data-items.  the probabilities of access 
+and the distribution of each data-item's length are assumed
+to be known, and to be mutually independent. 
+the file system uses one or more storage devices, and
+each record may be partitioned into subrecords 
+that are stored on different devices.  one of the subrecords
+is designated as the primary record; when 
+a request for a record is made, the primary record is
+first accessed, and other subrecords are accessed 
+only if the pertinent information is not stored in the
+
+************************
+
+************************
+Document:  CACM-2083.html
+************************
+
+
+creation and control of internal data bases
+under a fortran programming environment
+
+a method is described for the definition of a user's common structure
+and the automatic generation of the necessary common, dimension, equivalence,
+and type declarations for each of the user's routines.  the definition
+for the common is contained in an easy to modify form, thus
+allowing the control of general communications of data between routines.
+the described system has been implemented 
+************************
+
+************************
+Document:  CACM-2349.html
+************************
+************************
+Document:  CACM-1268.html
+************************
+************************
+Document:  CACM-1104.html
+************************
+************************
+Document:  CACM-1339.html
+************************
+************************
+Document:  CACM-2307.html
+************************
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process. 
+ methods are described for an automatic query modification
+based on user needs, and for a continuous 
+reorganization of the stored information as a function of
+earlier file processing and of normal collection 
+growth.  the proposed procedures provide powerful tools
+for information retrieval and for the control 
+************************
+ and for the control 
+of dynamic library collections in which new items
+are continually added and old ones are retired.
+
+cacm july, 1972
+
+salton, g.
+
+automatic indexing, automatic search and retrieval,
+iterative searching, 
+************************
+
+************************
+Document:  CACM-0185.html
+************************
+************************
+Document:  CACM-1485.html
+************************
+************************
+Document:  CACM-2087.html
+************************
+************************
+Document:  CACM-1971.html
+************************
+
+
+recorded magnetic tape for information interchange (1600
+cpi, phase encoded)* (proposed american national standard)
+
+cacm november, 1970
+
+input-output, magnetic tape, information 
+************************
+
+************************
+Document:  CACM-0035.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1614.html
+************************
+************************
+Document:  CACM-1246.html
+************************
+************************
+Document:  CACM-1655.html
+************************
+************************
+Document:  CACM-0263.html
+************************
+************************
+Document:  CACM-2919.html
+************************
+************************
+Document:  CACM-1930.html
+************************
+************************
+Document:  CACM-1847.html
+************************
+************************
+Document:  CACM-1879.html
+************************

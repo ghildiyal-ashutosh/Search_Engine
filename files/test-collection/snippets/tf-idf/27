@@ -1,0 +1,1515 @@
+Snippets for the query:  Q27
+************************
+Total Hits:  102
+************************
+
+************************
+Document:  CACM-1723.html
+************************
+
+
+computer construction of project networks
+
+project networks are 
+************************
+s
+
+project networks are used in pert and 
+************************
+s are used in pert and cpm.
+ an algorithm is given for constructing project 
+networks directly from the project 
+************************
+s directly from the project precedence relations.
+ the algorithm creates "dummy" activities and 
+topologically orders the arcs and nodes.  the number of
+nodes created is minimal for the given precedence 
+relations.  it has been experimentally programmed
+in fortran ii for the ibm 7094.
+
+cacm july, 1968
+
+fisher, a. c.
+liebman, j. s.
+nemhauser, g. l.
+
+project networks, pert, cpm, topological
+
+************************
+
+************************
+Document:  CACM-1623.html
+************************
+
+
+an application of formac
+
+a nonlinear circuit analysis problem is stated
+and the way in which it was solved using formac 
+is indicated.  the solution of the problem using formac
+was notable since several other methods that 
+were tried failed.  the problem is straightforward (although
+untenable by hand) but nevertheless involved 
+an elaborate use of the formac language.  the program
+was fairly large and utilized practically every 
+command.  in particular, it made extensive use of the
+part command.  several tricks were necessary in 
+order to circumvent some of the shortcomings of the
+formac system.  this paper is more concerned with 
+the use of programming techniques in formac than with
+the actual engineering problem, although readers 
+may be interested in the problem because 
+************************
+
+************************
+Document:  CACM-3032.html
+************************
+
+
+reverse path forwarding of broadcast packets
+
+a broadcast packet is for delivery to all
+nodes of a network.  algorithms for accomplishing 
+this delivery through a store-and-forward packet switching
+ computer network include (1) transmission 
+of separately addressed packets. (2) multidestination
+addressing, (3) hot potato forwarding,(4) spanning 
+tree forwarding, and (5) source based forwarding.  to
+this list of algorithms we add (6) reverse path 
+forwarding, a broadcast routing method which exploits
+routing procedures and data structures already 
+available for packet switching.  reverse path forwarding
+is a practical algorithm for broadcast routing 
+ in store-and-forward packet switching computer networks.
+ the algorithm is described 
+************************
+.
+ the algorithm is described as being practical 
+ because it is not optimal according to metrics developed
+for its analysis in this paper, and also because 
+it can be implemented in existing networks with less complexity
+
+************************
+s with less complexity
+than that required for the known alternatives. 
+
+cacm december, 1978
+
+dalal, y.
+metcalfe, r.
+
+reverse path forwarding, broadcast packets, routing,
+computer networks, store-and-forward 
+************************
+
+************************
+Document:  CACM-1688.html
+************************
+************************
+Document:  CACM-0036.html
+************************
+************************
+Document:  CACM-2884.html
+************************
+************************
+Document:  CACM-2519.html
+************************
+************************
+Document:  CACM-3059.html
+************************
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.  in particular, several parallelized 
+algorithms are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, pert chart analysis,
+and the analysis of many types of networks. 
+ these algorithms 
+************************
+
+************************
+Document:  CACM-1822.html
+************************
+************************
+Document:  CACM-2283.html
+************************
+************************
+Document:  CACM-0828.html
+************************
+
+
+incompressible flow network calculations
+
+a general method for the calculation of flows
+and pressures in fluid flow networks is presented. 
+ the 
+************************
+
+************************
+Document:  CACM-1267.html
+************************
+************************
+Document:  CACM-2614.html
+************************
+
+
+arrow to precedence network transformation [h] (algorithm a481)
+
+cacm august, 1974
+
+crandall, k. c.
+
+critical path, networks, precedence networks
+
+************************
+, precedence networks
+
+3.23 5.40
+
+ca740810 
+************************
+
+************************
+Document:  CACM-1989.html
+************************
+
+
+transition network grammars for natural language analysis
+
+the use of augmented transition network grammars for the analysis
+of natural language sentences is described.  structure-building
+actions associated with the arcs of the grammar network allow for the reordering,
+restructuring, and copying of constituents necessary to produce
+deep-structure representations of the type normally obtained from a
+transformational analysis, and conditions on the arcs allow for a
+powerful selectivity which can rule out meaningless analyses and take
+advantage of semantic information to guide the parsing. 
+************************
+
+************************
+Document:  CACM-1516.html
+************************
+************************
+Document:  CACM-1412.html
+************************
+************************
+Document:  CACM-1745.html
+************************
+
+
+a position paper on computing and communications
+
+the effective operation of free enterprise in
+creating the envisioned information service industry 
+is dependent upon three accomplishments: (1) the restructuring
+of our information processing industry 
+so that a clear division of costs is made among computing,
+communications, and the development of information 
+services; (2) the wide use of multiaccess system concepts
+so that information services may share in the 
+use of computer installations and so that the cost of their
+construction is reasonable; and (3) the development 
+of public, message-switched communications services so
+that adequate provisions are made for information 
+security.
+
+cacm may, 1968
+
+dennis, j. b.
+
+information networks, information systems, 
+************************
+
+************************
+Document:  CACM-3070.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+
+
+ancient babylonian algorithms
+
+the early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint 
+************************
+
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-1889.html
+************************
+************************
+Document:  CACM-2890.html
+************************
+
+
+on quadratic adaptive routing algorithms
+
+two analytic models 
+************************
+
+
+two analytic models of a store-and-forward communications
+network are constructed, one to find 
+the optimal message routing and the other to illustrate
+the equilibrium (stationary state) maintained 
+by an adaptive routing algorithm.  these models show that
+adaptive routing does not satisfy the necessary 
+conditions for an optimal routing,  adaptive routing tends
+to overuse the direct path and underuse alternate 
+routes because it does not consider the impact of its
+current routing decision on the future state of 
+the network.  the form of the optimality conditions suggests
+that a modification of the adaptive algorithm 
+will result in optimality.  the modification requires
+the substitution of a quadratic bias term instead 
+of a linear one in the routing table maintained at each
+network node.  simulation results are presented 
+which confirm the theoretical analysis for a simple network.
+
+cacm january, 1976
+
+agnew, c. e.
+
+routing algorithms, adaptive routing, quadratic 
+************************
+, adaptive routing, quadratic routing,
+alternate routing, store-and-forward network, 
+distributed network, 
+************************
+
+************************
+Document:  CACM-2892.html
+************************
+
+
+a study of line overhead in the arpanet
+
+the form, extent, and effect of the communication line
+overhead in the arpanet are considered. 
+ the source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized.  then the line efficiency
+for various models of system use is studied. 
+ some measurements of line efficiency for the arpanet are
+presented and by extrapolation these measurements 
+are used to anticipate overhead in a heavily loaded network.
+similar results are derived for a recently 
+proposed network protocol and compared with those for the current system.
+
+cacm january, 1976
+
+kleinrock, l.
+naylor, w. e.
+opderbeck, h.
+
+arpanet, computer communication networks, interprocess
+communication, measurement, packet switching, 
+performance 
+************************
+
+************************
+Document:  CACM-1342.html
+************************
+************************
+Document:  CACM-1532.html
+************************
+************************
+Document:  CACM-2849.html
+************************
+
+
+ethernet: distributed packet switching for local computer networks
+
+ethernet is a branching 
+************************
+s
+
+ethernet is a branching broadcast communication
+system for carrying digital data packets among 
+locally distributed computing stations. the packet
+transport mechanism provided by ethernet has been 
+used to build systems which can be viewed as either local
+computer networks or loosely coupled 
+************************
+s or loosely coupled multiprocessors. 
+ an ethernet's shared communication facility, its ether,
+is a passive broadcast medium with no central 
+control.  coordination of access to the ether for packet
+broadcasts is distributed among the contending 
+transmitting stations using controlled statistical arbitration.
+ switching of packets to their destinations 
+on the ether is distributed among the receiving stations
+using packet address recognition.  design principles 
+and implementation are described, based on experience
+with an operating ethernet of 100 nodes along a 
+kilometer of coaxial cable.  a model for estimating performance
+under heavy loads and a packet protocol 
+for error controlled communication are included for completeness.
+
+cacm july, 1976
+
+metcalfe, r. m.
+boggs, d. r.
+
+computer networks, packet switching, 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+************************
+Document:  CACM-1890.html
+************************
+************************
+Document:  CACM-0367.html
+************************
+************************
+Document:  CACM-0441.html
+************************
+
+
+topological sorting of large networks
+
+topological sorting 
+************************
+s
+
+topological sorting is a procedure required
+for many problems involving analysis of networks. 
+ an example of one 
+************************
+s. 
+ an example of one such problem is pert.  the present
+paper presents a very general method for obtaining 
+topological order.  it permits treatment of larger networks
+than can be handled 
+************************
+
+************************
+Document:  CACM-2515.html
+************************
+
+
+minimal event-node network of project precedence relations
+
+a procedure for constructing a minimal event-node
+network to represent a set of precedence 
+relations without parallel activities is presented.  a
+minimal event-node network is an event-node network 
+in which both the number of nodes and the number of arcs
+are the minima to preserve the given precedence 
+relations counterexamples are given to show that the
+algorithm presented by a. c. fisher, j. s. liebman, 
+and g. l. nemhauser (1968) produces event-node networks
+which are not minimal. 
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-2401.html
+************************
+
+
+on shrinking binary picture patterns
+
+a parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for each pattern, is presented.  this procedure
+may be used for counting patterns on a matrix, and 
+a hardware implementation of the algorithm using large
+scale integrated technology is envisioned.  the 
+principal features of this method are the very small
+window employed (two-by-two elements), the parallel 
+nature of the process, and the possibility of shrinking
+any pattern, regardless of the complexity of 
+its configuration.  problems regarding merging and disconnection
+of patterns during the process as well 
+as the determination of the maximum number of steps
+necessary to obtain a single isolated element from 
+a pattern, are reviewed and discussed.  an analogy with a
+neural network description, in terms 
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization 
+************************
+ for the organization an
+d retrieval of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness 
+************************
+
+************************
+Document:  CACM-1776.html
+************************
+************************
+Document:  CACM-1457.html
+************************
+************************
+Document:  CACM-1770.html
+************************
+
+
+rules of ethics in information processing
+
+the background and motivation for the adoption
+by the acm council on november 11, 1966, of 
+a set of guidelines for professional conduct in information
+processing are described.  a brief his tory 
+is given of ethical codes in other professions.  some
+reasons for and against adoption of ethical rules 
+are considered, and several sections of the acm guidelines
+are analyzed.  the purpose is to inform about 
+this important aspect of our profession, as
+well as to stimulate thought and interest.
+
+cacm march, 1968
+
+
+************************
+
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1906.html
+************************
+************************
+Document:  CACM-2988.html
+************************
+************************
+Document:  CACM-0891.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+
+
+sorting on a mesh-connected parallel computer
+
+two algorithms are presented for sorting n^2
+elements on an n x n mesh-connected processor 
+array that require o(n) routing and comparison steps.
+
+************************
+ and comparison steps.
+ the best previous algorithm takes time o(n log 
+n).  the algorithms of this paper are shown to be optimal
+in time within small constant factors.  extensions 
+to higher-dimensional arrays are also given.
+
+cacm april, 1977
+
+thompson, c. d.
+kung, h. t.
+
+parallel computer, parallel sorting, parallel merge,
+routing and comparison steps, 
+************************
+
+************************
+Document:  CACM-1695.html
+************************
+
+
+plexus-an on-line system for modeling neural networks
+
+a description is presented 
+************************
+s
+
+a description is presented of plexus, a system
+which enables a user to construct and specify 
+a neural network, to analyze the output data produced
+by the network, and to store and retrieve networks 
+and data from a library. 
+************************
+ 
+and data from a library.  the system, operated entirely
+from a digital display unit, interacts directly 
+with the user and permits easy and rapid transitions
+between the various phases of the modeling process. 
+ plexus is designed to complement neurophysiological research
+so that the systematic development of neural 
+models can be coordinated with experimental work.  plexus
+networks are built up from components 
+************************
+s are built up from components representing 
+individual neurons, external stimuli, and interconnecting
+fibers, each component being of a relatively 
+detailed nature.  provision is also made for the use of
+experimental data as input to a network.  convenient 
+means for specification and modification of a network and
+extensive error-checking capabilities are provided. 
+data resulting from the simulation of a network may be
+analyzed by a variety of techniques ranging from 
+examinations of the gross characteristics of the data to
+the determination of detailed statistical properties.
+
+cacm september, 1968
+
+dill, j. c.
+randall, d. l.
+richer, i.
+
+biological modeling, data analysis, discrete system
+simulation, library systems, modeling, network 
+simulation, neural networks, neurophysiological
+
+************************
+
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+************************
+Document:  CACM-1032.html
+************************
+************************
+Document:  CACM-0517.html
+************************
+************************
+Document:  CACM-3038.html
+************************
+
+
+using encryption for authentication in large networks of computers
+
+use of 
+************************
+s of computers
+
+use of encryption to achieve authenticated
+communication in computer networks is discussed. 
+ example 
+************************
+s is discussed. 
+ example protocols are presented for the establishment
+of authenticated connections, for the management 
+of authenticated mail, and for signature verification
+and document integrity guarantee.  both conventional 
+and public-key encryption algorithms are considered as the basis for protocols.
+
+cacm december, 1978
+
+needham, r.
+schroeder, m.
+
+encryption, security, authentication, networks, protocols,
+public-key 
+************************
+
+************************
+Document:  CACM-0136.html
+************************
+************************
+Document:  CACM-0757.html
+************************
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory under the leap language and data
+structure,  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  the major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.
+
+cacm may, 1977
+
+stillman, n. j.
+berra, p. b.
+
+associative memory, associative processor, content-addressable
+memory, graphics, information retrieval, 
+data structures, 
+************************
+
+************************
+Document:  CACM-0804.html
+************************
+************************
+Document:  CACM-3040.html
+************************
+
+
+synthesizing constraint expressions
+
+a constraint network representation is presented
+for a combinatorial search problem: finding 
+values for a set of variables subject to a set of constraints.
+ a theory of consistency levels in such 
+networks is formulated, which 
+************************
+ is formulated, which is related to problems
+of backtrack tree search efficiency.  an algorithm 
+is developed that can achieve any level of consistency
+desired, in order to preprocess the problem for 
+subsequent backtrack search, or to function as an alternative
+to backtrack search by explicitly determining 
+all solutions.
+
+cacm november, 1978
+
+freuder, e.
+
+backtrack, combinatorial algorithms, constraint
+networks, constraint satisfaction, 
+************************
+
+************************
+Document:  CACM-1690.html
+************************
+************************
+Document:  CACM-2903.html
+************************
+************************
+Document:  CACM-2197.html
+************************
+
+
+the merit of regional computing networks
+
+one of the suggested 
+************************
+s
+
+one of the suggested means for stimulating the
+spread of computing capabilities in institutions 
+of higher learning is through the construction of regional
+computing networks.  one such network 
+************************
+s.  one such network has 
+been constructed in the san francisco bay area by stanford
+university.  this paper reports upon the lessons 
+learned from the operation of the network over the past
+two years.  a major impact of the network was 
+not so much the computer power delivered to the schools
+as the awakening of computing awareness and the 
+fostering of capability development at these schools. the
+expertise and assistance from the central facility
+as well as the sharing of ideas among the participants
+were other important benefits.  both the quality 
+and variety of services provided by the central facility
+were found to play a key role in the effectiveness 
+of the network.  a regional network brings many benefits
+and should not be judged as a purveyor of raw 
+computer power alone.
+
+cacm may, 1971
+
+nielsen, n. r.
+
+computer sharing, computer utility, cooperative networks,
+curriculum development, 
+************************
+,
+curriculum development, educational computing, 
+network computing, regional computing networks,
+remote computing, shared 
+************************
+
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+
+************************
+s of parallel processes
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events 
+************************
+
+************************
+Document:  CACM-1611.html
+************************
+
+
+scheduling project networks
+
+some of the basic 
+************************
+
+************************
+Document:  CACM-1034.html
+************************
+
+
+autosate
+
+an automated data system analysis technique is
+described. the technique is designed to alleviate 
+some of the principal problems that beset current analysis-large
+data workloads, long span of time between 
+project inception and system operational date, the lack
+of explicit directions for conducting data system 
+analysis and using the results, and the lack of a technique
+to control data system changes throughout 
+its lifetime. the analysis is geared to determining workload,
+relationships and storage characteristics 
+of documents in the information network automatically.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2630.html
+************************
+
+
+on computing sets of shortest paths in a graph
+
+two algorithms are presented that construct
+the k shortest paths between every pair of vertices 
+in a directed graph.  these algorithms generalize the floyd
+algorithm and the dantzig algorithm for finding 
+the shortest path between every pair of vertices in a directed graph.
+
+cacm june, 1974
+
+minieka, e.
+
+graph, network, shortest path, algorithm
+
+************************
+
+************************
+Document:  CACM-0666.html
+************************
+
+
+topological ordering for pert networks (algorithm 219)
+
+cacm 
+************************
+
+************************
+Document:  CACM-1261.html
+************************
+
+
+modeling and simulation of digital networks
+
+the simulation of 
+************************
+s
+
+the simulation of digital networks on a digital
+computer 
+************************
+s on a digital
+computer provides the engineer with an effective 
+means of analyzing time-quantized logical behavior.  the
+digital network is modeled as a set of time-dependent 
+or time-independent boolean transformations; each transformation
+describing the input-output relationship 
+of a model element comprising the network mode.  the
+simplicity of utilizing the fortran iv programming 
+system as a digital network simulator is discussed an
+illustrated.  this simplicity is derived from a 
+common modeling technique applicable to combinational
+and sequential digital networks and a systematic 
+programming 
+************************
+
+************************
+Document:  CACM-3158.html
+************************
+
+
+secure personal computing in an insecure network
+
+a method for implementing secure personal computing in a network
+with one or more central facilities is proposed.  the method employs a
+public-key encryption device and hardware keys.  each user is 
+************************
+ keys.  each user is responsible 
+for his own security and need not rely on the security of
+the central facility or the communication links.  a user can safely
+store confidential files in the central facility or transmit confidential 
+data to other users on the network. 
+
+cacm august, 1979
+
+denning, d.
+
+personal computing, security, privacy, networks, public-key encryption
+
+************************
+
+************************
+Document:  CACM-2007.html
+************************
+************************
+Document:  CACM-2088.html
+************************
+************************
+Document:  CACM-2454.html
+************************
+
+
+computational algorithms for closed queueing
+networks with exponential servers
+
+************************
+s with exponential servers
+
+methods are presented for computing the equilibrium
+distribution of customers in closed queueing 
+networks with exponential servers. 
+************************
+s with exponential servers.  expressions for
+various marginal distributions are also derived. 
+ the computational algorithms are based on two-dimensional
+iterative techniques which are highly efficient 
+and quite simple to implement.  implementation considerations
+such as storage allocation strategies and 
+order of evaluation are examined in some detail.
+
+cacm september, 1973
+
+buzen, j. p.
+
+queueing theory, queueing networks, equilibrium
+distributions, 
+************************
+
+************************
+Document:  CACM-2274.html
+************************
+
+
+generating english discourse from semantic networks
+
+a system is described 
+************************
+s
+
+a system is described for generating english
+sentences from a form of semantic nets in which 
+the nodes are word-sense meanings and the paths are
+primarily deep case relations.  the grammar used 
+by the system is in the form of a network that imposes
+an ordering on a set of syntactic transformations 
+that are expressed as lisp functions.  the generation
+algorithm uses the information in the semantic 
+network 
+************************
+
+************************
+Document:  CACM-1685.html
+************************
+
+
+gan, a system for generating and analyzing activity networks
+
+gan, a system for 
+************************
+s
+
+gan, a system for generating activity networks,
+is designed to save 
+************************
+s,
+is designed to save time in the preparation 
+of activity networks and to deal conveniently 
+************************
+s and to deal conveniently with network
+programs.  a defining description of a programming 
+language designed for generating activity network from
+a set of standard networks is presented.  also, 
+************************
+ is presented.  also, 
+a general idea of a language for performing calculations
+on activity networks (scheduling activity 
+************************
+s (scheduling activity networks) 
+is given.
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-2562.html
+************************
+************************
+Document:  CACM-2278.html
+************************
+************************
+Document:  CACM-2948.html
+************************
+
+
+a terminal-oriented communication system
+
+this paper describes a system for full-duplex
+communication between a time-shared computer 
+and its terminals.  the system consists of a communications
+computer directly connected to the time-shared 
+system, a number of small remote computers to which
+the terminals are attached, and connecting medium 
+speed telephone lines.  it can service a large number
+of terminals of various types.  the overall system 
+design is presented along with the algorithms used to
+solve three specific problems: local echoing, error 
+detection and correction on the telephone lines,
+and multiplexing of character output.
+
+cacm july, 1977
+
+heckel, p. g.
+lampson, b. w.
+
+terminal system, error correction, multiplexing,
+local echoing, communication system, network
+
+3.81 4.31
+
+ca770704 
+************************
+
+************************
+Document:  CACM-0740.html
+************************
+************************
+Document:  CACM-3133.html
+************************
+
+
+logic and semantic networks
+
+an extended form of 
+************************
+s
+
+an extended form of semantic network is defined, which can
+be regarded as a syntactic variant of the clausal form of logic.
+by virtue of its relationship with logic, the extended
+semantic network is provided with a precise semantics,
+inference rules, and a procedural interpretation.  on
+the other hand, by regarding semantic networks as an 
+abstract data 
+************************
+ as an 
+abstract data structure for the representation of clauses, we provide a
+theorem-prover with a potentially useful indexing scheme and path-following
+strategy for guiding the search for a proof.
+
+cacm march, 1979
+
+deliyanni, a.
+kowalski, r.
+
+logic, semantic networks, theorem-proving, indexing, 
+************************
+
+************************
+Document:  CACM-1755.html
+************************
+************************
+Document:  CACM-2776.html
+************************
+
+
+computer networks in higher education: 
+************************
+s in higher education: socio-economic-political factors
+
+this study presents the results of a nationwide
+survey of computer networks in higher education 
+************************
+s in higher education 
+conducted during 1971-73.  five major and 18 minor networks
+were identified.  the 
+************************
+s
+were identified.  the five major networks 
+included: the arpa 
+************************
+s 
+included: the arpa net, the california state college network,
+the university of iowa/iowa state university 
+network, the michigan educational research information triad,
+inc., and the triangle universities computation 
+center network in north carolina. in-depth studies were
+conducted of the latter two nets.  based on the 
+experiences of these operating networks, a number of factors
+
+************************
+, a number of factors
+are identified for consideration in developing 
+networks.  finally, recommendations 
+************************
+s.  finally, recommendations are advanced regarding
+the development of networks in higher education 
+************************
+s in higher education 
+in the future.
+
+cacm april, 1975
+
+chambers, j. a.
+poore, r. v.
+
+networks, higher education
+
+
+************************
+
+************************
+Document:  CACM-1928.html
+************************
+
+
+exclusive simulation of activity in digital networks
+
+a technique for simulating 
+************************
+s
+
+a technique for simulating the detailed logic
+networks of large and active 
+************************
+s of large and active digital systems 
+is described.  essential objectives sought are improved
+ease and economy in model generation, economy 
+in execution time and space, and a facility for handling
+simultaneous activities.  the main results obtained 
+are a clear and useful separation of structural and behavioral
+model description, a reduction of manual 
+tasks in converting boolean logic into a structural model,
+the elimination of manual processes in achieving 
+exclusive simulation of activity, an event-scheduling
+technique which does not deteriorate in economy
+as the event queue grows in length, and a simulation
+procedure which deals effectively with any mixture 
+of serial and simultaneous activities.  the passage of
+time is simulated in a precise, quantitative fashion 
+and systems to be simulated may be combinations of synchronous
+and asynchronous logic.  certain aspects 
+of the techniques described may be used for the simulation
+of network structures other than digital networks.
+
+cacm february, 1969
+
+************************
+
+************************
+Document:  CACM-2371.html
+************************
+
+
+a system for interprocess communication
+in a resource sharing computer network
+
+a system of communication between processes in a
+time-sharing system is described and the communication 
+system is extended so that it may be used between processes
+distributed throughout a computer network. 
+ the hypothetical application of the system to an existing network is discussed.
+
+cacm april, 1972
+
+walden, d. c.
+
+interprocess communication, time-sharing,
+computer networks, resource sharing
+
+3.81 
+************************
+
+************************
+Document:  CACM-3166.html
+************************
+************************
+Document:  CACM-0820.html
+************************
+
+
+checking for loops in networks
+
+cacm july, 1963
+
+gordon, 
+************************
+
+************************
+Document:  CACM-2894.html
+************************
+************************
+Document:  CACM-0356.html
+************************
+************************
+Document:  CACM-2516.html
+************************
+
+
+hierarchical storage in information retrieval
+
+a probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  the data storage
+hardware is assumed to consist 
+************************
+ is assumed to consist on n-levels of 
+linearly connected memory hardware with increasing data
+access times and increasing data storage capabilities. 
+ a system might, for example, consist of fast semiconductor
+memory, computer core memory, extended core 
+storage, disk memory, and data cells.  equations are derived
+to predict the effect of such a system on 
+data access times using sequential files, random access files,
+and structured files employing multiple-hierarchical 
+linked lists.
+
+cacm may, 1973
+
+salasin, j.
+
+information retrieval, hierarchical 
+************************
+
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+
+************************
+ results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of 
+************************
+
+************************
+Document:  CACM-0397.html
+************************
+
+
+a card format for reference files in information processing
+
+this paper proposes a card format suitable for
+a variety of reference files in information 
+processing.  an 80-column ibm card is divided into two
+fields-reference material field (columns 1-67) 
+and identification field (columns 68-80).  the format
+for the reference material is flexible, while the 
+format for the identification is rigid.  the reference
+material includes basically an index, title, source, 
+class, summary and cross reference for each entry. 
+the identification includes basically codes for a 
+matrix of descriptors, an entry number, and the kind,
+major interest, and source of the reference. 
+************************
+, and source of the reference.  the 
+identification also provides a choice to identify material
+for personal as well as general files.  since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books, articles, programming terms, hardware terms, equipment,
+machine systems, abbreviations, etc., it 
+is suitable as a standard for card reference files in information processing.
+
+cacm february, 
+************************
+
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-1704.html
+************************
+************************
+Document:  CACM-2900.html
+************************
+
+
+some theorems to aid in solving the file allocation problem
+
+the file allocation problem-i.e. the problem
+of finding the optimal set of network sites at 
+which to locate copies of a file-is known to be, in general,
+polynomial complete.  heuristics and other 
+aids to finding optimal, or near-optimal, solutions are
+therefore much needed.  in this paper we present 
+three theorems which can be applied a priori to indicate
+that certain sites should (or should not) be 
+included in an optimal allocation.
+
+cacm november, 1977
+
+grapa, e.
+belford, g. g.
+
+file allocation, computer networks, distributed data management
+
+************************
+
+************************
+Document:  CACM-2969.html
+************************
+
+
+optimal program and data locations in computer networks
+
+an optimization procedure 
+************************
+s
+
+an optimization procedure for the allocation
+of program and data files in a computer network 
+is presented.  this algorithm takes into account the
+dependencies between files and programs such as 
+occur in real heterogeneous computer networks.  insights
+into whether 
+************************
+.  insights
+into whether or not to convert programs from 
+one computer to another can also be gained from the
+model.  a search procedure for the file location 
+problem is described, along with an example
+and a possible application of the model.
+
+cacm may, 1977
+
+morgan, h. l.
+levin, k. d.
+
+computer networks, databases, distributed
+
+************************
+
+************************
+Document:  CACM-0595.html
+************************
+************************
+Document:  CACM-2712.html
+************************
+
+
+horner's rule for the evaluation of general closed queueing networks
+
+the solution of separable 
+************************
+s
+
+the solution of separable closed queueing networks
+requires the evaluation 
+************************
+s
+requires the evaluation of homogeneous multinomial 
+expressions.  the number of terms in those expressions
+grows combinatorially with the size of the network 
+such that a direct summation may become impractical.  an
+algorithm is given which does not show a combinatorial 
+operation count.  the algorithm is based on a generalization
+of horner's rule for polynomials.  it is 
+also shown how mean queue size and throughput an be obtained
+at negligible extra cost once the normalization 
+constant is evaluated.
+
+cacm october, 1975
+
+reiser, m.
+kobayashi, h.
+
+queueing networks, queueing theory horner's 
+************************
+
+************************
+Document:  CACM-1687.html
+************************
+************************
+Document:  CACM-0383.html
+************************
+************************
+Document:  CACM-2327.html
+************************
+
+
+toward an automata theory of brains
+
+a source of ideas for automata theory-the study
+of the brain-has been pushed aside in mathematical 
+development of the theory.  this paper suggests the ways
+in which automata theory might evolve over the 
+next 25 years if it is to contribute to an understanding
+of how the brain processes information.
+
+cacm july, 1972
+
+arbib, m. a.
+
+automata theory, brain theory, network complexity,
+resolution 
+************************
+
+************************
+Document:  CACM-2949.html
+************************
+
+
+a correctness proof of a topology information
+main tenance protocol for a distributed computer 
+network
+
+in order for the nodes of a distributed computer
+network to communicate, each node must have 
+information about the network's topology.  since nodes
+and links sometimes crash, a scheme is needed 
+to update this information.  one of the major constrain ts
+on such a topology information scheme is that 
+it may not involve a central controller.  the topology
+information protocol that was implemented on the 
+merit computer network is presented and explained; this
+protocol is quite general and could be implemented 
+on any computer network.  it is based on baran's "hot
+potato heuristic routing doctrine."  a correctness 
+proof of this topology information protocol is also presented.
+
+cacm july, 1977
+
+tajibnapis, w. d.
+
+distributed computer network, correctness proofs,
+computer networks, distributed control, network 
+topology, routing problem in networks, distributed operating
+system, store and forward packet switching, 
+store and 
+************************
+
+************************
+Document:  CACM-2951.html
+************************
+
+
+dynamic response time prediction for computer networks
+
+if the ultimate aim 
+************************
+s
+
+if the ultimate aim of a computing network
+is resource sharing, then the human component as 
+well as the technical component of networking must
+be fully investigated to achieve this goal.  this 
+research is a first step toward assisting the user in participating
+in the vast store of resources available 
+on a network. analytical, simulation, and statistical performance
+evaluation tools are employed to investigate 
+the feasibility of a dynamic response time monitor
+that is capable of providing comparative response 
+time information for users wishing to process various
+computing applications at some network computing 
+node.  the research clearly reveals that sufficient
+system data are currently obtainable, at least for 
+the five diverse arpa network systems studied in detail,
+to describe and predict the response time for 
+network time-sharing systems as it depends on some
+measure of system activity or load level.
+
+cacm july, 1977
+
+mamrak, s. a.
+
+response time monitor, computer networks, time-sharing
+systems, 
+************************
+
+************************
+Document:  CACM-2445.html
+************************
+************************
+Document:  CACM-1181.html
+************************
+************************
+Document:  CACM-2568.html
+************************

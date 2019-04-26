@@ -1,0 +1,2362 @@
+Snippets for the query:  Q21
+************************
+Total Hits:  138
+************************
+
+************************
+Document:  CACM-2913.html
+************************
+
+
+the aliasing problem in computer-generated shaded images
+
+certain defects, such as jagged edges and
+disappearing detail, have long been an annoyance 
+in digitally generated shaded images.  although increasing
+the resolution or defocusing the display can 
+attenuate them, an understanding of these defects leads
+to more effective methods.  this paper explains 
+the observed defects in terms of the aliasing phenomenon
+inherent in sampled signals and discusses prefiltering 
+as a recognized cure.  a method for evaluating filters
+is presented, the application of prefiltering 
+to hidden-surface algorithms is discussed, and an 
+************************
+ is discussed, and an implementation
+of a filtering tiler is shown accompanied 
+by examples of its effectiveness.
+
+cacm november, 1977
+
+crow, f. c.
+
+aliasing, computer graphics, convolutional
+filtering, 
+************************
+, convolutional
+filtering, hidden-surface removal, sampling
+
+8.2
+
+************************
+
+************************
+Document:  CACM-2384.html
+************************
+
+
+hidden-line plotting program [j6] 
+************************
+ plotting program [j6] (algorithm a420)
+
+cacm february, 1972
+
+williamson, h. 
+
+hidden-line plot, surface plot 
+
+4.9
+
+ca720207 
+************************
+
+************************
+Document:  CACM-3111.html
+************************
+
+
+secure communications over insecure channels
+
+according to traditional conceptions of cryptographic
+security, it is necessary to transmit 
+a key, by secret means, before encrypted messages can
+be sent securely.  this paper shows that it is 
+possible to select a key over open communications channels
+in such a fashion that communications security 
+can be maintained.  a method is described which forces
+any enemy to expend an amount of work which increases 
+as the square of the work required of the two communicants
+to select the key.  the method provides a 
+logically new kind of protection against the passive
+eaves dropper.  it suggests that further research 
+on this topic will be highly rewarding, both
+in a theoretical and a practical sense.
+
+cacm april, 1978
+
+merkle, r.
+
+security, cryptography, cryptology, communications
+security, wiretap, computer network security, 
+passive 
+************************
+
+************************
+Document:  CACM-2829.html
+************************
+
+
+texture and reflection in computer generated images
+
+in 1974 catmull developed a new algorithm
+for rendering images of bivariate surface patches. 
+ this paper 
+************************
+ patches. 
+ this paper describes extensions of this algorithm in
+the areas of texture simulation and lighting models. 
+ the parameterization of a patch defines a coordinate
+system which is used as a key for mapping patterns 
+onto the surface.  the intensity of the pattern at each
+picture element is computed as a weighted average 
+of regions of the pattern definition function. the shape
+and size of this weighting function are chosen 
+using digital signal processing theory.  the patch rendering
+algorithm allows accurate computation of 
+the surface normal to the patch at each picture element,
+permitting the simulation of the mirror reflections. 
+ the amount of light coming from a given direction is
+modeled in a similar manner to the texture mapping 
+and then added to the intensity obtained from the texture
+mapping.  several examples of images synthesized 
+using these new techniques are included.
+
+cacm october, 1976
+
+blinn, j. f.
+newell, m. e.
+
+computer graphics, graphic display, shading, 
+************************
+, graphic display, shading, hidden surface removal
+
+3.41 5.12 5.15 
+************************
+
+************************
+Document:  CACM-1623.html
+************************
+
+
+an application of formac
+
+a nonlinear circuit analysis problem is stated
+and the way in which it was solved using formac 
+is indicated.  the solution of the problem using formac
+was notable since several other methods that 
+were tried failed.  the problem is straightforward (although
+untenable by hand) but nevertheless involved 
+an elaborate use of the formac language.  the program
+was fairly large and utilized practically every 
+command.  in particular, it made extensive use of the
+part command.  several tricks were necessary in 
+order to circumvent some of the shortcomings of the
+formac system.  this paper is more concerned with 
+the use of programming techniques in formac than with
+the actual engineering problem, although readers 
+may be interested in the problem because 
+************************
+
+************************
+Document:  CACM-3151.html
+************************
+
+
+an optimal real-time algorithm for planar convex hulls
+
+an algorithm is described for the construction in real-time of the
+convex hull of a set of n points in the plane.   using an appropriate data
+structure, the algorithm constructs the convex hull by successive
+updates, each taking time o(log n), thereby achieving a total
+processing time o(n log n).  
+
+cacm july, 1979
+
+preparata, f.
+
+computational geometry, convex hull, planar set of
+points, real-time algorithms, on-line algorithms.  
+
+4.49 
+************************
+
+************************
+Document:  CACM-2918.html
+************************
+
+
+multiprocessor memory organization and memory interference
+
+the structure of shared memory in a multiprocessor
+computer system is examined with particular 
+attention to nonin terleaved memory.  alternative memory
+organizations are compared and it is shown that 
+a home memory organization, in which each processor
+is associated with one or more memories in which 
+its address space is concentrated, is quite effective in
+reducing memory in terference.  home memory organization 
+is shown to be particularly suited to certain specialized
+computation problems 
+************************
+
+************************
+Document:  CACM-1426.html
+************************
+************************
+Document:  CACM-2003.html
+************************
+
+
+an interactive software system for computers-aided
+design:  an application to circuit project
+
+the characteristics of an interactive software system, intended to constitute 
+an interface between designer and computer during various steps of
+the design process, are presented.  the main emphasis is given to the
+description of the features of the two high level user oriented
+languages, operating at different levels, on which the interaction
+is based.  the first one is imol, an interactive monitor language,
+which is designed to perform the overall and control functions
+of the software system; its design criteria provide the user with
+commands which are both simple and efficient in order to perform all
+the functions needed in computer-aided circuit design.  the second one is 
+coif, a circuit oriented graphic language, which is designed
+to describe, generate, and manipulate graphic problem specifications; 
+it is an  extension of fortran with graphic-type variables,
+so that the designer who is familiar with fortran need not learn a new 
+language.  the application to computer-aided circuit design
+is in particular examined; on the other hand, the adopted design
+criteria provide sufficient generality to extend the use of the two languages 
+to different computer-assisted applications.
+
+cacm september, 1970
+
+bracchi, g.
+somalvico, m.
+
+interaction, graphics, computer graphics, 
+************************
+, computer graphics, computer-aided design, 
+************************
+
+************************
+Document:  CACM-0087.html
+************************
+************************
+Document:  CACM-2828.html
+************************
+
+
+hierarchical geometric models for visible surface algorithms
+
+the geometric structure 
+************************
+
+
+the geometric structure inherent in the definition
+of the shapes of three-dimensional objects 
+and environments is used not just to define their relative
+motion and placement, but also to assist in 
+solving many other problems of systems for producing
+pictures by computer.  by using an extension of 
+traditional structure information, or a geometric hierarchy,
+five significant improvements to current 
+techniques are possible.  first, the range of complexity
+of an environment is greatly increased while 
+the visible complexity of any given scene is kept within
+a fixed upper limit.  second, a meaningful way 
+is provided to vary the amount of detail presented in
+a scene.  third, "clipping" becomes a very fast 
+logarithmic search for the resolvable parts of the environment
+within the field of view.  fourth, frame 
+to frame coherence and clipping define a graphical
+"working set," or fraction of the total structure 
+that should be present in primary store for immediate
+access by the visible surface algorithm.  finally, 
+the geometric structure suggests a recursive descent,
+visible surface algorithm in which the computation 
+time potentially grows linearly with the visible complexity of the scene.
+
+cacm october, 1976
+
+clark, j. h.
+
+visible surface algorithms, hidden surface algorithms,
+
+************************
+ surface algorithms,
+hierarchical data structures, 
+************************
+
+************************
+Document:  CACM-2692.html
+************************
+
+
+reentrant polygon clipping
+
+a new family of clipping algorithms is described.
+ these algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing the parts of the polygon which 
+lie outside the volume.  in two dimensions the algorithms
+permit clipping against irregular convex windows. 
+ polygons to be clipped are represented as an ordered
+sequence of vertices without repetition of first 
+and last, in marked contrast to representation as a
+collection of edges as was heretofore the common 
+procedure.  output polygons have an identical format,
+with new vertices introduced in sequence to describe 
+any newly-cut edge or edges.  the algorithms easily handle
+the particularly difficult problem of detecting 
+that a new vertex may be required at a corner of the
+clipping window.  the algorithms described achieve 
+considerable simplicity by clipping separately against
+each clipping plane or window boundary.  code 
+capable of clipping the polygon against a single boundary
+is reentered to clip against subsequent boundaries. 
+ each such reentrant stage of clipping need store only
+two vertex values and may begin its processing 
+as soon as the first output vertex from the proceeding
+stage is ready.  because the same code is reentered 
+for clipping against subsequent boundaries, clipping
+against very complex window shapes is practical. 
+ for perspective applications in three dimentions, a six-plane
+truncated pyramid is chosen as the clipping 
+volume.  the two additional planes parallel to the projection
+screen serve to limit the range of depth 
+preserved through the projection.  a perspective projection
+method which provides for arbitrary view 
+angles and depth of field in spite of simple fixed clipping
+planes is described.  this method is ideal 
+for subsequent hidden-surface computations.
+
+cacm january, 1974
+
+sutherland, i. e.
+hodgman, g. w.
+
+computer graphics, hidden-surface, clipping
+
+************************
+, hidden-surface, clipping
+
+5.31 6.32 
+************************
+
+************************
+Document:  CACM-2825.html
+************************
+
+
+the bmd and bmdp series of statistical computer programs
+
+cacm october, 1976
+
+frane, j. w.
+
+analysis of variance, cluster analysis, contingency
+tables, data analysis, discriminant analysis, 
+factor analysis, graphics, outliers, regression, 
+************************
+
+************************
+Document:  CACM-1915.html
+************************
+
+
+an algorithm for hidden line elimination
+
+the algorithm 
+************************
+ elimination
+
+the algorithm presented causes the elimination of
+hidden lines in the representation 
+************************
+s in the representation of a perspective 
+view of concave and convex plane-faced objects on the
+picture plane.  all the edges of the objects are 
+considered sequentially, and all planes which hide every
+point of an edge are found.  the computing time 
+increases roughly as the square of the number of edges.
+ the algorithm takes advantage of a reduced number 
+of concave points and automatically recognizes if only
+one object with no concave points is considered. 
+in this last case, the result is obtained in a much simpler way.
+
+cacm april, 1969
+
+galimberti, r.
+montanari, u.
+
+hidden line elimination, back line 
+************************
+ elimination, back line recognition, three-dimensional
+representation, plane-faced objects, 
+perspective view, machine rendering of solids, automatic
+drawing, displaying techniques, computer graphics, 
+man/machine interaction, 
+************************
+
+************************
+Document:  CACM-2809.html
+************************
+
+
+positivity and norms
+
+following some lines of joint work with a.
+s. householder, the character and use of algebraic 
+methods in the theory of norms is demonstrated.  new results
+concerning norms with values in an archimedian 
+vector lattice (not necessarily being totally ordered)
+are given, in particular for the generalization 
+of order unit norms, l-norms and m-norms.  an example
+of application to operator norms is given concerning 
+contraction properties of positive operators.
+
+cacm january, 1975
+
+bauer, f. l.
+
+matrices, norms, positivity, numerical range, positivity
+cones, vector lattice,absolute, 
+************************
+
+************************
+Document:  CACM-2693.html
+************************
+************************
+Document:  CACM-2494.html
+************************
+
+
+a computer generated aid for cluster analysis
+
+a computer generated graphic method, which
+can be used in conjunction with any hierarchical 
+scheme of cluster analysis, is described and illustrated.
+ the graphic principle used is the representation 
+of the elements of a data matrix of similarities or dissimilarities
+by computer printed symbols (of character 
+overstrikes) of various shades of darkness, where a
+dark symbol corresponds to a small dissimilarity. 
+ the plots, applied to a data matrix before clustering
+and to the rearranged matrix after clustering, 
+show at a glance whether clustering brought forth any
+distinctive clusters.  a well-known set of data 
+consisting of the correlations of 24 psychological tests
+is used to illustrate the comparison of groupings 
+by four methods of factor analysis and two methods of cluster analysis.
+
+cacm june, 1973
+
+ling, r. f.
+
+computer graphics, cluster analysis, numerical
+
+************************
+
+************************
+Document:  CACM-1671.html
+************************
+
+
+a phonological rule tester
+
+the design and implementation of a system to
+alleviate the problem of rule evaluation for the 
+linguist in the area of phonology are presented.  it
+permits the user to define, on-line, sets of rules 
+statable within the framework presented in the sound
+patterns of english by chomsky and halle, 1968, 
+to define phonemes as bundles of specified distinctive
+features, to define data as strings of phonemes 
+with associated grammatical structure, to test the effect
+of applying rules to the data, and to store 
+both the definitions and results.  the rule application
+facility described in detail was implemented 
+by translating linguistic rules to rules in flip, a
+format-directed list processor embedded in lisp. 
+ this made the system construction easy while providing
+sophisticated capabilities for the linguist. 
+ the system is written in bbn lisp on the scientific
+data system 940 computer and is designed to be 
+************************
+
+************************
+Document:  CACM-1325.html
+************************
+
+
+remote, on-line, real-time computer diagnosis
+of the clinical 
+************************
+ diagnosis
+of the clinical electrocardiogram
+
+presented in this paper is a brief report on
+the hardware, software, system configuration and 
+function of a system for the remote, online, real-time digital
+computer diagnosis of clinical 
+************************
+
+************************
+Document:  CACM-2687.html
+************************
+
+
+a cell organized raster display for line drawings
+
+raster scan computer graphics displays with
+"real 
+************************
+ displays with
+"real time" character generators have previously 
+been limited to alphanumeric characters.  a display is
+described which extends the capabilities of this 
+organization to include general graphics.  the feasibility
+of such a display is shown by deriving the 
+minimum number of patterns required in the read only
+memory of the character generator to synthesize 
+an arbitrary line.  the synthesis process 
+************************
+.  the synthesis process does not compromise
+picture quality since the resulting dot 
+patterns are identical with those of a conventional
+raster display.  furthermore, the time constraints 
+of a raster display are shown to be satisfied for
+a typical design for very complex line drawings.
+
+cacm february, 1974
+
+jordan, b. w. jr.
+barrett, r. c.
+
+graphics, raster display, line 
+************************
+
+************************
+Document:  CACM-0052.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+
+
+lg: a language for analytic geometry
+
+a conversational programming language for analytic
+geometry is described, together with some 
+aspects of its implementation.  the language allows
+the flexible definition of geometric objects and 
+elements, computes their parameters, and displays the results.
+it also provides the capability of specifying 
+a geometric figure via a collection of parameters and
+displaying various loci corresponding to these 
+parameters. a third characteristic consists of the possibility
+of using this language to design other 
+user oriented languages.  lg has been specifically designed
+for use by nonprogrammers; it is easy to 
+learn and very close to the natural language used in geometry.
+
+cacm april, 1976
+
+raymond, j.
+
+interactive programming, problem oriented languages,
+computer graphics, interpreters, analytic 
+************************
+
+************************
+Document:  CACM-3173.html
+************************
+
+
+a psychology of learning basic
+
+this paper addresses the question: what does a person know
+following learning of basic programming?  several underlying conceptual
+structures are identified: (1) a transaction is an event that
+occurs in the computer and involves some operation on some object
+at some location, (2) a prestatement is a set of transactions corresponding
+to a line of code, (3) chunks 
+************************
+
+************************
+Document:  CACM-2341.html
+************************
+
+
+blocks-a new data type for snobol4
+
+a new data type, called a block, has been implemented
+for snobol4.  a block is a three-dimensional 
+aggregate of characters in the form of a right parallelepiped,
+best thought of as a three-dimensional 
+extension to a string.  (the third dimension is used for
+overstriking.)  blocks may be printed, concatenated 
+in any of three dimensions, and merged on the basis
+of program-defined connection points.  some blocks 
+adapt in size and shape to their environment.  blocks
+and their operations are mainly used for composing 
+printable output.  a variety of graphical problems (including
+flowcharting, bargraphs, logic diagrams, 
+mathematical-equation formation, and text justification
+and preparation) have been programmed on a printer 
+in what appears to be an easy and natural way.  in addition
+to these somewhat specialized applications, 
+blocks appear to be a good general purpose device-independent
+output formation mechanism especially suitable 
+for nonnumerical work.  the concept of a block is largely
+language independenthat is, blocks require 
+little in the way of specialized syntax and could readily
+be absorbed into the external structure of 
+most programming languages.
+
+cacm june, 1972
+
+gimpel, j. f.
+
+character manipulation, output formatting, string
+processing, graphics, nonnumerical programming, 
+************************
+
+************************
+Document:  CACM-1658.html
+************************
+
+
+analysis of algorithms for the zero-one programming problem
+
+this paper is concerned with a review and examination
+of several existing algorithms for the 
+zero-one programming problem.  computational experience
+is summarized.  the machine time and storage 
+requirements of several of the algorithms are compared
+over several test problems of small and intermediate 
+size.  computer experiments still provide 
+************************
+
+************************
+Document:  CACM-2367.html
+************************
+
+
+computers and society: a proposed course for computer scientists
+
+the purpose of this paper is to describe a course
+concerned with both the effects of computers 
+on society and the responsibilities of computer scientists
+to society.  the impact of computers is divided 
+into five components: political, economic, cultural, social,
+and moral; the main part of the paper defines 
+each component and presents examples of the relevant
+issues.  in the remaining portions the possible 
+formats for such a course are discussed, a topic by topic
+outline is given, and a selected 
+************************
+
+************************
+Document:  CACM-2421.html
+************************
+
+
+a scan conversion algorithm with reduced storage requirements
+
+most graphics systems using a raster scan output
+device (crt or hardcopy) maintain a display 
+file in the xy or random scan format.  scan converters,
+hardware or software, must be provided to translate 
+the picture description from the xy format to the raster
+format.  published scan conversion algorithms 
+which are fast will reserve a buffer area large enough
+to accommodate the entire screen.  on the other 
+hand, those which use a small buffer area are slow because
+they require multiple passes through the xy 
+display file.  the scan conversion algorithm described
+here uses a linked list data structure to process 
+the lines of the drawing in strips 
+************************
+s of the drawing in strips corresponding to
+groups of scan lines.  a relatively small primary 
+memory buffer area is used to accumulate the binary image
+for a group of scan lines.  when this portion 
+of the drawing has been plotted, the buffer is reused for
+the next portion.  because of the list processing 
+procedures used, only a single pass through the xy display
+file is required when generating the binary 
+image and only a slight increase in execution time over
+the fully buffered core results.  results slow 
+that storage requirements can be reduced by more than
+80 percent while causing less than a 10 percent 
+increase in execution time.
+
+cacm november, 1973
+
+jordan, b. w. jr.
+barrett, r. c.
+
+graphics, scan conversion, raster 
+************************
+
+************************
+Document:  CACM-2761.html
+************************
+************************
+Document:  CACM-1792.html
+************************
+
+
+exploratory experimental studies comparing
+online and off line programming performance
+
+two exploratory experiments were conducted at
+system development corporation to compare debugging 
+performance of programmers working under conditions
+of on-line and off line access to a computer.  these 
+are the first 
+************************
+.  these 
+are the first known studies that measure programmers'
+performance under controlled conditions for standard 
+tasks.  statistically significant results of both experiments
+indicated faster debugging under online 
+conditions, but perhaps the most important practical finding
+involves the striking individual differences 
+in programmer performance.  methodological problems encountered
+in designing and conducting these experiments 
+are described; limitations of the findings are pointed
+out; hypotheses are presented to account for results; 
+and suggestions are made for further research.
+
+cacm january, 1968
+
+sackman, h.
+erikson, w. j.
+grant, e. e.
+
+online vs. off line performance, programmer/computer
+communication, programming 
+************************
+
+************************
+Document:  CACM-1741.html
+************************
+
+
+brad: the brookhaven raster display
+
+a multiconsole computer display system has
+been designed that provides very rich displays at 
+low unit cost.  each brad (brookhaven raster display)
+console can plot tens of thousands of points, or 
+up to 4000 characters at 30 frames per second.  after
+an initial display system investment of $50,000 
+each display, with teletype, costs less than $3,000.
+ the technique employed is that of programmatically 
+generating a binary image of the desired display in a
+computer.  the image is written on a rotating drum 
+memory.  independent read heads continuously display
+the picture, which is generated by swept horizontal 
+lines.  a standard tv monitor serves as the display device.
+ the technique has two drawbacks.  a computer 
+must compute any image to be displayed.  also, the "pointing"
+interaction is more difficult.  this is 
+because the pointing function gives only the coordinates
+of the point on the screen.  the inverse of 
+the map generation process is required to calculate
+the coordinates of the point on the screen.  the 
+inverse of the map generation process is required to
+calculate the coordinates at the selected point 
+in the input space.
+
+cacm june, 1968
+
+ophir, d.
+rankowitz, s.
+shepherd, b. j.
+spinrad, r. j.
+
+computer display, computer graphics, computer raster
+display, 
+************************
+, computer raster
+display, tv display console, digital tv display, 
+swept raster computer display, swept raster tv computer
+display, tv graphics terminal, multiconsole 
+************************
+ terminal, multiconsole computer 
+graphics, inexpensive graphic 
+************************
+
+************************
+Document:  CACM-2892.html
+************************
+
+
+a study of line overhead in the arpanet
+
+the form, extent, and effect of the communication line
+overhead in the arpanet are considered. 
+ the source of this over head is separated into various
+levels of protocol hierarchy and the characteristics 
+of each level are summarized.  then the line efficiency
+for various models of system use is studied. 
+ some measurements of line efficiency for the arpanet are
+presented and by extrapolation these measurements 
+are used to anticipate overhead in a heavily loaded network.
+similar results are derived for a recently 
+proposed network protocol and compared with those for the current system.
+
+cacm january, 1976
+
+kleinrock, l.
+naylor, w. e.
+opderbeck, h.
+
+arpanet, computer communication networks, 
+************************
+
+************************
+Document:  CACM-2035.html
+************************
+
+
+conversational access to a 2048-word machine
+
+lap6 is an on-line system running on a 2048-word linc which provides full 
+facilities for text editing, automatic filing and file maintenance, and 
+program preparation and assembly.  it focuses on the preparation and editing 
+of continuously displayed 23,040-character text strings (manuscripts) which
+can be positioned anywhere by the user and edited by simply adding
+and deleting lines as though working directly on an elastic scroll.
+other features are available through a uniform command set which itself can 
+be augmented by the user.  the machine, although small,
+aids program design by providing display scope and premarked
+randomly addressable linc tapes as standard items, in an environment
+similar to that of a sophisticated terminal.  the tapes are logically 
+similar to a disk.  priority was given to the design of efficient
+tape algorithms to minimize the limitations of the small memory.  techniques 
+developed for handling scroll editing, filing, and the layered system 
+structure are outlined.  lap6 is used by about 2000 people in 11 countries.  
+its design was strongly influenced by performance criteria established in 
+interviews held with linc users themselves during the specification period.
+
+cacm july, 1970
+
+wilkes, m. a.
+
+conversational computer access,
+display editing, 
+************************
+ access,
+display editing, display oriented system, filing algorithms, lap6,
+layering, linc, man-machine communication, on-line editing, on-line efficiency,
+
+************************
+
+************************
+Document:  CACM-2924.html
+************************
+
+
+an interactive computer graphics approach to surface 
+************************
+ approach to surface representation
+
+an in teractive computer graphics method has been
+developed 
+************************
+ method has been
+developed for the rapid generation of arbitrary 
+shaped three-dimensional surfaces.  the method is a synthesis
+of spline theory and algorithms, an in teractive 
+means 
+************************
+, an in teractive 
+means for man-machine communication, and software for
+static or dynamic graphics display.  the basic 
+technique employed is a modified lofting method on
+which sectional curves are represented by uniform 
+b-splines and the surface is in terpolated between 
+************************
+ is in terpolated between sections
+by cardinal splines.  among the features of 
+this method are algorithms which enable in teractive
+modification of the b-spline representation of the 
+sectional curves.  at all stages of the process, the
+spatial information is graphically displayed to 
+the user.  complex surfaces can be created by the combination
+of a number of shapes that have been separately 
+generated and automatically joined.  the system has been
+successfully in terfaced to a variety of analytical 
+routines for structural, medical and graphical applications.
+
+cacm october, 1977
+
+wu, sheng-chuan
+abel, j. f.
+greenberg, d. p.
+
+computer graphics, three-dimensional surface 
+************************
+, three-dimensional surface representation,
+splines, lofting,finite element 
+************************
+
+************************
+Document:  CACM-2845.html
+************************
+************************
+Document:  CACM-2188.html
+************************
+
+
+an approach to the optimum design of computer graphics systems
+
+display system 
+************************
+ systems
+
+display system designers are faced with the
+difficult task of selecting major subsystems in 
+an intelligent way.  each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its supporting
+data processing system.  the work reported 
+here develops an objective, quantitative design procedure
+and helps give a better understanding of now 
+to  configure display systems.  this is accomplished by
+means of a mathematical model of a computer driven 
+graphics system.  the parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+ the model can be analyzed using numerical 
+queueing analysis or simulation to obtain an average
+response time prediction.  by combining the model 
+with an optimization, the best graphics system configuration,
+subject to a cost constraint, is found 
+for several applications.  the optimum configurations
+are in turn used to find general display system 
+design guidelines.
+
+cacm june, 1971
+
+
+************************
+
+************************
+Document:  CACM-2827.html
+************************
+
+
+a parametric algorithm for drawing pictures
+of solid objects composed of quadric surfaces
+
+an algorithm for drawing pictures of three-dimensional
+objects, with surfaces made up of patches 
+of quadric surfaces, is described.  the emphasis of
+this algorithm is on calculating the intersections 
+of quadric surfaces. a parameterization scheme is used.
+ each quadric surface intersection curve (qsic) 
+is represented as a set of coefficients and parameter
+limits.  each value of the parameter represents 
+at most two points, and these may easily be distinguished.
+ this scheme can find the coordinates of points 
+of even quartic (fourth-order) intersection curves, using
+equations of no more than second order.  methods 
+of parameterization for each type of osic are discussed,
+as well as surface bounding and hidden surface 
+removal.
+
+cacm october, 1976
+
+levin, j.
+
+computer graphics, hidden surface removal,
+
+************************
+, hidden surface removal,
+quadric surface 
+************************
+
+************************
+Document:  CACM-2678.html
+************************
+
+
+visible surface plotting program [j6] (algorithm a475)
+
+cacm march, 1974
+
+wright, t.
+
+hidden line problem, computer graphics, contour surface
+
+3.65 
+************************
+
+************************
+Document:  CACM-2925.html
+************************
+
+
+optimal surface reconstruction from planar contours
+
+in many scientific and technical endeavors,
+a three-dimensional solid must be reconstructed 
+from serial sections, either to aid in the comprehension
+of the object's structure or to facilitate its 
+automatic manipulation and analysis.  this paper presents
+a general solution to the problem of constructing 
+a surface over a set of cross-sectional contours. 
+this surface, to be composed of triangular tiles, 
+is constructed by separately determining an optimal
+surface between each pair of consecutive contours.
+ determining such a surface is reduced to the problem
+of finding certain minimum cost cycles in a directed 
+toroidal graph.  a new fast algorithm for finding such
+cycles is utilized.  also developed is a closed-form 
+expression, in term of the number of contour poin ts, for
+an upper bound on the number of operations required 
+to execute the algorithm.  an illustrated example which
+involves the construction of a minimum area surface 
+describing a human head is included.
+
+cacm october, 1977
+
+fuchs, h.
+kedem,z. m.
+uselton, s. p.
+
+surface reconstruction, contour data, serial sections,
+three-dimensional computer graphics, minimum 
+cost paths, 
+************************
+
+************************
+Document:  CACM-2771.html
+************************
+
+
+the synthesis of solids bounded by many faces
+
+a technique is presented which allows a class
+of solid objects to be synthesized and stored 
+using a computer.  synthesis begins with primitive solids
+like a cube, wedge, or cylinder.  any solid 
+can be moved, scaled, or rotated.  solids may also be
+added together or subtracted.  two algorithms to 
+perform addition are described.  for practical designers,
+the technique has the advantage that operations 
+are concise, readily composed, and are given in terms
+of easily imagined solidsuite short sequences 
+of operations suffice to build up complex solids bounded by many faces.
+
+cacm april, 1975
+
+braid, i. c.
+
+computational geometry, computer-aided design,
+graphics, machined components, 
+************************
+
+************************
+Document:  CACM-0884.html
+************************
+************************
+Document:  CACM-1978.html
+************************
+
+
+the use of interactive graphics to solve numerical problems
+
+with the advent of on-line (time-sharing) computer systems
+and graphic 
+************************
+ systems
+and graphic terminals, we have available a new dimension
+in numerical problem solving capabilities.  rather than simply use
+the new power to achieve fast turnaround, we can develop interactive
+routines which are easy to use and also take advantage of the
+insight and visual capabilities of the human problem solver.  several
+on-line systems for general purpose mathematical problem solving
+have already been implemented as well as some special purpose
+systems for solving problems in a particular area such as ordinary
+differential equations.  the advantage of restricting the problem
+area is that the interface with a user can be greatly simplified.
+in this paper we discuss some of the advantages accrued by such
+systems and design considerations for interactive routines.  furthermore,
+an implementation of an on-line least squares data-fitting
+program, peg, is presented with results obtained from empirical
+data.  in conclusion, area for future work in this field are discussed.
+
+cacm october, 1970
+
+smith, l. b.
+
+interactive graphics, computer graphics, graphics, 
+************************
+ graphics, graphics, least squares,
+data-fitting, interactive computing, on-line mathematics
+
+1.3 3.1 
+************************
+
+************************
+Document:  CACM-3047.html
+************************
+************************
+Document:  CACM-3071.html
+************************
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+************************
+ systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment. 
+************************
+
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ however, it is possible to compute an upper bound to such
+a cross-correlation.  a simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. model building
+
+************************
+
+************************
+Document:  CACM-2473.html
+************************
+
+
+hidden-line plotting program (algorithm 
+************************
+ plotting program (algorithm r420)
+
+cacm july, 1973
+
+macleod, i. d. g.
+collins, a. m.
+
+hidden-line plot, surface plot
+
+4.9
+
+ca730713 
+************************
+
+************************
+Document:  CACM-2547.html
+************************
+
+
+representation of contours ad regions for efficient computer search
+
+a novel computer-searchable representation
+for the three basic pictorial features, contour 
+maps, region coverage, and line structures, is described.
+
+************************
+ structures, is described.
+ the representation, which has practical storage 
+requirements, provides a rapid mean of searching large
+files for data associated with geometric position 
+as well as with attribute value.  an application of this
+representation to handling terrain information 
+illustrates its utility.  the algebraic properties
+of the data structure make it computationally easy 
+to determine whether a point lies within a closed boundary;
+compute the area contained by a closed boundary; 
+generate the closed boundary representing the union or
+intersection of two closed boundaries; and determine 
+the neighboring boundaries to a point and the
+minimum distances between them and the point.
+
+cacm february, 1973
+
+merrill, r. d.
+
+contour map representation, region boundary representation,
+computer-search-able structure, graphic 
+data retrieval, graphic language, two-dimensional
+patterns, computer graphics, graphic display
+
+3.21 
+************************
+
+************************
+Document:  CACM-1680.html
+************************
+
+
+a general-purpose display processing and tutorial system
+
+adept (a display-expedited processing and tutorial)
+system is described.  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  it is written in fortran 
+iv (g) for the ibm system/360, model 40, and the ibm 2250
+display unit under operating system/360.  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  illustrations of the various
+applications are presented and their implications 
+are discussed.
+
+cacm october, 1968
+
+engvold, k. j.
+hughes, j. l.
+
+computer-assisted instruction, tutorial systems,
+programming, simulation, modeling, information 
+retrieval operating systems, graphics, displays, man-machine
+interface, on-line computing, graphic programming
+
+************************
+
+************************
+Document:  CACM-2841.html
+************************
+
+
+designing surfaces in 3-d
+
+an experimental system for computer-aided
+design of free-form 
+************************
+-aided
+design of free-form surfaces in three dimensions 
+is described. the surfaces are represented in the system
+as parametric basis splines. the principal features 
+of the system are: (1) the surfaces are rendered as isoparametric
+line drawings on a head-mounted display, 
+and they are designed with the aid of a three-dimensional
+"wand," which allows 3-d movements of the points 
+controlling the shapes of the surfaces, (2) all of the
+interactions with the surfaces are in real-time, 
+and (3) the mathematical formulations used assume no
+knowledge of them by the user of the system.  also 
+examined are some of the features that should be part
+of a practical 3-d system for designing space-forms.
+
+cacm august, 1976
+
+clark, j. h.
+
+real-time graphics, computer-aided design,
+picture 
+************************
+
+************************
+Document:  CACM-2638.html
+************************
+
+
+hidden-line plotting program (algorithm 
+************************
+
+************************
+Document:  CACM-2973.html
+************************
+
+
+sorting on a mesh-connected parallel computer
+
+two algorithms are presented for sorting 
+************************
+ are presented for sorting n^2
+elements on an n x n mesh-connected processor 
+array that require o(n) routing and comparison steps.
+ the best previous algorithm takes time o(n log 
+n).  the algorithms of this paper are shown to be optimal
+in time within small constant factors.  extensions 
+to higher-dimensional arrays are also given.
+
+cacm april, 1977
+
+thompson, c. d.
+kung, h. t.
+
+parallel computer, parallel sorting, parallel 
+************************
+
+************************
+Document:  CACM-0671.html
+************************
+
+
+telefile-a case study of an on-line savings bank application
+
+the development of an on-line computer system
+for a savings 
+************************
+
+************************
+Document:  CACM-2369.html
+************************
+
+
+hidden lines elimination for a rotating 
+************************
+s elimination for a rotating object
+
+a method is presented of determining which
+parts of three-dimensional objects are visible and 
+which are invisible when the objects are rotated about
+some axis.  this paper describes a polygon comparison 
+scheme in which the relationships of two polygons can
+be classified into tree types, and also discusses 
+how the relationship is changed for each pair of polygons
+under rotation about some axis.  a rotation 
+table is defined for each pair of polygons, which remains
+fixed as long as rotation is about one axis 
+and provides a means of rapidly determining the visible
+and hidden line relationship between 
+************************
+ relationship between two polygons. 
+ additional work must be done to extend this approach
+to simultaneous rotation about several axes.
+
+cacm april, 1972
+
+matsushita, y.
+
+hidden line problem, display programming, computer
+graphics, displays, graphics, 
+************************
+, displays, graphics, computer drawn 
+picture
+
+4.40 
+************************
+
+************************
+Document:  CACM-2786.html
+************************
+
+
+a system for typesetting mathematics
+
+this paper describes the design and implementation
+of a system for typesetting mathematics. 
+ the language has been designed to be easy to learn
+and to use by people (for example, secretaries and 
+mathematical typists) who know neither mathematics nor
+typesetting.  experience indicates that the language 
+can be learned in an hour or so, for it has few rules
+and fewer exceptions.  for typical expressions, 
+the size and font changes, positioning, line drawing, and
+the like necessary to print according to mathematical 
+conventions are all done automatically.  for example,
+the input sum from i=o to infinity x sub i=pi over 
+2 produces (formula).  the syntax of the language is specified
+by a small context-free grammar; a compiler-compiler 
+is used to make a compiler that translates this language
+into typesetting commands.  output maybe produced 
+on either a phototypesetter or on a terminal with forward
+and reverse half-line motions.  the system 
+interfaces directly with text formatting programs, so
+mixtures of text and mathematics may be handled 
+simply.  this paper was typeset by the authors using the system described 
+
+cacm march, 1975
+
+kernighan, b. w.
+cherry, l. l.
+
+typesetting, photocomposition,compiler-compiler,
+graphics, printing, text processing.
+
+************************
+
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing 
+************************
+
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory 
+************************
+
+************************
+Document:  CACM-2486.html
+************************
+
+
+computer photocomposition of technical text
+
+in computer assisted typesetting by means of
+photocomposition, special problems arise in highly 
+technical material such as mathematical formulas.  new
+solutions to several of these problems have been 
+devised in the information system of the american institute
+of physics.  they include: the representation 
+of special characters (foreign alphabets, mathematical
+symbols, etc.) not available on input keyboards 
+or on the photocomposer; the generation of such symbols,
+e.g. by overprinting; the precise positioning 
+of accent marks (floating diacritics); line breaks,
+i.e. words or formulas placed partly at the end of 
+one line and partly at the beginning of the next;
+and certain aspects of error correction.
+
+cacm june, 1973
+
+alt, f. l.
+yuni kirk, j.
+
+photocomposition, typesetting, printing, graphics, text processing
+
+3.79 
+************************
+
+************************
+Document:  CACM-2078.html
+************************
+
+
+representations for space planning
+
+problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrangement
+are called space planning problems.  the representational
+requirements for this problem area are defined and compared with current
+computer graphic languages.  four alternative data structures
+that allow automated space planning are described and compared.
+
+cacm april, 1970
+
+eastman, c. m.
+
+automated design, data structures, computer graphics, computer-aided
+design, 
+************************
+
+************************
+Document:  CACM-1742.html
+************************
+
+
+on the design of display processors
+
+the flexibility and power needed in the data
+channel for a computer display are considered. 
+ to work efficiently, such a channel must have a sufficient number
+of instructions that it is best understood 
+as a small processor rather than a powerful channel.
+ as it was found that successive improvements to 
+the display processor design lie on a circular path, by
+making improvements one can return to the original 
+simple design plus one new general purpose computer for
+each trip around.  the degree of physical separation 
+between display and parent computer is a key factor in display processor design.
+
+cacm june, 1968
+
+myer, t. h.
+
+display processor design, display system, computer
+graphics, graphic terminal, displays, 
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components 
+************************
+s the major 
+components of the system.  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical 
+************************
+ is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs.  bagdams
+provides facilities for storing, retrieving, and 
+manipulating the descriptions of graphical entities
+provided by, and received by application programs,
+graphics packages, and graphical devices. 
+
+cacm november, 1978
+
+wendorf, j.
+
+computer graphics, data structures, 
+************************
+
+************************
+Document:  CACM-2696.html
+************************
+************************
+Document:  CACM-3082.html
+************************
+
+
+time, clocks, and the ordering of events in a distributed system
+
+the concept of one event happening before
+another in a distributed system is examined, and
+is shown to define a partial ordering of the events.
+ a distributed algorithm is given for synchronizing 
+a system of logical clocks which can be used to totally
+order the events.  the use of the total ordering 
+is illustrated with a method for solving synchronization
+problems.  the algorithm is then specialized 
+for synchronizing physical clocks, and a bound is derived
+on how far out of synchrony the clocks can 
+become.  
+
+cacm july, 1978
+
+lamport, l.
+
+distributed systems, computer networks,
+clock synchronization, 
+************************
+
+************************
+Document:  CACM-3116.html
+************************
+
+
+interference detection among solids and surfaces
+
+in many industrial environments it is necessary to determine whether
+r there is interference among components.  there are many potential
+interference problems in products made up of assemblies of components 
+and in product manufacturing and testing.  typically, drawings
+are used in an attempt to detect such unwanted interferences,
+but the two-dimensional, static drafting medium does not always show
+interferences among three-dimensional, moving parts.  this paper
+ presents a computer representation for solids and surfaces and algorithms
+which carry out interference 
+************************
+
+which carry out interference checking among objects so represented.  
+objects are represented as polyhedra or as piecewise planar
+surfaces.  two types of interference checking are discussed:
+detection of intersections among objects in fixed positions and detection
+of collisions among objects moving along specified trajectories.
+
+cacm january, 1979
+
+boyse, j.
+
+interference checking, intersection detection, collision detection, solid
+representation, polyhedral representation, graphics, polygons, surfaces
+
+************************
+
+************************
+Document:  CACM-2152.html
+************************
+
+
+display procedures
+
+although the use of structured display files
+is widespread in interactive computer graphics, 
+these structures present 
+************************
+, 
+these structures present a number of problems which
+tend to restrict their generality and usefulness. 
+ this paper discusses some of these problems, and suggests an
+alternative approach to display system 
+design which avoids the use of structured display files.
+ this technique employs display procedures to 
+generate information for display.  by including transformations
+within calls to these procedures it is 
+possible both to simplify the specification of pictures
+and to speed up their generation.  display procedures 
+permit picture elements to be defined conditionally
+and also facilitate the processing of inputs from 
+pointing devices.  the paper is illustrated by examples
+from aversion of the euler language in which 
+display procedures were implemented.
+
+cacm october, 1971
+
+newman, w. m.
+
+computer graphics, programming languages, 
+************************
+
+************************
+Document:  CACM-1908.html
+************************
+
+
+time-sharing and batch-processing:  an experimental
+comparison of their values in a problem - 
+solving situation
+
+an experimental comparison of problem-solving
+using time-sharing and batch-processing computer 
+systems conducted at mit is described in this paper.
+ this study is the first known attempt to evaluate 
+two such systems for what may well be the predominant user
+population within the next decade-the professionals 
+who, as nonprogrammers, are using the computer as an
+aid in decision-making and problem-solving rather 
+than as a programming end in itself.  statistically
+and logically significant results indicate equal 
+cost for usage of the two computer systems; however,
+a much higher level of performance is attained by 
+time-sharing users.  there are indications that significantly
+lower costs would have resulted if the 
+time-sharing users had stopped work when they reached
+a performance level equal to that of the batch 
+users.  the users' speed of problem-solving and their
+attitudes made time-sharing the more favorable 
+system.
+
+cacm may, 1969
+
+gold, m. m.
+
+time-sharing vs batch-processing, user performance,
+man/machine communications, cost effectiveness, 
+on-line vs off-line performance, 
+************************
+
+************************
+Document:  CACM-2065.html
+************************
+
+
+a programming system for the on-line analysis of biomedical images
+
+a preliminary description of the software for a computer-display
+system is given 
+************************
+
+************************
+Document:  CACM-0266.html
+************************
+************************
+Document:  CACM-0088.html
+************************
+************************
+Document:  CACM-2490.html
+************************
+
+
+efficient algorithms for graph manipulation [h] (algorithm a447)
+
+efficient algorithms are presented for partitioning
+a graph into connected components, biconnected 
+components and simple paths.  the algorithm for partitioning
+of a graph into simple paths is iterative 
+and each iteration produces a new path between two
+vertices already on paths.  (the start vertex can 
+be specified dynamically.)  if v is the number of vertices
+and e is the number of edges, each algorithm 
+requires time and space proportional to max (v,e)
+when executed on a random access computer.
+
+cacm june, 1973
+
+hopcroft, 
+************************
+
+************************
+Document:  CACM-2637.html
+************************
+
+
+hidden-line plotting program (algorithm 
+************************
+
+************************
+Document:  CACM-0765.html
+************************
+************************
+Document:  CACM-2441.html
+************************
+
+
+hidden-line plotting program (algorithm 
+************************
+
+************************
+Document:  CACM-1108.html
+************************
+
+
+digital data processor for tracking the partially illuminated moon*
+
+a study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected was conducted to define
+a tracking system for observation of the sight line 
+to the center of a partially illuminated moon.  the
+data processing portion of the system is presented 
+in detail and then described in general are the operation
+of the tracker head assembly for data readout, 
+the operation of the entire system and the effect data
+processing considerations have on the design of 
+the tracker system.  the system basically consists of
+an optical sensor, digital computer and tracker 
+drive mechanism. 
+************************
+ and tracker 
+drive mechanism.  the three system units, connected
+in cascade, comprise the control loop.  for this 
+application, an optical telescope with a radial mechanical
+scanning mechanism was used that read out 
+lunar sight line measurement information.  this information
+is sequentially read into a special purpose 
+digital computer that extracts the measurements 
+************************
+
+************************
+Document:  CACM-1397.html
+************************
+
+
+proceedings of the acm symposium on symbolic and algebraic manipulation
+
+the acm symposium on symbolic and algebraic
+manipulation brought together over four hundred 
+people interested in programming languages designed
+for manipulation of algebraic formulas and symbol 
+strings, in their applications, and in algorithms for
+their implementation. 
+************************
+
+************************
+Document:  CACM-2919.html
+************************
+
+
+the programmer's workbench-a machine for software development
+
+on almost all software development projects the
+assumption is made that the program development 
+function will be done on the same machine on which the
+eventual system will run.  it is only when this 
+production machine is unavailable or when its programming
+environment is totally inadequate that alternatives 
+are considered.  in this paper it is suggested that
+there are many other situations where it would be 
+advantageous to separate the program development and
+main tenance function onto a specialized computer 
+which is dedicated 
+************************
+ 
+which is dedicated to that purpose.  such a computer
+is here called a programmer's workbench.  the four 
+basic sections of the paper in troduce the subject,outline
+the general concept, 
+************************
+
+************************
+Document:  CACM-3197.html
+************************
+
+
+   structures of standards-processing organizations in the computer area
+
+   in line with the acm's policy 
+************************
+
+************************
+Document:  CACM-2751.html
+************************
+
+
+illumination for computer generated pictures
+
+the quality of computer generated images of
+three-dimensional scenes depends on the shading 
+technique used to paint the objects on the cathode-ray
+tube screen.  the shading algorithm itself depends 
+in part on the method for modeling the object, which
+also determines the hidden surface algorithm.  the 
+various 
+************************
+ algorithm.  the 
+various methods of object modeling, shading, and hidden
+surface removal are thus strongly 
+************************
+ removal are thus strongly interconnected. 
+ several shading techniques corresponding to different
+methods of object modeling and the related hidden 
+surface algorithms are presented here. 
+************************
+ are presented here.  human visual
+perception and the fundamental laws of optics are 
+considered in the development of a shading rule that
+provides better quality and increased realism in 
+generated images.
+
+cacm june, 1975
+
+phong, b. t.
+
+computer graphics, graphic display, hidden surface removal.
+
+3.26 3.41 
+************************
+
+************************
+Document:  CACM-1891.html
+************************
+
+
+three-dimensional computer display
+
+a stereographic display terminal has been
+produced using the raster display (brad) recently 
+developed at brookhaven.  the system uses a rotating refresh
+memory to feed standard television monitors. 
+ to produce a stereographic display the computer calculates
+the projected video images of an object, 
+viewed from two separate points.  the resulting video
+maps are stored on separate refresh bands of the 
+rotating memory.  the two output signals are connected
+to separate color guns of a color television monitor, 
+thus creating a superimposed image on the screen.  optical
+separation is achieved by viewing the image 
+through color filters.  the display is interactive and
+can be viewed by a large group of people at the 
+same time.
+
+cacm june, 1969
+
+ophir, d.
+shepherd, b. j.
+spinrad, r. j.
+
+computer graphics, three-dimensional display, 
+************************
+
+************************
+Document:  CACM-2760.html
+************************
+************************
+Document:  CACM-0439.html
+************************
+
+
+on-line digital computer for measurement of a 
+************************
+
+************************
+Document:  CACM-1088.html
+************************
+
+
+menu planning by computer
+
+a computer code has been developed which plans
+menus by finding minimum cost combinations of 
+menu items such that the daily dietary, gastronomic
+and production requirements can be satisfied for 
+a sequence of days.  a fast, special integer programming
+algorithm is described which approximates the 
+theoretical solution to the problem.  if necessary, any
+menu can be changed on-line and then post-optimized. 
+************************
+
+************************
+Document:  CACM-2004.html
+************************
+
+
+a procedure for generation of three-dimensional
+half-toned computer graphics presentations
+
+a description 
+************************
+ presentations
+
+a description is given of an algorithm for producing computer generated 
+half-tone presentations of three-dimensional polygonal surface structures.  
+this algorithm achieves a significant increase in speed of computation over 
+the warnock algorithm developed at the university of utah and implemented
+also on the coordinated science laboratory cdc 1604 computer
+system at the university of illinois.  the history leading to the algorithm
+development and then the algorithm itself are described.
+results are presented and are compared with computer runs achieved
+by the warnock approach.  an extension of the procedure to variable position
+illumination sources is also given.
+
+cacm september, 1970
+
+bouknight, w. j.
+
+half-tone computer graphics, line-scan image processing,
+
+************************
+-scan image processing,
+hidden surface, polygonal surface structure 
+************************
+
+************************
+Document:  CACM-2564.html
+************************
+
+
+hidden-line plotting program (algorithm 
+************************
+
+************************
+Document:  CACM-1697.html
+************************
+
+
+graphical input/output of nonstandard characters
+
+a system developed at harvard for graphically
+inputting and outputting nonstandard characters 
+on a computer is printed.  in principle, the system
+can deal with any orthography, although at present 
+it is limited to 4000 chinese characters and some mathematical
+symbols.  new characters can be added 
+to the repertoire of the system by graphical input on
+a display scope.  text inputting is accomplished 
+via a display scope or a rand tablet.  the organization
+and operation of the current system are described, 
+and a discussion of the relative merits of such a system
+is given.  illustrations of the computer input 
+and output of chinese characters are included.  
+
+cacm september, 1968
+
+hayashl, h.
+duncan, s.
+kuno, s.
+
+chinese characters, input/output, orthography, rand
+tablet, pdp-1, automatic typesetting, man-machine 
+communication, computer graphics, graphical input, on-line editing
+
+3.40 4.41
+
+
+************************
+
+************************
+Document:  CACM-2987.html
+************************
+
+
+representation of many-sided polygons
+and polygonal lines for rapid processing
+
+a representation for polygons and polygonal
+lines is described which allows sets of consecutive 
+sides to be collectively examined.  the set of sides are
+arranged in a binary tree hierarchy by inclusion. 
+ a fast algorithm for testing the inclusion of a poin t
+in a many-sided polygon is given.  the speed of 
+the algorithm is discussed for both ideal and practical
+examples.  it is shown that the poin ts of intersection 
+of two polygonal lines can be located by what is essentially
+a binary tree search.  the algorithm and 
+a practical example are discussed.  the representation
+overcomes many of the disadvantages associated 
+with the various fixed-grid methods for representing curves and regions
+
+cacm march, 1977
+
+burton w.
+
+boundary line representation, cartography, computer
+graphics computer-searchable 
+************************
+ computer-searchable structures, contour 
+representation, geographic information processing, graphic
+data retrieval, in tersection of curves, line-drawing 
+processing, 
+************************
+
+************************
+Document:  CACM-2201.html
+************************
+
+
+animator: an on-line two-dimensional film animation system
+
+animator is a computer animation system which
+
+************************
+ animation system which
+was designed to overcome some of the inherent 
+disadvantages associated with conventional computer animation
+techniqueshe dec-338 serves as an input 
+terminal for movie making, allowing the trial and error
+design of picture sequences in a conversational 
+mode.  during all stages on the system input elements
+(light pen, pushbuttons, and teletype) is maintained. 
+ at the user's request, this record is sent to the ibm
+360/75 where the s-d 4020 instructions necessary 
+to produce the same sequence of pictures can be generated.
+ it is anticipated that one of the primary 
+contributions of animator will be the provision of a
+facility which will allow any professor to produce 
+his own expository film strips.
+
+cacm april, 1971
+
+talbot, p. a.
+carr iii, j. w.
+coulter jr., r. r.
+hwang, r. c.
+
+computer graphics, computer animation, on-line
+systems, two-dimensional 
+************************
+
+************************
+Document:  CACM-2238.html
+************************
+************************
+Document:  CACM-3149.html
+************************
+
+
+the cyclic order property of vertices as an aid in scene analysis
+
+a cyclic-order property is defined for bodies bounded by smooth-curved faces.
+the property is shown to be useful for analyzing pictures of such bodies,
+particularly when the line data extracted from the pictures are imperfect.
+this property augments previously known grammatical rules that
+determine the existence of three-dimensional bodies corresponding
+to given two-dimensional line-structure data.
+
+cacm june, 1979
+
+shapira, r.
+freeman, h.
+
+scene analysis, cyclic order, artificial intelligence,
+three-dimensional reconstruction
+, picture processing, computer graphics, pattern recognition.
+
+************************
+
+************************
+Document:  CACM-0840.html
+************************
+************************
+Document:  CACM-1145.html
+************************
+
+
+git-a heuristic program for testing pairs
+of directed line graphs for isomorphism*
+
+given a pair of directed line graphs, the problem
+of ascertaining whether or not they are isomorphic 
+is one for which no efficient algorithmic solution is known.
+ since a straightforward enumerative algorithm 
+might require 40 years of running time on a very high
+speed computer in order to compare two 15-node 
+graphs, a more sophisticated approach seems called
+for.  the situation is similar to that prevailing 
+in areas such as game-playing and theorem-proving, where
+practical algorithms are unknown (for the 
+************************
+
+************************
+Document:  CACM-2016.html
+************************
+
+
+the instrumentation of multics
+
+an array of measuring tools devised to aid in the implementation of a prototype
+computer utility is discussed.  these tools include special hardware
+clocks and data channels, general purpose programmed probing
+and recording tools, and specialized measurement facilities. 
+************************
+
+************************
+Document:  CACM-3171.html
+************************
+************************
+Document:  CACM-2054.html
+************************
+
+
+on the feasibility of voice input to
+an on-line computer processing system
+
+an 
+************************
+ processing system
+
+an on-line digital computer processing system is 
+************************
+
+************************
+Document:  CACM-2211.html
+************************
+
+
+scanned-display computer graphics
+
+a television-like scanned-display 
+************************
+
+
+a television-like scanned-display system has
+been successfully implemented on a honeywell ddp-224 
+computer installation.  the scanned image is stored
+in the core memory of the computer, and software 
+scan conversion is used to convert the rectangular coordinates
+of a point to the appropriate word and 
+bit in an output display array in core storage.  results
+thus far indicate that flicker-free displays 
+of large amounts of data are possible with reasonably
+fast graphical interaction.  a scanned image of 
+size 240 x 254 points is displayed at a 30 frame-per-second rate.
+
+cacm march, 1971
+
+noll, a. m.
+
+computer graphics, scanned-display, scan 
+************************
+
+************************
+Document:  CACM-0531.html
+************************
+
+
+person-matching by electronic methods
+
+record linkage in the updating of files is
+accomplished in many establishments through the 
+use of a preassigned number, such as payroll number,
+customer number, or social security number.  in 
+vital and health records, however, a unique number
+is generally not preassigned to an individual for 
+purposes of reporting services received to the health
+department.  in order to determine whether different 
+physician reports refer to the same individual, name
+and other identification must be compared.  this 
+is a laborious operation which is subject to various
+errors because of name misspellings, changes of 
+name upon marriage, and other problems.  we are interested
+in the maintenance of a psychiatric case register 
+in maryland, where many of the reports from over a hundred
+psychiatric agencies refer to the same patient. 
+ these records must be linked in order to provide unduplicated
+counts of individuals under care and longitudinal 
+records of psychiatric history.  an earlier paper [1] describes
+our general procedures for register maintenance 
+by use of a digital computer (honeywell 800).  here
+
+************************
+
+************************
+Document:  CACM-2357.html
+************************
+
+
+mux, a simple approach to on-line computing
+
+an on-line system operating as part of a normal
+batch system for the cdc 6600 computer is described. 
+ the 
+************************
+
+************************
+Document:  CACM-1014.html
+************************
+
+
+machine controls for analysis of variance
+
+a major problem in using the analysis of variance,
+as the number of factors increases, is the 
+exponential rise in the number of interactions.  even
+though the experimenter may not be interested in 
+these interactions it is impossible to ignore them in
+most experimental designs because of the problem 
+of getting error terms.  it is natural therefore to look
+to the computer to handle the bulk of 
+************************
+
+************************
+Document:  CACM-1308.html
+************************
+
+
+a mathematical model for mechanical part description
+
+the flexibility of a mathematical model takes
+advantage of the common information requirements 
+of computer-aided engineering drawing, numerical control
+tape generation, and physical characteristic 
+computation.  by judicious control of man-machine communication
+requirements, improved results over conventional 
+engineering design processes are possible.  an english-like
+input language, tailored for use by draftsmen 
+and designers, will describe the part and specify the
+output desired.  one approach to the mathematical 
+model consists of a group of surface-defining quadric
+equations, 
+************************
+
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here.
+
+cacm july, 1978
+
+chattergy, r.
+pooch, u.
+
+computer-aided algebra, symbol manipulation, markov
+process, reliability, redundant structures, 
+on-line computer system.
+
+3.82 
+************************
+
+************************
+Document:  CACM-1867.html
+************************
+************************
+Document:  CACM-2674.html
+************************
+
+
+scan conversion algorithms for a cell organized raster display
+
+raster scan computer graphics with "real time"
+character 
+************************
+ with "real time"
+character generators have previously been limited 
+to alphanumeric characters.  a display has been described
+which extends the capabilities of this organization 
+to include general graphics.  two fundamentally different
+scan conversion algorithms which have been 
+developed to support this display are presented.  one
+is most suitable to non-interactive applications 
+and the other to interactive applications.  the algorithms
+were implemented in fortran on the cdc 6400 
+computer.  results obtained from 
+************************
+.  results obtained from the implementations show
+that the noninteractive algorithms can significantly 
+reduce display file storage requirements at little cost
+in execution time over that of a conventional 
+raster display.  the interactive algorithm can improve
+response time and reduce storage requirements.
+
+cacm march, 1974
+
+barrett, r. c.
+fordan, b. w. jr.
+
+graphics, scan conversion, raster display, line
+drawing, discrete image, 
+************************
+
+************************
+Document:  CACM-1181.html
+************************
+
+
+a simple data transmission system using the office telephone
+
+a method has evolved for transmitting data of
+a type originating in many laboratory situation 
+direct to a central computer.  the method requires almost
+no specialized equipment and uses any 
+************************
+

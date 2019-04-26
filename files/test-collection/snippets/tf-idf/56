@@ -1,0 +1,2644 @@
+Snippets for the query:  Q56
+************************
+Total Hits:  200
+************************
+
+************************
+Document:  CACM-0875.html
+************************
+
+
+incomplete elliptic integrals (algorithm 73)
+
+cacm april, 1963
+
+van de riet, r. p.
+
+ca630416 jb march 14, 1978 
+************************
+
+************************
+Document:  CACM-3091.html
+************************
+
+
+some basic determinants of computer programming productivity
+
+the propose of this research was to examine
+the relationship between processing characteristics 
+of programs and experience characteristics of programmers
+and program development time.  the ultimate 
+objective was to develop a technique for predicting
+the amount of time necessary to create a computer 
+program.  the fifteen program characteristics hypothesized
+as being associated with an increase in programming 
+time required are objectively measurable from preprogramming
+specifications.  the five programmer characteristics 
+are experience-related and are also measurable before a programming
+task is begun.  nine program characteristics 
+emerged as major influences on program development time,
+each associated with increased program development 
+time.  all five programmer characteristics were found
+to be related to reduced program development time. 
+ a multiple regression  equation which contained one programmer
+characteristic and four program characteristics 
+gave evidence of good predictive power for
+forecasting program development time.   
+
+cacm june, 1978
+
+chrysler, e.
+
+programmer performance standards, predicting program
+development time, program estimation techniques, 
+program development equation, value of programming experience,
+programmer evaluation, programmer scheduling, 
+programmer productivity, programming management, cobol programming
+
+2.40 4.20
+
+ca780606 dh february 26, 1979  11:42 am
+
+3091	4	3091
+
+************************
+
+************************
+Document:  CACM-0065.html
+************************
+
+
+algol sub-committee report - extensions
+
+cacm september, 1959
+
+dijkstra, 
+************************
+ september, 1959
+
+dijkstra, e. w.
+heise, w.
+perlis, j. a.
+samelson, k.
+
+ca590904 jb march 22, 1978  4:49 pm
+
+65	5	65
+
+************************
+
+************************
+Document:  CACM-3191.html
+************************
+
+
+   generating permutations by nested cycling
+
+   the purpose of this letter is two_fold: first to give due credit to the
+tompkins-paige algorithm, and second to clarify a comment by hill, cr review
+13891 on "programs for permutations".
+
+cacm june, 1968
+
+langdon, 
+************************
+
+************************
+Document:  CACM-0079.html
+************************
+
+
+programming for a machine with an extended
+address calculational 
+************************
+d
+address calculational mechanism
+
+cacm june, 1959
+
+schecher, 
+************************
+
+************************
+Document:  CACM-1688.html
+************************
+
+
+netflow (algorithm 248 [h])
+
+cacm september, 1968
+
+henderson, j. h.
+
+capacitated 
+************************
+rson, j. h.
+
+capacitated network, linear programming, minimum-cost
+flow, network flow, out-of-kilter
+
+5.32 5.41
+
+ca680913 jb february 21, 19784:31 pm 
+
+1688	5	1688
+
+************************
+
+************************
+Document:  CACM-0071.html
+************************
+
+
+proposal for a feasible programming system
+
+this paper proposes designing a programming
+
+************************
+signing a programming
+facility (itself involving a digital computer and 
+a program) which will assist the preparation of large-scale
+real-time programs.  this facility is to 
+be capable of preparing programs for any of a variety
+of machines having characteristics similar to those 
+of the facility's computer.  one of the basic assumptions
+is that there will be enough random-access 
+storage available to avoid the necessity for segmenting
+a constructed program in any fashion other than 
+a trivial one.  while this assumption is somewhat unrealistic,
+it is intended to provide an opportunity 
+to concentrate on the other aspects of program construction.
+ the programming system should stress the 
+discovery in source program statements of as many errors
+as possible, before attempting to construct 
+an object program.  among the computer characteristics
+which are advocated are a program interrupt scheme, 
+a large set of characters, and indirect addressing.
+
+cacm august, 1959
+
+bagley, 
+************************
+
+************************
+Document:  CACM-0223.html
+************************
+
+
+selfcipher: programming
+
+cacm february, 1960
+
+pelta, 
+************************
+
+************************
+Document:  CACM-1510.html
+************************
+
+
+finding a solution of n functional equations
+in n unknown (algorithm 314 [c5])
+
+cacm november, 1967
+
+dulley, 
+************************
+
+************************
+Document:  CACM-2411.html
+************************
+
+
+tree-structured programs
+
+cacm november, 1973
+
+wegner, 
+************************
+ november, 1973
+
+wegner, e.
+
+control structures, flowcharts, goto statements,
+inductive assertion, least fix points, optimization 
+in compilers, program documentation, program flow graphs,
+programming language design, proof of programs, 
+************************
+sign, proof of programs, 
+semantics of programming languages, structured programming.
+
+4.12 
+************************
+d programming.
+
+4.12 4.22 5.24
+
+ca731115 jb january 
+************************
+
+************************
+Document:  CACM-1705.html
+************************
+
+
+a set of basic input-output procedures (algorithm 335 [15])
+
+by means of the primitives in symbol, outsymbol
+and length, as requested by this journal's 
+algorithms policy [comm. acm 10 (nov. 67), 729] a basic
+set of input-output procedures is defined aiming 
+at quality 
+************************
+fined aiming 
+at quality and flexibility.  outreal, for instance, is
+written as a derived procedure; it outputs using 
+the fixed point or the floating point representation,
+and rounds properly.  variants can easily be written 
+because of the explicit call of the procedures decompose
+integer and decompose real.  the highly recommended 
+practice of echoing input is made easy with one subset
+of derived procedures (ioi, ior, iob, ioa).  the 
+documentation of output in the form of equivalent algol
+statements is also provided when use is made 
+of the subset oti, otr, otb, ota.  the berkeley style
+of providing information on the form of output 
+using prior calls of procedures such as real format is
+defined.  a use of the parameter outchannel to 
+provide information for simultaneous output to several
+channels is suggested.  interrelationship between 
+the declared procedures is furnished in tabular form.
+
+cacm august, 1968
+
+de vogelaere, 
+************************
+ august, 1968
+
+de vogelaere, r.
+
+input output, transput, 
+************************
+, r.
+
+input output, transput, input output procedures,
+input echo, quality output, decompose integer, 
+decompose real, style, berkeley style, procedures 
+************************
+, berkeley style, procedures relationship,
+output 
+************************
+s relationship,
+output documentation, equivalent algol 
+statements, algol, algol 60, integer format, real format,out
+integer, read real, input output boolean, 
+input output array, fixed point representation, floating
+point representation, output channel interpretation
+
+4.0 4.41
+
+ca680809 jb february 22, 1978  10:32 am
+
+1705	4	1705
+1705	4	1705
+1705	4	1705
+1705	4	1705
+1945	4	1705
+2034	4	1705
+984	5	1705
+986	5	1705
+1020	5	1705
+1321	5	1705
+1705	5	1705
+1705	5	1705
+
+************************
+
+************************
+Document:  CACM-0209.html
+************************
+
+
+symbol manipulation by threaded lists
+
+cacm april, 1960
+
+perlis, a. j.
+thornton, c.
+
+************************
+, a. j.
+thornton, c.
+
+ca600402 jb march 22, 1978  1:56 pm
+
+1050	5	209
+1102	5	209
+209	5	209
+209	5	209
+209	5	209
+378	5	209
+3008	5	209
+731	5	209
+798	5	209
+849	6	209
+106	6	209
+196	6	209
+208	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+210	6	209
+210	6	209
+367	6	209
+
+************************
+
+************************
+Document:  CACM-2090.html
+************************
+
+
+symbolic expansion of algebraic expressions (algorithm 377 $r2))
+
+cacm march, 1970
+
+levine, 
+************************
+
+************************
+Document:  CACM-0021.html
+************************
+
+
+algebraic formulation of flow diagrams
+
+cacm june, 1958
+
+voorhees, 
+************************
+ june, 1958
+
+voorhees, e. a.
+
+ca580601 jb march 22, 1978  9:10 pm
+
+21	5	21
+21	5	21
+21	5	21
+
+************************
+
+************************
+Document:  CACM-2395.html
+************************
+
+
+quadratic programming for nonlinear regression
+
+a quadratic 
+************************
+gression
+
+a quadratic programming algorithm is described
+for use with 
+************************
+scribed
+for use with the magnified diagonal method of 
+nonlinear regression with linear constraints.  the
+regression method is published in jacm, july 1970.
+
+cacm january, 1972
+
+shrager, r. i.
+
+nonlinear equations, nonlinear regression, nonlinear
+programming, quadratic programming, 
+************************
+, quadratic programming, least 
+squares, inequality, constraints, 
+************************
+
+************************
+Document:  CACM-3102.html
+************************
+
+
+incorporation of units into programming languages
+
+the issues of how a programming language might
+aid in keeping track of physical units (feet, 
+sec, etc.) are discussed.  a method is given for the
+introduction of relationships among units (a watt 
+is volts*amps, a yard is three feet) and subsequent automatic
+conversion based upon these relationships.
+ various proposals for syntax are considered.
+
+cacm may, 1978
+
+karr, m.
+loveman iii, d.
+
+units, language design, compiler construction, language syntax
+
+4.12 4.22
+
+ca780505 dh february 26, 1979  1:43 pm
+
+3102	5	3102
+
+************************
+
+************************
+Document:  CACM-2428.html
+************************
+
+
+cubic spline solutions to a class of functional
+differential equations [d2] 
+************************
+ntial equations [d2] (algorithm a461)
+
+cacm october, 1973
+
+burkowski, 
+************************
+
+************************
+Document:  CACM-1715.html
+************************
+
+
+direct search (algorithm 178 [e4]) 
+
+cacm july, 1968
+
+de vogelaere, r.
+
+function 
+************************
+ vogelaere, r.
+
+function minimization, search, direct search
+
+5.19
+
+ca680714 jb february 22, 1978  11:24 am
+
+1715	5	1715
+
+************************
+
+************************
+Document:  CACM-1119.html
+************************
+
+
+an open letter to x3.4.3 (fortran standards -- american association)
+
+cacm march, 1964
+
+ca640313 
+************************
+
+************************
+Document:  CACM-1977.html
+************************
+
+
+an interactive display for approximation by linear programming
+
+an interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions (including
+splines) selected by the user.  the coefficients of the approximation
+are determined by linear programming so as to minimize the error
+in either the l1 or l-infinity norm.  auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed. this
+interactive system is described and several examples of its use are given.
+
+cacm november, 1970
+
+lafata, 
+************************
+ november, 1970
+
+lafata, p.
+rosen, j. b.
+
+approximation, data fitting, functional approximation, linear
+programming, interactive graphical 
+************************
+
+************************
+Document:  CACM-0050.html
+************************
+
+
+statistical programs for the ibm 650-part ii
+
+cacm october, 1959
+
+hamblen, 
+************************
+
+************************
+Document:  CACM-0768.html
+************************
+
+
+certification of algorithm 160
+combinatorial of m things taken n at a time [m. l. wolfson and h. v. wright,
+comm. acm, apr. 1963]
+
+cacm august, 1963
+
+thoro, d.
+
+ca630830 jb march 13, 1978 
+************************
+
+************************
+Document:  CACM-0905.html
+************************
+
+
+algebra of sets (algorithm 156)
+
+cacm march, 1963
+
+mifsud, c. j.
+
+ca630315 jb march 14, 1978 
+************************
+
+************************
+Document:  CACM-0010.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm september, 1958
+
+ca580903 
+************************
+
+************************
+Document:  CACM-1391.html
+************************
+
+
+computer experiments in finite algebra
+
+a medium-scale programming system is written
+in 
+************************
+ system is written
+in mad and fap on the ibm 7094 to manipulate some 
+of the objects of modern algebra: finite groups, maps
+and sets of maps, subsets and sets of subsets, 
+constant integers and truth-values.  designed to operate
+in a time-sharing environment, the system can 
+serve as a teacher's aid to the undergraduate student of
+modern algebra, as well as for the working scientist 
+or engineer wishing to familiarize himself with the subset.
+
+cacm august, 1966
+
+maurer, w. d.
+
+ca660807 jb 
+************************
+
+************************
+Document:  CACM-0231.html
+************************
+
+
+a proposal for a set of publication standards for use by the acm
+
+cacm february, 1960
+
+kent, 
+************************
+
+************************
+Document:  CACM-2021.html
+************************
+
+
+a comment on axiomatic approaches to programming
+
+cacm july, 1970
+
+hunt, b.
+
+************************
+ july, 1970
+
+hunt, b.
+
+axiomatic method, proofs of programs,
+homomorphic structure in programming
+
+4.0 4.21 4.22 5.20 5.21 5.23 
+************************
+ 4.22 5.20 5.21 5.23 5.24
+
+ca700716 
+************************
+ 5.23 5.24
+
+ca700716 jb february 10, 1978  4:15 pm
+
+2021	4	2021
+2222	4	2021
+2227	4	2021
+
+************************
+22	4	2021
+2227	4	2021
+2315	4	2021
+
+************************
+
+2227	4	2021
+2315	4	2021
+2326	4	2021
+
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+
+
+programming languages: history and future
+
+this paper discusses 
+************************
+
+
+this paper discusses both the history and future
+of programming languages (= higher 
+************************
+ languages (= higher level languages). 
+ some of the difficulties in writing such a history
+are indicated.  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships.  reasons for the proliferation 
+of languages are given.  the major languages are listed
+with the reasons for their importance.  a section 
+on chronology indicates the happenings of the significant
+previous time periods and the major topics 
+of 1972.  key concepts other than specific languages are discussed.
+
+cacm july, 1972
+
+sammet, j. e.
+
+programming languages, higher level 
+************************
+ languages, higher level languages,
+languages, history, future directions, language 
+interrelationships, programming language tree, programming
+
+************************
+ language tree, programming
+language history, programming 
+************************
+
+language history, programming language future
+
+1.2 4.2
+
+ca720712 jb 
+************************
+
+************************
+Document:  CACM-0013.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm august, 1958
+
+ca580805 
+************************
+
+************************
+Document:  CACM-0019.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm june, 1958
+
+ca580603 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+
+
+reduction: a method of proving properties of parallel programs
+
+when proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the rest of the program. 
+ here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting.  thus correctness proofs of a parallel 
+system can often be greatly simplified.
+
+cacm december, 1975
+
+lipton, 
+************************
+cember, 1975
+
+lipton, r. j.
+
+deadlock free, reduction, interruptible, 
+************************
+
+************************
+Document:  CACM-0630.html
+************************
+
+
+an evaluation of autocode readability
+
+of the many 
+************************
+adability
+
+of the many requirements of an autocode, the
+pair of requirements "easy to read" and "easy 
+to write" are not often compatible.  this paper argues
+that readability can be added automatically in 
+the translation process so that the programmer can
+enjoy the utmost economy of expression, while for 
+management a full and valid cobol version is printed to give
+all the advantages of readability and compatibility.
+
+cacm march, 1962
+
+ellis, 
+************************
+
+************************
+Document:  CACM-3150.html
+************************
+
+
+beyond programming languages
+
+as computer technology matures, our growing ability to create large systems is 
+leading to basic changes in the nature of programming.  current programming 
+language concepts will not be adequate for building and maintaining
+systems of the complexity called for by the tasks we attempt.  just
+as high level languages enabled the programmer to escape from the
+intricacies of a machine's order code, higher level programming systems
+can provide the means to understand and manipulate complex
+systems and components.  in order to develop such systems, we need
+to shift our attention away from the detailed specification of
+algorithms, towards the description of the properties of the packages
+and objects with which we build.  this paper analyzes some of the
+shortcomings of programming languages as they now exist,
+and lays out some possible directions for future research.
+
+cacm july, 1979
+
+winograd, t.
+
+programming, programming languages, programming systems, systems development
+
+4.0 4.20 4.22 4.40
+
+ca790701 dh august 
+************************
+ 4.40
+
+ca790701 dh august 22, 1979  2:00 pm
+
+2155	4	3150
+2294	4	3150
+
+************************
+
+************************
+Document:  CACM-1120.html
+************************
+
+
+"alcor group representations of algol symbols,"
+comm. acm 6 (1963), 597-599. (corrigenda)
+
+cacm march, 1964
+
+ca640312 
+************************
+
+************************
+Document:  CACM-3195.html
+************************
+
+
+   reiteration of acm policy toward standardization
+
+   the periodic change in officers, chairman and editors which usually follows
+as election occasionally results in a change in policy. in the case of this 
+department there is no radical change, but this is nevertheless the proper time
+to reiterate ans underline acm's policy with respect to standardization in the 
+computer area.
+
+cacm november, 1962
+
+gorn, s.
+
+ca621123 es march 17, 1982 
+************************
+
+************************
+Document:  CACM-1942.html
+************************
+
+
+finding a solution of n functional equations
+in n unknowns (algorithm 314 [c5])
+
+cacm january, 1969
+
+vandergraft, j.
+mesztenyi, 
+************************
+
+************************
+Document:  CACM-1732.html
+************************
+
+
+factorial analysis of variance (algorithm 330 [g1])
+
+cacm june, 1968
+
+oliver,i.
+
+************************
+ june, 1968
+
+oliver,i.
+
+factorial variance analysis, variance, statistical analysis
+
+5.5
+
+ca680613 jb february 22, 1978  3:21 pm
+
+1732	5	1732
+1732	5	1732
+
+************************
+
+************************
+Document:  CACM-0248.html
+************************
+
+
+what is proprietary in mathematical programming?-impressions
+of a panel discussion
+
+************************
+ssions
+of a panel discussion
+
+a panel discussion on "what is proprietary
+in mathematical programming?" was sponsored by the 
+special interest committee on mathematical programming
+of the acm during a hall of discussion/on september 
+7th at the 16th national acm meeting in los angeles.  this
+note consists solely of the impressions garnered 
+by the moderator of the panel and 
+************************
+rator of the panel and does not necessarily
+represent the position of any of the panelists 
+or other participants in the discussion.
+
+cacm december, 1961
+
+smith, 
+************************
+
+************************
+Document:  CACM-1899.html
+************************
+
+
+simplex method procedure employing lu decomposition (algorithm 
+************************
+composition (algorithm 350 [h])
+
+cacm may, 1969
+
+bartels, 
+************************
+ may, 1969
+
+bartels, r. h.
+golub, g. h.
+
+simplex method, linear programming, lu decomposition,
+round-off 
+************************
+
+************************
+Document:  CACM-1106.html
+************************
+
+
+programming of digital computers
+
+cacm april, 1964
+
+perlis, a. j.
+
+ca640402 jb 
+************************
+
+************************
+Document:  CACM-2414.html
+************************
+
+
+arithmetic overa finite field [a1] (algorithm a469)
+
+cacm november, 1973
+
+lam, c.
+mckay, j.
+
+algebra
+
+5.19
+
+ca731112 jb january 
+************************
+
+************************
+Document:  CACM-0069.html
+************************
+
+
+statistical programs for the ibm 650-part i
+
+a collection is given of brief descriptions
+of statistical programs now in use in university 
+computing centers which have ibm 650's.
+
+cacm august, 1959
+
+hamblen, 
+************************
+
+************************
+Document:  CACM-1985.html
+************************
+
+
+an integer programming problem $h) (algorithm 397)
+
+cacm october, 1970
+
+chang, 
+************************
+
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  iterating the updating
+scheme results in improved estimates that finally lead to
+breaking the cipher.  the method is applies successfully to two examples.
+
+cacm november, 1979
+
+peleg, s.
+rosenfeld, 
+************************
+
+************************
+Document:  CACM-0143.html
+************************
+
+
+a list of computer systems programs for
+the ibm 650, datatron 205, and univac ss-80
+
+cacm october, 1960
+
+romberg, 
+************************
+
+************************
+Document:  CACM-2281.html
+************************
+
+
+the eigen problem of block tridiagonal matrices
+
+cacm september, 1972
+
+khalil, h. m.
+
+linear algebra, eigenvalues and eigenvectors,
+
+************************
+, eigenvalues and eigenvectors,
+partial differential equations
+
+5.14 5.17
+
+ca720909 jb january 27, 1978  4:18 pm
+
+2281	5	2281
+2281	5	2281
+
+************************
+
+************************
+Document:  CACM-2922.html
+************************
+
+
+two-level control structure for nondeterministic programming
+
+the basic ideas of nondeterministic programming
+are critically reconsidered to single out a 
+proper attitude and programming style for language allowing
+
+************************
+ for language allowing
+direct control of nondeterministic features. 
+ the proposed attitude aims at retaining the purity of
+the nondeterministic formulation of search processes 
+on one level (the attempt level), deferring the coordination
+of problem solving efforts to another (the 
+choice level).  the feasibility of recognizing these two
+levels is discussed, stressing that the structure 
+to be managed at the choice level is a free of contexts.
+ the leaves are computational environments, 
+each holding an alternative under inspection, while
+the other nodes are associated with choice poin ts. 
+ according to the proposed programming style, a generative
+function 
+************************
+, a generative
+function is associated with each choice poin t, 
+which expresses the desired choice strategy. the main
+advantage on this approach is the localization 
+of the search strategies: each nonterminal node of the
+tree keeps track of the state of the computation 
+as it was when the choice poin t was last interrogated,
+holding at the same time the strategy to coordinate 
+the available alternatives.  examples are given in
+term of nd-lisp, an extension of lisp designed and 
+implemented according to these guidelines.
+
+cacm october, 1977
+
+montangero, 
+************************
+ october, 1977
+
+montangero, c.
+pacini, g.
+turini, f.
+
+nondeterministic programming, artificial in telligence,
+
+************************
+, artificial in telligence,
+control structures, backtracking, search 
+strategy planning, context tree
+
+3.64 4.22
+
+ca771004 jb december 27, 1977  11:30 
+************************
+
+************************
+Document:  CACM-1183.html
+************************
+
+
+a note on the use of a digital computer
+for doing tedious algebra and programming
+
+a special purpose compiler 
+************************
+
+
+a special purpose compiler was written with
+fortran ii language and made possible the writing 
+of very long programs by the computer.  the procedure is
+based on a straight-forward 
+************************
+ is
+based on a straight-forward use of format statements 
+for generating machine-written programs.
+
+cacm october, 1965
+
+veronis, 
+************************
+
+************************
+Document:  CACM-1656.html
+************************
+
+
+procedures for the standardization process* (proposed usa standard)
+
+cacm december, 1968
+
+standardization, 
+************************
+cember, 1968
+
+standardization, procedures, criteria
+
+2.3 4.2
+
+ca681210 jb february 21, 1978 
+************************
+
+************************
+Document:  CACM-2938.html
+************************
+
+
+toward a discipline of real-time programming
+
+programming is divided into three major categories
+
+************************
+d into three major categories
+with increasing complexity of reasoning 
+in program validation: sequential programming, multiprogramming,
+and real-time programming.  by adhering 
+to a strict programming discipline and by using a suitable
+high-level language molded after this discipline, 
+the complexity of reasoning about concurrency and execution
+time constrain ts may be drastically reduced. 
+ this may be the only practical way to make real-time
+systems analytically verifiable and ultimately 
+reliable.  a possible discipline is outlined and
+expressed in terms of the language modula.
+
+cacm august, 1977
+
+wirth, 
+************************
+ august, 1977
+
+wirth, n.
+
+multiprogramming, real-time programming, process synchronization,
+processor sharing, program validation, 
+modula
+
+3.80 4.22
+
+ca770805 jb december 28, 19777:39 am
+
+************************
+
+************************
+Document:  CACM-0767.html
+************************
+
+
+certification of algorithm 161
+combinatorial of m things taken one at a time,
+two at a time, up to n at a time
+[m. l. wolfson and h. v. wright,
+comm. acm, apr. 1963]
+
+cacm august, 1963
+
+thoro, d.
+
+ca630831 jb march 13, 1978 
+************************
+
+************************
+Document:  CACM-1770.html
+************************
+
+
+rules of ethics in information processing
+
+the background and motivation for the adoption
+by the acm council on november 11, 1966, of 
+a set of guidelines for professional 
+************************
+lines for professional conduct in information
+processing are described.  a brief his 
+************************
+scribed.  a brief his tory 
+is given of ethical codes in other professions.  some
+reasons for and against 
+************************
+asons for and against adoption of ethical rules 
+are considered, and several sections 
+************************
+red, and several sections of the acm guidelines
+are analyzed.  
+************************
+lines
+are analyzed.  the purpose is to inform about 
+this important aspect of our profession, as
+well as to stimulate thought and interest.
+
+cacm march, 1968
+
+parker, 
+************************
+ march, 1968
+
+parker, d. b.
+
+ethics, professional conduct, code of ethics, acm
+guidelines, professionalism, 
+************************
+
+************************
+Document:  CACM-1797.html
+************************
+
+
+solution of linear programs in 0-1 (algorithm 341 [h])
+
+cacm december, 1969
+
+proll, 
+************************
+cember, 1969
+
+proll, l. g.
+
+linear programming, zero-one variables, partial enumeration
+
+5.41
+
+ca691215 jb february 15, 1978 
+************************
+
+************************
+Document:  CACM-0177.html
+************************
+
+
+solution of polynomial equation by bairstow
+hitchcock method, a. a. grau communications acm, 
+february, 1960 (algorithm)
+
+cacm june, 1960
+
+thacher 
+************************
+
+************************
+Document:  CACM-0028.html
+************************
+
+
+request for methods or programs
+
+cacm april, 1958
+
+corley, 
+************************
+
+************************
+Document:  CACM-2802.html
+************************
+
+
+the new math of computer programming
+
+structured programming has proved 
+************************
+d programming has proved to be an important
+methodology for systematic program design 
+and development.  structured programs are identified
+as compound function expressions in the algebra 
+of functions. the algebraic properties of these function
+expressions permit the reformulation (expansion 
+as well as reduction) of a nested subexpression independently
+of its environment, thus modeling what 
+is known as stepwise program refinement as well as program
+execution.  finally, structured programming 
+is characterized in terms of the selection and solution
+of certain elementary equations defined in the 
+algebra of functions.  these solutions can be given in
+general formulas, each involving a single parameter, 
+which display the entire freedom available
+in creating correct structured programs.
+
+cacm january, 1975
+
+mills, h. d.
+
+structured programming, algebra of functions,
+stepwise refinement, program correctness
+
+4.6 5.21 5.24
+
+ca750109 jb january 
+************************
+
+************************
+Document:  CACM-3145.html
+************************
+
+
+an implementation of structured walk-throughs
+in teaching cobol programming
+
+the effectiveness of structured
+walk-throughs in teaching introductory cobol programming was empirically
+assessed with a sample of 215 under-graduate business administration
+majors.  cobol proficiency was measured by a final examination
+testing (a) knowledge of language rules, (b) ability to read
+and debug a program, and (c) the ability to write a program.  analysis
+of multiple covariance was used to statistically adjust test
+scores for age and conditional reasoning scores. the findings provide
+empirical support for incorporating structured walk-throughs
+into the programming learning process more effectively
+develop student proficiency in writing cobol programs.
+
+cacm june, 1979
+
+lemos, r.
+
+structured 
+************************
+
+
+lemos, r.
+
+structured walk-throughs, cobol programming, teaching
+of programming, testing programming proficiency
+
+3.51 1.52 2.42 4.22
+
+ca790601 dh august 21, 1979 3:19 pm
+
+3145	4	3145
+
+************************
+
+************************
+Document:  CACM-1835.html
+************************
+
+
+the iitran programming language
+
+the iitran language, developed to be used
+by students, and its important important features 
+are described. iitran is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  several novel and powerful features
+are included.  a discussion of design principles 
+to be followed in a student language is given.
+
+cacm october, 1969
+
+dewar, r. b. k.
+hochsprung, r. r.
+
+languages programming languages, student programming
+systems, language design, high school programs, 
+college courses
+
+1.51 
+************************
+
+************************
+Document:  CACM-3077.html
+************************
+
+
+can programming be liberated from the von neumann
+style?  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous, but not stronger.  inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs. an 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs. 
+ functional programs deal with structured data, are often
+nonrepetitive and nonrecursive, are hierarchically 
+constructed, do not name their arguments, and do not require
+the complex machinery of procedure declarations 
+to become generally applicable.  combining forms can
+use high level programs to build still higher level
+ones in a style not possible in conventional languages.
+ associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms. 
+ this algebra can be used to transform programs and
+to solve equations whose "unknowns" are programs 
+in much the same way one transforms equations in high
+school algebra.  these transformations are given 
+by algebraic laws and are carried out in the same language
+in which programs are written.  combining 
+forms are chosen not only for their programming power
+but also for the power of their associated algebraic 
+laws.  general theorems of of the algebra give the detailed
+behavior and termination conditions for large 
+classes of programs.  a new class of computing systems
+uses the functional programming style both in 
+its programming language and in its state transition
+rules.  unlike von neumann languages, these systems 
+have semantics loosely coupled to states-only one
+state transition occurs per major computation. 
+
+cacm august, 1978
+
+backus, j.
+
+functional programming, algebra of programs, combining
+forms, functional forms, programming languages, 
+von neumann computers, von neumann languages, models of
+computing systems, applicative computing systems, 
+applicative state transition systems, program transformation,
+program correctness, program termination, 
+metacomposition
+
+4.20 4.29 5.20 5.24 5.26
+
+ca780801 dh february 7, 1979  3:13 pm
+
+1024	4	3077
+
+************************
+  3:13 pm
+
+1024	4	3077
+1051	4	3077
+1102	4	3077
+1132	4	3077
+1390	4	3077
+1486	4	3077
+1549	4	3077
+1706	4	3077
+1826	4	3077
+1878	4	3077
+378	4	3077
+2021	4	3077
+2060	4	3077
+2155	4	3077
+2155	4	3077
+2168	4	3077
+2222	4	3077
+2227	4	3077
+
+************************
+22	4	3077
+2227	4	3077
+2294	4	3077
+2315	4	3077
+2326	4	3077
+2470	4	3077
+2558	4	3077
+2719	4	3077
+2723	4	3077
+2732	4	3077
+2838	4	3077
+2842	4	3077
+2842	4	3077
+2855	4	3077
+2865	4	3077
+2879	4	3077
+2896	4	3077
+2943	4	3077
+2981	4	3077
+3014	4	3077
+3030	4	3077
+3068	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3080	4	3077
+3104	4	3077
+3106	4	3077
+3143	4	3077
+3150	4	3077
+627	4	3077
+106	4	3077
+210	5	3077
+1834	5	3077
+
+************************
+
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  it appears to be useful for
+programming a wide range of tasks.  this is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+cacm june, 1979
+
+feldman, j.
+
+distributed 
+************************
+
+
+feldman, j.
+
+distributed computing, modules, messages, assertions
+
+4.22 4.32
+
+ca790604 dh august 21, 1979  4:31 pm
+
+1957	4	3148
+
+************************
+, 1979  4:31 pm
+
+1957	4	3148
+2151	4	3148
+3031	4	3148
+
+************************
+
+************************
+Document:  CACM-2324.html
+************************
+
+
+management science: a view from nonlinear programming
+
+a brief history of integer and continuous
+nonlinear programming is presented as well as the 
+************************
+sented as well as the 
+current obstacles to practical use of these mathematical
+programming techniques.  it is forecast that 
+the useful contributions to nonlinear programming actually
+made in the next few years 
+************************
+ in the next few years are more likely 
+to be consolidations than theoretical breakthroughs.  these
+contributions are likely to be the documentation 
+of standard test problems, construction of user oriented
+software, and comparisons of currently known 
+algorithms to demonstrate which techniques are best for specific problems.
+
+cacm july, 1972
+
+shanno, 
+************************
+ july, 1972
+
+shanno, d. f.
+weil, r. l.
+
+integer programming, linear programming, mathematical
+programming, nonlinear programming, quadratic 
+programming, management science, operations research, algorithms
+
+5.41 
+************************
+
+************************
+Document:  CACM-2223.html
+************************
+
+
+minit algorithm for linear programming (algorithm 222 [h])
+
+cacm january, 
+************************
+2 [h])
+
+cacm january, 1971
+
+kolm, 
+************************
+ january, 1971
+
+kolm, a.
+dahlstrand, t.
+
+linear programming, dual simplex method, primal problem, dual problem
+
+5.41
+
+ca710111 jb february 8, 1978  10:22 am
+
+2223	5	2223
+2223	5	2223
+
+************************
+
+************************
+Document:  CACM-0233.html
+************************
+
+
+abstracts-additional nuclear reactor codes
+
+cacm january, 1960
+
+nather, 
+************************
+ january, 1960
+
+nather, v.
+sangren, w.
+
+ca600103 jb march 22, 1978  2:29 pm
+
+233	5	233
+
+************************
+
+************************
+Document:  CACM-1764.html
+************************
+
+
+panel discussion on computer appreciation
+
+session 19 of the acm 20 th anniversary conference
+on august 31, 1967, was entitled education, 
+design experiments, and 
+************************
+sign experiments, and computer appreciation.  its second
+half consisted of a panel discussion on computer 
+appreciation, organized and chaired by elliot i. organick.
+ the four panelists were charles h. davidson, 
+bernard a. galler, richard, w. hamming, and alan j. perlis.
+ after making prepared statements, the panelists 
+were joined in discussion by andries van dam and arthur
+bohn, who had presented papers in the first 
+half.  this is a transcript of the panel discussion,
+condensed by dr. organick and edited by him and 
+the panelists.  some remarks referred to papers by van
+dam and kahn or to the discussion during the first 
+half of the session.  pertinent papers are included in the references.
+
+cacm april, 1968
+
+organick, 
+************************
+ april, 1968
+
+organick, e. i.
+
+computer appreciation, students' liberal arts courses,
+
+************************
+nts' liberal arts courses,
+survey courses, beginning programming, course 
+content, computer courses dropout rates, college versus
+precollege, teaching and 
+************************
+
+************************
+Document:  CACM-0004.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm november, 1958
+
+ca581103 
+************************
+
+************************
+Document:  CACM-2284.html
+************************
+
+
+solution of the matrix equation ax+xb=c [f4] (algorithm a432)
+
+cacm september, 1972
+
+bartels, 
+************************
+ september, 1972
+
+bartels, r. h.
+stewart, g. w.
+
+linear algebra, matrices, linear equations
+
+5.14
+
+ca720906 jb january 27, 1978  4:31 pm
+
+2284	5	2284
+2284	5	2284
+
+************************
+
+************************
+Document:  CACM-0097.html
+************************
+
+
+signal corps research and development on
+automatic programming of digital computers
+
+cacm february, 1959
+
+luebbert, 
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+
+
+comment on the composition of semantics in algol 68
+
+cacm august, 1972
+
+van der poel, w. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive composition, 
+************************
+cursive composition, design 
+of programming languages, data structures
+
+1.3 4.2 4.22 5.23 
+************************
+
+************************
+Document:  CACM-3197.html
+************************
+
+
+   structures of standards-processing organizations in the computer area
+
+   in line with the acm's policy statement [comm. acm 5 (nov. 1962), 547-549],
+the following organizational descriptions have been provided in order to
+describe standardization activities pertinent to computers and information
+processing.
+
+cacm june, 1966
+
+gorn, s.
+bemer, r. w.
+green, j.
+
+ca630626 es march 17, 1982 
+************************
+
+************************
+Document:  CACM-1755.html
+************************
+
+
+proceedings of the acm symposium on operating system principles
+
+cacm may, 1968
+
+acm special interest committee
+
+ca680501 
+************************
+
+************************
+Document:  CACM-0032.html
+************************
+
+
+variable-width tables with binary-search facility
+
+cacm february, 1958
+
+halpern, 
+************************
+
+************************
+Document:  CACM-2386.html
+************************
+
+
+dynamic microprogramming: processor organization
+and programming (corrigendum)
+
+cacm february, 1972
+
+tucker, 
+************************
+
+************************
+Document:  CACM-0007.html
+************************
+
+
+glossary of computer engineering and programming terminology
+
+cacm october, 1958
+
+ca581003 
+************************
+
+************************
+Document:  CACM-1666.html
+************************
+
+
+solution of linear programs in 0-1 variables
+by implicit enumeration (algorithm 341 [h])
+
+cacm november, 1968
+
+byrne, 
+************************
+ november, 1968
+
+byrne, j. l.
+proll, l. g.
+
+linear programming, zero-one variables, partial enumeration
+
+5.41
+
+ca681113 jb february 21, 1978  2:21 pm
+
+1666	5	1666
+
+************************
+, 1978  2:21 pm
+
+1666	5	1666
+1666	5	1666
+1666	5	1666
+2226	5	1666
+1658	6	1666
+
+************************
+
+************************
+Document:  CACM-1979.html
+************************
+
+
+numerical inversion of laplace transforms (algorithm 368 $d5))
+
+cacm october, 1970
+
+stehfest, 
+************************
+
+************************
+Document:  CACM-0176.html
+************************
+
+
+symbol manipulation by threaded lists (corrigendum)
+
+cacm june, 1960
+
+perlis, a. j.
+thornton, c.
+
+************************
+
+************************
+Document:  CACM-3127.html
+************************
+
+
+thoth, a portable real-time operating system 
+
+thoth isa real-time operating system which is designed to be portable
+over a large set of machines.  it is currently running on two minicomputers
+with quite different architectures.  both the system and application
+programs which use it are written in a high-level language.
+because the system is implemented by the same software on different
+hardware, it has the same interface to user programs.  hence,
+application programs which use thoth are  highly portable.  thoth
+encourages structuring programs as networks of communicating processes 
+by providing efficient interprocess communication primitives.
+
+cacm february, 1979
+
+cheriton, d.
+malcolm, 
+************************
+
+
+cheriton, d.
+malcolm, m.
+melen, l.
+sager, g.
+
+portability, real time, operating systems, minicomputer
+
+3.80 4.30 4.35
+
+ca790206 dh april 12, 1979  9:10 am
+
+2319	4	3127
+2378	4	3127
+2320	4	3127
+2632	4	3127
+2738	4	3127
+2740	4	3127
+2868	4	3127
+2928	4	3127
+3127	4	3127
+3127	4	3127
+2080	5	3127
+2277	5	3127
+3127	5	3127
+
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+
+************************
+signed with abstract
+data types such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+is discussed.  this process is discussed in detail for
+an example program.  general issues in data structure 
+selection are also reviewed. 
+
+cacm may, 1978
+
+low, j.
+
+abstract data types, automatic programming, data
+structures, optimizing compilers, sets, lists
+
+4.12 4.22 4.6
+
+ca780504 dh february 26, 1979  1:51 pm
+
+1957	4	3103
+2151	4	3103
+3103	4	3103
+
+************************
+
+************************
+Document:  CACM-3161.html
+************************
+
+
+an acm executive committee position on the crisis 
+in experimental computer science
+
+cacm september, 1979
+
+mccracken, d., ccp
+
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+
+
+programming languages, natural languages, and mathematics
+
+some social aspects of programming are illuminated
+through 
+************************
+ illuminated
+through analogies with similar aspects of 
+mathematics and natural languages.  the split between
+pure and applied mathematics is found similarly 
+in programming. the development of natural languages toward
+flexion less, word-order based language types 
+speaks for programming language design based on general,
+abstract constructs.  by analogy with incidents 
+of the history of artificial, auxiliary languages it
+is suggested that fortran and cobol will remain 
+dominant for a long time to come.  the most promising
+avenues for further work of wide influence are 
+seen to be high quality program literature (i.e. programs)
+of general utility and studies of questions 
+related to program style.
+
+cacm december, 1975
+
+naur, 
+************************
+ december, 1975
+
+naur, p.
+
+analogies related to social aspects,pure 
+************************
+lated to social aspects,pure and applied
+mathematics, language quality, language development, 
+artificial 
+************************
+velopment, 
+artificial auxiliary languages, literature, style,
+descriptive and prescriptive 
+************************
+,
+descriptive and prescriptive attitudes
+
+
+************************
+
+************************
+Document:  CACM-0022.html
+************************
+
+
+unusual applications department--automatic
+implementation of computer logic
+
+cacm may, 1958
+
+morris, e. 
+************************
+
+************************
+Document:  CACM-3140.html
+************************
+
+
+social processes and proofs of theorems and programs
+
+it is argued that formal verifications of
+programs, no matter how obtained, will not play the
+same key role in the development of computer science and software
+engineering as proofs do in mathematics.  furthermore the absence
+of continuity, the inevitability of change, and the complexity of
+specification of significantly many real programs make the form
+al verification process difficult to justify and manage.  it is felt
+that ease of formal verification should not dominate program
+language design.
+
+cacm may, 1979
+
+de millo, r.
+lipton, r.
+perlis, 
+************************
+, r.
+lipton, r.
+perlis, a.
+
+formal mathematics, 
+************************
+
+************************
+Document:  CACM-0099.html
+************************
+
+
+possible modifications to the international algebraic language
+
+cacm february, 1959
+
+green, j.
+
+ca590202 jb march 
+************************
+
+************************
+Document:  CACM-0769.html
+************************
+
+
+algebra of sets (algorithm 156)
+
+cacm august, 1963
+
+bosworth, k. m.
+
+ca630829 jb march 13, 1978 
+************************
+
+************************
+Document:  CACM-0025.html
+************************
+
+
+general purpose programming systems
+
+cacm may, 1958
+
+holt, a. 
+************************
+
+************************
+Document:  CACM-2397.html
+************************
+
+
+optimizing the polyphase sort (corrigendum)
+
+cacm january, 1972
+
+shell, 
+************************
+
+************************
+Document:  CACM-3099.html
+************************
+
+
+new sufficient optimality conditions for
+integer programming and their application
+
+the purpose of this report is to present a
+new class of sufficient optimality conditions for 
+pure and mixed integer programming problems.  some of
+the sets of sufficient conditions presented can 
+be thought of as generalizations of optimality conditions
+based on primal-dual complementarity in linear 
+programming.  these sufficient conditions are particularly
+useful for the construction of difficult integer 
+programming problems with known optimal solutions.  these
+problems may then be used to test and/or "benchmark" 
+integer programming codes.
+
+cacm may, 1978
+
+fleisher, 
+************************
+ may, 1978
+
+fleisher, j.
+meyer, r.
+
+integer programming, optimality conditions, test
+problem construction, kuhn-tucker conditions, 
+greatest common divisor 
+
+3.15 5.39 5.49
+
+ca780508 dh february 26, 1979  1:19 pm
+
+2028	4	3099
+2521	4	3099
+3099	4	3099
+3099	4	3099
+
+************************
+
+************************
+Document:  CACM-2305.html
+************************
+
+
+the "plankalkul" of konrad zuse: a forerunner
+of today's programming languages
+
+plankalkul was an attempt by korrad zuse in
+the 1940's to devise a notational and conceptual 
+system for writing what today is termed a program.  although
+this early approach to a programming language 
+did not lead to practical use, the plan is described
+here because it contains features that are standard 
+in today's programming languages.  the investigation
+is of historical interest; also, it may provide 
+insights that would lead to advancements in the state
+of the art.  using modern programming terminology, 
+the plankalkul is presented to the extent it has possible
+to reconstruct it from the published literature.
+
+cacm july, 1972
+
+bauer, f. l.
+wossner, h.
+
+higher programming languages, programming,
+theory of programming, history of programming
+
+1.2 4.22 5.29
+
+ca720723 jb january 
+************************
+
+************************
+Document:  CACM-0629.html
+************************
+
+
+on a wired-in binary-to-decimal conversion scheme
+
+cacm march, 1962
+
+lynch, 
+************************
+
+************************
+Document:  CACM-1687.html
+************************
+
+
+netflow (algorithm 248 [h])
+
+cacm september, 1968
+
+bray, 
+************************
+ september, 1968
+
+bray, t. a.
+witzgall, c.
+
+capacitated network, linear programming, minimum-cost
+flow, network flow, out-of-kilter
+
+5.32 5.41
+
+ca680914 jb february 21, 1978 4:29 pm
+
+1687	5	1687
+
+************************
+
+************************
+Document:  CACM-0228.html
+************************
+
+
+quadi (algorithm 1)
+
+cacm february, 1960
+
+herbold, 
+************************
+ february, 1960
+
+herbold, r. j.
+
+ca600204 jb march 22, 1978  2:21 pm
+
+228	5	228
+228	5	228
+
+************************
+
+************************
+Document:  CACM-1914.html
+************************
+
+
+matrix scaling by integer programming (algorithm 348 [f1])
+
+cacm april, 1969
+
+klimpel, 
+************************
+ april, 1969
+
+klimpel, r. r.
+
+integer programming, linear algebra, mathematical
+programming, 
+************************
+
+************************
+Document:  CACM-3138.html
+************************
+
+
+a mathematical programming updating method using modified
+givens transformations and applied to lp problems
+
+an efficient and numerically stable method is presented for the problem of
+updating an orthogonal decomposition of a matrix of column (or row) vectors.
+the fundamental idea is to add a column (or row) analogous
+to adding an additional row of data in a linear least squares problem.
+a column (or row) is dropped by a formal scaling with the
+imaginary unit,  -1, followed by least squares addition of the column
+(or row).  the elimination process for the procedure is successive
+ssive application of the givens transformation in modified (more efficient)
+form.  these ideas are illustrated with an implementation
+of the revised simplex method.  the algorithm is a general purpose
+one that does not account for any particular structure or sparsity
+in the equations.  some suggested computational tests for determining
+signs of various controlling parameters in the revised simplex
+algorithm are mentioned.  a simple means of constructing
+test cases and some sample computing times are presented. 
+
+cacm april, 1979
+
+hanson, r.
+wisniewski, 
+************************
+
+
+hanson, r.
+wisniewski, j.
+
+linear programming, numerical linear algebra, modified givens transformations,
+linear programming test cases
+
+5 5.4 5.41 5.1 5.14
+
+ca790404 dh may 21, 1979  2:06 pm
+
+3099	4	3138
+
+************************
+
+************************
+Document:  CACM-2898.html
+************************
+
+
+a conceptual framework for a nonprocedural programming language
+
+a sequential programming language forces the
+programmer to prescribe explicitly the 
+************************
+scribe explicitly the order in 
+which the operations in his program have to be executed,
+even if the order is not relevant to the solution 
+of his problem.  the requirement to indicate irrelevant
+sequencing can be removed if the language provides 
+facilities for specifying a task in a nonprocedural
+manner.  in general, a program specified in this 
+way will allow concurrent evaluation.  this paper describes
+a conceptual framework for a high level programming 
+language providing both nonprocedural and sequential
+facilities.  within a program, nonprocedural and 
+sequential program modules may be nested freely.
+
+cacm december, 1977
+
+kessels, 
+************************
+ december, 1977
+
+kessels, j. l. w.
+
+parallel programming, descriptive programming,
+
+************************
+, descriptive programming,
+nonprocedural programming, 
+************************
+,
+nonprocedural programming, definitional language, 
+************************
+
+************************
+Document:  CACM-1137.html
+************************
+
+
+a format language*
+
+cacm february, 1964
+
+perlis, a. j.
+
+ca640206 jb 
+************************
+
+************************
+Document:  CACM-0031.html
+************************
+
+
+ibm 704 code-nundrums
+
+cacm march, 1958
+
+grumette, 
+************************
+ march, 1958
+
+grumette, m.
+
+ca580301 jb march 22, 1978  9:21 pm
+
+31	5	31
+31	5	31
+
+************************
+
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the 
+************************
+sults, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques. 
+************************
+ic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here.
+
+cacm july, 1978
+
+chattergy, 
+************************
+ july, 1978
+
+chattergy, r.
+pooch, u.
+
+computer-aided algebra, symbol manipulation, 
+************************
+, symbol manipulation, markov
+process, reliability, redundant structures, 
+on-line computer system.
+
+3.82 5.5 5.7 8.1 8.3
+
+ca780710 dh february 7, 1979 3:37 pm
+
+3078	5	3078
+
+************************
+
+************************
+Document:  CACM-0890.html
+************************
+
+
+selected definitions 
+
+a selection of the definitions prepared by the
+acm standards committee's subcommittee on programming 
+terminology is presented for review by the acm membership.
+
+cacm april, 1963
+
+fritz, w. b.
+
+ca630401 jb march 14, 1978 
+************************
+
+************************
+Document:  CACM-2850.html
+************************
+
+
+symbolic execution and program testing
+
+this paper describes the symbolic execution of
+programs.  instead of supplying the normal inputs 
+to a program (e.g. numbers) one supplies symbols representing
+arbitrary values.  the execution proceeds 
+as in a normal execution except that values may be symbolic
+formulas over the input symbols.  the difficult, 
+yet interesting issues arise during the symbolic execution
+of conditional branch type statements.  a 
+particular system called effigy which provides symbolic
+execution for program testing and debugging is 
+also described.  it interpretively executes programs written
+in a simple pl/i style programming language. 
+ it includes 
+************************
+ language. 
+ it includes many standard debugging features, the ability
+to manage and to prove things about symbolic 
+expressions, a simple program testing manager, and a program
+verifier.  a brief discussion of the relationship 
+between symbolic execution and program proving is also included.
+
+cacm july, 1976
+
+king, j. 
+************************
+ july, 1976
+
+king, j. c.
+
+symbolic execution, program testing, program debugging,
+program proving, program verification, 
+symbolic interpretation
+
+4.13 5.21 5.24
+
+ca760703 jb january 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+econometric models of the u. computer market have been developed to study 
+the relationships between system price and hardware performance.  single
+measures of price/performance such as "grosch's law" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market is the developing one
+for small business computer systems, a market which is relatively
+unstable with low price predictability. 
+
+cacm april, 1979
+
+cale, e.
+gremillion, 
+************************
+
+
+cale, e.
+gremillion, l.
+mckenney, j.
+
+price/performance, grosch's law, u. computer market
+
+2.0 2.11 6.21
+
+ca790402 dh may 21, 1979  1:09 pm
+
+3136	5	3136
+
+************************
+

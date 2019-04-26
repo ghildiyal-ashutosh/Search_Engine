@@ -1,0 +1,2117 @@
+Snippets for the query:  Q30
+************************
+Total Hits:  127
+************************
+
+************************
+Document:  CACM-2829.html
+************************
+
+
+texture and reflection in computer generated images
+
+in 1974 catmull developed a new algorithm
+for rendering images of bivariate surface patches. 
+ this paper describes extensions of this algorithm in
+the areas of texture simulation and lighting models. 
+ the parameterization of a patch defines a coordinate
+system which is used as a key for mapping patterns 
+onto the surface.  the intensity of the pattern at each
+picture element is computed as a weighted average 
+of regions of the pattern definition function. the shape
+and size of this weighting function are chosen 
+using digital signal processing theory.  the patch rendering
+
+************************
+ theory.  the patch rendering
+algorithm allows accurate computation of 
+the surface normal to the patch at each picture element,
+permitting the simulation of the mirror reflections. 
+ the amount of light coming from a given direction is
+modeled in a similar manner to the texture mapping 
+and then added to the intensity obtained from the texture
+mapping.  several examples of images synthesized 
+using these 
+************************
+
+************************
+Document:  CACM-3057.html
+************************
+
+
+optimal his togram matching by monotone gray level transformation
+
+this paper investigates the problem of optimal
+his togram matching using monotone gray level 
+transformation, which always assigns all picture points
+of a given gray level i to another gray level 
+t(i) such that if i > j, then t(i) > t(j).  the objective
+is to find a transformed digital picture of 
+a given 
+************************
+
+************************
+Document:  CACM-1793.html
+************************
+
+
+presentation of alphameric characters for information
+processing* (proposed american national 
+standard)
+
+************************
+
+************************
+Document:  CACM-1085.html
+************************
+
+
+specification for general-purpose paper cards for
+information processing (proposed american standard)
+
+cacm may, 
+************************
+
+************************
+Document:  CACM-1272.html
+************************
+
+
+expanding the editing function in language data processing
+
+in automatic abstracting, citation indexing,
+mechanical translation and other such procedures, 
+editing is required whenever the automatic method leaves
+something to be desired.  this paper discusses 
+the economy of editing as a function of the amount of condensation
+of text in language processing operations, 
+and then contends that editing can be regarded as an
+opportunity rather than as an unwelcome necessity. 
+ "heavy editing," which goes beyond mere correction
+and improvement of computer output, is exemplified 
+by the use of a concordance in preparing a survey article
+or lecture.  other opportunities for heavy 
+editing are described, chief among them being interpretation and
+expansion of computer output in such 
+processes as factor analysis.  applications are described,
+such 
+************************
+
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+
+************************
+
+************************
+Document:  CACM-2519.html
+************************
+
+
+on the problem of communicating complex information
+
+the nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined.  the problem is analyzed in terms of 
+psychological and information-processing processes, and
+what turns out to be a vicious circle of effects 
+is described.  these include ways of augmenting written
+
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+
+
+models for parallel processing within programs:
+application to cpu:i/o and i/o:i/o overlap
+
+approximate queueing models for internal parallel
+processing by individual programs in a multiprogrammed 
+system are developed in this paper.  the solution technique
+is developed by network decomposition.  the 
+models are formulated 
+************************
+
+************************
+Document:  CACM-0986.html
+************************
+
+
+proposed amendment to proposed american standard
+on specification for general-purpose paper cards 
+for information processing
+
+cacm october, 1964
+
+************************
+
+************************
+Document:  CACM-2304.html
+************************
+
+
+a western view of computer history
+
+many u. histories of the digital computer
+field have tended to be impersonal, with heavy 
+emphasis on eastern universities and commercial developments.
+ this article records the events of 
+************************
+
+************************
+Document:  CACM-2370.html
+************************
+
+
+an experimental laboratory for pattern recognition and signal processing
+
+an interactive computer-controlled scanning
+and display system has been in operation at the 
+ibm thomas j. watson research center for three years.
+ the system includes two flying-spot scanners and 
+a tv camera specially interfaced to a process control
+digital computer, dot-mode and vector displays, 
+analog input and output facilities, and a variety of
+other experimental equipment.  the system design 
+and programming support are described and typical applications
+in scanner control, optical character 
+recognition,and image processing are presented.
+
+************************
+ processing are presented.
+
+cacm april, 1972
+
+herbst, n. m.
+will, p. m.
+
+scanners, pseudorandom displays, interactive
+terminal, image processing, pattern 
+************************
+
+************************
+Document:  CACM-1440.html
+************************
+
+
+starting approximations for square root calculation on ibm system/360
+
+several starting approximations for square
+root calculation by newton's method are presented 
+in a form to facilitate their use in ibm system/360 square
+root routines.  these approximations include 
+several for the range 
+************************
+
+************************
+Document:  CACM-1686.html
+************************
+
+
+computer synthesis of holograms for 3-d display
+
+optical and digital holography are reviewed.
+ the mathematical model and computational techniques 
+of the authors' digital holographic process are discussed,
+and applications of computer holography are 
+suggested.  computer holograms have been made of three-dimensional
+objects which give faithful reconstructions, 
+even in white light.  a new approach based on point
+apertures for the image is discussed.  photographs 
+of the images reconstructed from digital holograms are presented.
+
+cacm october, 1968
+
+lesem, l. b.
+hirsch, p. m.
+
+holography, optics, fourier transforms, computer
+applications, display device, photography, physics, 
+mathematics, image processing
+
+3.17 3.19 5.19
+
+ca681001 
+************************
+
+************************
+Document:  CACM-0104.html
+************************
+
+
+digital simulation of discrete flow systems*
+
+the discrete flow systems discussed are characterized
+by the movement of randomly arriving 
+items along interacting channels.  programing a digital
+computer to simulate such systems utilizes some 
+techniques not common in other approaches to physical
+problems.  the principal portion of the paper is 
+a discussion of two simulation studies that illustrate
+some of the programming problems involved. one 
+is of an extensive package-handling plant, with the
+objective being optimization of parameters such as 
+storage capacities and processing rates.  in the other,
+
+************************
+
+************************
+Document:  CACM-2283.html
+************************
+
+
+thinning algorithms on rectangular, hexagonal, and triangular arrays
+
+in this report three thinning algorithms are
+developed: one each for use with rectangular, 
+hexagonal, and triangular arrays.  the approach to the
+development of each algorithm is the same.  pictorial 
+results produced by each of the algorithms are presented
+and the relative performances of the algorithms 
+are compared.  it is found that the algorithm operating
+with the triangular array is the most sensitive 
+to image irregularities and noise, yet it will yield
+a 
+************************
+, yet it will yield
+a thinned image with an overall reduced number of 
+points.  it is concluded that the algorithm operating in
+conjunction with the hexagonal array has features 
+which strike a balance between those of the other two arrays.
+
+cacm september, 1972
+
+deutsch, e. s.
+
+thinning algorithms, rectangular, hexagonal,
+triangular arrays, image processing, skeleton
+
+3.64
+
+ca720907 
+************************
+
+************************
+Document:  CACM-3013.html
+************************
+
+
+some new methods of detecting step edges in digital pictures
+
+this note describes two operators that respond
+to step edges, but not to ramps.  the first 
+is similar to the digital laplacian, but uses the max, rather
+than the sum, of the x and y second differences. 
+ the second uses the difference between the mean and
+median gray levels in a neighborhood.  the outputs 
+obtained from these operators applied to a set of test
+pictures are compared with each other and with 
+the standard digital laplacian and gradient.  a third
+operator, which uses the distance between the center 
+and centroid of a neighborhood as an edge value, is also
+briefly considered; it turns out to be equivalent 
+to one of the standard digital approximations to the gradient.
+
+cacm february,1978
+
+schachter, b.
+rosenfeld, a.
+
+image processing, pattern recognition, 
+************************
+
+************************
+Document:  CACM-1066.html
+************************
+
+
+growing applications of linear programming
+
+use of linear programming models has grown so
+extensively in recent years that the whole concept 
+for organizing a computer code has undergone a radical
+change.  it no longer is adequate merely to reduce 
+a mathematical algorithm (i.e. the simplex method) to
+a computer code.  an advanced code must cope with 
+such a variety of situations that the respective computer
+subprograms must be organized into an integrated 
+system.  emphasis in this paper is devoted to the underlying
+principles upon which future linear programming 
+systems must be based.  these viewpoints are influenced
+by the new demands that applications within the 
+petroleum industry are placing on such systems.  some
+of the components of such a system are: translation 
+of problem statement in terms of basic data to linear
+programming matrix coefficients, data transmission 
+for direct computer entry, data file at the computer center,
+data processing and editing prior to 
+************************
+
+************************
+Document:  CACM-1424.html
+************************
+
+
+automatic analysis of electronic digital circuits using list processing
+
+a mapping from black 
+************************
+
+
+a mapping from black diagrams of digital circuits
+to list structures is described, together 
+with a list processing program written for 
+************************
+
+************************
+Document:  CACM-2687.html
+************************
+
+
+a cell organized raster display for line drawings
+
+raster scan computer graphics displays with
+"real time" character generators have previously 
+been limited to alphanumeric characters.  a display is
+described which extends the capabilities of this 
+organization to include general graphics.  the feasibility
+of such a display is shown by deriving the 
+minimum number of patterns required in the read only
+memory of the character generator to synthesize 
+an arbitrary line.  the synthesis process does not compromise
+picture quality since the resulting dot 
+patterns are identical with those of a conventional
+raster display.  furthermore, the time constraints 
+of a raster display are shown to be satisfied for
+a typical design for very complex line drawings.
+
+cacm february, 1974
+
+jordan, b. w. jr.
+barrett, r. c.
+
+graphics, raster display, line drawing, discrete
+image, dot generation, matrix 
+************************
+
+************************
+Document:  CACM-2050.html
+************************
+
+
+automatic parsing for content analysis
+
+although automatic syntactic and semantic analysis is not yet possible for
+all of an unrestricted natural language text, some applications, of which 
+content analysis is one, do not have such a stringent coverage requirement.
+preliminary studies show that the harvard syntactic analyzer can
+produce correct and unambiguous identification of the subject and
+object of certain verbs for approximately half of the relevant occurrences. 
+this provides a degree of coverage for content analysis variables which 
+compares favorably to manual methods, in variables which compares favorably 
+to manual methods, in which only a sample of the total available text is 
+normally processed.
+
+cacm june, 1970
+
+damerau, f. j.
+
+content analysis, parsing, syntactic analysis, natural language processing,
+information retrieval, 
+************************
+
+************************
+Document:  CACM-2005.html
+************************
+
+
+proposed revision of american national standard x3.21-1967,
+"rectangular holes in twelve-row punched cards"*
+
+cacm august, 1970
+
+tabulating-card, hollerith card, keypunch, information processing
+
+6.35
+
+ca700816 jb february 
+************************
+
+************************
+Document:  CACM-2643.html
+************************
+
+
+the minimization of spatially-multiplexed character sets
+
+the paper describes a technique for compacting
+character sets in a digital computer while retaining 
+fast access to individual bits.  it considers the problem
+of minimizing the storage needed to contain 
+such tables.  reduction techniques are developed, and
+the problem is shown to reduce to a covering problem.
+
+cacm june, 1974
+
+gimpel, j. f.
+
+parsing, lexical analysis,scanning,
+string processing, spatial multiplexing
+
+************************
+
+************************
+Document:  CACM-1144.html
+************************
+
+
+digital computer determination of alpha source activity
+
+a technique is described for determining the
+activity and homogeneity of an alpha source.  
+it is believed that the technique, using a digital computer,
+has many uses and applications in the field 
+of nuclear physics. the technique involves computer
+manipulation of the digital image of the nuclear 
+source. 
+************************
+
+************************
+Document:  CACM-0195.html
+************************
+************************
+Document:  CACM-2421.html
+************************
+
+
+a scan conversion algorithm with reduced storage requirements
+
+most graphics systems using a raster scan output
+device (crt or hardcopy) maintain a display 
+file in the xy or random scan format.  scan converters,
+hardware or software, must be provided to translate 
+the picture description from the xy format to the raster
+format.  published scan conversion algorithms 
+which are fast will reserve a buffer area large enough
+to accommodate the entire screen.  on the other 
+hand, those which use a small buffer area are slow because
+they require multiple passes through the xy 
+display file.  the scan conversion algorithm described
+here uses a linked list data structure to process 
+the lines of the drawing in strips corresponding to
+groups of scan lines.  a relatively small primary 
+memory buffer area is used to accumulate the binary image
+for a group of scan lines.  when this portion 
+of the drawing has been plotted, the buffer is reused for
+the next portion.  because of the list processing 
+procedures used, only 
+************************
+
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2826.html
+************************
+************************
+Document:  CACM-0078.html
+************************
+
+
+remarks on the practical solution of characteristic value problems
+
+this paper is concerned with the practical
+solution of characteristic value problem for an 
+ordinary differential equation.  it is at once apparent
+that sequential computers, be they digital or 
+analog, solve initial value problems, rather than boundary
+value problems, and some mathematical process 
+must be found 
+************************
+
+************************
+Document:  CACM-1566.html
+************************
+
+
+optimal starting values for newton-raphson calculation of sqrt(x)
+
+the problem of obtaining starting values for
+the newton-raphson calculation of sqrt(x) on a 
+digital computer is considered.  it is shown that the
+conventionally used best uniform approximations 
+to sqrt(x) do not provide 
+************************
+
+************************
+Document:  CACM-1741.html
+************************
+
+
+brad: the brookhaven raster display
+
+a multiconsole computer display system has
+been designed that provides very rich displays at 
+low unit cost.  each brad (brookhaven raster display)
+console can plot tens of thousands of points, or 
+up to 4000 characters at 30 frames per second.  after
+an initial display system investment of $50,000 
+each display, with teletype, costs less than $3,000.
+ the technique employed is that of programmatically 
+generating a binary image of the desired display in a
+computer.  the image is written on a rotating drum 
+memory.  independent read heads continuously display
+the picture, which is generated by swept horizontal 
+lines.  a standard tv monitor serves as the display device.
+ the technique has two drawbacks.  a computer 
+must compute any image to be displayed.  also, the "pointing"
+interaction is more difficult.  this is 
+because the pointing function gives only the coordinates
+of the point on the screen.  the inverse of 
+the map generation process is required to calculate
+the coordinates of the point on the screen.  the 
+inverse of the map generation process is required to
+calculate the coordinates at the selected point 
+in the input space.
+
+cacm june, 1968
+
+ophir, d.
+rankowitz, s.
+shepherd, b. j.
+spinrad, r. j.
+
+computer display, computer graphics, computer raster
+display, tv display console, digital tv display, 
+swept raster 
+************************
+
+************************
+Document:  CACM-1015.html
+************************
+
+
+near-minimax polynomial approximations and partitioning of intervals
+
+a method of near-minimax polynomial approximation
+is described.  as a by-product, this method 
+provides 
+************************
+
+************************
+Document:  CACM-1388.html
+************************
+
+
+automast: automatic mathematical analysis and symbolic translation
+
+a procedure for numerically solving systems
+of ordinary differential equation is shown to also 
+generate symbolic solutions.  the procedure is based
+on a finite taylor series expansion that includes 
+an estimate of the error in the final result.  a computer
+program is described that reads in a system 
+of such equations and then generates the expansions
+for all of the dependent variables. the expansions 
+are determined symbolically, hence any non-numeric parameters
+in the original equations are carried 
+************************
+
+************************
+Document:  CACM-1233.html
+************************
+
+
+conventions for the use of symbols in the preparation
+of flowcharts for information processing 
+systems (a standard working paper)
+
+this paper is intended as an outline of the
+various conventions which are being considered 
+for the use of flowcharts for information processing
+systems.  the conventions are applied to the use 
+of the symbols appearing in the proposed american standard
+flowchart symbols 
+************************
+
+************************
+Document:  CACM-2231.html
+************************
+
+
+the reconstruction of binary patterns from their projections
+
+given the horizontal and vertical projections
+of a finite binary pattern f, can we construct 
+the original pattern f?  in this paper we give a characterization
+of patterns that are reconstructable 
+from their projection.  three algorithms are developed
+to reconstruct both unambiguous and ambiguous 
+patterns.  it is shown that an unambiguous pattern can
+be perfectly reconstructed in time m x n and that 
+a pattern similar to an ambiguous pattern can also be constructed
+in time m x n, where m, n are the dimensions 
+of the pattern frame.
+
+cacm january, 1971
+
+chang, s.
+
+pattern reconstruction, image reconstruction, data
+
+************************
+
+************************
+Document:  CACM-0533.html
+************************
+
+
+digital synthesis of correlated stationary noise
+
+in this note we propose 
+************************
+
+
+in this note we propose a method of generating
+stationary noise with a prescribed auto-covariance 
+function by digital methods.  the need for 
+************************
+ methods.  the need for such a technique
+often arises in testing the performance of 
+data processing and engineering systems, where inputs
+corrupted with correlated noise (of a known form) 
+are 
+************************
+
+************************
+Document:  CACM-2188.html
+************************
+
+
+an approach to the optimum design of computer graphics systems
+
+display system designers are faced with the
+difficult task of selecting major subsystems in 
+an intelligent way.  each subsystem is chosen from large
+numbers of alternatives; the selection is based 
+on considerations such as system response time, system
+cost, and the distribution of data storage and 
+processing between the graphics processor and its supporting
+data processing system.  the work reported 
+here develops an objective, quantitative design procedure
+and helps give a better understanding of now 
+to  configure display systems.  this is accomplished by
+means of a mathematical model of a computer driven 
+graphics system.  the parameters of the model are functions
+of the capabilities of the graphics hardware 
+and of the computational requirements of the graphics application.
+ the model can be analyzed using numerical 
+queueing analysis or simulation to obtain an average
+response time prediction.  by combining the model 
+with an optimization, the best graphics system configuration,
+subject to a cost constraint, is found 
+for several applications.  the optimum configurations
+
+************************
+.  the optimum configurations
+are in turn used to find general display system 
+design guidelines.
+
+cacm june, 1971
+
+foley, j. d.
+
+design guidelines, graphic display systems, mathematical
+model, optimum system 
+************************
+
+************************
+Document:  CACM-1415.html
+************************
+
+
+automatic derivation of microsentences
+
+the decomposition of long complex english sentences
+into shorter kernel-like constituent sentences 
+(microsentences)has often been suggested as an avenue
+toward conducting automatic retrieval of natural 
+language messages.  to explore the prospects of such
+a step, the authors attempted in 1963 to prepare 
+a general program for deriving microsentences from longer
+sentences that had been syntactically analyzed 
+by the harvard multipath analysis program.  the basic
+idea was to extract the subject, verb and object 
+(if 
+************************
+
+************************
+Document:  CACM-2446.html
+************************
+
+
+analysis of skew representations of the symmetric group (algorithm a455)
+
+cacm september, 1973
+
+hunter, d. b.
+williams, j. m.
+
+symmetric group, skew representation, partition,
+young diagram, lattice permutation, binary model, 
+outer product
+
+5.30
+
+ca730909 jb january 
+************************
+
+************************
+Document:  CACM-1359.html
+************************
+
+
+data filtering applied to information storage and retrieval applications
+
+manipulation of data strings is the most complex
+processing function in information 
+************************
+ function in information storage 
+and retrieval applications.  data string manipulation
+is discussed within the context of an interpretive 
+processing environment controlled 
+************************
+
+************************
+Document:  CACM-2906.html
+************************
+
+
+a very high level programming language for data processing applications
+
+application development 
+************************
+
+
+application development today is too labor-in tensive.
+ in recent years, very high-level languages 
+have been increasingly explored as a solution to this
+problem.  the business definition language (bdl) 
+is such a language, one aimed at business data processing
+problems.  the concepts in bdl mimic those 
+which have evolved through the years in businesses using
+manual methods.  this results in three different 
+sublanguages or components: one for defining the business
+forms, one for describing the business organization, 
+************************
+
+************************
+Document:  CACM-1839.html
+************************
+
+
+singular value decomposition of a complex
+matrix 
+************************
+ of a complex
+matrix (algorithm 358 [f1, 4,5])
+
+cacm october, 1969
+
+businger, p. a.
+goulub, g. h.
+
+singular values, matrix decomposition,
+least squares solution, 
+************************
+
+************************
+Document:  CACM-3021.html
+************************
+
+
+a method for obtaining digital signatures and public-key cryptosystems
+
+an encryption method is presented with the novel
+property that publicly revealing an encryption 
+key does not thereby reveal the corresponding decryption
+key.  this has two important consequences: (1) 
+couriers or other secure means are not needed to transmit
+keys, since a message can be enciphered using 
+an encryption key publicly revealed by the intended recipient.
+ only he can decipher the message, since 
+only he knows the corresponding decryption key.  (2)
+a message can be "signed" using a privately held 
+decryption key.  anyone can verify this signature using
+the corresponding publicly revealed encryption 
+key.  signatures cannot be forged, and a signer cannot
+later deny the validity of his signature.  this 
+has obvious applications in "electronic mail" and "electronic
+funds transfer" systems.  a message is 
+encrypted by representing it as a number m, raising
+m to a publicly specified power e, and then taking 
+the remainder when the result is divided by the publicly
+specified product, n, of two large secret 
+************************
+
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must arrange data for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency of occurrence in the data, and a
+separate listing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+
+************************
+
+************************
+Document:  CACM-3047.html
+************************
+
+
+using synthetic images to register real images with surface models
+
+a number of image analysis tasks can benefit
+from registration of the image with a model of 
+the surface being imaged.  automatic navigation using visible
+light or radar images requires exact alignment 
+of such images with digital terrain models.  in 
+************************
+ terrain models.  in addition,
+automatic classification of terrain, using 
+satellite imagery, requires such alignment to deal correctly
+with the effects of varying sun angle and 
+surface slope.  even inspection techniques for certain
+industrial parts may be improved by this means. 
+we achieve the required alignment by matching the real
+image with a synthetic image obtained from a surface 
+model and known positions of the light sources.  the
+synthetic image intensity is calculated using the 
+reflectance map, a convenient way of describing surface reflection
+as a function of surface gradient. 
+ we illustrate the technique using landsat images and digital terrain models.
+
+cacm 
+************************
+ terrain models.
+
+cacm november, 1978
+
+horn, b.
+bachman, b.
+
+image registration, synthetic images, surface models,
+automatic 
+************************
+, surface models,
+automatic hill shading, digital terrain models, 
+image transformation, image matching, shaded images 
+
+3.63 3.11 3.14 8.2 
+************************
+
+************************
+Document:  CACM-2528.html
+************************
+
+
+binary pattern reconstruction from projections [z] (algorithm r445)
+
+cacm march, 1973
+
+lau, j.
+
+pattern reconstruction, image reconstruction,
+data compression, picture processing
+
+3.63 5.30
+
+ca730311 
+************************
+
+************************
+Document:  CACM-1196.html
+************************
+
+
+applications of differential equations in general problem solving
+
+a large class of problems leading to digital
+computer processing can be formulated in 
+************************
+
+************************
+Document:  CACM-1412.html
+************************
+
+
+the banking information system concept
+
+most large commercial banks have progressed to
+the  point where their major accounting applications 
+have been automated and more sophisticated usage of
+data processing equipment is being sought. 
+************************
+ equipment is being sought.  this, 
+coupled with the availability of equipment well suited
+to real-time, direct access processing,has led 
+to development within some banks of the central file
+of data base approach toward a banking information 
+system.  the banking information system now serves the
+two-fold purpose of providing real-time responses 
+to inquires about individual account stasus and providing
+more complex combinations of information for 
+management use.  both kinds of processing draw upon a
+common store of data contained in the direct access 
+central file.  this data base includes indexes which
+facilitate 
+************************
+
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ however, it is possible to compute an upper bound to such
+a cross-correlation.  a simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. model building
+by cross-correlations has intrinsic advantages 
+over usual crystallographic techniques based on the
+autocorrelation or patterson function, especially 
+************************
+
+************************
+Document:  CACM-2994.html
+************************
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-3040.html
+************************
+
+
+synthesizing constraint expressions
+
+a constraint network representation is presented
+for a combinatorial search problem: finding 
+values for a set of 
+************************
+
+************************
+Document:  CACM-3015.html
+************************
+
+
+relaxation methods for image reconstruction
+
+the problem of recovering an image (a function
+of two variables) from experimentally available 
+integrals of its grayness over thin strips is of great
+importance in a large number of scientific areas. 
+ an important version of the problem in medicine is
+that of obtaining the exact density distribution 
+within the human body from x-ray projectionsne approach
+that has been taken to solve this problem 
+consists of translating the available information into
+a system of linear inequalities.  the size and 
+the sparsity of the resulting system (typically, 25,000
+inequalities with fewer than 1 percent of the 
+coefficients nonzero) makes methods using successive
+relaxations computationally attractive, as compared 
+to other ways of solving systems of inequalities. 
+in this paper, it is shown that, for a consistent 
+system of linear inequalities, any sequence of relaxarion parameters
+lying strictly between 0 and 2 generates 
+a sequence of vectors which converges to a solution.
+ under the same assumptions, for a system of linear 
+equations, the relaxation method converges to the minimum
+norm solution.  previously proposed techniques
+are shown to be special cases of our procedure with
+different choices of relaxation parameters.  the 
+practical consequences for image reconstruction of the
+choice of the relaxation parameters are discussed.
+
+cacm february, 1978
+
+herman, g.
+lent, a.
+lutz, p.
+
+biomedical image processing, image reconstruction,
+x-ray tomography, mathematical programming, 
+linear 
+************************
+
+************************
+Document:  CACM-1590.html
+************************
+
+
+pitch period determination of speech sounds
+
+a computer procedure which determines pitch
+periods by the recognition of the peak structure 
+of the speech waveform is described.  speech sounds were
+sampled by a microphone and an analog-to-digital 
+converter attached to an interconnected ibm 7090-pdp-1
+system.  these utterances were recorded at the 
+normal noise level of the computer 
+************************
+
+************************
+Document:  CACM-2628.html
+************************
+
+
+minimal-total-processing time drum and disk scheduling disciplines
+
+this article investigates the application 
+************************
+ investigates the application of
+minimal-total-processing-time (mtpt) scheduling 
+disciplines to rotating storage units when random arrival
+of requests is allowed.  fixed-head drum and 
+moving-head drum and moving-head disk storage units are
+considered, and emphasis is placed on the relative 
+merits of the mtpt scheduling discipline with respect
+to the shortest-latency-time-first (sltf) scheduling 
+discipline.  the results of the simulation studies
+presented show that neither scheduling discipline 
+is unconditionally superior to the other.  for most
+fixed-head drum applications, the sltf discipline 
+************************
+
+************************
+Document:  CACM-0893.html
+************************
+
+
+significance arithmetic on a digital computer
+
+the 7090 at nyu has been modified to include
+a "significance mode" 
+************************
+
+************************
+Document:  CACM-0185.html
+************************
+
+
+multiprogram scheduling parts 1 and 2.  introduction and theory*
+
+in order to exploit fully a fast computer which
+possesses simultaneous processing abilities, 
+it should to a large extent schedule its own workload.
+ the scheduling routine must be capable of extremely 
+rapid execution if it is not to prove self-defeating.
+ the construction of a schedule entails determining 
+which programs are to be run concurrently and which sequentially
+with respect to each other.  a concise 
+scheduling algorithm is described which tends to minimize
+the time for executing the entire pending workload 
+(or any subset of it), subject to external constraints
+
+************************
+
+************************
+Document:  CACM-2529.html
+************************
+
+
+binary pattern reconstruction from projections [z] (algorithm a445)
+
+cacm march, 1973
+
+chang, s.
+
+pattern reconstruction, image reconstruction,
+data compression, picture processing 
+
+3.63 5.30
+
+ca730310 
+************************
+
+************************
+Document:  CACM-1929.html
+************************
+
+
+images from computers and microfilm 
+************************
+ from computers and microfilm plotters
+
+digital computers are widely used for the
+processing of information and data of all kinds, 
+including the pictorial information contained in photographs
+and other graphical representations.  efficient 
+conversion facilities for putting graphical information
+into the computer and retrieving it in graphical 
+form are therefore much needed.  one of the most commonly
+employed devices for obtaining permanent graphical 
+output from digital computers is the microfilm plotter.
+ regrettably, present models have no provision 
+for producing images with a continuous gray 
+************************
+ with a continuous gray scale or "half tones."
+ in this note several programming techniques 
+are described for obtaining half tone pictures from a
+microfilm plotter under the control of a digital 
+computer.  illustrative examples of several methods are given.
+
+cacm february, 1969
+
+schroeder, m. r.
+
+computer images, half tone pictures, 
+************************
+
+************************
+Document:  CACM-1482.html
+************************
+
+
+bugsys: a programming system for picture processing-not for debugging
+
+bugsys is a picture processing and measuring
+system that depends upon a pictorial input to 
+the computer's memory.  bugsys can be used for many
+types of applications.  in particular, the 
+************************
+
+************************
+Document:  CACM-0674.html
+************************
+************************
+Document:  CACM-2486.html
+************************
+
+
+computer photocomposition of technical text
+
+in computer assisted typesetting by means of
+photocomposition, special problems arise in highly 
+technical material such as mathematical formulas.  new
+solutions to several of these problems have been 
+devised in the information system of the american institute
+of physics.  they include: the representation 
+************************
+: the representation 
+of special characters (foreign alphabets, mathematical
+symbols, etc.) not available on input keyboards 
+or on the photocomposer; the generation of such symbols,
+e.g. by overprinting; the precise positioning 
+of accent marks (floating diacritics); line breaks,
+i.e. words or formulas placed partly at the end of 
+one line and partly at the beginning of the next;
+and certain aspects of error correction.
+
+cacm june, 1973
+
+alt, f. l.
+yuni kirk, j.
+
+photocomposition, typesetting, printing, graphics, text processing
+
+3.79 3.82
+
+ca730614 
+************************
+
+************************
+Document:  CACM-2130.html
+************************
+************************
+Document:  CACM-1251.html
+************************
+
+
+american standard and ifip/icc vocabularies compared
+
+the "proposed american standard vocabulary of
+information processing" and the "ifip/icc vocabulary 
+************************
+
+************************
+Document:  CACM-1423.html
+************************
+
+
+a simple algorithm for computing the generalized inverse of a matrix
+
+the generalized inverse of a matrix is important
+in analysis because it provides an extension 
+of the concept of an inverse which applies to all matrices.
+ it also has many applications in numerical 
+analysis, but it is not widely used because the existing
+algorithms are fairly complicated and require 
+considerable storage space.  a simple extension has
+been found to the conventional orthogonalization 
+method for inverting non-singular matrices, which gives
+
+************************
+ matrices, which gives
+the generalized inverse with little extra effort 
+and with no additional storage requirements.  the algorithm
+gives the generalized inverse for any m by 
+n matrix a, including the special case when m+n and a
+is non-singular and the case when m>n and rank(a) 
+= n.  in the first case the algorithm gives the ordinary
+inverse of a.  in the second case the algorithm 
+yields the ordinary least squares transformation matrix
+inv(a'a)a' and has the advantage of avoiding 
+the loss of significance which results in forming the product a'a explicitly.
+
+cacm 
+************************
+
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events in separate processes is introduced. 
+ an abstraction of this problem is developed which admits
+solution for a majority of commonly encountered
+problems.  the technique will either find a method of
+simulating the parallel events or report that none 
+can be found.  in some of the latter cases it is shown
+to be possible to find a solution by extending 
+the information available to the solution technique, but
+in many cases the technique becomes computationally 
+unfeasible when the additional information is provided.
+
+cacm september, 1969
+
+parnas, d. l.
+
+simulation, parallel processes, simultaneous events,
+picture processing, computer system simulation
+
+************************
+
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions for pattern classification
+
+in two-class pattern recognition, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates 
+************************
+ hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+hyperplanes 
+************************
+
+************************
+Document:  CACM-2893.html
+************************
+
+
+computers as an innovation in american local governments
+
+computers and electronic data processing are
+a major technological innovation in the operations 
+of american local government. this paper establishes that
+there is substantial variation among the larger 
+local governments in the rate at which they adopt computer
+technology, in the level of financial support 
+they provide for edp, and in the extensiveness and sophistication
+of their automated applications.  the 
+central question addressed is: what might explain the
+differences between governments in the extent to 
+which they adopt and use computers?  hypotheses are
+tested for several streams of explanatory factors, 
+using data from more than 500 city and county governments.
+ the findings identify certain local 
+************************
+s identify certain local government 
+milieus which are particularly conducive to higher levels
+of computer innovation.  somewhat unexpected 
+findings reveal the significant 
+************************
+s reveal the significant impact of the distribution
+of control over edp decisions and the dominant 
+political values within the government. other important
+factors include the measured need for computer 
+applications and the presence of 
+************************
+
+************************
+Document:  CACM-2415.html
+************************
+************************
+Document:  CACM-1261.html
+************************
+
+
+modeling and simulation of digital networks
+
+the simulation of digital networks on a digital
+computer provides the engineer with an effective 
+means of analyzing time-quantized logical behavior.  the
+digital network is modeled as a set of time-dependent 
+or time-independent boolean transformations; each transformation
+describing the input-output relationship 
+************************
+
+************************
+Document:  CACM-2174.html
+************************
+
+
+the stable marriage problem
+
+the original work of gale and shapley on an assignment
+method using the stable marriage criterion 
+has been extended to find all the stable marriage assignments.
+ the algorithm derived for finding all 
+the stable marriage 
+************************
+
+************************
+Document:  CACM-1327.html
+************************
+************************
+Document:  CACM-2721.html
+************************
+
+
+the digital simulation of river plankton population dynamics
+
+this paper deals with the development of a
+mathematical model for and the digital 
+************************
+ model for and the digital simulation 
+in fortran iv of phytoplankton and zooplankton population
+densities in a river using previously developed 
+rate expressions.  in order to study the relationships
+between the ecological mechanisms involved, the 
+simulation parameters were varied illustrating the
+response of the ecosystem to different conditions, 
+including those corresponding to certain types of chemical
+and thermal pollution.  as an investigation 
+of the accuracy of the simulation methods, a simulation
+of the actual population dynamics of asterionella 
+in the columbia river was made based on approximations
+of conditions in that river. although not totally 
+accurate, the simulation was found to predict the general
+annual pattern of plankton growth fairly well 
+and, specifically, revealed the importance of the annual
+velocity cycle in determining such patterns. 
+ in addition, the study demonstrates the usefulness of
+digital simulations in the examinations of certain 
+aquatic ecosystems, as well as in environmental
+planning involving such examinations.
+
+cacm september, 1975
+
+claudson, r. m.
+
+digital simulation, mathematical modeling, plankton
+population 
+************************
+
+************************
+Document:  CACM-2065.html
+************************
+
+
+a programming system for the on-line analysis of biomedical images
+
+a preliminary description 
+************************
+
+
+a preliminary description of the software for a computer-display
+system is given with special emphasis on the  man-machine interaction. this 
+system is intended for a wide variety of biomedical applications.
+as an example, the methods are applied to the karyotyping of chromosomes.  the 
+system is separated into four programming tasks: picture transformations, file 
+maintenance, picture structuring, and display management.  picture structuring
+is considered as the vehicle for man-machine communication.
+a prototype data format for pictures, called a picture-form, is developed.
+structure operators are defined which manipulate picture-forms to produce 
+new pictures-forms.  many of the ideas are taken from the symbolic mathematical 
+laboratory at mit conceived by marvin minsky.
+
+cacm may, 1970
+
+hodes, l.
+
+image processing, biomedical image processing, 
+************************
+, biomedical image processing, on-line image processing,
+
+************************
+, on-line image processing,
+semiautomatic image 
+************************
+,
+semiautomatic image processing, data structure, structure 
+************************
+
+************************
+Document:  CACM-2142.html
+************************
+
+
+reconstruction of pictures from their projections
+
+there are situations in the natural sciences
+and medicine (e.g. in electron microscopy and 
+x-ray photography) in which it is desirable to estimate the
+gray levels of a digital picture at the individual 
+points from the sums of the gray levels along straight
+lines (projections) at a few angles.  usually, 
+in such situations, the picture is far from determined
+and the problem is to find the "most representative" 
+picture.  three algorithms are described (all using
+monte carlo methods) which were designed to solve 
+this problem.  the algorithms are applicable in a large
+and varied number of fields.  the most important 
+uses may be the reconstruction of possibly asymmetric particles
+from electron micrographs and three-dimensional 
+x-ray analysis.
+
+cacm december, 1971
+
+gordon,r.
+herman, g. t.
+
+approximation, biomedical image processing, efficient
+encoding, 
+************************
+, efficient
+encoding, image processing, linear programming, 
+************************
+, linear programming, 
+mathematical programming, monte carlo techniques, optimization,
+picture compression, picture description, 
+picture processing, stereology, x-ray analysis
+
+************************
+
+************************
+Document:  CACM-2275.html
+************************
+
+
+integral equations of immunology
+
+the inversion of a particular integral equation
+of the first (fredholm) kind is the basic problem 
+considered.  the strategy which yielded success consisted
+of three essential points: (1) fit the known 
+experimental data by a curve with properties which derive
+from properties of the (as yet unknown) function; 
+(2) stabilize the computation for the unknown function
+by using singular value decomposition; (3) constrain 
+the 
+************************
+
+************************
+Document:  CACM-1108.html
+************************
+
+
+digital data processor for tracking the partially illuminated moon*
+
+a study of lunar tracking techniques and fabrication
+of a breadboard to assess the feasibility 
+of the best technique selected was conducted to define
+a tracking system for observation of the sight line 
+to the center of a partially illuminated moon.  the
+data processing portion of the system 
+************************
+ portion of the system is presented 
+in detail and then described in general are the operation
+of the tracker head assembly for data readout, 
+the operation of the entire system and the effect data
+processing considerations have on the design of 
+the tracker system.  the system basically consists of
+an optical sensor, digital computer and tracker 
+************************
+
+************************
+Document:  CACM-0670.html
+************************
+
+
+some legal implications of the use of computers in the banking business
+
+the introduction of computers in to the banking
+business has a wide variety of legal implications 
+that merit careful attention at this very early stage.
+ the industry is highly regulated by government 
+and, hence, is subject to many statutes and regulations.
+ it also is affected by important common law 
+rules established by courts.  the legal ramifications
+involve not only the mechanization itself, but 
+also the very significant, economically attractive phenomenon
+of off premises processing.  it is essential 
+to 
+************************
+
+************************
+Document:  CACM-1721.html
+************************
+************************
+Document:  CACM-0695.html
+************************
+
+
+use of the disk file on stretch
+
+the paper begins by briefly describing the
+stretch (ibm 7030) computer with special emphasis 
+given to the organization and operation of its input-output
+equipment.  physical characteristics of the 
+two-disk system (4,194,304 72-bit words, 8 usec-per-word
+transmission rate, etc.) are noted.  timing 
+limitations due to arm motion and disk rotation are discussed.
+ applications of disk usage are discussed 
+************************
+ of disk usage are discussed 
+separately for problem programs and for systems programs
+such as compilers and the supervisory program. 
+approximately 260,000 words of disk storage are reserved
+for the storage of systems programs and the 
+subroutine library.  problem programs, however, are not
+currently filed on the disk.  certain programming 
+techniques are discussed for transmitting words between
+disk and core storage with minimum delaying and 
+interruption of the arithmetic unit.  dumps on disk are
+considered for both recovery from computer malfunction 
+and for mathematical or physical developments during
+the calculation.  some comments are made regarding 
+the reliability, economics, utility and weaknesses or
+limitations of the disk system.  several possible 
+future applications are noted which appear 
+************************
+
+************************
+Document:  CACM-2004.html
+************************
+
+
+a procedure for generation of three-dimensional
+half-toned computer graphics presentations
+
+a description is given of an algorithm for producing computer generated 
+half-tone presentations of three-dimensional polygonal surface structures.  
+this algorithm achieves a significant increase in speed of computation over 
+the warnock algorithm developed at the university of utah and implemented
+also on the coordinated science laboratory cdc 1604 computer
+system at the university of illinois.  the history leading to the algorithm
+development and then the algorithm itself are described.
+results are presented and are compared with computer runs achieved
+by the warnock approach.  an extension of the procedure to variable position
+illumination sources is also given.
+
+cacm september, 1970
+
+bouknight, w. j.
+
+half-tone computer graphics, line-scan image processing,
+hidden surface, polygonal 
+************************
+
+************************
+Document:  CACM-1726.html
+************************
+
+
+preliminary investigation of techniques
+for automated reading of unformatted text
+
+methods for converting unstructured printed
+material into computer code are experimentally 
+investigated.  an operator-controlled mode, depending
+on human demarcation of the various regions of 
+the page for guiding the scanner, is implemented by
+means of a joystick and a crt display.  this mode, 
+for which some performance figures are obtained, is thought
+to be suitable for processing very complicated 
+material, such as technical journals.  for simpler material,
+for instance the "claims" sections of patents, 
+and in applications where the utmost accuracy 
+************************
+ where the utmost accuracy is not necessary,
+an unsupervised mode is advocated.  here, 
+the textual portions of the page are located during
+a rapid prescan by a rudimentary form of frequency 
+analysis.  these areas are then rescanned at a higher
+resolution suitable for character recognition. 
+ error rates of the order of 0.1 percent are obtained in
+a simple problem involving photographs of telephone 
+company meter boards.  other matters related to the
+design of a general purpose page reader, such as 
+the segmentation of printed text, the possibility of
+time-sharing the scanner, interactive man-machine 
+operation, and the facsimile reproduction of illustrations, are discussed.
+
+cacm july, 1968
+
+nagy, g.
+
+pattern recognition, character recognition, text
+reading, information retrieval, unformatted text 
+operator-controlled reader, online reader,
+text-image discrimination, reading 
+************************
+
+************************
+Document:  CACM-1700.html
+************************
+
+
+peekabit, computer offspring of punched
+card peekaboo, for natural language searching
+
+the "peekaboo" idea from punched card information
+retrieval methods has been mated with the 
+idea of superimposed punching to produce a programming
+technique which cuts computer run time in half 
+on a test search of 33,000 subject index entries.  a search
+program using the device has been operational 
+since late 1963.  as an item is entered in the store,
+an 18-byte mask is created from the item's meaningful 
+words using the inclusive or operation.  if, at search
+time, the logical product (using the and operation) 
+************************
+
+************************
+Document:  CACM-1891.html
+************************
+
+
+three-dimensional computer display
+
+a stereographic display terminal has been
+produced using the raster display (brad) recently 
+developed at brookhaven.  the system uses a rotating refresh
+memory to feed standard television monitors. 
+ to produce a stereographic display the computer calculates
+the projected video images of an object, 
+viewed 
+************************
+
+************************
+Document:  CACM-0397.html
+************************
+
+
+a card format for reference files in information processing
+
+this paper proposes a card format suitable for
+a variety of reference files in information 
+processing.  an 80-column ibm card is divided into two
+fields-reference material field (columns 1-67) 
+and identification field (columns 68-80).  the format
+for the reference material is flexible, while the 
+format for the identification is rigid.  the reference
+material includes basically an index, title, source, 
+class, summary and cross reference for each entry. 
+the identification includes basically codes for a 
+matrix of descriptors, an entry number, and the kind,
+major interest, and source of the reference.  the 
+identification also provides a choice to identify material
+for personal as well as general files.  since 
+this card format is sufficient to identify the material
+normally associated with reference files for 
+books, articles, programming terms, 
+************************
+
+************************
+Document:  CACM-1659.html
+************************
+
+
+computational linguistics in a ph. computer science program
+
+this report contains recommendations for a
+course curriculum on computational linguistics in 
+a ph. computer science program.  a classification of the
+subject areas contained in computational linguistics 
+is presented, and ten courses in these areas are described.
+ a basic bibliography in computational linguistics 
+is appended.
+
+cacm december, 1968
+
+kuno, s.
+oettinger, a. g.
+
+computational linguistics, mathematical linguistics,
+language and computer, language data processing, 
+computational linguistics 
+************************
+
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-0605.html
+************************
+
+
+computer simulation of city traffic
+
+in simulating traffic flow on city streets,
+the national bureau of standards has used data 
+processing techniques to tabulate and make motion pictures
+of vehicle movements in the model.  each vehicle 
+is assigned a digital identification giving 
+************************
+
+************************
+Document:  CACM-2054.html
+************************
+
+
+on the feasibility of voice input to
+an on-line computer processing system
+
+an on-line digital computer processing 
+************************
+
+************************
+Document:  CACM-1384.html
+************************
+
+
+mathematics for undergraduate computer scientists
+
+the mathematical requirements for an undergraduate
+program in computer science are a subject 
+of debate.  the association 
+************************
+
+************************
+Document:  CACM-2211.html
+************************
+************************
+Document:  CACM-1571.html
+************************
+
+
+a user-oriented time-shared online system
+
+an existing system and planned additions within
+the data processing laboratory of the brain 
+research institute at ucla is described.  the system
+represents an attempt to provide research workers 
+of the institute with the ability to interact directly
+with a highly sophisticated digital computing 
+complex in 
+************************
+
+************************
+Document:  CACM-0531.html
+************************
+
+
+person-matching by electronic methods
+
+record linkage in the updating of files is
+accomplished in many establishments through the 
+use of a preassigned number, such as payroll number,
+customer number, or social security number.  in 
+vital and health records, however, a unique number
+is generally not preassigned to an individual for 
+purposes of reporting services received to the health
+department.  in order to determine whether different 
+physician reports refer to the same individual, name
+and other identification must be compared.  this 
+is a laborious operation which is subject to various
+errors because of name misspellings, changes of 
+name upon marriage, and other problems.  we are interested
+in the maintenance of a psychiatric case register 
+in maryland, where many of the reports from over a hundred
+psychiatric agencies refer to the same patient. 
+ these records must be linked in order to provide unduplicated
+counts of individuals under care and longitudinal 
+records of psychiatric history.  an earlier paper [1] describes
+our general procedures for register maintenance 
+by use of a digital computer (honeywell 
+************************
+
+************************
+Document:  CACM-2125.html
+************************
+
+
+a note on minimal length polygonal approximation to a digitized contour
+
+a method for extracting a smooth polygonal
+contour from a digitized image is illustrated.
+the ordered sequence of contour points and the connection graph of
+the image are first obtained by a modified ledley algorithm in one
+image scan.  a minimal perimeter polygon subjected to specified constraints
+
+************************
+
+************************
+Document:  CACM-1383.html
+************************
+
+
+implications of the digital computer
+for education in the mathematical sciences
+
+the digital 
+************************
+ sciences
+
+the digital computer has profoundly altered the
+definition of what is interesting in mathematics. 
+ the importance of applied logic in human affairs is
+changed by the existence of the "logical engine." 
+ the result is that one should no longer think in terms
+of a single discipline of mathematics but in 
+terms of a complex of mathematical sciences.
+
+cacm september, 
+************************
+
+************************
+Document:  CACM-1543.html
+************************
+
+
+computer formulation of the equations of motion using tensor notation
+
+a means is described for extending the area
+of application of digital computers beyond the 
+numerical data processing stage and reducing the 
+************************
+ stage and reducing the need for
+human participation in the formulation of certain 
+types of computer problems.  by the use of tensor calculus
+and a computer language designed to facilitate 
+symbolic mathematical computation, a method has been
+devised whereby a digital computer can be used 
+************************
+ computer can be used to 
+do non-numeric work, that is, symbolic algebraic manipulation
+and differentiation. to illustrate the 
+techniques involved, a digital computer has been used
+to derive the equations of motion of a point mass 
+in a general orthogonal curvilinear coordinate system.
+ since this operation involves a formulation in 
+terms of first- and second-order differential coefficients,
+it provides a good demonstration of a computer's 
+capability to do non-numeric work and to assist in the
+formulation process which normally precedes the 
+numerical data processing stage.  moreover, this particular
+problem serves to illustrate the advantages 
+of the mathematical techniques employed. 
+************************
+
+************************
+Document:  CACM-0721.html
+************************
+
+
+report on proposed american standard flowchart
+symbols for information processing
+
+this paper presents 
+************************
+
+
+this paper presents the essential contents of
+the proposed american standard flowchart symbols 
+for information processing.  this is the first 
+************************
+
+************************
+Document:  CACM-2819.html
+************************
+
+
+experiments in text file compression
+
+a system for the compression of data files,
+viewed as strings of characters, is presented. 
+ the method is general, and applies equally well to
+english, to pl/i, or to digital data.  the system 
+consists of an encoder, an analysis program, and a decoder.
+  two algorithms for encoding a string differ 
+slightly from earlier proposals.  the analysis program attempts
+to find an optimal set of codes 
+************************
+
+************************
+Document:  CACM-1652.html
+************************
+
+
+a code for non-numeric information processing
+applications in online systems
+
+a 
+************************
+ in online systems
+
+a code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications, and to maximize the 
+************************
+, and to maximize the transfer 
+rate of the information channel linking the system and
+the system user.  the code has direct application 
+to problems in area such as information retrieval, document
+classification, computer-aided teaching and 
+text editing.  this code, called ipc (information processing
+code), is an 8-bit code set constructed 
+so that 7, 6, 5 and 4-bit subsets can be easily derived
+from the basic set.  the code set is organized 
+so that simple binary operations can distinguish between
+the numeric alphabetic, special symbol and control 
+character codes.  the number of usable characters within
+the basic set size may be expanded either by 
+use of escape codes included in the set, or by suitable
+
+************************
+
+************************
+Document:  CACM-2674.html
+************************
+
+
+scan conversion algorithms for a cell organized raster display
+
+raster scan computer graphics with "real time"
+character generators have previously been limited 
+to alphanumeric characters.  a display has been described
+which extends the capabilities of this organization 
+to include general graphics.  two fundamentally different
+scan conversion algorithms which have been 
+developed to support this display are presented.  one
+is most suitable to non-interactive applications 
+and the other to interactive 
+************************
+ 
+and the other to interactive applications.  the algorithms
+were implemented in fortran on the cdc 6400 
+computer.  results obtained from the implementations show
+that the noninteractive algorithms can significantly 
+reduce display file storage requirements at little cost
+in execution time over that of a conventional 
+raster display.  the interactive algorithm can improve
+response time and reduce storage requirements.
+
+cacm march, 1974
+
+barrett, r. c.
+fordan, b. w. jr.
+
+graphics, scan conversion, raster display, line
+drawing, discrete image, dot generation, matrix
+
+************************
+
+************************
+Document:  CACM-2232.html
+************************
+
+
+pattern width at a given angle
+
+that the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  the object of the work
+is to clarify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  the results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the pattern boundary radius vector, and descriptions
+of alternate widths.  all widths are calculated 
+for an illustrative example; graphical and tabular comparisons
+are given.  substantial variation in width-at-angle 
+magnitude is found.  the principal conclusion is that
+the set-theoretic width-at-angle is a useful pattern 
+feature when it can be easily computed.  further investigation
+of the information contained in only part 
+of a width function is recommended for cases where
+computation of width-at-angle is difficult.
+
+cacm january, 1971
+
+klinger, a.
+
+feature extraction, pattern recognition,figure
+properties, picture processing, integral geometry, 
+************************
+

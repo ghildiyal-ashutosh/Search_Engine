@@ -1,0 +1,597 @@
+Snippets for the query:  Q18
+************************
+Total Hits:  16
+************************
+
+************************
+Document:  CACM-3151.html
+************************
+************************
+Document:  CACM-2884.html
+************************
+************************
+Document:  CACM-2692.html
+************************
+
+
+reentrant polygon clipping
+
+a new family of clipping algorithms is described.
+ these algorithms are able to clip polygons 
+against irregular convex plane-faced volumes in three
+dimensions, removing the parts of the polygon which 
+lie outside the volume.  in two dimensions the algorithms
+permit clipping against irregular convex windows. 
+ polygons to be clipped are represented as an ordered
+sequence of vertices without repetition of first 
+and last, in marked contrast to representation as a
+collection of edges as was heretofore the common 
+procedure.  output polygons have an identical format,
+with new vertices introduced in sequence to describe 
+any newly-cut edge or edges.  the algorithms easily handle
+the particularly difficult problem of detecting 
+that a new vertex may be required at a corner of the
+clipping window.  the algorithms described achieve 
+considerable simplicity by clipping separately against
+each clipping plane or window boundary.  code 
+capable of clipping the polygon against a single boundary
+is reentered to clip against subsequent boundaries. 
+ each such reentrant stage of clipping need store only
+two vertex values and may begin its processing 
+as soon as the first output vertex from the proceeding
+stage is ready.  because the same code is reentered 
+for clipping against subsequent boundaries, clipping
+against very complex window shapes is practical. 
+ for perspective applications in three dimentions, a six-plane
+truncated pyramid is chosen as the clipping 
+volume.  the two additional planes parallel to the projection
+screen 
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+************************
+Document:  CACM-1953.html
+************************
+************************
+Document:  CACM-2273.html
+************************
+************************
+Document:  CACM-1796.html
+************************
+************************
+Document:  CACM-2997.html
+************************
+************************
+Document:  CACM-1171.html
+************************
+************************
+Document:  CACM-2283.html
+************************
+************************
+Document:  CACM-2146.html
+************************
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, algorithms,
+transitive closure, 
+************************
+
+************************
+Document:  CACM-2266.html
+************************
+
+
+a highly parallel algorithm for approximating
+all zeros of a polynomial with only real zeros
+
+an algorithm is described based on newton's
+method which simultaneously approximates all zeros 
+of a polynomial with only real zeros.  the algorithm, which
+is conceptually suitable for parallel computation, 
+determines its own starting values so that convergence
+to the zeros is guaranteed.  multiple zeros and 
+their multiplicity are readily determined.  at no
+point in the method is polynomial deflation used.
+
+cacm november, 1972
+
+patrick, m. l.
+
+parallel numerical algorithms, real polynomials,
+real 
+************************
+
+************************
+Document:  CACM-2896.html
+************************
+************************
+Document:  CACM-1008.html
+************************
+************************
+Document:  CACM-2342.html
+************************
+************************
+Document:  CACM-0717.html
+************************
+************************
+Document:  CACM-1302.html
+************************
+************************
+Document:  CACM-1658.html
+************************
+************************
+Document:  CACM-2306.html
+************************
+************************
+Document:  CACM-0371.html
+************************
+************************
+Document:  CACM-2936.html
+************************
+************************
+Document:  CACM-2627.html
+************************
+************************
+Document:  CACM-2557.html
+************************
+
+
+on the time required for a sequence of matrix products
+
+this paper discusses the multiplication of conformable
+sequences of row vectors, column vectors, 
+and square matrices.  the minimum time required to evaluate
+such products on ordinary serial computers 
+as well as parallel computers is discussed.  algorithms
+are presented which 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+************************
+Document:  CACM-2767.html
+************************
+************************
+Document:  CACM-2337.html
+************************
+************************
+Document:  CACM-0409.html
+************************
+************************
+Document:  CACM-2389.html
+************************
+************************
+Document:  CACM-3075.html
+************************
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort 
+************************
+
+
+a parallel bucket-sort algorithm is presented
+that requires time o(log n) and the use of n 
+processors.  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time.  a realistic model is used model is used in which
+no memory contention is permitted.  a procedure 
+is also presented to sort n numbers in time o(k log
+n) using n 1 + 1/k processors, for k an arbitrary 
+integer.  the model of computation for this procedure
+permits simultaneous fetches from the same memory 
+location.
+
+cacm august, 1978
+
+hirschberg, d.
+
+parallel processing, sorting, algorithms, bucket sort
+
+3.74 4.34 
+************************
+
+************************
+Document:  CACM-2175.html
+************************
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial illiac optimization 
+problem.  a satisfactory method of data allocation is
+then presented.  language structures to utilize 
+this storage method and express parallel algorithms are described.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2226.html
+************************
+************************
+Document:  CACM-2722.html
+************************
+************************
+Document:  CACM-1811.html
+************************
+************************
+Document:  CACM-2630.html
+************************
+************************
+Document:  CACM-0950.html
+************************
+
+
+parallel methods for integrating ordinary differential equations
+
+this paper is dedicated to the proposition that,
+in order to take full advantage for real-time 
+computations of highly parallel computers as can be
+expected to be available in the near future, much 
+of numerical analysis will have to be recast in a more
+"parallel" form.  by this is meant that serial 
+algorithms ought to be replaced 
+************************
+
+************************
+Document:  CACM-2895.html
+************************
+************************
+Document:  CACM-2263.html
+************************
+************************
+Document:  CACM-1660.html
+************************
+************************
+Document:  CACM-2685.html
+************************
+************************
+Document:  CACM-1873.html
+************************
+************************
+Document:  CACM-1851.html
+************************
+************************
+Document:  CACM-0392.html
+************************
+************************
+Document:  CACM-2520.html
+************************
+************************
+Document:  CACM-2973.html
+************************
+
+
+sorting on a mesh-connected parallel computer
+
+two algorithms are presented for sorting 
+************************
+ are presented for sorting n^2
+elements on an n x n mesh-connected processor 
+array that require o(n) routing and comparison steps.
+ the best previous algorithm takes time o(n log 
+n).  the algorithms of this paper are shown to be optimal
+in time within small constant factors.  extensions 
+to higher-dimensional arrays are also given.
+
+cacm april, 1977
+
+thompson, c. d.
+kung, h. t.
+
+parallel computer, parallel sorting, 
+************************
+
+************************
+Document:  CACM-2325.html
+************************
+************************
+Document:  CACM-2426.html
+************************
+************************
+Document:  CACM-1952.html
+************************
+************************
+Document:  CACM-2950.html
+************************
+************************
+Document:  CACM-2267.html
+************************
+************************
+Document:  CACM-1795.html
+************************
+************************
+Document:  CACM-2570.html
+************************
+
+
+a comparison of list schedules for parallel processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution time of a program 
+which consists of a set of partially ordered tasks
+is studied.  cases where task execution times are 
+deterministic and others in which execution times are
+random variables are analyzed.  it is shown that 
+different algorithms suggested in the literature 
+************************
+
+************************
+Document:  CACM-2195.html
+************************
+************************
+Document:  CACM-0804.html
+************************
+************************
+Document:  CACM-1262.html
+************************
+************************
+Document:  CACM-1601.html
+************************
+
+
+parallel numerical methods for the solution of equations
+
+classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in question.  a
+technique is given for the development of numerical 
+procedures which provide, at each stage, several approximations
+to a solution of an equation.  the s8everal 
+approximations obtained in any iteration are computationally
+independent, making the methods of interest 
+in a parallel processing environment.  convergence is
+insured by extracting the "best information" at 
+each iteration.  several families of numerical procedures
+which use the technique of the procedures in 
+a parallel processing environment are developed and measurements
+of these statistics are reported.  these 
+measurements are interpreted in a parallel processing
+environment.  in such an environment the procedures 
+obtained are superior to standard algorithms.
+
+cacm may, 1967
+
+shedler, 
+************************
+
+************************
+Document:  CACM-0270.html
+************************
+************************
+Document:  CACM-2903.html
+************************
+************************
+Document:  CACM-1846.html
+************************
+************************
+Document:  CACM-2324.html
+************************
+************************
+Document:  CACM-2094.html
+************************
+************************
+Document:  CACM-2851.html
+************************
+************************
+Document:  CACM-2904.html
+************************
+************************
+Document:  CACM-2007.html
+************************
+************************
+Document:  CACM-3132.html
+************************
+************************
+Document:  CACM-2114.html
+************************
+
+
+a formal system for information retrieval from files
+
+a generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and record retrieval are defined
+and from which some of the frequently used file structures such
+as inverted files, index-sequential files, and multilist files are
+derived.  two algorithms which retrieve records from the generalized file 
+structure are presented.
+
+cacm february, 1970
+
+hsiao, d.
+
+attribute-value pair, index, keyword, record, record address,
+k-pointer, k-list, file, directory, generalized file
+structure, inverted file, index-sequential-file, multilist file,
+description, file search, directory search, serial processing of
+lists, prime keyword, parallel processing of lists 
+************************
+
+************************
+Document:  CACM-2953.html
+************************
+************************
+Document:  CACM-1373.html
+************************
+************************
+Document:  CACM-2490.html
+************************
+************************
+Document:  CACM-2368.html
+************************
+************************
+Document:  CACM-1529.html
+************************
+************************
+Document:  CACM-1342.html
+************************
+************************
+Document:  CACM-1367.html
+************************
+************************
+Document:  CACM-2785.html
+************************
+************************
+Document:  CACM-1551.html
+************************
+************************
+Document:  CACM-3166.html
+************************
+************************
+Document:  CACM-1828.html
+************************
+************************
+Document:  CACM-2272.html
+************************
+************************
+Document:  CACM-2968.html
+************************
+************************
+Document:  CACM-2725.html
+************************
+************************
+Document:  CACM-2289.html
+************************
+
+
+cellular arrays for the solution of graph problems
+
+a cellular array is a two-dimensional, checkerboard
+type interconnection of identical modules 
+(or cells), where each cell contains a few bits of
+memory and a small amount of combinational logic, 
+and communicates mainly with its immediate neighbors
+in the array.  the chief computational advantage 
+offered by cellular arrays is the improvement in speed
+achieved by virtue of the possibilities for parallel 
+processing.  in this paper it is shown that cellular
+arrays are inherently well suited for the solution 
+of many graph problems.  for example, the adjacency
+matrix of a graph is easily mapped onto an array; 
+each matrix element is stored in one cell of the array,
+and typical row and column operations are readily 
+implemented by simple cell logic.  a major challenge
+in the effective use of cellular arrays for the 
+solution of graph problems is the determination of algorithms
+that exploit the possibilities 
+************************
+
+that exploit the possibilities for parallelism, 
+especially for problems whose solutions appear to be inherently
+serial.  in particular, several parallelized 
+algorithms are presented for the 
+************************
+ are presented for the solution of certain
+spanning tree, distance, and path problems, with 
+direct applications to wire routing, pert chart analysis,
+and the analysis of many types of networks. 
+ these algorithms exhibit a computation time that in
+many cases grows at a rate not exceeding log2 n, 
+where n is the number of nodes in the graph.  straightforward
+cellular implementations of the well-known 
+serial algorithms for these problems require about n
+steps, and noncellular implementations require from 
+n^2 to n^3 steps.
+
+cacm september, 1972
+
+levitt, k. n.
+kautz, w. h.
+
+graph theory, cellular logic-in-memory arrays,
+parallel processing, special 
+************************
+
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-2236.html
+************************
+************************
+Document:  CACM-1924.html
+************************
+************************
+Document:  CACM-1341.html
+************************
+************************
+Document:  CACM-2830.html
+************************
+************************
+Document:  CACM-1158.html
+************************
+************************
+Document:  CACM-3061.html
+************************
+************************
+Document:  CACM-2942.html
+************************
+************************
+Document:  CACM-1569.html
+************************
+************************
+Document:  CACM-0141.html
+************************
+************************
+Document:  CACM-3055.html
+************************
+************************
+Document:  CACM-2714.html
+************************
+************************
+Document:  CACM-2832.html
+************************
+************************
+Document:  CACM-2819.html
+************************
+************************
+Document:  CACM-2902.html
+************************
+************************
+Document:  CACM-2674.html
+************************
+************************
+Document:  CACM-2963.html
+************************
+************************
+Document:  CACM-2401.html
+************************

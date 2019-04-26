@@ -1,0 +1,2100 @@
+Snippets for the query:  Q49
+************************
+Total Hits:  125
+************************
+
+************************
+Document:  CACM-0292.html
+************************
+
+
+an information retrieval language for legal studies
+
+************************
+
+************************
+Document:  CACM-2846.html
+************************
+
+
+compressed tries
+
+this paper presents a new data structure,
+called a compressed trie or c-trie, to be used in 
+information retrieval systems.  it has the 
+************************
+
+************************
+Document:  CACM-2519.html
+************************
+
+
+on the problem of communicating complex information
+
+the nature of the difficulty involved in communicating
+mathematical results between scientists 
+using a computer based information retrieval system
+is examined. 
+************************
+
+************************
+Document:  CACM-3059.html
+************************
+************************
+Document:  CACM-2916.html
+************************
+
+
+a fast string searching algorithm
+
+an algorithm is presented that searches for
+the location, "i," of the first occurrence of a 
+character string, "pat," in another string, "string."
+ during the search operation, the characters of 
+pat are matched starting with the last character of
+pat.  the information gained by starting the match 
+at the end of the pattern often allows the algorithm
+to proceed in large jumps through the text being 
+searched.  thus the algorithm has the unusual property that,
+in most cases, not all of the first i characters 
+of string are inspected.  the number of characters actually
+inspected (on the average) decreases as a 
+function of the length of pat.  for a random english
+pattern of length 5, the algorithm will typically 
+inspect i/4 characters of string before finding a match at
+i.  furthermore, the algorithm has been implemented 
+so that (on the average) fewer than i+patlen machine
+instructions are executed.  these conclusions are 
+supported with empirical evidence and a theoretical
+analysis of the average behavior of the algorithm. 
+ the worst case behavior of the algorithm is linear in
+i+patlen, assuming the availability of array space 
+for tables linear in patlen plus the size of the alphabet.
+
+cacm october, 1977
+
+boyer, r. s.
+
+bibliographic search, computational complexity,
+information retrieval, linear time bound, 
+************************
+
+************************
+Document:  CACM-1681.html
+************************
+
+
+easy english,a language for information
+retrieval through a remote typewriter 
+************************
+ through a remote typewriter console
+
+easy english is a natural command language
+designed to simplify communication between man and 
+machine through remote typewriter console.  it has been developed
+for retrieval of documents from a computerized 
+data base, the moore school information systems laboratory
+files. 
+************************
+ systems laboratory
+files.  requests are formulated in a standardized 
+syntactical form (examples of which are presented), and
+this form is then transformed into an equivalent 
+query expressed in the retrieval system's original symbolic
+command language, which is briefly described. 
+ operation of easy english is detailed by illustration
+of the transformations performed upon a sample 
+request up to the point at which the request string
+is sent to the system.  a macro flowchart of easy 
+english is included, and an appendix provides
+the printout of a retrieval demonstration.
+
+cacm october, 1968
+
+rubinoff, m.
+bergman, s.
+cautin, h.
+rapp, f.
+
+natural language communication, on-line searching,
+remote console communication, information retrieval, 
+man-machine 
+************************
+ retrieval, 
+man-machine communication, remote terminal communication,
+translator, document retrieval, conversational 
+mode, information retrieval language, 
+************************
+
+************************
+Document:  CACM-3168.html
+************************
+
+
+comment on "an optimal evaluation of boolean
+expressions in an online query system."
+
+cacm october, 1979
+
+laird, p.
+
+query, boolean expression, information retrieval, file organization
+
+
+************************
+
+************************
+Document:  CACM-1675.html
+************************
+
+
+a note on a relevance estimate and its improvement
+
+in this paper the effect of iterating the improvement
+procedure is examined.  it is shown that 
+applications of the improvement factor beyond the first
+time are ineffectual, and that the factor is 
+but a scale factor.
+
+cacm november, 1968
+
+korfhage, r. r.
+
+information retrieval, relevance, indexing, 
+************************
+
+************************
+Document:  CACM-2141.html
+************************
+
+
+algorithmic selection of the best
+method for compressing map data strings
+
+the best of a dozen different methods for
+compressing map data is illustrated.  the choices 
+are generated by encoding data strings-sequence of like
+codes-by three methods and in four directions. 
+ relationships are developed between compression alternatives
+to avoid comparing all of them.  the technique 
+has been used to compress data from forest resource maps,
+but is widely applicable to map and photographic 
+data reduction.
+
+cacm december, 1971
+
+amidon, e. l.
+akin, g. s.
+
+data compression, map storage, information retrieval,
+input/output, run coding, 
+************************
+
+************************
+Document:  CACM-0239.html
+************************
+
+
+inefficiency of the use of boolean functions
+for information retrieval systems
+
+cacm december, 
+************************
+
+************************
+Document:  CACM-1194.html
+************************
+
+
+establishment of the acm repository and principles
+of the ir system applied to its operation
+
+the history of the establishment of the acm repository
+at the moore school, university of pennsylvania, 
+is reviewed briefly.  two principles are presented as
+paramount in the provision of information services: 
+(1) easy accessibility to the information files by users
+unfamiliar with file organization, and (2) value 
+of service exceeding user costs.  these principles serve
+as guides in mechanizing the acm repository. 
+ the main features of the information system are direct
+user access via on-line teletypewriter console, 
+direct user access to all details of the system organization,
+unrestricted and expandable search vocabulary, 
+user access through many facets of document indexing,
+and stochastic search through linked index terms 
+and other file relationships.  the first contribution
+to the acm repository consisted of 315 documents, 
+relating primarily to early research on compilers.  these
+documents have been cataloged and indexed and 
+the catalog is scheduled to appear in computing reviews.
+ the indexing system is described in detail. 
+ the main catalog is used to describe the documents,
+and inverted lists are provided by the repository 
+system for retrieval by concept coordination.
+
+************************
+
+************************
+Document:  CACM-2990.html
+************************
+
+
+effective information retrieval using term accuracy
+
+************************
+ using term accuracy
+
+the performance of information retrieval systems
+can be evaluated 
+************************
+ systems
+can be evaluated in a number of different 
+ways.  much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user query.  unfortunately, formal proofs are difficult
+to construct for the average case.  in the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query.  the concept 
+of query term accuracy is in troduced as the probability
+of occurrence of a query term in the documents 
+relevant to that query.  by relating term accuracy
+to the frequency of occurrence of the term in the 
+documents of a collection it is possible to give formal
+proofs of the effectiveness with respect to a 
+given user query of a number of automatic indexing systems
+that have been used successfully in experimental 
+situations.  among these are inverse document frequency
+weighting, thesaurus construction, and phrase 
+generation.
+
+cacm march, 1977
+
+yu, c. t.
+salton, g.
+
+information retrieval, automatic 
+************************
+
+************************
+Document:  CACM-0082.html
+************************
+************************
+Document:  CACM-3156.html
+************************
+
+
+computing connected components on parallel computers
+
+we present a parallel algorithm which uses n2 processors to find the connected
+
+************************
+ to find the connected
+components of an undirected graph with n vertices in time o(log2n).  an
+o(log2n) time bound also can be achieved using only n$n/$log2n)) processors.
+the algorithm can be used to find the transitive closure
+of a symmetric boolean matrix.  we assume that the processors have
+access to a common memory.  simultaneous access to the same location
+is permitted for fetch instructions but not for store instructions.
+
+cacm august, 1979
+
+hirschberg, d.
+chandra, a.
+sarwate, d.
+
+graph theory, parallel processing, algorithms,
+
+************************
+
+************************
+Document:  CACM-2266.html
+************************
+************************
+Document:  CACM-2401.html
+************************
+************************
+Document:  CACM-2976.html
+************************
+
+
+approximating block accesses in database organizations
+
+cacm april, 1977
+
+yao, s. b.
+
+database, inverted file organization, database performance
+and measurement, information retrieval, 
+query answering
+
+3.70 
+************************
+
+************************
+Document:  CACM-3012.html
+************************
+
+
+the use of an interactive information storage
+and retrieval system in medical research
+
+************************
+ system in medical research
+
+this paper presents the results of a study
+of the use of an interactive computerized storage 
+and retrieval system.  a monitor built into the computer
+system provided usage data for the study.  additional 
+data on user reactions were gathe red from a questionnaire.
+ the results show the important role played 
+by frequently chosen laboratory reference leaders in influencing
+the use of this system.  the implications 
+of the study for the design of similar systems are discussed.
+
+cacm march, 1978
+
+lucas, hr.
+
+implementation, system use, information storage and retrieval 
+************************
+
+************************
+Document:  CACM-2139.html
+************************
+
+
+implementation of the substring test by hashing
+
+a technique is described for implementing the
+test which determines if one string is a substring 
+of another.  when there is low probability that the test
+will be satisfied, it is shown how the operation 
+can be speeded up considerably if it is preceded by
+a test on appropriately chosen hash codes of the 
+strings.
+
+cacm december, 1971
+
+harrison, m. c.
+
+substring, hashing, subset, signature, information
+compression, information retrieval, searching
+
+3.74 5.30 
+************************
+
+************************
+Document:  CACM-0275.html
+************************
+
+
+dynamic storage allocation for an information retrieval system
+
+cacm october, 
+************************
+
+************************
+Document:  CACM-2711.html
+************************
+
+
+a vector space model for automatic indexing
+
+in a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search requests), it appears that the best indexing 
+(property) space is one where each entity lies as far away
+from the others as possible; in these circumstances 
+the value of an indexing system may be expressible
+as a function of the density of the object space; 
+in particular, retrieval performance may correlate inversely
+with space density.  an approach based on 
+space density computations is used to choose an optimum
+indexing vocabulary for a collection of documents. 
+ typical evaluation results are shown, demonstrating
+the usefulness of the model.
+
+cacm november, 1975
+
+salton, g.
+wong, a.
+yang, c. s.
+
+automatic information retrieval, automatic
+
+************************
+
+************************
+Document:  CACM-2412.html
+************************
+
+
+comment on brent's scatter storage algorithm
+
+cacm november, 1973
+
+feldman, j. a.
+low, j. r.
+
+hashing, information storage and retrieval,
+scatter storage, searching, 
+************************
+
+************************
+Document:  CACM-2451.html
+************************
+
+
+design of tree structures for efficient querying
+
+a standard information retrieval operation is
+to determine 
+************************
+ operation is
+to determine which records in a data collection 
+satisfy a given query expressed in terms of data values.
+ the process of locating the desired responses 
+can be represented by a tree search model.  this paper
+poses an optimization problem in the design of 
+such trees to serve a well-specified application. the
+problem is academic in the sense that ordinarily 
+the optimal tree cannot be implemented by means of practical
+techniques.  on the other hand, it is potentially 
+useful for the comparison it affords between observed
+performance and that of an intuitively attractive 
+ideal search procedure.  as a practical application
+of such a model this paper considers the design of 
+a novel tree search scheme based on a bit vector representation
+of data and shows that essentially the 
+same algorithm can be used to design either an ideal
+search tree or a bit-vector tree.  an experimental 
+study of a small formatted file illustrates the concepts.
+
+cacm september, 1973
+
+casey, r. g.
+
+tree file, information storage and retrieval, clustering,
+search, 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+************************
+Document:  CACM-1627.html
+************************
+
+
+application of level changing to a multilevel storage organization
+
+a technique for organizing the devices of a computer
+storage system is described.  this technique, 
+called the multilevel store, provides a means for economically
+satisfying the requirements for very large 
+storage capacities of certain data management and information
+retrieval systems.  the concept 
+************************
+
+************************
+Document:  CACM-1830.html
+************************
+
+
+retrieval times for a packed direct access inverted file
+
+cacm october, 1969
+
+bayes, a. j.
+
+information retrieval, direct access 
+************************
+
+************************
+Document:  CACM-3075.html
+************************
+
+
+fast parallel sorting algorithms
+
+a parallel bucket-sort algorithm is presented
+that requires time o(log n) and the use of n 
+processors.  the algorithm makes 
+************************
+.  the algorithm makes use of a technique that
+requires more space than the product of processors 
+and time.  a realistic model is used model is used in which
+no memory contention is permitted.  a procedure 
+is also presented to sort n numbers in time o(k log
+n) using n 1 + 1/k processors, for k an arbitrary 
+integer.  the model of computation for this procedure
+permits simultaneous fetches from the same memory 
+location.
+
+cacm august, 1978
+
+hirschberg, d.
+
+parallel processing, sorting, 
+************************
+
+************************
+Document:  CACM-2175.html
+************************
+
+
+subexpression ordering in the execution of arithmetic expressions
+
+an arithmetic expression can often be broken
+down into its component subexpressions.  depending 
+on the hardware environment in which the expression is
+to be executed, these subexpressions can be evaluated 
+in serials, in parallel, or in a combination of these
+modes.  this paper shows that expression execution 
+time can be minimized only if consideration is given to
+the ordering of the subexpressions.  in particular, 
+subexpressions should be executed in order of decreasing
+memory and processor time requirements.  this 
+observation is valid for configurations ranging from
+a uniprocessor with an unbuffered main memory to 
+multiprocessor with a "cache" buffer memory.  if the
+number of subexpressions which can be executed in 
+parallel exceeds the number of available processors,
+then execution of some 
+************************
+
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in data retrieval systems.  in particular,
+the impact of query complexity is analyzed.
+
+cacm february, 1976
+
+siler, k. f.
+
+database architecture, database performance and
+evaluation, invented list, threaded list, cellular 
+list, information retrieval, database 
+************************
+
+************************
+Document:  CACM-1359.html
+************************
+
+
+data filtering applied to information storage and retrieval applications
+
+manipulation 
+************************
+ applications
+
+manipulation of data strings is the most complex
+processing function in information storage 
+and retrieval applications.  data 
+************************
+
+************************
+Document:  CACM-2160.html
+************************
+
+
+canonical structure in attribute based file organization
+
+a new file structure for attribute based retrieval
+is proposed in this paper.  it allows queries 
+involving arbitrary boolean functions of the attribute-value
+pairs to be processed without taking intersections 
+of lists.  the structure is highly dependent on the
+way in which the file is to be used and is uniquely 
+determined by the specification of the allowed queries.
+ thus, for example, the structure for retrieval 
+on the basis of ranges of values of a given attribute would
+be very different from one where only retrieval 
+on the basis of a single value is permitted.  the file
+organization being proposed is based on the atoms 
+of a boolean algebra generated by the queries.  the desirable
+properties claimed for this structure are 
+proved, and file maintenance questions are discussed.
+
+cacm september, 1971
+
+wong, e.
+chiang, t. c.
+
+address calculation, atoms of boolean algebra,
+attributes, boolean functions, boolean queries, 
+file organization, information retrieval, inverted
+
+************************
+
+************************
+Document:  CACM-2967.html
+************************
+
+
+a comparison of hardware and software associative
+memories in the context of computer graphics
+
+the associative processing of line drawings (apld)
+system utilizes a hardware associative memory 
+and creates, modifies, deletes, stores, and retrieves
+two-dimensional line drawings consisting of poin ts,
+lines, rectangles, and triangles. the apld functions
+were duplicated on the tx-2 computer at m.'s 
+lincoln laboratory under the leap language and data
+structure,  a comparison of the hardware approach 
+with the software simulation illustrates the advantages
+of the hardware associative memory in three areas: 
+(1) processing speed, (2) storage requirements, and (3)
+flexibility.  the major problem areas of hardware 
+associative memory technology, namely input/output
+and cost effectiveness, are also addressed.
+
+cacm may, 1977
+
+stillman, n. j.
+berra, p. b.
+
+associative memory, associative processor, content-addressable
+memory, graphics, information retrieval, 
+data structures, software 
+************************
+
+************************
+Document:  CACM-1236.html
+************************
+
+
+the smart automatic document retrieval system-an illustration
+
+a fully automatic document retrieval system
+operating on the ibm 7094 is described.  the system 
+is characterized by the fact that several hundred different
+methods are available to analyze documents 
+and search requests.  this feature is used in the retrieval
+process by leaving the exact sequence of 
+operations initially unspecified, and adapting the
+search strategy to the needs of individual users. 
+ the system is used not only to simulate an actual operating
+environment, but also to test the effectiveness 
+of the various available processing methods.  results obtained
+so far seem to indicate that some combination 
+of analysis procedures can in general be relied upon to
+retrieve the wanted information.  a typical search 
+
+************************
+
+************************
+Document:  CACM-2722.html
+************************
+
+
+multidimensional binary search trees used for associative searching
+
+this paper develops the multidimensional binary
+search tree (or k-d tree, where k is the dimensionality 
+of the search space) as a data structure for storage of
+information to be retrieved by associative searches. 
+the k-d tree is defined and examples are given. it
+is shown to be quite in its storage requirements. 
+ a significant advantage of this structure is that a single
+data structure can handle many types of queries 
+very efficiently.  various utility algorithms are developed;
+their proven average running times in an 
+n record file are: insertion, o (log n); deletion of
+the root, o (n^(k-1)/k); deletion of a random node, 
+o (log n); and optimization (guarantees logarithmic performance
+of searches), o (n log n).  search algorithms 
+are given for partial match queries with t keys specified
+[proven maximum running time of o (n^(k-t)/k)] 
+and for nearest neighbor queries [empirically observed average
+running time of o (log n).]  these performances 
+far surpass the best currently known algorithms for
+these tasks.  an algorithm is presented to handle 
+any general intersection query. the main focus of this
+paper theoretical.  it is felt, however, that 
+k-d trees could be quite useful in many applications,
+and examples of potential uses are given.
+
+cacm september, 1975
+
+bently, j. l.
+
+associative retrieval, binary search trees, 
+************************
+, binary search trees, key,
+attribute, information retrieval system, nearest 
+neighbor 
+************************
+
+************************
+Document:  CACM-1825.html
+************************
+************************
+Document:  CACM-1811.html
+************************
+
+
+a case study in programming for parallel-processors
+
+an affirmative partial 
+************************
+
+
+an affirmative partial answer is provided to
+the question of whether it is possible to program 
+parallel-processor computing systems to efficiently decrease
+execution time for useful problems.  parallel-processor 
+systems are multiprocessor systems in which several of
+the processors can simultaneously execute 
+************************
+ can simultaneously execute separate 
+tasks of a single job, thus cooperating to decrease
+the solution time of a computational problem. the 
+processors have independent instruction counters, meaning
+that each processor executes its own task program 
+relatively independently of the other processors.  communication
+between cooperating processors is by 
+means of data in storage shared by all processors.  a
+program for the determination of the distribution 
+of current in an electrical network was written for a
+parallel-processor computing 
+************************
+-processor computing system, and execution 
+of this program was simulated.  the data gathered from
+simulation runs demonstrate the efficient solution 
+of this problem, typical of a large class of important
+problems.  it is shown that, with proper programming, 
+solution time when n processors are applied approaches
+1/n times the solution time for a single processor, 
+while improper programming can actually lead to an increase
+of solution time with the number of processors. 
+ stability of the method of solution was also investigated.
+
+cacm december, 1969
+
+rosenfeld, j. l.
+
+parallel-processor, parallelism, 
+************************
+
+************************
+Document:  CACM-3134.html
+************************
+
+
+the use of normal multiplication tables
+for information storage and retrieval
+
+this paper describes 
+************************
+
+
+this paper describes a method for the organization and retrieval of attribute 
+based information systems, using the normal 
+************************
+ systems, using the normal multiplication table as a directory
+for the information system.  algorithms for the organization an
+d retrieval of information are described. 
+************************
+ of information are described.  this method is particularly
+suitable for queries requesting a group of information items,
+ all of which possess a particular set of attributes (and possibly
+some other attributes as well).  several examples are given; the
+results with respect to the number of disk accesses and disk space
+are compared to other common approaches.  algorithms evaluating
+the appropriateness of the above approach to a given information system
+are described.  for a certain class of information systems,
+the normal multiplication table method yields far more rapid retrieval
+with a more economical 
+************************
+
+with a more economical space requirement than conventional systems.  
+moreover this method incorporates an improved modification of the inverted 
+file technique.
+
+cacm march, 1979
+
+motzkin, d.
+
+information retrieval, inverted files, multiattribute 
+************************
+
+************************
+Document:  CACM-0950.html
+************************
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information 
+************************
+
+
+automatic information retrieval programs require
+the 
+************************
+ programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the light of the procedures requiring 
+implementation.  advantages of these programming languages
+for the retrieval application are examined, 
+************************
+ application are examined, 
+and suggestions are made for the design of programming
+facilities to aid in information retrieval.
+
+cacm march, 1966
+
+
+************************
+
+************************
+Document:  CACM-2493.html
+************************
+
+
+optimum data base reorganization points
+
+in certain data base organization schemes the
+cost per access may increase due to structural 
+inefficiencies caused by updates.  by reorganizing
+the data base the cost per access may be reduced. 
+ however, the high cost of a reorganization prohibits
+frequent reorganizations.  this paper examines 
+strategies for selecting the optimum reorganization points.
+
+cacm june, 1973
+
+shneiderman, b.
+
+data base, reorganization, files, information retrieval
+
+3.73
+
+ca730607 jb january 
+************************
+
+************************
+Document:  CACM-2685.html
+************************
+************************
+Document:  CACM-2140.html
+************************
+
+
+retrieval-update speed tradeoffs using combined indices
+
+in a paper in the november 1970 communications
+of the acm, v. y. lum introduced a technique 
+of file indexing named combined indices.  this technique
+permitted decreased retrieval time at the cost 
+of increased storage space.  this paper examines combined
+indices under conditions of file usage with 
+different fractions of retrieval and update.  tradeoff
+curves are developed to show minimal cost of file 
+usage by grouping various partially combined indices.
+
+cacm december, 1971
+
+mullin, j. k.
+
+file organization, combined index files, inverted
+files, information retrieval, query, multi-attribute 
+************************
+
+************************
+Document:  CACM-2288.html
+************************
+
+
+file organization: the consecutive retrieval property
+
+the consecutive retrieval property is an important
+relation between a query set and record 
+set.  its existence enables the design of an information
+retrieval system with 
+************************
+
+retrieval system with a minimal search time 
+and no redundant storage.  some important theorems on
+the consecutive retrieval property are proved in 
+this paper.  conditions under which the consecutive retrieval
+property exists and remain invariant have 
+been established.  an outline for designing an information
+retrieval system based 
+************************
+
+retrieval system based on the consecutive 
+retrieval property is also discussed.
+
+cacm september, 1972
+
+ghosh, s. p.
+
+file organization, consecutive storage, consecutive
+retrieval, information retrieval, record organization, 
+************************
+
+************************
+Document:  CACM-1680.html
+************************
+
+
+a general-purpose display processing and tutorial system
+
+adept (a display-expedited processing and tutorial)
+system is described.  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  it is written in fortran 
+************************
+.  it is written in fortran 
+iv (g) for the ibm system/360, model 40, and the ibm 2250
+display unit under operating system/360.  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  illustrations of the various
+applications are presented and their implications 
+are discussed.
+
+cacm october, 1968
+
+engvold, k. j.
+hughes, j. l.
+
+computer-assisted instruction, tutorial systems,
+programming, simulation, modeling, information 
+retrieval operating systems, graphics, 
+************************
+
+************************
+Document:  CACM-0392.html
+************************
+************************
+Document:  CACM-2455.html
+************************
+
+
+a generalization of avl trees
+
+a generalization of avl trees is proposed in
+which imbalances up to (triangle shape) is a small 
+integer.  an experiment is performed to compare these
+trees with standard avl trees and with balanced 
+trees on the basis of mean retrieval time, of amount
+of restructuring expected, and on the worst case 
+of retrieval time.  it is shown that, by permitting
+imbalances of up to five units, the retrieval time 
+is increased a small amount while the amount of restructuring
+required is decreased by a factor of ten. 
+ a few theoretical results are derived, including the correction
+of an earlier paper, and are duly compared 
+with the experimental data.  reasonably good correspondence is found.
+
+cacm august, 1973
+
+foster, c. c.
+
+avl trees, balanced trees, information storage and retrieval
+
+************************
+
+************************
+Document:  CACM-1831.html
+************************
+
+
+a comment on optimal tree structures
+
+cacm october, 1969
+
+stanfel, l. e.
+
+information retrieval, file searching, tree 
+************************
+
+************************
+Document:  CACM-0891.html
+************************
+
+
+everyman's information retrieval system
+
+the information 
+************************
+ system
+
+the information retrieval problem whose solution
+
+************************
+ problem whose solution
+is presented here was posed by a technical 
+library with limited bubget and personnel.  the solution,
+however, is quite general and is applicable 
+to many different types of retrieval problems.  further,the
+method of solution makes it possible for 
+many groups who have previously dismissed an information
+retrieval program as 
+************************
+
+retrieval program as expensive and difficult 
+(from a programming stand-point) to reconsider their position,
+for the present solution makes it possible 
+to install an information retrieval program in 
+************************
+
+************************
+Document:  CACM-2973.html
+************************
+************************
+Document:  CACM-0655.html
+************************
+
+
+comit as an ir language
+
+many of the features that make comit a good
+all around symbol manipulation language also render 
+it well suited to various types of information retrieval
+programs.  presented 
+************************
+
+************************
+Document:  CACM-2307.html
+************************
+
+
+dynamic document processing
+
+the current role of computers in automatic
+document processing is briefly outlined, and some 
+reasons are given why the early promise of library automation
+and of the mechanization of documentation 
+processes has not been fulfilled.  a new dynamic document
+environment is then outlined in which clustered
+files are searched and information is retrieved following
+an interactive user-controlled search process. 
+ methods are described for an automatic query modification
+based on user needs, and for a continuous 
+reorganization of the stored information as a function of
+earlier file processing and of normal collection 
+growth.  the proposed procedures provide powerful tools
+for information retrieval and for the control 
+************************
+
+************************
+Document:  CACM-2865.html
+************************
+
+
+verifying properties of parallel programs: an axiomatic approach
+
+an axiomatic method for proving a number
+of properties of parallel programs is presented.  
+hoare has given a set of axioms for partial correctness,
+but they are not strong enough in most cases. 
+ this paper defines a more powerful deductive system which
+is in some sense complete for partial correctness. 
+ a crucial axiom provides for the use of auxiliary variables,
+which are added to a parallel program as 
+an aid to proving it correct.  the information in a partial
+correctness 
+************************
+
+************************
+Document:  CACM-0440.html
+************************
+
+
+record linkage
+
+special difficulties are encountered in devising
+reliable systems for searching and updating 
+any large files of documents that must be identified
+primarily on the basis of names and other personal 
+particulars.  the underlying problem is that of making nearly
+maximum use of items of identifying information 
+that are individually unreliable but that may collectively
+be of considerable discriminating power.  
+rules that can be applied generally to name retrieval
+systems have been developed 
+************************
+
+************************
+Document:  CACM-2532.html
+************************
+
+
+on harrison's substring testing technique
+
+cacm march, 1973
+
+bookstein, a.
+
+string, substring, hashing, information storage and retrieval
+
+3.74 5.30 5.5
+
+ca730307 
+************************
+
+************************
+Document:  CACM-0651.html
+************************
+
+
+a survey of languages and systems for information retrieval
+
+cacm january, 1962
+
+************************
+
+************************
+Document:  CACM-2570.html
+************************
+
+
+a comparison of list schedules for parallel processing systems
+
+the problem of scheduling two or more processors
+to minimize the execution 
+************************
+
+************************
+Document:  CACM-2195.html
+************************
+************************
+Document:  CACM-0634.html
+************************
+
+
+manipulation of trees in information retrieval*
+
+cacm february, 1962
+
+************************
+
+************************
+Document:  CACM-1601.html
+************************
+
+
+parallel numerical methods for the solution of equations
+
+classical iterative procedures for the numerical
+solution of equations provide at each stage 
+a single new approximation to the root in question.  a
+technique is given for the development of numerical 
+procedures which provide, at each stage, several approximations
+to a solution of an equation.  the s8everal 
+approximations obtained in any iteration are computationally
+independent, making the methods of interest 
+in a parallel processing environment.  convergence is
+insured by extracting the "best information" at 
+each iteration. 
+************************
+
+************************
+Document:  CACM-1927.html
+************************
+
+
+information science in a ph. computer science program
+
+this report contains recommendations on a sample course
+curriculum in the general area of information 
+organization and information system design in a ph.
+computer science program.  the subject area is 
+first briefly described, followed by a listing of some desirable
+graduate-level courses.  suitable bibliographies 
+are appended.
+
+cacm february, 1969
+
+salton, g.
+
+course curriculum, graduate courses, university
+courses,computer science curriculum, information 
+science, information organization, information retrieval,
+data retrieval, language 
+************************
+,
+data retrieval, language analysis, information 
+processing
+
+1.52 3.42 
+************************
+
+************************
+Document:  CACM-1976.html
+************************
+
+
+multi-attribute retrieval with combined indexes
+
+in this paper a file organization scheme designed to
+replace the use of the popular secondary index filing scheme
+(or inverted files on secondary key fields) is described.
+through the use of redundancy and storing 
+keys (or access numbers of the records) that satisfy different combinations
+of secondary index values in "buckets," it is possible to retrieve
+all keys satisfying any input query derived from a subset of
+fields by a single access to an index file, although each bucket may
+be used for many combinations of values and a combination of
+buckets may be required for a given query.  the method which, in its
+degenerate case, becomes the conventional secondary index filing
+scheme works similarly but has the following advantages: (1) the elimination
+of multiple accesses in many cases; (2) the elimination
+of false drops; (3) the elimination of computer time to perform intersection
+of key sets each qualified for one secondary index field
+only; and (4) the avoidance of long strings of keys when an index
+field appearing in a query has very few possible values.  redundancy, in some 
+cases, is the same as the secondary indexing method. in the general case, 
+trade-off between the number of accesses for query and redundancy exists.
+
+cacm november, 1970
+
+lum, v. y.
+
+file organization, secondary index files, inverted files, information
+retrieval, data management, 
+************************
+
+************************
+Document:  CACM-1846.html
+************************
+
+
+on simulating networks of parallel processes
+in which simultaneous events may occur
+
+some of the problems of simulating discrete
+event systems, particularly computer systems, on 
+a conventional digital computer are dealt with.  the
+systems are assumed to be described as a network 
+of interconnected sequential processes.  briefly reviewed
+are the common techniques used to handle such 
+simulations when simultaneous events do not occur, can
+be ignored, or can be handled by simple priority 
+rules.  following this, the problem of dealing with simultaneous
+events in separate processes is introduced. 
+ an abstraction of this problem is developed which admits
+solution for a majority of commonly encountered
+problems.  the technique will either find a method of
+simulating the parallel events or report that none 
+can be found.  in some of the latter cases it is shown
+to be possible to find a solution by extending 
+the information available to the solution 
+************************
+ available to the solution technique, but
+in many cases the technique becomes computationally 
+unfeasible when the additional information is provided.
+
+cacm september, 1969
+
+parnas, d. l.
+
+simulation, parallel processes, simultaneous 
+************************
+
+************************
+Document:  CACM-1959.html
+************************
+
+
+an interrupt based organization for management information systems
+
+a programming structure, language constructs, and a supervisory system 
+organization are proposed
+for the design and coding of large shared data base systems.  the
+bases for this organization are a generalized interrupt structure
+and the newly introduced concept of "file tagging," which is the
+process of associating program structures and interrupt generating
+conditions with items in the data base.  an algorithm for resolving
+conflicts which arise in scheduling the interrupt processing routines
+is presented.  dpl, a programming language and supervisory
+system in which these concepts are implemented, is used to illustrated
+the new organization which is proposed for management information systems.
+
+cacm december, 1970
+
+morgan, h. l.
+
+management information systems, integrated data processing,
+supervisors, interrupts monitoring systems, supervisory
+systems, interrupt scheduling, parallel processing
+
+3.51 4.22 
+************************
+
+************************
+Document:  CACM-1988.html
+************************
+************************
+Document:  CACM-1725.html
+************************
+
+
+a simple proof of lewin's ordered-retrieval
+theorem for associative memories
+
+an efficient method of ordered retrieval of binary
+words from an associative memory, as described
+by lewin, is based on the use of special readout circuits
+which indicate the digit values present in 
+the individual digit columns of the memory.  thus the
+circuits indicate whether the individual digit 
+columns contain digits of both values, or of only one
+value, or contain no digits at all (i.e. that the 
+memory is empty).  the use of these circuits, which
+in this paper are termed column value indicators, 
+reduces considerably the number of memory accesses necessary
+to retrieve in order a number of distinct 
+words from the memory.  lewin proves that, for the readout
+by the described method of m distinct binary 
+words, 2m - 1 memory accesses are necessary.  (thus he
+proves that the number of necessary memory accesses 
+of his method, unlike those of other methods, is independent
+of the word length.)  in this paper a very 
+simple proof of this theorem derived from some elementary
+aspects of the structure of sets of binary 
+numbers is presented.
+
+cacm july, 1968
+
+wolinsky, a.
+
+associative memories, content-addressed memories,
+ordered lists, ordered information retrieval, 
+ordered 
+************************
+
+************************
+Document:  CACM-2947.html
+************************
+
+
+sitar: an interactive text processing system for small computers
+
+sitar, a low-cost in teractive text handling
+and text analysis system for nontechnical users, 
+is in many ways comparable to in teractive bibliographical
+search and retrieval systems, but has several 
+additional features. it is implemented on a pdp/11 time-sharing
+computer invoked by a crt with microprogrammed 
+editing functions.  it uses a simple command language designating
+a function, a file, and a search template 
+consisting of the textual string desired and strings
+delimiting the context in which the hit is to be 
+delivered.  extensive experience with sitar shows that
+the combined powers of simple commands, string 
+orientation, circular file structure, a crt with local
+memory, and conversational computing produce a 
+system much more powerful than the sum of its parts.
+
+cacm july, 1977
+
+schneider, b. r. jr.
+watts, r. m.
+
+information retrieval, text editing, 
+************************
+
+************************
+Document:  CACM-2851.html
+************************
+************************
+Document:  CACM-1699.html
+************************
+
+
+experimental evaluation of information
+retrieval through a teletypewriter
+
+************************
+ through a teletypewriter
+
+experiments designed to evaluate the capabilities
+of mechanized information retrieval systems, 
+with emphasis 
+************************
+ systems, 
+with emphasis on interactive (man-machine) language and on
+some of the mechanical and psychological limitations 
+in their design, were conducted at the moore school information
+systems laboratory.  the basic assumption 
+of the research is that an information retrieval system
+that provides 
+************************
+ system
+that provides for man-machine dialogue at a remote 
+inquiry terminal should provide a searcher with many
+of the tools which would be available to him were 
+he actually performing his search at a library or repository
+of documents.  factors involved in evaluation 
+of such a system include ease of use, learning time, and
+effectiveness of actual retrieval.  three experiments 
+and the conclusions resulting from them are detailed.
+
+cacm september, 1968
+
+rubinoff, m.
+bergman, s.
+franks, w.
+rubinoff, e.
+
+information retrieval testing,  
+************************
+ retrieval testing,  information system
+evaluation, experimental 
+************************
+
+************************
+Document:  CACM-1514.html
+************************
+
+
+on the expected gain from adjust ing matched term retrieval systems
+
+a file adjustment procedure based on maximizing
+the bayes expected gain proposed for matched 
+term retrieval systems.  the expected gain and its probability
+distribution are derived as a function 
+of: (1) the prior proportion of omitted terms, and (2) the
+coefficient of separation between two distributions 
+corresponding to values of an adjustment statistic.  an
+example evaluates the gain parameters for a typical 
+information retrieval system.
+
+cacm 
+************************
+
+************************
+Document:  CACM-2631.html
+************************
+
+
+an information-theoretic approach to
+text searching in direct access systems
+
+using direct access computer files of bibliographic
+information, an attempt is made to overcome 
+one of the problems often associated with information
+retrieval, namely, the maintenance 
+************************
+, namely, the maintenance and use of large 
+dictionaries, the greater part of which is used only
+infrequently.  a novel method is presented, which 
+maps the hyperbolic frequency distribution.  this is
+more suited to implementation on storage devices. 
+ this method treats text as a string of characters rather
+than words bounded by spaces, and chooses subsets 
+of strings such that their frequencies of occurrence are
+more even than those of word types.  the members 
+of this subset are then used as index keys for retrieval.
+the rectangular distribution of key frequencies 
+results in a much simplified file organization
+and promises considerable cost advantages.
+
+cacm june, 1974
+
+barton, i. j.
+creasey, s. e.
+lynch, m. f.
+snell, m. j.
+
+text searching, information theory, file organization,
+
+************************
+ theory, file organization,
+direct access, information retrieval, character 
+string, 
+************************
+
+************************
+Document:  CACM-2114.html
+************************
+
+
+a formal system for information retrieval from files
+
+a generalized 
+************************
+ from files
+
+a generalized file structure is provided
+by which the concepts of keyword, index, record, file, directory,
+file structure, directory decoding, and record retrieval are defined
+and from which some of the frequently used file structures such
+as inverted files, index-sequential files, and multilist files are
+derived.  two algorithms which retrieve records from the generalized file 
+structure are presented.
+
+cacm february, 1970
+
+hsiao, d.
+
+attribute-value pair, index, keyword, record, record address,
+k-pointer, k-list, file, directory, generalized file
+structure, inverted file, index-sequential-file, multilist file,
+description, file search, directory search, serial processing of
+lists, prime keyword, parallel processing of lists 
+************************
+
+************************
+Document:  CACM-1665.html
+************************
+************************
+Document:  CACM-2070.html
+************************
+
+
+a formal system for information retrieval from files
+
+cacm april, 
+************************
+
+************************
+Document:  CACM-2781.html
+************************
+
+
+the algorithm sequential access method:
+an alternative to index sequential
+
+cacm march, 1975
+
+whitt, j. d.
+sullenberger, a. g.
+
+keys, direct access method, sequential access
+method, randomizing information retrieval
+
+3.7
+
+ca750307 jb january 
+************************
+
+************************
+Document:  CACM-2714.html
+************************
+
+
+merging with parallel processors
+
+consider two linearly 
+************************
+
+
+consider two linearly ordered sets a, b, |a|=m,
+|b|=n, m<=n, and p, p<=m, parallel processors 
+working synchronously. 
+************************
+ 
+working synchronously.  the paper presents an algorithm
+for merging a and b with the p parallel processors, 
+which requires at 
+************************
+
+************************
+Document:  CACM-3169.html
+************************
+
+
+note on "an optimal evaluation of boolean expressions 
+in an online query system."
+
+cacm october, 1979
+
+gudes, e.
+hoffman, a.
+
+query, boolean expression, optimal evaluation, information retrieval
+
+3.50 3.70 3.74
+
+ca791002 
+************************
+
+************************
+Document:  CACM-1456.html
+************************
+
+
+storage and retrieval of aspects of meaning in directed graph structures
+
+an experimental system that uses lisp to make
+a conceptual dictionary is described.  the dictionary 
+associates with each english word the syntactic information,
+definitional material, 
+************************
+
+************************
+Document:  CACM-0670.html
+************************
+
+
+some legal implications of the use of computers in the banking business
+
+the introduction of computers in to the banking
+business has a wide variety of legal implications 
+that merit careful attention at this very early stage.
+ the industry is highly regulated by government 
+and, hence, is subject to many statutes and regulations.
+ it also is affected by important common law 
+rules established by courts.  the legal ramifications
+involve not only the mechanization itself, but 
+also the very significant, economically attractive phenomenon
+of off premises processing.  it is essential 
+to identify and provide for many legal aspects right
+now, before systems and practices crystallize, in 
+order to avoid the later impact of unanticipated physical
+complications and expense.  the legal aspects 
+of computerization in the banking business are especially
+diverse.  in some states, there might be the 
+basic question whether banks are authorized by law to
+invest in the new facilities, either directly or 
+through cooperatives.  more challenging are questions
+relating to off-premises processors, particularly 
+with respect to the obligation not to disclose information
+concerning a bank's 
+************************
+
+************************
+Document:  CACM-1527.html
+************************
+
+
+a grammar base question answering procedure
+
+the subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or 
+************************
+
+************************
+Document:  CACM-2785.html
+************************
+************************
+Document:  CACM-1711.html
+************************
+
+
+when your computer needs a lawyer
+
+possible liability for negligence, for other
+torts (such as slander of credit) and for liability 
+under theories of express or implied warranty (guarantees)
+are discussed, and legal complications are 
+explained, so that users, operators, owners, and leasors
+of computers may be alerted to potential legal 
+problems. focus is also on trouble spots in contracting
+for data processing services, in automating record 
+keeping operations, in deciding whether or not to automate
+certain operations, and in complying with 
+statutes and regulation relating to record keeping.
+ information is given on patents, copyrights and 
+trade secret protection for programs, and the problem
+of using copyrighted material in information storage 
+and retrieval systems, including the 
+************************
+
+************************
+Document:  CACM-2278.html
+************************
+
+
+on foster's information storage and retrieval using avl trees
+
+cacm 
+************************
+ using avl trees
+
+cacm september, 1972
+
+tan, k. c.
+
+binary trees, search trees, information storage, information retrieval
+
+3.70 3.73 3.74
+
+ca720912 
+************************
+
+************************
+Document:  CACM-1700.html
+************************
+
+
+peekabit, computer offspring of punched
+card peekaboo, for natural language searching
+
+the "peekaboo" idea from punched card information
+retrieval methods has been mated 
+************************
+
+************************
+Document:  CACM-0944.html
+************************
+
+
+storage and search properties of a tree-organized memory system
+
+a memory with list properties [1] may be used
+to construct numeric, alphabetic or alphanumeric 
+trees.  such trees have information storage and retrieval
+properties applicable 
+************************
+
+************************
+Document:  CACM-2530.html
+************************
+
+
+an algorithm for extracting phrases in
+a space-optimal fashion [z] (algorithm a444)
+
+cacm march, 1973
+
+wagner, r. a.
+
+information retrieval, coding, text compression
+
+************************
+
+************************
+Document:  CACM-1828.html
+************************
+************************
+Document:  CACM-2623.html
+************************
+
+
+a new technique for compression and storage of data
+
+the widespread tendency toward storage of
+large programs and blocks off text has produced a 
+need for efficient methods of compressing and storing
+data.  this paper describes techniques that can, 
+in most cases, decrease storage size by a factor of
+from two to four.  the techniques involve special 
+handling of leading and trailing blanks, and the encoding
+of other symbols in groups of fixed size as 
+unique fixed point numbers.  the efficiency of the
+system is considered and pertinent statistics are 
+given and compared with statistics for other information coding techniques.
+
+cacm august, 1974
+
+hahn, b.
+
+file maintenance, information retrieval, utility
+programs, text 
+************************
+
+************************
+Document:  CACM-2516.html
+************************
+
+
+hierarchical storage in information retrieval
+
+a probabilistic analysis 
+************************
+
+
+a probabilistic analysis is employed to determine
+the effect of hierarchical storage organizations 
+on information retrieval operations.  the data 
+************************
+ operations.  the data storage
+hardware is assumed to consist on n-levels of 
+linearly connected memory hardware with increasing data
+access times and increasing data storage capabilities. 
+ a system might, for example, consist of fast semiconductor
+memory, computer core memory, extended core 
+storage, disk memory, and data cells.  equations are derived
+to predict the effect of such a system on 
+data access times using sequential files, random access files,
+and structured files employing multiple-hierarchical 
+linked lists.
+
+cacm may, 1973
+
+salasin, j.
+
+information retrieval, hierarchical storage
+
+************************
+
+************************
+Document:  CACM-2484.html
+************************
+
+
+a note on information organization and storage
+
+since the logical structure of a data base
+can be represented by a tree or graph, it is quite 
+natural for us to view the process of designing a data
+base as that of constructing a tree or a graph. 
+ a general method for constructing such a tree or a graph
+is provided.  there are three important elements 
+in this general construction method; namely, a set of
+binary relations, an algorithm for constructing 
+subsets of a set, and an algorithm for selecting an
+element from the given set of objects.  the use of 
+different relations and algorithms results in different
+information structures, as list, tree, ring, 
+etc.  thus the problem of information organization and
+storage is reduced to that of defining relations 
+and formulating algorithms under a given set of constraints.
+ the results presented may be valuable to 
+designers as useful design concepts, and may serve as
+a basis for developing a formal theory on the subject.
+
+cacm july, 1973
+
+huang, j. c.
+
+data base, data-base management, information retrieval,
+information structure, 
+************************
+
+************************
+Document:  CACM-1935.html
+************************
+
+
+randomized binary search technique
+
+a mathematical model is developed for the mean
+and variance of the number of trials to recover 
+a given document in a randomly received list of files.
+ the search method described is binary in nature 
+and offers new potential for information retrieval systems.
+
+cacm february, 
+************************
+ systems.
+
+cacm february, 1969
+
+arora, s. r.
+dent, w. t.
+
+binary pattern, file examination, graph theory, information
+retrieval, mathematical model, 
+************************
+
+************************
+Document:  CACM-1937.html
+************************
+
+
+codas: a data display system
+
+codas, a customer oriented data system, is
+a user-oriented data retrieval and display system. 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  data is displayed as tables and
+graphs produced in a format ready for publication. 
+ in this paper the statements of the request language
+and the general system design are described.
+
+cacm february, 1969
+
+day, r. h.
+mansfield, m. k.
+ellis, m. e.
+
+data display, information retrieval, graphic display,
+
+************************
+
+************************
+Document:  CACM-1158.html
+************************
+************************
+Document:  CACM-1032.html
+************************
+
+
+theoretical considerations in information retrieval systems
+
+information 
+************************
+ systems
+
+information storage and retrieval systems are composed
+
+************************
+ systems are composed
+of three major components: (a) identification 
+of information and tagging it for effective retrieval,
+(b) searching strategy, 
+************************
+
+************************
+Document:  CACM-0141.html
+************************
+************************
+Document:  CACM-2561.html
+************************
+
+
+a heuristic approach to inductive inference in fact retrieval systems
+
+heuristic procedures are presented which have
+been developed to perform inferences by generalizing 
+from available information.  the procedures make 
+************************
+
+************************
+Document:  CACM-2497.html
+************************
+
+
+synchronizing processors with memory-content-generated interrupts
+
+implementations of the "lock-unlock" method
+of synchronizing processors in a multiprocessor 
+system usually require uninterruptable, memory-pause type instructions.
+ an interlock scheme called read-interlock, 
+which does not require memory-pause instructions, has
+been developed for a dual dec pdp-10 system with 
+real-time requirements.  the read-interlock method does
+require a special"read-interlock" instruction 
+in the repertoire of the processors and a special "read-interlock"
+cycle in the repertoire of the memory 
+modules.  when a processor examines a "lock" (a memory
+location) with a read-interlock instruction, it 
+will be interrupted if the lock was already set; examining
+a lock immediately sets it if it was not already 
+set (this event sequence is a read-interlock cycle). 
+writing into a lock clears it.  having the processor 
+interrupted upon encountering a set lock instead of
+branching is advantageous if the branch would have 
+resulted in an effective interrupt.
+
+cacm june, 1973
+
+hill, j. c.
+
+interrupts,supervisors, monitors, debugging, parallel
+processing, associative 
+************************
+
+************************
+Document:  CACM-1747.html
+************************
+
+
+three criteria for designing computing systems to facilitate debugging
+
+the designer of a computing system should adopt
+explicit criteria for accepting or rejecting 
+proposed system features.  three possible criteria of this
+kind are input recordability, input specifiability, 
+and asynchronous reproducibility of output.  these criteria
+imply that a user can, if he desires, either 
+know or control all the influences affecting the content
+and extent of his computer's output.  to define 
+the scope of the criteria, the notion of an abstract
+machine of a programming language and the notion 
+of a virtual computer are explained.  examples of applications
+of the criteria concern the reading of 
+a time-of-day clock,  the synchronization of parallel
+processes, protection in multiprogrammed systems, 
+and the assignment of capability indexes.
+
+cacm may, 1968
+
+van horn, e. c.
+
+computer design, computer design criteria, computer
+systems, computer systems design, input equipment, 
+input equipment design, operating systems, operating
+systems design, multiprogramming, multiprogrammed 
+systems, multiprogrammed system design, virtual computers,
+programming languages, programming language 
+design, program semantics, programming language semantics,
+determinism, reproducibility, repeatability, 
+deterministic computers, protection, memory protection,
+information security, information 
+************************
+ security, information privacy, computing 
+reliability, debugging, program debugging, program testing,
+parallel processing, parallel 
+************************
+
+************************
+Document:  CACM-2832.html
+************************
+************************
+Document:  CACM-1652.html
+************************
+
+
+a code for non-numeric information processing
+applications in online systems
+
+a code has been specifically designed to simplify
+the internal information processing operations 
+within an online computer system with respect to non-numeric
+applications, and to maximize the transfer 
+rate of the information channel linking the system and
+the system user.  the code has direct application 
+to problems in area such as information retrieval, document
+classification, 
+************************
+
+************************
+Document:  CACM-1262.html
+************************

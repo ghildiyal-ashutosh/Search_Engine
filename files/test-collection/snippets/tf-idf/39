@@ -1,0 +1,1985 @@
+Snippets for the query:  Q39
+************************
+Total Hits:  131
+************************
+
+************************
+Document:  CACM-2958.html
+************************
+
+
+abstract data types and the development 
+************************
+ and the development of data structures
+
+abstract data types can play a significant 
+************************
+ can play a significant role
+in the development of software that is reliable, 
+efficient, and flexible.  this paper presents and discusses
+the application of an algebraic technique 
+for the specification of abstract data types.  among
+the examples 
+************************
+.  among
+the examples presented is a top-down development 
+of a symbol table for a block structured language; a discussion
+of the proof of its correctness is given. 
+ the paper also contains a brief discussion of the problems
+involved in constructing algebraic specifications 
+that are both consistent and complete.
+
+cacm june, 1977
+
+guttag, j.
+
+abstract data type, correctness proof, 
+************************
+, correctness proof, data type,
+data structure, specification, 
+************************
+
+************************
+Document:  CACM-1588.html
+************************
+
+
+pl/i list processing
+
+the concepts of list processing have been introduced
+into the pl/i language.  with these new 
+facilities, it is possible to write pl/i procedures that
+operate on simple and complex data list organizations. 
+ most list-processing languages have suffered from their
+
+************************
+ have suffered from their
+inability to deal directly with complex data 
+structures and/or from their inability 
+************************
+ and/or from their inability to perform the
+complete range of programming language operations 
+upon the data list structures.  these two problems 
+************************
+
+************************
+Document:  CACM-1142.html
+************************
+************************
+Document:  CACM-2645.html
+************************
+************************
+Document:  CACM-0943.html
+************************
+************************
+Document:  CACM-2603.html
+************************
+************************
+Document:  CACM-1135.html
+************************
+
+
+a general business-oriented language based on decision expressions*
+
+the structure of a digital compute programming
+language which covers a wide class of business 
+and file processing applications is presented.  such
+a structure, based on identifying and incorporating 
+into a compiler the aspects common to all processes
+of such class, permits writing extremely compact 
+programs, even for comparatively complex applications,
+in terms of tables of control expressions which 
+express only information characteristic of the particular
+application.  furthermore,local changes of 
+a process (e.g. changes affecting only one of the output
+files involved) can be effected by local modifications 
+in the program (e.g. modification of only one entry of the
+tables).  this structure also allows for inexpensive 
+preparation of loading-speed compilers which translate the
+source programs into efficient machine codes. 
+ the approach adopted here departs from conventional mechanical
+language design philosophies.  it stresses 
+the structural analysis of the class of processes to be represented
+in the languages, as opposed to emphasizing 
+formal (i.e., contents-independent) syntactical definitions.
+ it relies exclusively on nonprocedural 
+representation of process as sets (tables) of relations
+between data and results (there are 
+************************
+
+************************
+Document:  CACM-0689.html
+************************
+************************
+Document:  CACM-2141.html
+************************
+************************
+Document:  CACM-1852.html
+************************
+************************
+Document:  CACM-3124.html
+************************
+
+
+recursive data structures in apl
+
+a mathematical 
+************************
+ in apl
+
+a mathematical study of three approaches for defining nested
+arrays in apl is presented.  theorems exhibiting the relationships
+between the definitional systems are given and illustrated through graph
+representations.  one of the approaches is used to define an
+apl array to be a recursive data structure equivalent to a tree structure
+in which all data is stored at the leaves as homogeneous
+arrays of numbers and characters.  an extension of apl is proposed that
+includes new primitive functions to manipulate the nesting
+level of arrays and new operators to assist in the
+construction of data-driven algorithms.  
+
+cacm february, 1979
+
+gull,w.
+jenkins, m.
+
+nested arrays, apl arrays, recursive data structures,
+trees, data-driven 
+************************
+
+************************
+Document:  CACM-2717.html
+************************
+
+
+convert: a high level translation
+definition language for data conversion
+
+this paper describes a high level and nonprocedural
+translation definition language, convert, 
+which provides very powerful and highly flexible data
+restructuring capabilities. its design is based 
+on the simple underlying concept of a form which enables
+the users to visualize the translation processes, 
+and thus makes data translation a much simpler task. 
+"convert" has been chosen for conveying the purpose 
+of the language and should not be confused with any
+other language or program bearing the same name.
+
+cacm october, 1975
+
+shu, n. c.
+housel, b. c.
+lum, v. y.
+
+data conversion, data restructuring, data translation,
+database reorganization, translation definition, 
+utility program, programming languages, nonprocedural languages
+
+************************
+
+************************
+Document:  CACM-1424.html
+************************
+
+
+automatic analysis of electronic digital circuits using list processing
+
+a mapping from black diagrams of digital circuits
+to list structures is described, together 
+with a list processing program written for the control
+data 3600 which uses this 
+************************
+
+************************
+Document:  CACM-2253.html
+************************
+
+
+index ranges for matrix calculi
+
+the paper describes a scheme for symbolic
+manipulation of index expressions which arise as 
+a by-product of the symbolic manipulation of expressions
+in the matrix calculi described by the authors 
+in a previous paper.  this scheme attempts program optimization
+by transforming the original algorithm 
+rather than the machine code.  the goal is to automatically
+generate code for handling the tedious address 
+calculations necessitated by complicated data structures.
+ the paper is therefore 
+************************
+.
+ the paper is therefore preoccupied with "indexing 
+by position."  the relationship of "indexing by
+name" and "indexing by position" is discussed.
+
+cacm december, 1972
+
+bayer, r.
+witzgall, c.
+
+address calculations, algorithm transformation,
+compilation, data structures, indexing by name, 
+
+************************
+
+************************
+Document:  CACM-1476.html
+************************
+
+
+control procedures for data communication-an asa progress report
+
+sectional committee x.3 of the american standards
+association, has charged one of its task 
+groups, x3.3.4, with the responsibility to "define and specify
+functional control requirements and characteristics 
+governing the operation of digital data generating and
+receiving systems interconnected by communication 
+system."  this effort is primarily directed toward systems
+employing the american standard code for information 
+interchange (ascii).  this paper represents a progress
+report on the work of this group toward a proposal 
+for national and international standardization in the
+field of control procedures.  it describes both 
+the old and new work of the task group.  the new work
+is presented in detail, while the work that has 
+been presented in earlier papers ["control procedures 
+************************
+ ["control procedures for
+data communication," task group document x3.3.4/44, 
+may 1964: "transparent-mode control procedures for data
+communication," task group document x3.3.4/58, 
+december, 1964: comm. acm 8 (apr. 1965), 203-206; "control
+procedures for data communications," task 
+group document x3.3.4/60, march, 1965] is retained here
+in summary form.  many of the concepts and principles 
+described herein have been submitted to the international
+organization for standardization via earlier 
+papers and are now embodied 
+************************
+
+************************
+Document:  CACM-1431.html
+************************
+
+
+on a storage mapping function for data structures
+
+some basic facts about 
+************************
+
+
+some basic facts about certain data structures
+are reviewed and an 
+************************
+
+************************
+Document:  CACM-2772.html
+************************
+************************
+Document:  CACM-2873.html
+************************
+************************
+Document:  CACM-2081.html
+************************
+
+
+some complete calculi for matrices
+
+a matrix calculus is introduced with the intention of developing data structures
+suitable for a high 
+************************
+
+suitable for a high level algorithmic language for mathematical programming.  
+the paper investigates how the special structure of matrices can be described
+and utilized for efficient computing by saving memory space and
+superfluous operations.  sequences of matrices (and sequences of sequences
+of matrices) are considered, and matrix operators areext
+ended to sequence operators and cumulative operators.  algorithms
+are given which use symbol manipulation of matrix expressions so
+as to find the forms best suited for computation.  these forms are
+called normal forms.  several completeness results are obtained
+in the sense that for each expression an equivalent expression
+in normal form can be found within a specified calculus.
+
+cacm april, 1970
+
+bayer, r.
+witzgall, c.
+
+complete calculus, data structures, linear
+programming, 
+************************
+
+************************
+Document:  CACM-1035.html
+************************
+
+
+characteristics of the fortran cep language
+
+the fortran cep languages differs from fortran
+ii mainly because: (1) it extends the variety 
+of the modes for real quantities; (2) it allows suitable
+mixtures, in an input/output list or in an expression, 
+************************
+
+************************
+Document:  CACM-2814.html
+************************
+************************
+Document:  CACM-2699.html
+************************
+
+
+automatic data structure choice in a language of very high level
+
+setl is a set-theoretically oriented language
+of very high level whose repertoire of semantic 
+objects includes finite sets, ordered n-tuples, and
+sets of ordered n-tuples usable as mappings.  this 
+paper describes the structure of an optimizer for this
+language.  among other methods of interest, the 
+optimizer uses techniques which allow relations of inclusion
+and membership to be established, the domains 
+and ranges of (tabulated) mappings to be estimated from
+above and below, and the single-valuedness of 
+(tabulated) mappings to be proved.  once facts of this
+kind have been established, automatic choice of 
+data structures becomes possible. the methods employed
+are based upon, and extend, known techniques of 
+data flow analysis.
+
+cacm december, 1975
+
+schwartz, j. t.
+
+program optimization, automatic programming, high-level
+languages, set-theoretic languages, 
+************************
+, set-theoretic languages, data 
+structure choice
+
+4.12 
+************************
+
+************************
+Document:  CACM-1485.html
+************************
+
+
+the structure of programming languages
+
+in this paper the major components of every
+programming language are identified as: (1) the 
+elementary program statement, (2) mechanisms for linking
+elementary statements together, (3) the means 
+by which a program can obtain data inputs.  several
+alternative forms of each of these components are 
+also described, compared and evaluated.  many examples,
+frequently from list processing languages, 
+************************
+ processing languages, illustrate 
+the forms described.  the advantages, disadvantages and
+factors influencing the choice of a form of component 
+for a language are discussed, and the paper concludes
+with the suggestion that programming languages 
+evolve toward one which will permit all the most convenient
+ways of structuring programs, organizing 
+systems and referencing data.
+
+cacm february, 1966
+
+************************
+
+************************
+Document:  CACM-1835.html
+************************
+
+
+the iitran programming language
+
+the iitran language, developed to be used
+by students, and its important important features 
+are described. iitran is a procedure-oriented language
+with a one-level block structure and a variety 
+of data types.  several novel and 
+************************
+
+************************
+Document:  CACM-2316.html
+************************
+
+
+programming languages: history and future
+
+this paper discusses both the history and future
+of programming languages (= higher level languages). 
+ some of the difficulties in writing such a history
+are indicated.  a key part of the paper is a tree 
+showing the chronological development of languages and their
+interrelationships.  reasons for the proliferation 
+of languages are given.  the major languages are listed
+with the reasons for 
+************************
+
+************************
+Document:  CACM-2718.html
+************************
+
+
+a preliminary system for the design of dbtg data structures
+
+the functional approach 
+************************
+
+
+the functional approach to database design is
+introduced.  in this approach the goal of design 
+is to derive a data structure which is capable of supporting
+a set of anticipated queries rather than 
+a structure which "models the business" in some other
+way. an operational computer program is described 
+which utilizers the functional approach to design data
+structures conforming to the data base task group 
+specifications.  the automatic programming technology
+utilized by this program, although typically used 
+to generate procedure, is here used to generate declaratives.
+
+cacm october, 1975
+
+gerritsen, r.
+
+network model of databases, data base task group, database
+design, data structure, automatic programming, 
+translation, nonprocedural languages
+
+3.5 3.64 3.7 4.2 5.23
+
+************************
+
+************************
+Document:  CACM-3031.html
+************************
+
+
+abstract data types and software validation
+
+************************
+ and software validation
+
+a data abstraction can be naturally specified
+using algebraic axioms.  the virtue of these 
+axioms is that they permit a representation-independent
+formal specification of a data type.  an example 
+is given 
+************************
+.  an example 
+is given which shows how to employ algebraic axioms at
+successive levels of implementation.  the  major 
+thrust of the paper is twofold.  first, it is shown how
+the use of algebraic axiomatizations can simplify 
+the process of proving the correctness of an implementation
+of an abstract data type.  second, semi-automatic 
+************************
+.  second, semi-automatic 
+tools are described which can be used both to automate
+such proofs of correctness and to derive an immediate 
+implementation from the axioms.  this implementation
+allows for limited testing of programs at design 
+time, before a conventional implementation is accomplished.
+
+cacm december, 1978
+
+guttag, j.
+horowitz, e.
+musser, d.
+
+abstract data type, correctness proof,
+
+************************
+, correctness proof,
+data type, data structure, specification 
+************************
+
+************************
+Document:  CACM-2940.html
+************************
+
+
+abstraction and verification in alphard: defining
+and specifying iteration and generators
+
+the alphard "form" provides the programmer with
+a great deal of control over the implementation 
+of abstract data types.  in this paper the 
+************************
+.  in this paper the abstraction techniques
+are extended from simple data representation 
+and function definition to the iteration statement, the
+most important poin t of interaction between data 
+and the control structure of the language itself.  a
+means of specializing alphard's loops to operate 
+on abstract entities without explicit dependence on the
+representation of those entities is in troduced. 
+ specification and verification techniques that allow
+the properties of the generators for such iterations 
+to be expressed in the form of proof rules are developed.
+ results are obtained that for common special 
+cases of these loops are essentially identical to the
+corresponding constructs in other languages.  a 
+means of showing that a generator will terminate is also provided.
+
+cacm august, 1977
+
+shaw, m.
+wulf, w. a.
+
+abstraction and representation, abstract data types,
+assertions, control 
+************************
+s,
+assertions, control specialization, correctness, 
+generators,invariants, iteration statements, modular
+decomposition, program specifications, programming 
+languages, programming methodology, proofs of correctness, types, verification
+
+4.20 
+************************
+
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+
+************************
+
+************************
+Document:  CACM-1098.html
+************************
+
+
+a comparison of list-processing computer languages
+(including a detailed comparison of comit, 
+ipl-v, lisp 1.5, and slip)
+
+a detailed comparison is presented of comit,
+ipl-v, lisp 1.5 and slip - four well-known computer 
+programming languages which, among them, exhibit all the
+principal characteristics of existing list-processing 
+languages.  important common features of list-processing
+languages are reviewed: forms of data structures 
+which are manipulated, 
+************************
+ 
+which are manipulated, necessity for dynamic allocation
+of storage, use of pushdown stores, and use of 
+recursive operations.  principal differences between the
+four languages under consideration are detailed: 
+representations of data, both by the programmer 
+************************
+, both by the programmer and within
+the machine; methods for storage allocation; 
+programming formalisms and special processes available,
+including arithmetic facilities; and usability 
+in terms of availability, documentation, learning aids
+and debugging facilities.  a rough comparison 
+shows that all the languages discussed have approximately
+the same speed.  finally, the authors give 
+some heuristics to aid in the selection of one of these
+languages for use in particular problem applications, 
+concluding that no one of the languages considered is
+distinctly superior in all possible list-processing 
+applications.
+
+************************
+
+************************
+Document:  CACM-2941.html
+************************
+
+
+early experience with mesa
+
+the experiences of mesa's first users-primarily
+its implementers-are discussed, and some implications 
+for mesa and similar programming languages are suggested.
+the specific topics addressed are: module structure 
+and its use in defining abstractions, data-structuring
+facilities in mesa, an equivalence algorithm for 
+types and type coercions, 
+************************
+s and type coercions, the benefits of the type system
+and why it is breached occasionally, and the 
+difficulty of making the treatment of variant records safe.
+
+cacm august, 1977
+
+geschke, c. m.
+morris, j. h. jr.
+satterthwaite, e. h.
+
+programming languages, types, modules,
+data structures, systems programming
+
+************************
+
+************************
+Document:  CACM-3105.html
+************************
+
+
+a language extension for expressing constraints on data access
+
+controlled sharing of information is needed and
+desirable for many applications and is supported 
+in operating systems by access control mechanisms.  this
+paper shows how to extend programming languages 
+to provide controlled sharing.  the extension permits
+expression of access constraints on shared data. 
+ access constraints can apply both to simple objects, and
+to objects that are components of larger objects, 
+such as bank account records in a bank's data base.
+ the constraints are stated declaratively, and can 
+be enforced by static checking similar to type checking.
+ the approach can be used to extend any strongly-typed 
+language, but is particularly suitable for extending
+languages that support the notion of abstract data 
+types. 
+
+cacm may, 1978
+
+jones, 
+************************
+. 
+
+cacm may, 1978
+
+jones, a.
+liskov,b.
+
+programming languages, access control, data types,
+abstract data types, 
+************************
+,
+abstract data types, type checking, capabilities
+
+************************
+
+************************
+Document:  CACM-3150.html
+************************
+************************
+Document:  CACM-2956.html
+************************
+
+
+some ideas on data types in high-level languages
+
+************************
+ in high-level languages
+
+a number of issues are explored concerning the
+notion that a data type is a set of values together 
+************************
+ is a set of values together 
+with a set of primitive operations on those values.  among
+these are the need for a notation for iterating 
+over the elements of any finite set (instead of the
+more narrow for i:= 1 to n notation), the use of 
+the domain of an array as a data type, the need for
+a simple 
+************************
+, the need for
+a simple notation for allowing types of parameters 
+to be 
+************************
+s of parameters 
+to be themselves parameters (but in a restrictive fashion),
+and resulting problems with conversion of 
+values from one type to another.
+
+cacm june, 1977
+
+gries, d.
+gehani, n.
+
+data types, generic procedures, 
+************************
+
+************************
+Document:  CACM-2243.html
+************************
+************************
+Document:  CACM-2661.html
+************************
+************************
+Document:  CACM-2184.html
+************************
+
+
+on the meaning of names in programming systems
+
+it is assumed that there is a similarity of
+function between the data names of a programming 
+language and the file names of an operating system.
+ the two functions are discussed in terms of the 
+same basic concepts in order to identify the extent
+to which they overlap. it is suggested that there 
+is some similarity between the idea of a file directory
+and a storable object of type context.  manipulations 
+with contexts are then discussed at length.  it is noted
+that there is a simple extension of church's 
+lambda notation that deals nicely with these ideas of
+context manipulation.  whereas a function can be 
+regarded as the abstraction based upon the first two terms of
+the expression lambda(name list)(expression)(value list), 
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  syntax directed
+input and output of data would facilitate use of 
+complex data stores.
+
+cacm july, 1972
+
+bobrow, d. g.
+
+list processing, programming languages, design of
+programming 
+************************
+, design of
+programming languages, interactive systems, control 
+structures, data structures, programming 
+************************
+
+************************
+Document:  CACM-2593.html
+************************
+************************
+Document:  CACM-1466.html
+************************
+************************
+Document:  CACM-2882.html
+************************
+
+
+a stochastic evaluation model for database
+organization in data retrieval systems
+
+experimental work in the valuation of large
+scale data retrieval systems has been scarce due 
+to its difficulty and prohibitive cost. this paper
+discusses a simulation model of a data retrieval 
+system which has the effect of significantly reducing
+the cost of experimentation and enabling research 
+never attempted before.  the model is designed to estimate
+the retrieval workload of alternative data 
+retrieval systems.  these data retrieval systems can
+be organized under several database organizations, 
+including inverted list, threaded list, and 
+************************
+, threaded list, and cellular
+list organizations and hybrid combinations of these 
+systems.  effectiveness of the methodology is demonstrated
+by using the model to study the effect of 
+database organizations in 
+************************
+base organizations in data retrieval systems.  in particular,
+the impact of query complexity is analyzed.
+
+cacm february, 1976
+
+siler, k. f.
+
+database architecture, database performance and
+evaluation, invented list, threaded list, cellular 
+************************
+, threaded list, cellular 
+list, information retrieval, database organizations,
+query 
+************************
+
+************************
+Document:  CACM-2651.html
+************************
+
+
+the treatment of data types in el1
+
+in constructing a general purpose programming
+language, a key issue is providing a sufficient 
+set of data types and associated operations in a manner
+that permits both natural problem-oriented notation 
+and efficient implementation.  the el1 language contains
+a number of features specifically designed to 
+simultaneously satisfy both requirements.  the resulting
+treatment of data types includes provision for 
+programmer-defined data types data types and generic
+routines, programmer control over type conversion, 
+and very flexible data type behavior, in a context that
+allows efficient compiled code and compact data 
+representation.
+
+cacm may, 1974
+
+wegbreit, b.
+
+data types, modes, mode unions, type conversion,
+coercion, generic functions, extensible languages, 
+data type definition, 
+************************
+, 
+data type definition, data description 
+************************
+
+************************
+Document:  CACM-1366.html
+************************
+************************
+Document:  CACM-2433.html
+************************
+
+
+control structures in illiac iv fortran
+
+as part of an effort to design and implement
+a fortran compiler on the illiac iv, an extended 
+fortran, called ivtran, has been developed.  this language
+provides a means of expressing data and control 
+structures 
+************************
+ and control 
+structures suitable for exploiting illiac iv parallelism.
+ this paper reviews the hardware characteristics 
+of the illiac and singles out unconventional features
+which could be expected to influence language (and 
+compiler) design.  the implications of these features for
+data layout and algorithm 
+************************
+ layout and algorithm structure are discussed, 
+and the conclusion is drawn that data allocation rather than
+code structuring is the crucial illiac optimization 
+problem.  a satisfactory method of data allocation is
+then presented.  language structures to utilize 
+this storage 
+************************
+
+************************
+Document:  CACM-2051.html
+************************
+
+
+a pl/i program to assist the comparative linguist
+
+a practical pl/i program is described which
+can assist comparative linguists to determine
+the regular sound correspondences between genetically related languages.
+the investigator must arrange data for input by aligning pairs
+of suspected cognates.  the program tabulates the correspondences,
+and uses list processing techniques to sort and count them.
+each pair of words is then assigned a relative value that is a function
+of the total frequency in the data of each correspondence found
+in that pair of words.  the output is a list of all correspondence
+types with their frequency 
+************************
+s with their frequency of occurrence in the data, and a
+separate listing of each correspondence 
+************************
+ing of each correspondence with all word-pairs showing
+that correspondence (unless their relative value is below an arbitrarily 
+chosen cutoff point).  the article explains the usefulness,
+as well as the limitations, of the programs, and illustrates its
+use with a small portion of hypothetical data.
+
+cacm june, 1970
+
+frantz, d. g.
+
+comparative linguistics, natural
+language processing, comparative method, historical linguistics, diachronic
+linguistics, genetic relationship, sound change, sound
+correspondence, regular correspondence, list processing
+
+3.42
+
+ca700604 
+************************
+
+************************
+Document:  CACM-1359.html
+************************
+************************
+Document:  CACM-2594.html
+************************
+
+
+structured data structures
+
+programming systems 
+************************
+
+
+programming systems which permit arbitrary
+linked list structures enable the user to create 
+************************
+ enable the user to create 
+complicated structures without sufficient protection.
+ deletions can result in unreachable data elements, 
+and there 
+************************
+ elements, 
+and there is no guarantee that additions will be performed
+properly.  to remedy this situation, this 
+paper proposes a gauge which provides for the creation
+of a restricted class of data structures but ensures 
+the correctness 
+************************
+ but ensures 
+the correctness of the program.  this is accomplished
+by an explicit structure declaration facility, 
+a restriction on the permissible operations, and execution-time checks.
+
+cacm october, 1974
+
+shneiderman, b.
+scheuermann, p.
+
+structured programming, data structures, data base management 
+************************
+
+************************
+Document:  CACM-1309.html
+************************
+
+
+a computer user-oriented system
+
+a computer language system has been developed
+which makes possible fast preparation of management 
+reports, regardless of computational complexity or format
+variety.  costs are sufficiently low so that 
+individually tailored reports can be prepared for every
+manager.  the system requires initial preparation 
+of large data banks containing data in elementary form.
+ use of two special languages, extract and matran, 
+************************
+
+************************
+Document:  CACM-2513.html
+************************
+
+
+a nonrecursive list moving algorithm
+
+an efficient, nonrecursive algorithm is given
+for moving any lisp-type list.  in particular, 
+************************
+
+************************
+Document:  CACM-2975.html
+************************
+
+
+remark on uniform insertion in structured data structures
+
+cacm april, 1977
+
+hollander, 
+************************
+
+
+cacm april, 1977
+
+hollander, c.
+
+data structures, directed graphs, uniform 
+************************
+
+************************
+Document:  CACM-2265.html
+************************
+
+
+a model for type checking
+
+most current programming languages treat computation
+over 
+************************
+ treat computation
+over different classes of objects (e.g. 
+numbers, strings, labels and functions).  for correct
+compilation and execution, the following question 
+then arises: is a program properly constructed so that
+its operations and operands are compatible?  the 
+activity of answering this question is usually called
+type checking.  this paper attempts to isolate 
+the notion of type checking and presents a partial
+solution to the type checking problem based on the 
+notions of abstraction and application of functions. 
+in particular, a program is mapped into an expression 
+within a decidable subset of the lambda calculus, which
+characterizes the type relations within the program 
+and eliminates all other information.  the determination
+of the type-wise correctness or incorrectness 
+of the program is resolved by reducing its corresponding
+lambda calculus expression to one of two normal 
+forms, the constant "correct" for a type-wise correct
+program or the constant "error".  an application 
+to type checking in algol 60 is made, and the attendant
+problems faced for any notion of type checking 
+are discussed.
+
+cacm november, 1972
+
+ledgard, h. f.
+
+type checking, types, lambda calculus, models 
+************************
+
+************************
+Document:  CACM-1457.html
+************************
+
+
+data manipulation and programming problems
+in automatic information retrieval
+
+automatic information retrieval programs require
+the manipulation of a variety of different 
+data structures, including linear text, sparse matrices,
+and tree or list structures.  the main data 
+manipulations to be performed in automatic information
+systems are first briefly reviewed.  a variety 
+of data representations which have been used to describe
+structured information are then examined, and 
+the characteristics of various processing languages are
+outlined in the 
+************************
+
+************************
+Document:  CACM-2254.html
+************************
+
+
+dynamic partitioning for array languages
+
+the classical process of partitioning an array
+into subarrays is extended to a more useful 
+array language operation.  various modes of partitioning
+are defined for different types of arrays, so 
+that 
+************************
+s of arrays, so 
+that subarrays may vary over the original array in
+a nearly arbitrary manner.  these definitions are 
+motivated with several realistic examples to illustrate
+the value of partitioning for array languages. 
+ of general interest is the data structure for partitioning.
+ this consists of dynamic tree structures 
+which are used to derive 
+************************
+ 
+which are used to derive and maintain the array control
+information.  these are described in sufficient 
+detail to be of value in the design of other array languages.
+ the description presented in this paper 
+is implemented in a new array language, ol/2, currently
+under development at the university of illinois.
+
+cacm december, 1972
+
+phillips, j. r.
+adams, h. c.
+
+dynamic partitioning, array partitioning array language,
+data structure, tree structure, 
+************************
+
+************************
+Document:  CACM-1710.html
+************************
+
+
+asp-a ring implemented associative structure package
+
+asp is a general purpose associative data
+structure package in which an arbitrary number of 
+data items and an arbitrary number of the relationships
+between these data items may be represented. 
+ a special picture language is described which has proved
+very useful for drawing asp structures on paper. 
+ asp structures are built and manipulated by means
+of a series of macro calls, which are outlined in 
+the appendix.  emphasis is on the philosophy of the system
+rather than a particular implementation, though 
+sufficient information is included to enable the
+reader to produce his own implementation of asp.
+
+cacm august, 1968
+
+lang, c. a.
+gray, j. c.
+
+associative, data structure, ring structure lists,
+list structure, set languages, modeling, graphics
+
+************************
+
+************************
+Document:  CACM-2782.html
+************************
+************************
+Document:  CACM-2406.html
+************************
+
+
+a data definition and mapping language
+
+a data definition language i sa declarative
+computer language for specifying data structures. 
+ most data definition languages concentrate on the declaration
+
+************************
+ concentrate on the declaration
+of logical data structures with little 
+concern 
+************************
+ with little 
+concern for how these structures are physically realized
+on a computer system.  however, the need for 
+data definition languages which describe both 
+************************
+ which describe both the logical
+and physical aspects of data is increasingly 
+apparent.  such languages will be a key systems, 
+************************
+ will be a key systems, as well
+as in advanced data management systems and distributed 
+data bases.  this paper reviews past work in the data
+definition language for describing both logical 
+and physical aspects of data.  applications of these
+"generalized" data definition languages are also 
+discussed.
+
+************************
+
+************************
+Document:  CACM-2710.html
+************************
+
+
+specifying queries as relational expressions:
+the square data sublanguage
+
+this paper presents a data sublanguage called
+square, intended for use in ad hoc, interactive 
+problem solving by non-computer specialists. square
+is based on 
+************************
+s. square
+is based on the relational model of data, and is 
+shown to be relationally complete; however, it avoids
+the quantifiers and bound variables required by 
+languages based on the relational 
+************************
+ based on the relational calculus.  facilities
+for query, insertion, deletion, and update on 
+tabular data bases are described.  a syntax is given,
+and suggestions are made for alternative syntaxes, 
+including a syntax based on english key words for
+users with limited mathematical background.
+
+cacm november, 1975
+
+boyce, r. f
+chamberlin, d. d.
+king, w. f. iii
+
+database, data sublanguages, relations, query languages,
+
+************************
+, relations, query languages,
+casual user, relational data model, tabular 
+data, 
+************************
+ model, tabular 
+data, interactive problem solving, nonprocedural
+languages, relational completeness
+
+************************
+
+************************
+Document:  CACM-1922.html
+************************
+************************
+Document:  CACM-0696.html
+************************
+************************
+Document:  CACM-2244.html
+************************
+************************
+Document:  CACM-1911.html
+************************
+************************
+Document:  CACM-2957.html
+************************
+
+
+database abstractions: aggregation
+
+aggregation is in troduced as an abstraction
+which is important in conceptualizing the real 
+world.  aggregation transforms a relationship between
+objects into a higher-level object.  a new data 
+type, called aggregation, is developed which, under
+certain criteria of "well-definedness," specifies 
+aggregation abstractions.  relational databases defined
+as collections of aggregates are structured as 
+a hierarchy on n-ary relations.  to main tain well-definedness,
+update operations on such databases must 
+preserve two invariants.  well-defined relations are
+distinct from relations in third normal form.  it 
+is shown that these notions are complementary and both are
+important in database design.  a top-down 
+methodology for database design is described which separates
+decisions concerning aggregate structure 
+from decisions concerning key identification.  it is
+suggested that aggregate types, and other types 
+which support real-world abstractions without in troducing
+implementation detail, should be incorporated 
+into programming languages.
+
+cacm june, 1977
+
+smith, 
+************************
+.
+
+cacm june, 1977
+
+smith, j. m.
+smith, d. c. p.
+
+data abstraction, relational database, data type,
+aggregation, database 
+************************
+
+************************
+Document:  CACM-0651.html
+************************
+************************
+Document:  CACM-1703.html
+************************
+************************
+Document:  CACM-0676.html
+************************
+************************
+Document:  CACM-2078.html
+************************
+
+
+representations for space planning
+
+problems involving the arrangement of objects in two- 
+or three-space where the objective function primarily consists
+of derivatives of the distance between objects or their arrangement
+are called space planning problems.  the representational
+requirements for this problem area are defined and compared with current
+computer graphic languages.  four alternative data structures
+that allow automated 
+************************
+
+that allow automated space planning are described and compared.
+
+cacm april, 1970
+
+eastman, c. m.
+
+automated design, data structures, computer graphics, 
+************************
+
+************************
+Document:  CACM-0920.html
+************************
+************************
+Document:  CACM-3148.html
+************************
+************************
+Document:  CACM-1853.html
+************************
+
+
+compact list representation: definition,
+garbage collection, and system implementation
+
+compact lists are stored sequentially in memory,
+rather than chained with pointers.  since 
+this is not always convenient, the swym system permits
+a list to be chained, compact, or any combination 
+of the two.  a description is given of that list representation
+and the operators implemented (most are 
+similar to those of lisp 1.5).  the system garbage collector
+attempts to make all lists compact; it relocates 
+and rearranges all of list storage using temporary storage.
+ this unique list-compacting garbage collection 
+algorithm is presented in detail.  several classes of the
+macros used to implement the system are described. 
+ finally, consideration is given to those design factors
+essential to the success of a plex processing 
+system implementation.
+
+cacm september, 1969
+
+hansen, w. j.
+
+data structure, data representation, 
+************************
+ structure, data representation, list structure,
+list representation, 
+************************
+
+************************
+Document:  CACM-2998.html
+************************
+
+
+an empirical study of list structure in lisp
+
+static measurements of the list structure of
+five large lisp programs are reported and analyzed 
+in this paper.  these measurements reveal substantial
+regularity, or predictability, among poin ters to 
+atoms and especially among poin ters to lists.  pointers
+to atoms are found to obey, roughly, zipf's law, 
+which governs word frequencies in natural languages; poin ters
+to lists 
+************************
+
+************************
+Document:  CACM-2799.html
+************************
+
+
+stably updating mean and standard deviation of data
+
+by considering the (sample) mean of a set of
+data as a fit to this data by a constant function, 
+a computational method is given based on a matrix formulation
+and givens transformations. the (sample) 
+mean and standard deviation can be updated as data
+accumulates.  the procedure is numerically stable 
+and does not require storage of the data.  methods for
+dealing with weighted data and 
+************************
+
+************************
+Document:  CACM-2295.html
+************************
+
+
+comment on the composition of semantics in algol 68
+
+cacm august, 1972
+
+van der poel, w. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive composition, design 
+of programming languages, data structures
+
+1.3 4.2 4.22 5.23 5.24
+
+************************
+
+************************
+Document:  CACM-2647.html
+************************
+************************
+Document:  CACM-1456.html
+************************
+
+
+storage and retrieval of aspects of meaning in directed graph structures
+
+an experimental system that uses lisp to make
+a conceptual dictionary is described.  the dictionary 
+associates with each english word the syntactic information,
+definitional material, and references to 
+the contexts in which it has been used to define other words.
+ such relations as class inclusion, possession, 
+and active or passive actions are used as definitional
+material.  the resulting structure serves as a 
+powerful vehicle for research on the logic of question answering.
+ examples of methods of inputting information 
+and answering simple english questions are given.  an
+important conclusion is that, although lisp and 
+other list processing languages are ideally suited for
+
+************************
+
+************************
+Document:  CACM-1678.html
+************************
+
+
+automata, formal languages, abstract switching,
+and computability in a ph. computer science 
+program
+
+a number of courses are listed in the area
+describe 
+************************
+
+************************
+Document:  CACM-1923.html
+************************
+************************
+Document:  CACM-2242.html
+************************
+************************
+Document:  CACM-0628.html
+************************
+************************
+Document:  CACM-1282.html
+************************
+************************
+Document:  CACM-2198.html
+************************
+
+
+introduction to "feature analysis of
+generalized data base management systems"
+
+this paper is a separately published introduction
+to a main report which analyzes the features 
+of generalized data base management systems.  this introduction
+gives a review of the current state of 
+the art in these systems and discusses the differences
+and similarities between capabilities found in 
+host language systems and those found in self-contained
+systems.  after some discussion of the problems 
+of data independence and binding,the four user levels
+are identified and described.  technical problems 
+facing future designers are described.  the first of
+these is that of handling existing stored data and 
+the next is that of providing more complex data structures
+than those already available in conventional 
+programming languages.  the problem of high 
+************************
+.  the problem of high level interrogation
+and update functions acting on network 
+structures is mentioned, followed by a discussion of the
+problem of catering to a high volume of transactions 
+initiated from terminals by parametric users-the lowest
+level of user.  the use of cobol as a basis for 
+further development work is considered at some length
+with respect to data structures, host language 
+capabilities, and self-contained capabilities.  this
+section also assesses the effect of the data base 
+task group proposals.  the final section outlines the
+ten major topics in the main body of the full report.
+
+cacm may, 1971
+
+codasyl systems committee
+
+data base management systems, programming languages,
+data structures, storage 
+************************
+,
+data structures, storage structures, 
+************************
+
+************************
+Document:  CACM-1769.html
+************************
+
+
+the expanding world of computers
+
+the onward sweep of automatic processing of
+information is impeded by nine principal barriers: 
+geography, cost, problem complexity, man-machine communication,
+inadequate sensors, lack of understanding, 
+distance, time, and size.  the main incentive for breaching
+these barriers is the universal need for 
+processing information, ever more urgent as the greater
+part of human work activity changes from production 
+to service.  computer developments in hardware, programming,
+time-sharing, education, data communication, 
+and displays are judged by how effectively they remove these
+barriers, and their barrier-smashing potentialities 
+indicate continued rapid expansion.  problem-oriented
+languages are particularly effective 
+************************
+ are particularly effective over the entire 
+front.  online computers and time-sharing also rate high
+by this measure.  education and increased understanding 
+are basic to all progress with the computer.  this complex
+but powerful tool is the most important one 
+available to governments and scientists to use in studying
+the problems being created by the population 
+explosion, and in analyzing possible solutions.
+
+cacm april, 1968
+
+harder, e. l.
+
+barriers, philosophy, developments, computer-aided design,
+problem-oriented languages, data communication, 
+education, 
+************************
+
+************************
+Document:  CACM-2857.html
+************************
+
+
+referencing lists by an edge
+
+an edge reference into a list structure is a pair
+of pointers to adjacent nodes.  such a reference 
+often requires little additional space, but its use can
+yield efficient algorithms. for instance, a circular 
+link between the ends of a list is redundant if the list
+is always referenced by that edge, and list 
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+data types such as sets and lists, 
+************************
+s such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+is discussed.  this process is discussed in detail for
+an example program.  general issues in data structure 
+selection are also reviewed. 
+
+cacm may, 1978
+
+low, j.
+
+abstract data types, automatic programming, data
+structures, optimizing compilers, 
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+
+
+programming languages, natural languages, and mathematics
+
+some social aspects of programming are illuminated
+through analogies with similar aspects of 
+mathematics and natural languages.  the split between
+pure and applied mathematics is found similarly 
+in programming. the development of natural languages toward
+flexion less, word-order based language types 
+speaks for programming 
+************************
+
+************************
+Document:  CACM-2470.html
+************************
+
+
+fen-an axiomatic basis for program semantics
+
+a formal system is presented which abstracts
+the notions of data item, function, and relation. 
+ it is argued that the system is more suitable than set
+theory (or its derivatives) for the concise and 
+accurate description of program semantics.  it is shown
+how the system can be used to build composite 
+data types out of simper ones 
+************************
+s out of simper ones with the operations of rowing,
+structuring, and uniting.  it is also demonstrated 
+that completely new primitive types can be introduced
+into 
+************************
+s can be introduced
+into languages through the mechanism of singleton 
+data types.  both deterministic 
+************************
+.  both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ it is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  the
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  the technique is contrasted 
+with the use of the paradoxical combinator, y.  the
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. the theory is applied to the 
+proof of several elementary theorems concerning the semantics
+of the assignment, conditional, and iterative 
+statements.  an appendix is included which presents in
+detail the formal system governing webs and fen, 
+the abstractions used informally in the body of the paper.
+
+cacm august, 1973
+
+maclennan, b. j.
+
+semantics, formal systems, lambda-calculus, extensible
+languages, data types, modes, axioms, correctness, 
+************************
+, modes, axioms, correctness, 
+formal language definition, formal description, data structures,
+description languages, 
+************************
+
+************************
+Document:  CACM-2148.html
+************************
+
+
+the composition of semantics in algol 68
+
+the main features of algol 68 are explained
+from a semantic point of view.  it is shown how 
+the language permits the composition of values and actions,
+i.e. ultimately programs, from a minimum 
+set of primitives with a few fundamental recursive rules
+of composition.  the associated syntax is briefly 
+reviewed.  an attempt has been made to obtain a structured
+and simple introduction to both algol 68 and 
+its orthogonal design.
+
+cacm november, 1971
+
+branquart, p.
+lewi, j.
+sintzoff, m.
+wodon, p. l.
+
+programming primitives, programming languages,
+algol, semantics, recursive composition, design 
+of programming languages, data structures
+
+1.3 4.2 4.22 5.23 5.24
+
+************************
+
+************************
+Document:  CACM-0618.html
+************************
+
+
+computers- the key to total systems control: an industrial viewpoint
+
+man-man-machine processes are characterized in five
+main types, and the markets for 
+************************
+
+************************
+Document:  CACM-2084.html
+************************
+
+
+a note on the complement of inherently ambiguous context-free languages
+
+cacm march, 1970
+
+maurer, h. a.
+
+ambiguity, inherent ambiguity, complement, context-free language,
+chomsky-language, phrase structure language, production system,
+type 2 language, bounded 
+************************
+
+************************
+Document:  CACM-1459.html
+************************
+************************
+Document:  CACM-0527.html
+************************
+
+
+the description list of concepts
+
+a concept is defined as a class of objects
+whose members can be distinguished by processing 
+its properties.  property is defined to mean a partition
+of the set of all objects into disjoint classes. 
+ the formal definition of a concept is recursive in nature.
+ a concept is described by a list structure. 
+ a one-to-one correspondence is established between the
+recursive definition of a concept and its description 
+list structure.  like the definition, the description
+list structure of a concept is also built up from 
+elementary list structures by a recursive process. 
+************************
+ by a recursive process. 
+the list structures obtained this way are 
+************************
+
+************************
+Document:  CACM-1937.html
+************************
+
+
+codas: a data display system
+
+codas, a customer oriented data system, is
+a user-oriented data retrieval and display system. 
+ the command language of the system provides the user
+with an easy means for specifying data retrieval 
+and display requests.  data is displayed as tables and
+graphs produced in a format ready for publication. 
+ in this paper the statements of the request language
+and the general system design are described.
+
+cacm february, 1969
+
+day, r. h.
+mansfield, m. k.
+ellis, m. e.
+
+data display, information retrieval, graphic display,
+command languages, report program generation, 
+************************
+
+************************
+Document:  CACM-2305.html
+************************
+************************
+Document:  CACM-3198.html
+************************
+************************
+Document:  CACM-2241.html
+************************
+************************
+Document:  CACM-1163.html
+************************
+************************
+Document:  CACM-0343.html
+************************
+************************
+Document:  CACM-1470.html
+************************
+
+
+the structure of programming languages
+
+the following are identified as major components
+of every programming language: (1) the elementary 
+program statement, (2) mechanisms for linking elementary
+statements together, (3) the means by which 
+a program can obtain data inputs.  several alternative
+forms of each of these components are described, 
+compared and evaluated.  many examples, frequently from
+list processing languages, 
+************************
+ processing languages, illustrate the forms 
+described.  elementary program statements usually take
+the form of commands, requirements, or implicit 
+specifications.  a command is an imperative statement
+that commands the action to be taken.  a requirement 
+describes the effect to be achieved without saying anything
+about the actions to be taken.  an implicit 
+specification is similar to a requirement, but the programmer
+must understand what actions will be taken 
+to achieve the desired effect.  subroutines may be entered
+explicitly, by execute call, or by function 
+composition.  explicitly called subroutines generally
+require special linkage conventions.  an execute 
+subroutine call is syntactically indistinguishable from
+a basic instruction of the programming language. 
+ function composition is a convenient alternative to
+the explicit call.  the three principal ways of 
+getting inputs for routines are (1) by referring to
+the data itself, (2) by referring to the data by 
+a "name", and (3) by referring to it implicitly by means
+of variables or functions.  names are useful 
+entry points into permanent data structures, but can
+be error-causing 
+************************
+, but can
+be error-causing distractions in other contexts. 
+the author discusses advantages, disadvantages, and factors
+influencing the choice of a form of component 
+for a language.   he concludes by suggesting the evolution
+of programming languages toward one which 
+will permit all the most convenient ways of structuring
+programs, organizing systems, and referencing 
+data.
+
+cacm march, 1966
+
+
+************************
+
+************************
+Document:  CACM-0409.html
+************************
+
+
+cl-1, an environment for a compiler
+
+a flexible, large-scale programming system to
+facilitate the solution of information processing 
+problems and to provide intercommunication between programs
+and/or programmers has been developed and 
+realized on the ibm 709/7090 computer.  the system is
+based on a master file concept and has provisions 
+for accepting, storing, and retrieving both descriptions
+and instances of large and complex data sets, 
+as well as algorithms defined on these data sets.  both
+data and algorithms may be expressed in a family 
+of command and descriptive languages.  the concept
+of distinct 
+************************
+
+************************
+Document:  CACM-2832.html
+************************
+
+
+faster retrieval from context trees (corrigendum)
+
+context trees provide a convenient way of
+storing data which is to be viewed as a hierarchy 
+of contexts.  this note presents an algorithm which improves
+on previous context tree retrieval algorithms. 
+it is based on the observation that in typical uses context
+changes are infrequent relative to retrievals, 
+so that data can be cached to speed up retrieval.  a retrieval
+is started from the position of the previous 
+retrieval and auxiliary structures are built up to make
+
+************************
+ are built up to make
+the search rapid.  algorithms for addition and 
+deletion of data and for garbage collection are outlined.
+
+cacm september, 1976
+
+wegbreit, b.
+
+context trees, frame problem, variable bindings, data structures
+
+3.69 3.74 4.10
+
+ca760907 
+************************
+
+************************
+Document:  CACM-2999.html
+************************
+
+
+an approach to multidimensional data array processing by computer
+
+some recent work on the development of general-purpose
+computer-based statistical and data 
+processing capabilities for handling multidimensional
+arrays of data is presented. attention is first 
+given to some of the general problems of multidimensional
+table and array processing.  this is followed 
+by a summary of some recent developments in array processing
+capabilities at the world bank, in particular, 
+the system identified as wraps(world bank
+retrieval and array processing system).
+
+cacm february, 1977
+
+muller, m. e.
+
+array processing, table processing, statistical
+analysis, data retrieval, data processing, syntax 
+for data structures, computing techniques, 
+************************
+

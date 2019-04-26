@@ -1,0 +1,2084 @@
+Snippets for the query:  Q41
+************************
+Total Hits:  170
+************************
+
+************************
+Document:  CACM-2344.html
+************************
+
+
+on the optimization of performance of time-sharing systems by simulation
+
+a simulation model 
+************************
+tion
+
+a simulation model of a time-sharing system
+with a finite noncontiguous store and an infinite 
+auxiliary store is used to study the variation of system
+parameters such as store size, number of jobs 
+allowed to execute simultaneously, job-scheduling algorithm,
+etc.  the effects of these variations on 
+a measure of system performance is used to ascertain which
+of the parameters controllable by the job-scheduling 
+algorithm, including the scheduling itself, require optimization,
+and which of the parameters not normally 
+controllable by the scheduling algorithm have a marked
+effect on system performance.  system performance 
+is based upon the mean cost of delay to all jobs processed.
+ it is shown that significant improvements 
+in the measure of system performance can be obtained by
+using variable time-slice techniques and by selecting 
+the 
+************************
+ and by selecting 
+the optimum round-robin cycle time.  it appears that these
+features would benefit from optimization whereas 
+other parameters controllable by the scheduling algorithm
+affect system performance in a predictable 
+manner 
+************************
+ in a predictable 
+manner and would not benefit from optimization.  features
+not normally under the control of the scheduling 
+algorithm can also have a marked effect on the measure
+of performance; in particular, supervisor overheads, 
+************************
+r, supervisor overheads, 
+the size of the store, and the speed of the cpu.  a comparison
+is made between the results of the simulation 
+model and two analytical equations for quantum-oriented
+nonpreemptive time-sharing systems.  the comparison 
+is found to be very favorable.
+
+cacm june, 1972
+
+blatny, j.
+clark, s. r.
+rourke, t. a.
+
+time-sharing, simulation studies, optimization,
+measure of performance, scheduling algorithms
+
+************************
+
+************************
+Document:  CACM-2910.html
+************************
+
+
+equivalence of hough curve detection to template matching
+
+cacm november, 1977
+
+stockman, g. c.
+
+picture processing, pattern recognition, curve
+detection, hough 
+************************
+
+************************
+Document:  CACM-1931.html
+************************
+
+
+interval arithmetic determinant evaluation
+and its use in testing for a chebyshev system
+
+two recent papers, one by hansen and one by
+hansen and r. r. smith, have shown how interval 
+arithmetic (i.) can be used effectively to bound errors
+in matrix computations.  in the present paper 
+a method proposed by hasen and r. r. smith is compared
+with straightforward use of i. in determinant 
+evaluation.  computational results show the accuracy
+and running times that can be expected when using 
+i. for determinant evaluation.  an application using
+i. determinants in a program to test a set of 
+functions to see if they form a chebyshev system is then presented.
+
+cacm february, 1969
+
+smith, l. b.
+
+interval arithmetic, range arithmetic, error bounds,
+determinant evaluation, chebyshev system, 
+mathematical proof by computer
+
+5.11 5.13 5.14
+
+ca690207 
+************************
+
+************************
+Document:  CACM-1642.html
+************************
+
+
+time sharing on a computer with a small memory
+
+techniques to make time sharing 
+************************
+ to make time sharing attractive on
+a computer with a small central memory are presented. 
+ "small" is taken to mean that only one user program plus
+a monitor will fit into the memory at any time. 
+ the techniques depend on having two levels of secondary
+storage: level 1, several times larger than 
+the main memory 
+************************
+
+************************
+Document:  CACM-2811.html
+************************
+
+
+structural pattern recognition of carotid pulse
+waves 
+************************
+ of carotid pulse
+waves using a general waveform parsing system
+
+a general waveform parsing system with application
+to structural pattern recognition of carotid 
+pulse waves 
+************************
+ of carotid 
+pulse waves is described.  the carotid arterial pulse
+wave is of medical importance because of variation 
+in its structure induced by arterial aging and cardiovascular
+disease.  the syntax-driven waveform analysis 
+system has been applied with good results to these pulse
+waves to detect and measure structural variations. 
+ the waveform parsing system is modeled on a compiler-compiler
+system and allows the user to enter application 
+specific information as data.  it is thus general
+enough to be applicable to other waveforms.
+
+cacm december, 1976
+
+stockman, g.
+kanal, l.
+kyle, m. c.
+
+structural pattern recognition, parsing, waveform analysis, 
+************************
+
+************************
+Document:  CACM-2370.html
+************************
+
+
+an experimental laboratory for pattern recognition and signal processing
+
+************************
+ and signal processing
+
+an interactive computer-controlled scanning
+and display system has been in 
+************************
+y system has been in operation at the 
+ibm thomas j. watson research center for three years.
+ the system includes two flying-spot scanners and 
+a tv camera specially interfaced to a process control
+digital computer, dot-mode and vector displays, 
+analog input and 
+************************
+ys, 
+analog input and output facilities, and a variety of
+other experimental equipment.  the system design 
+and programming support are described and typical applications
+in scanner control, optical character 
+recognition,and image processing are presented.
+
+cacm april, 1972
+
+herbst, n. m.
+will, p. m.
+
+scanners, pseudorandom displays, interactive
+terminal, image processing, pattern recognition
+
+4.41 6.35
+
+************************
+
+************************
+Document:  CACM-2494.html
+************************
+
+
+a computer generated aid for cluster analysis
+
+a computer generated graphic method, which
+can be used in conjunction with any hierarchical 
+scheme of cluster analysis, is described and illustrated.
+ the graphic principle used is the representation 
+of the elements of a data matrix of similarities or dissimilarities
+by computer printed symbols (of character 
+overstrikes) of various shades of darkness, where a
+dark symbol corresponds to a small dissimilarity. 
+ the plots, applied to a data matrix before clustering
+and to the rearranged 
+************************
+
+and to the rearranged matrix after clustering, 
+show at a glance whether clustering 
+************************
+nce whether clustering brought forth any
+distinctive clusters.  a well-known set of data 
+consisting of the correlations of 24 psychological 
+************************
+tions of 24 psychological tests
+is used to illustrate the comparison of groupings 
+by four methods of factor analysis and two methods of cluster analysis.
+
+cacm june, 1973
+
+ling, r. f.
+
+computer graphics, cluster analysis, numerical
+taxonomy, hierarchical clustering, factor analysis
+
+3.10 
+************************
+
+************************
+Document:  CACM-2990.html
+************************
+
+
+effective information retrieval using term accuracy
+
+the performance of information retrieval systems
+can be evaluated in a number of different 
+ways.  much of the published evaluation work is based
+on measuring the retrieval performance of an average 
+user query.  unfortunately, formal proofs are difficult
+to construct for the average case.  in the present 
+study, retrieval evaluation is based on optimizing the
+performance of a specific user query.  the concept 
+of query term accuracy is in troduced as the probability
+of occurrence of a query term in the documents 
+relevant to that query.  by relating term accuracy
+to 
+************************
+
+************************
+Document:  CACM-2401.html
+************************
+
+
+on shrinking binary picture patterns
+
+a parallel processing algorithm for shrinking
+binary patterns to obtain single isolated elements, 
+one for 
+************************
+ted elements, 
+one for each pattern, is presented.  this procedure
+may be used for counting patterns on a matrix, and 
+a hardware implementation of the algorithm using large
+scale integrated 
+************************
+rge
+scale integrated technology is envisioned.  the 
+principal features of this method are the very small
+window employed (two-by-two elements), the parallel 
+nature of the process, and the possibility of shrinking
+any pattern, regardless of the complexity of 
+its configuration.  problems regarding merging and disconnection
+of patterns during the process as well 
+as the determination of the maximum number of steps
+necessary to obtain a single isolated element from 
+a pattern, 
+************************
+
+************************
+Document:  CACM-1030.html
+************************
+
+
+techniques for the simulation of computer logic
+
+the simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  the evaluation of the boolean functions 
+************************
+ of the boolean functions which
+characterize the computer being simulated constitutes 
+one 
+************************
+
+************************
+Document:  CACM-1267.html
+************************
+************************
+Document:  CACM-0633.html
+************************
+
+
+simulation and analysis of biochemical systems
+(iii. analysis and pattern recognition)
+
+cacm february, 1962
+
+************************
+
+************************
+Document:  CACM-2019.html
+************************
+
+
+normalization techniques for hand printed numerals
+
+family of pattern standardization
+techniques 
+************************
+ standardization
+techniques based on geometrical projection is applied to a file of
+digitized hand printed numerals obtained from sales clerks. the
+principle involves transforming a quadrilateral specified in terms
+of the convex hull of each pattern into a square. the amount of
+overlap within each class of characters versus the amount between classes
+is used to evaluate the degree of normalization achieved with respect to other 
+published methods including size and shear normalization through moments.
+
+cacm august, 1970
+
+nagy, g.
+tuong, n.
+
+pattern recognition, character recognition, 
+************************
+, character recognition, normalization,
+projective transformation, central projection, hand
+printed characters, handwriting, linear transformation,
+size normalization, mapping, pattern preprocessor
+
+3.63 5.14
+
+************************
+
+************************
+Document:  CACM-1653.html
+************************
+
+
+system performance evaluation: survey and appraisal
+
+************************
+: survey and appraisal
+
+the state of the art of system performance
+evaluation is reviewed and evaluation 
+************************
+ is reviewed and evaluation goals and 
+problems are examined.  throughput, turnaround, and
+availability are defined as 
+************************
+bility are defined as fundamental measures 
+of performance; overhead and cpu speed are placed in
+perspective.  
+************************
+ced in
+perspective.  the appropriateness of instruction 
+mixes, kernels, simulators, and other tools is discussed,
+as well as pitfalls which may be encountered 
+when using them.  analysis, simulation, and synthesis are
+presented as three levels of approach to evaluation, 
+requiring successively greater amounts of information.
+ the central role of measurement in performance 
+evaluation and in the 
+************************
+
+************************
+Document:  CACM-2617.html
+************************
+************************
+Document:  CACM-2485.html
+************************
+
+
+managing the computer resource: a stage hypothesis
+
+based on the study of expenditures for data processing,
+a descriptive stage hypothesis is presented. 
+ it is suggested that the planning, organizing, and controlling
+activities associated with managing the 
+computer resource will change in character over a period
+of time, and will evolve in patterns roughly 
+correlated 
+************************
+s roughly 
+correlated to four stages of the computer budget: stage
+i (computer 
+************************
+ budget: stage
+i (computer acquisition), stage ii (intense system 
+development), stage iii (proliferation of controls), and
+stage iv (user/service orientation).  each stage 
+is described and related to individual tasks 
+************************
+ted to individual tasks for managing the computer resource.
+
+cacm july, 1973
+
+nolan, r. l.
+
+computer management, 
+************************
+n, r. l.
+
+computer management, computer budget, computer expenditures,
+stage hypothesis, planning, organizing, 
+control, 
+************************
+
+************************
+Document:  CACM-0601.html
+************************
+************************
+Document:  CACM-2542.html
+************************
+
+
+a software design and evaluation system
+
+a critical failure of current software system
+design and implementation methodology is that 
+the performance of a proposed design is not evaluated
+before it is actually implemented.  in this paper 
+the reasons for this failure are explored, and a new methodology
+which overcomes many of the difficulties 
+is proposed.  a system which integrates performance evaluation
+with design and implementation is described. 
+ this system is based on a simple, high level language
+which is used 
+************************
+nguage
+which is used to describe the evolving system 
+at all stages of its development.  the source language
+description is used as direct input to performance 
+analysis and simulation routines.  using the performance
+information obtained from these routines as 
+feedback, the problems which adversely affect performance
+are detected early enough so that they can 
+be corrected without costly major reimplementation of the proposed system.
+
+cacm february, 1973
+
+graham, r. m.
+clancy, g. j. jr.
+devaney, d. b.
+
+operating system development, language processing
+software evaluation, compilers, system programming, 
+************************
+
+************************
+Document:  CACM-1792.html
+************************
+
+
+exploratory experimental studies comparing
+online and off line programming performance
+
+two exploratory experiments were conducted at
+system development corporation to compare debugging 
+performance of programmers working under conditions
+of on-line and off line access to a computer.  these 
+are the first 
+************************
+.  these 
+are the first known studies that measure programmers'
+performance under controlled conditions for standard 
+tasks.  statistically significant results of both experiments
+indicated faster debugging under online 
+conditions, but perhaps the most important practical finding
+involves the striking individual differences 
+in programmer performance.  methodological problems encountered
+in designing and conducting these experiments 
+are described; limitations of the findings are pointed
+out; hypotheses are presented to account for results; 
+and suggestions are made for further research.
+
+cacm january, 1968
+
+sackman, h.
+erikson, w. j.
+grant, e. e.
+
+online vs. off line performance, programmer/computer
+communication, programming 
+************************
+
+************************
+Document:  CACM-0003.html
+************************
+************************
+Document:  CACM-3048.html
+************************
+
+
+performance evaluation of highly concurrent
+
+************************
+ of highly concurrent
+computers by deterministic simulation
+
+simulation is presented as a practical technique
+for performance evaluation of alternative 
+configurations 
+************************
+ of alternative 
+configurations of highly concurrent computers.  a technique
+is described for constructing a detailed 
+deterministic simulation model of a system.  in the model
+a control stream replaces the instruction and 
+data streams of the real system.  simulation of the
+system model yields the timing and resource usage 
+statistics needed for performance evaluation, without
+the necessity 
+************************
+, without
+the necessity of emulating the system.  as a case 
+study, the implementation of a simulator of a model
+of the cpu-memory subsystem of the ibm 360/91 is 
+described.  the results of evaluating some alternative
+system designs are discussed.  the experiments 
+reveal that, for the case study, the major bottlenecks
+in the system are the memory unit and the fixed 
+point unit.  further, it appears that many of the sophisticated
+pipelining and buffering technique simplemented 
+in the architecture of the ibm 360/91 are of little
+value when high-speed (cache) memory is used, as 
+in the ibm 360/195.
+
+cacm november, 1978
+
+kumar, b.
+davidson, e.
+
+performance evaluation, deterministic simulation,
+
+************************
+, deterministic simulation,
+control stream, concurrent computers
+
+6.20 8.1
+
+ca781103 
+************************
+
+************************
+Document:  CACM-2215.html
+************************
+
+
+application of game tree searching techniques
+to sequential pattern recognition
+
+a sequential pattern 
+************************
+
+
+a sequential pattern recognition (spr) procedure
+does 
+************************
+ (spr) procedure
+does not test all the features of a pattern 
+at once.  instead, it selects a feature to be tested.  after
+receiving the result of that test, the procedure 
+either classifies the unknown pattern or selects another
+feature to be tested, etc.  medical diagnosis 
+is an example of spr.  in this paper the authors suggest
+that spr be viewed as a one-person game played 
+against nature (chance).  virtually all the powerful techniques
+developed for searching two-person, strictly 
+competitive game trees can easily be incorporated either
+directly or by analogy into spr procedures. 
+ in particular, one can incorporate the "mini average
+backing-up procedure" and the "gamma procedure," 
+which are the analogues of the "minimax backing-up procedure"
+and the "alpha-beta procedure," respectively. 
+ some computer simulated experiments in character recognition
+are presented.  the 
+************************
+
+are presented.  the results indicate that 
+the approach is promising.
+
+cacm february, 1971
+
+slagle, j. r.
+lee, r. c. t.
+
+sequential pattern recognition, game tree searching,
+
+************************
+
+************************
+Document:  CACM-2231.html
+************************
+
+
+the reconstruction of binary patterns from their projections
+
+given the horizontal and vertical projections
+of a finite binary pattern f, can we construct 
+the original pattern f?  in this paper we give a characterization
+of patterns that are reconstructable 
+from their projection.  three algorithms are developed
+to reconstruct both unambiguous and ambiguous 
+patterns.  it is shown that an unambiguous pattern can
+be perfectly reconstructed in time m x n and that 
+a pattern similar to an ambiguous pattern can also be constructed
+in time m x n, where m, n are the dimensions 
+of the pattern frame.
+
+cacm january, 1971
+
+chang, s.
+
+pattern reconstruction, image reconstruction, data
+compression, pattern recognition, integral geometry
+
+
+************************
+
+************************
+Document:  CACM-2535.html
+************************
+
+
+the effects of multiplexing on a computer-communications system
+
+a study is made of the way in which asynchronous
+time division multiplexing changes the stochastic 
+nature of the arrival process from a user to the computer
+and, consequently, affects the performance 
+of a time-shared computer-communications system.  it is
+concluded that while, for certain values of system 
+parameters, there is noticeable improvement in the
+performance of the computer (model), in the sense 
+that time-shared scheduling delays are reduced, these
+
+************************
+ys are reduced, these
+improvements are offset by the transmission delays 
+imposed by multiplexing so that there may be little or
+no change in the computer-communications system 
+performance.  analytical and simulation 
+************************
+.  analytical and simulation results are
+based on the model of the computer-communications 
+system 
+************************
+
+************************
+Document:  CACM-1938.html
+************************
+
+
+some criteria for time-sharing system performance
+
+time-sharing systems, as defined in this article,
+are those multiaccess systems which permit 
+a terminal user to utilize essentially the full resources
+of the system while sharing its time with other 
+terminal users.  it is each terminal user's ability
+to utilize the full resources of the system that 
+makes quantitative evaluation of time-sharing systems
+particularly difficult.  six criteria 
+************************
+rly difficult.  six criteria are described 
+which have been successfully used to perform first-level
+quantitative time-sharing system performance 
+evaluation.
+
+cacm january, 1969
+
+************************
+
+************************
+Document:  CACM-0961.html
+************************
+
+
+limited bit manipulation using fortran ii
+
+techniques are developed for manipulating 
+************************
+ are developed for manipulating bits
+using only fortran ii.  these techniques allow 
+individual bits 
+************************
+
+************************
+Document:  CACM-0204.html
+************************
+
+
+proving theorems by pattern recognition i
+
+cacm april, 1960
+
+************************
+
+************************
+Document:  CACM-1735.html
+************************
+
+
+a futures market in computer time
+
+an auction method is described for allocating
+computer time that allows the price of computer 
+time to fluctuate with the demand and the relative priority
+of users 
+************************
+tive priority
+of users to be controlled so that more important 
+projects get better access.  this auction is free of the
+periodic fluctuation in computer use often associated 
+with monthly time allocation schemes.
+
+cacm june, 1968
+
+sutherland, i. e.
+
+computer scheduling, 
+************************
+
+************************
+Document:  CACM-0591.html
+************************
+************************
+Document:  CACM-2528.html
+************************
+
+
+binary pattern reconstruction from projections [z] (algorithm r445)
+
+cacm march, 1973
+
+lau, j.
+
+pattern reconstruction, 
+************************
+
+************************
+Document:  CACM-2318.html
+************************
+
+
+the role of computer system models in performance evaluation
+
+models constitute a 
+************************
+
+
+models constitute a useful means of investigating
+computer system performance.  this paper 
+examines 
+************************
+.  this paper 
+examines the interrelationships between models and other
+methods for evaluating the performance of computer 
+systems and establishes 
+************************
+ 
+systems and establishes circumstances under
+which the use of a model is appropriate.
+
+cacm july,1972
+
+kimbleton, s. r.
+
+modeling, evaluation, performance, analytic-models,
+simulation-models, 
+************************
+
+************************
+Document:  CACM-2322.html
+************************
+************************
+Document:  CACM-2402.html
+************************
+
+
+pictorial pattern recognition and the
+phase problem 
+************************
+ and the
+phase problem of x-ray crystallography
+
+the availability of interactive, three-dimensional,
+computer graphics systems coupled to powerful 
+digital computers encourages the development of algorithms
+adapted to this environment.  pictorial pattern 
+recognition techniques make possible a number 
+************************
+ make possible a number of approaches
+to x-ray structure determination based on 
+molecular model building, i.e. the use of chemical information
+to frame "structural hypotheses" which 
+can computationally be tested and refined by reference
+to the experimental data.  application of standard 
+pattern recognition algorithms is hindered 
+************************
+ algorithms is hindered by the fact
+that the cross-correlation between a model and 
+the correct structure cannot be computed because of
+a fundamental incompleteness in the measured data. 
+ however, it is possible to compute an upper bound to such
+a cross-correlation.  a simple example demonstrates 
+that this information can be the basis of a technique
+for structure determination that can make effective 
+use of an interactive graphics system. model building
+by cross-correlations has intrinsic advantages 
+over usual crystallographic techniques based on the
+autocorrelation or patterson function, especially 
+for large structures.  this is significant, for crystallography
+of biological macromolecules hasbeen 
+and will continue to be a field of intense interest.
+
+cacm january, 1972
+
+lesk, a. m.
+
+pictorial pattern recognition, phase problem,
+x-ray 
+************************
+
+************************
+Document:  CACM-2789.html
+************************
+************************
+Document:  CACM-1940.html
+************************
+
+
+calculation of a polynomial and its derivative
+values by horner scheme (algorithm 337 [c1])
+
+cacm january, 1969
+
+smith, o. k.
+
+function, evaluation, polynomial evaluation,
+
+************************
+
+************************
+Document:  CACM-2711.html
+************************
+
+
+a vector space model for automatic indexing
+
+in a document retrieval, or other pattern matching
+environment where stored entities (documents) 
+are compared with each other or with incoming patterns
+(search requests), it appears that the best indexing 
+(property) space is one where each entity lies as far away
+from the others as possible; in these circumstances 
+the value of an indexing system may be expressible
+as a function of the density of the object space; 
+in particular, retrieval performance may correlate inversely
+
+************************
+ may correlate inversely
+with space density.  an approach based on 
+space density computations is used to choose an optimum
+indexing vocabulary for a collection of documents. 
+ typical evaluation results are shown, demonstrating
+
+************************
+
+************************
+Document:  CACM-0182.html
+************************
+************************
+Document:  CACM-0417.html
+************************
+
+
+legal implications of computer use
+
+this paper points out a variety of ways computer
+systems used in business and industry can 
+be involved in legal entanglements and suggests that
+computer specialists have a responsibility to call 
+for assistance in forestalling or minimizing those entanglements
+during the planning stage.  techniques 
+************************
+nning stage.  techniques 
+are suggested for making legal clearance effective with
+the least burden on the new technology and for 
+achieving a favorable legal climate for it generally.
+ computer specialists also are alerted to potential 
+opportunities to interpret to lawyers the technical aspects
+
+************************
+
+************************
+Document:  CACM-0893.html
+************************
+
+
+significance arithmetic on a digital computer
+
+the 7090 at nyu has been modified to include
+a "significance mode" of operation which is intended 
+to facilitate the identification of significant bits in
+the results of floating-point arithmetic operations. 
+ the manner in which floating-point arithmetic is handled
+in this mode is discussed.  several numerical 
+experiments using this mode are described and comparisons
+are made with the ordinary "normalized mode." 
+ examples include power series evaluation, linear equations
+solution, 
+************************
+
+************************
+Document:  CACM-2641.html
+************************
+
+
+a minimal spanning tree clustering method [z] (algorithm a479)
+
+cacm june, 1974
+
+page, r. l.
+
+clustering, pattern recognition, feature
+selection, 
+************************
+
+************************
+Document:  CACM-0741.html
+************************
+************************
+Document:  CACM-2529.html
+************************
+************************
+Document:  CACM-0517.html
+************************
+************************
+Document:  CACM-0462.html
+************************
+
+
+computer pattern recognition techniques: electrocardiographic 
+************************
+: electrocardiographic diagnosis
+
+the use of programmed digital computers as general
+pattern classification and recognition 
+************************
+ssification and recognition devices 
+is one phase of the current lively interest in artificial
+intelligence.  it is important to choose a 
+class of signals which is, at present, undergoing a
+good deal of visual inspection by trained people 
+for the purpose of pattern recognition.  in this way
+comparisons between machine and human performance 
+may be obtained.  a 
+************************
+
+************************
+Document:  CACM-2545.html
+************************
+
+
+a theory of discrete patterns and their implementation in snobol4
+
+the notion of a discrete pattern is formalized
+and certain properties deduced.  a pattern is 
+shown to be a generalization of a formal language. 
+algorithms for 
+************************
+
+************************
+Document:  CACM-2437.html
+************************
+
+
+general performance analysis of key-to-address
+transformation methods using an abstract file 
+concept
+
+this paper presents a new approach to the analysis
+of performance of the various key-to-address 
+transformation methods.  in this approach the keys in
+a file are assumed to have been selected from the 
+key space according to a certain probabilistic selection
+algorithm.  all files with the same number of 
+keys selected from this key space will be suitably weighted
+in accordance with the algorithm, and the 
+average performance of the transformation methods on
+these files will be used as the potential of these 
+methods.  using this analysis, methods with the same overall
+performance can be classified and key distributions 
+************************
+ssified and key distributions 
+partial to certain transformations can be identified.
+ all this can be done analytically.  the approach 
+is applied to a group of transformation methods
+using files whose keys are selected randomly.
+
+cacm october, 1973
+
+lum, v. y.
+
+hashing, hashing techniques, hashing methods, hash coding,
+key transformation, key-to-address transformation, 
+direct addressing, randomizing, random access, scatter
+storage, information retrieval, hashing analysis, 
+randomization performance analysis
+
+3.7 3.72 3.73 
+************************
+
+************************
+Document:  CACM-2903.html
+************************
+
+
+improving programs by the introduction of recursion
+
+a new technique of program transformation,
+called "recursion in troduction," is described and 
+applied to two algorithms which solve pattern matching problems.
+ by using recursion in troduction, algorithms 
+which manipulate a stack are first 
+************************
+te a stack are first translated into
+recursive algorithms in which no stack operations 
+occur.  these algorithms are then subjected to a second
+transformation, a method of recursion elimination 
+called "tabulation," to produce programs with a very
+efficient running time.  in particular, it is shown 
+how the fast linear pattern matching algorithm of 
+************************
+
+************************
+Document:  CACM-0444.html
+************************
+************************
+Document:  CACM-3132.html
+************************
+
+
+experiments with some algorithms that find
+central solutions for pattern classification
+
+in two-class pattern recognition, it is a standard
+technique 
+************************
+, it is a standard
+technique to have an algorithm finding hyperplanes
+which separates the two classes in a linearly separable training
+set.  the traditional methods find a hyperplane which separates all
+points in the other, but such a hyperplane is not necessarily centered
+in the empty space between the two classes.  since a central
+hyperplane does not favor one class or the other, it should have
+a lower error rate in classifying new points and is therefore better
+than a noncentral hyperplane.  six algorithms for finding central
+hyperplanes are tested on three data sets.  although frequently
+used practice, the modified relaxation algorithm is very poor. 
+three algorithms which are defined in the paper are found to be
+quite good.
+
+cacm march, 1979
+
+slagle, j.
+
+pattern recognition, pattern classification, 
+************************
+, pattern classification, linear discriminants, 
+************************
+
+************************
+Document:  CACM-1543.html
+************************
+
+
+computer formulation of the equations 
+************************
+tion of the equations of motion using tensor notation
+
+a means is described for extending the area
+of application of digital computers beyond the 
+numerical data processing stage and reducing the need for
+human participation in the formulation of certain 
+types of computer problems.  by the use of tensor calculus
+and a computer language designed to facilitate 
+symbolic mathematical computation, a method has been
+devised whereby a digital computer can be used to 
+do non-numeric work, that is, symbolic algebraic manipulation
+and differentiation. to illustrate the 
+techniques involved, a digital 
+************************
+ involved, a digital computer has been used
+to derive the equations of motion of a point mass 
+in a general orthogonal curvilinear coordinate system.
+ since this operation involves a formulation in 
+terms of first- 
+************************
+tion in 
+terms of first- and second-order differential coefficients,
+it provides a good demonstration of a computer's 
+capability to do non-numeric work and to assist in the
+formulation process which normally 
+************************
+tion process which normally precedes the 
+numerical data processing stage.  moreover, this particular
+problem serves to illustrate the advantages 
+of the mathematical techniques employed.  with the program
+prepared for this purpose the computer will 
+derive the equations 
+************************
+
+************************
+Document:  CACM-0678.html
+************************
+
+
+optimizing bit-time computer simulation
+
+a major component 
+************************
+tion
+
+a major component of a bit-time computer simulation
+program is the boolean 
+************************
+tion
+program is the boolean compiler.  the compiler 
+accepts the boolean functions representing the simulated computer's
+digital circuits, 
+************************
+'s
+digital circuits, and generates corresponding 
+sets of machine instructions which are subsequently
+executed on the "host" computer.  techniques are 
+discussed for increasing 
+************************
+ are 
+discussed for increasing the sophistication of the boolean
+compiler so as to optimize bit-time computer 
+simulation.  the techniques 
+************************
+tion.  the techniques are applicable to any general-purpose computer.
+
+cacm november, 1963
+
+************************
+
+************************
+Document:  CACM-0966.html
+************************
+
+
+evaluation of determinant (algorithm 224 [f3])
+
+cacm december, 1964
+
+hasselblad, v.
+rulifson, j.
+
+ca641205 
+************************
+
+************************
+Document:  CACM-1719.html
+************************
+
+
+a methodology for calculating and
+optimizing real-time system performance
+
+the continually increasing 
+************************
+
+
+the continually increasing size, complexity,
+number of types, and cost of data processing systems 
+are causing serious re-examination within government
+and industry of the criteria for and methods of 
+calculating and optimizing data processing system cost
+and performance.  real-time data processing 
+************************
+.  real-time data processing systems 
+as typified by the automated airline reservation system
+are discussed in this paper.  criteria for evaluating 
+performance are described; a methodology for calculating
+and optimizing is 
+************************
+ting
+and optimizing is outlined; and the method is 
+illustrated by carrying out a portion of the performance
+calculation and the optimization 
+************************
+
+************************
+Document:  CACM-2812.html
+************************
+
+
+computer-aided analysis and design of information systems
+
+this paper describes the use of computer-aided
+analysis for the design and development of an 
+integrated financial management system by the navy material
+command support activity (nmcsa).  computer-aided 
+analysis consists of a set of procedures and computer
+programs specifically designed to aid in the process 
+of applications software design, computer selection
+and performance evaluation.  there are four major 
+************************
+.  there are four major 
+components: problem statement language, problem statement
+analyzer, generator of alternative designs, 
+and performance evaluator. the statement 
+************************
+ evaluator. the statement of requirements
+was written in ads (accurately defined systems) 
+and analyzed by a problem statement analyzer for ads.
+ the ads problem definition was supplemented with 
+additional information in order to create a complete
+problem definition.  the analyzed problem statement 
+was translated to the form necessary for use by the
+soda (systems optimization and design algorithm)
+program for the generation of alternative specifications
+of program modules and logical database structures.
+
+cacm december, 1976
+
+nunamaker, j. f. jr.
+konsynski, b. r. jr.
+ho, t.
+singer, c.
+
+computer-aided analysis, information 
+************************
+
+************************
+Document:  CACM-2054.html
+************************
+
+
+on the feasibility of voice input to
+an on-line computer processing system
+
+an on-line digital computer processing system is considered in which an 
+ordinary telephone is the complete terminal device, input to the computer 
+being provided as a sequence of spoken words, and output to the user being 
+audio responses from the machine.  the feasibility of implementing such a 
+system with a fortran-like algebraic compiler as the object processor is 
+considered.  details of a specific word recognition program are given.  this 
+technique depends on three simplifying restrictions, namely, a "small"
+vocabulary set, "known" speakers, 
+************************
+ry set, "known" speakers, and a "moment of silence"
+between each input word.  experimental results are presented giving
+error rates for different experimental conditions as well as the machine 
+resources required to accommodate several users at a time. the results show 
+that at this time it is both economically and logically feasible to handle at 
+least 40 users at a time with an ibm 360/65 computer.
+
+cacm june, 1970
+
+elder, h. a.
+
+speech recognition, word recognition, pattern-matching, pattern
+recognition, 
+************************
+-matching, pattern
+recognition, time-sharing, remote 
+************************
+
+************************
+Document:  CACM-3135.html
+************************
+
+
+detection of three-dimensional patterns of atoms in chemical structures
+
+an algorithm for detecting occurrences of a three-dimensional pattern of
+objects within a larger structure is presented. 
+************************
+rger structure is presented.  the search technique
+presented uses the geometric structure of the pattern to define
+characteristics demanded of candidates for matching. this is useful
+in cases where the properties of each atom, considered individually,
+do not adequately limit the number of sets of possible matchings.
+several applications of this technique in the field of chemistry
+are: (1) in pharmacology: searching for a common constellation
+of atoms in molecules possessing similar biological activities;
+(2) in x-ray crystallography: fitting a structure or a structural fragment
+to a set of peaks in the electron-density distribution of
+a fourier map; (3) in chemical documentation; retrieving from
+a file the structures containing specified substructures.
+
+cacm april, 1979
+
+lesk, a.
+
+three-dimensional pattern recognition, chemical
+structure 
+************************
+
+************************
+Document:  CACM-1908.html
+************************
+
+
+time-sharing and batch-processing:  an experimental
+comparison of their values in a problem - 
+solving situation
+
+an experimental comparison of problem-solving
+using time-sharing and batch-processing computer 
+systems conducted at mit is described in this paper.
+ this study is the first known attempt to evaluate 
+two such systems for what may well be the predominant user
+population within the next decade-the professionals 
+who, as nonprogrammers, are using the computer as an
+aid in decision-making and problem-solving rather 
+than as a programming end in itself.  statistically
+and logically significant results indicate equal 
+cost for usage of the two computer systems; however,
+a much higher level of performance is attained by 
+time-sharing 
+************************
+
+************************
+Document:  CACM-3169.html
+************************
+************************
+Document:  CACM-2502.html
+************************
+************************
+Document:  CACM-2553.html
+************************
+************************
+Document:  CACM-1529.html
+************************
+
+
+decomposition programming an analysis of matrix substructure 
+
+a petroleum blending problem was analyzed in order
+to compare the primal and primal-dual decomposition 
+algorithms.  in the course of the analysis, a substructure
+was discovered which has relevance to the 
+relative performance of the two algorithms 
+************************
+
+************************
+Document:  CACM-0575.html
+************************
+************************
+Document:  CACM-1170.html
+************************
+
+
+analyzing english syntax with a pattern-learning parser
+
+a dependency analysis system based on pattern
+recognition and learning logic was developed 
+to infer word classes and rules of syntactic 
+************************
+sses and rules of syntactic combination
+from experience with text which had been analyzed. 
+ the characteristics used to form word classes are the
+depth in the dependency tree of each word, the 
+direction of its governor and the same features for
+each of its immediate neighbors. syntactic rules 
+of combination show the relation of a word to its governor
+in the depth pattern of the sentence.  the 
+************************
+
+************************
+Document:  CACM-2984.html
+************************
+
+
+cost/utilization: a measure of system performance
+
+a method is presented for evaluating computer
+system performance in terms of a cost/utilization 
+factor and a measure of imbalance.  these coefficients
+
+************************
+nce.  these coefficients
+indicate the extent to which the total system 
+cost is effectively utilized.  the method includes a
+technique for the visual representation of system 
+performance.
+
+cacm march, 1977
+
+borovits, i.
+ein-dor, p.
+
+computer system, performance evaluation, cost/utilization, system 
+************************
+
+************************
+Document:  CACM-1689.html
+************************
+
+
+calculation of a polynomial and its derivative
+values by horner scheme (algorithm 337 [c1])
+
+cacm september, 1968
+
+pankiewicz, w.
+
+function evaluation, polynomial evaluation,
+
+************************
+
+************************
+Document:  CACM-2980.html
+************************
+
+
+the editing  of picture segmentations using local analysis of graphs
+
+a major problem in picture processing is the
+elimination of the large number of spurious regions 
+that result from an initial segmentation by region growing
+techniques.  such regions have been eliminated 
+either on the basis of semantic information or on the
+basis of size and contrast.  a scheme is presented 
+which performs eliminations on the basis of local properties
+of the region adjacency graph.  the scheme 
+is based on definitions of graph properties which are
+satisfied when a spurious region is present; then 
+editing is equivalent to fast graph operations.  a number of examples are shown.
+
+cacm april, 1977
+
+tanimoto, s. l.
+pavlidis, t.
+
+picture processing, pattern recognition, segmentation, region 
+************************
+
+************************
+Document:  CACM-1527.html
+************************
+
+
+a grammar base question answering procedure
+
+the subject of this paper is a procedure for
+the automatic retrieval of certain segments of 
+stored information, either explicitly or implicitly represented,
+through questions posed in natural language 
+sentences.  this procedure makes use of a sentence recognition
+device for the class 
+************************
+
+device for the class of grammars which 
+will correctly decide between the grammatical and ungrammatical
+sentences of a natural language.  it 
+is possible to make use of a recognition device of this
+sort 
+************************
+ device of this
+sort for the following reason: much data is fully 
+expressible as a set of sentences in a natural language,
+a set which can be exhaustively and exclusively 
+generated by a grammar.  based upon the rules of this grammar,
+a sentence recognizer will evaluate sentences, 
+questions in the normal situation.  since the recognition
+function succeeds just 
+************************
+
+************************
+Document:  CACM-2788.html
+************************
+
+
+finding circles by an array of accumulators
+
+cacm february, 1975
+
+kimme, c.
+balard, d.
+sklansky, j.
+
+picture processing, pattern recognition, curve detection,line 
+************************
+
+************************
+Document:  CACM-0180.html
+************************
+
+
+evaluation of the laguerre polynomial ln(x) 
+************************
+
+************************
+Document:  CACM-1726.html
+************************
+
+
+preliminary investigation of techniques
+for automated reading of unformatted text
+
+methods for converting unstructured printed
+material into computer code are experimentally 
+************************
+ code are experimentally 
+investigated.  an operator-controlled mode, depending
+on human demarcation of the various regions of 
+the page for guiding the scanner, is implemented by
+means of a joystick and a crt display.  this mode, 
+for which some performance figures are obtained, 
+************************
+ figures are obtained, is thought
+to be suitable for processing very complicated 
+material, such as technical journals.  for simpler material,
+for instance the "claims" sections of patents, 
+and in applications where the utmost accuracy is not necessary,
+an unsupervised mode is advocated.  here, 
+the textual portions of the page are located during
+a rapid prescan by a rudimentary form of frequency 
+analysis.  these areas are then rescanned at a higher
+resolution suitable for character recognition. 
+ error rates of the 
+************************
+. 
+ error rates of the order of 0.1 percent are obtained in
+a simple problem involving photographs of telephone 
+company meter boards.  other matters related to the
+design of a general purpose page reader, such as 
+the segmentation of printed text, the possibility of
+time-sharing the scanner, interactive man-machine 
+operation, and the facsimile reproduction of illustrations, are discussed.
+
+cacm july, 1968
+
+nagy, g.
+
+pattern recognition, character recognition, 
+************************
+
+************************
+Document:  CACM-0742.html
+************************
+************************
+Document:  CACM-2894.html
+************************
+
+
+a methodology for interactive computer service measurement
+
+a measurement methodology applicable to in teractive
+computer service is described.  its primary 
+purpose is to enable external, user-oriented assessment
+of computer performance, instead of the more 
+************************
+, instead of the more 
+frequently used in ternal system measurement techniques.
+ the nbs network measurement system is employed 
+as the external measurement tool.  example data have
+been collected and analyzed.  a demonstration of 
+the methodology, leading to a pragmatic figure-of-merit
+evaluation of results, is included.
+
+cacm december, 1977
+
+adrams, m. d.
+
+in teractive system, computer service, measurement,
+performance, external measurement, 
+************************
+
+************************
+Document:  CACM-0590.html
+************************
+************************
+Document:  CACM-1870.html
+************************
+
+
+some techniques for using pseudorandom numbers in computer simulation
+
+an algorithm is 
+************************
+tion
+
+an algorithm is described by which uniform pseudorandom
+integers may be used to construct binary 
+"numbers" in which the probability that each bit in the
+word is a 1-bit and can assume any desired parameter 
+value.  techniques for making use of such "numbers"
+in simulation programming are 
+************************
+
+************************
+Document:  CACM-2886.html
+************************
+
+
+semantic evaluation from left to right
+
+this paper describes attribute grammars and their
+use for the definition of programming languages 
+and compilers; 
+************************
+nguages 
+and compilers; a formal definition of attribute grammars
+and a discussion of some of its important aspects 
+are included. the paper concentrates on the evaluation
+of semantic attributes in a few passes from left 
+to right over the derivation tree of a program.  a
+condition for an attribute grammar is given which 
+assures that the semantics of any program can be evaluated
+in a single pass over the derivation tree, 
+and an algorithm is discussed which decides how many
+passes from left to right are in general necessary, 
+given the attribute grammar. these notions are explained
+in terms of an example 
+************************
+ined
+in terms of an example grammar which describes 
+the scope rules of algol 60.  practical questions, such
+as the relative efficiency of different evaluation 
+schemes, and the ease 
+************************
+ 
+schemes, and the ease of adapting the attribute grammar
+of a given programming language to the left-to-right 
+evaluation scheme are discussed.
+
+************************
+ scheme are discussed.
+
+cacm february, 1976
+
+bochmann, g. v.
+
+attribute grammars, semantics of programming languages,
+semantic attributes, left-to-right parsing, 
+multipass compilers, semantic evaluation, semantic conditions
+
+************************
+
+************************
+Document:  CACM-2310.html
+************************
+
+
+language analysis in the humanities
+
+the use of the computer in the language-oriented
+humanities for exhaustive listing of detail 
+(as in indices and concordances) is widespread and accepted
+as desirable.  the implications of the computer 
+for a "science" of the humanities-a science entailing
+gathering data for the construction and testing 
+of models-are neither widely recognized nor accepted.
+ this paper argues that the computer's  major role 
+as to language analysis in the humanities will be the
+establishing of such a sciencehus, for those 
+areas of the humanities for which rigor and precision
+are necessary (e.g. analyzing literature or teaching 
+a student to write a composition) the computer
+can be a critically important facilitator.
+
+cacm july, 1972
+
+sedelow, s. y.
+
+language analysis, humanities, science of the humanities,
+pattern recognition, pattern generation, 
+************************
+
+************************
+Document:  CACM-3149.html
+************************
+
+
+the cyclic order property of vertices as an aid in scene analysis
+
+a cyclic-order property is defined for bodies bounded by smooth-curved faces.
+the property is shown to be useful for analyzing pictures of such bodies,
+particularly when the line data extracted from the pictures are imperfect.
+this property augments previously known grammatical rules that
+determine the existence of three-dimensional bodies corresponding
+to given two-dimensional line-structure data.
+
+cacm june, 1979
+
+shapira, r.
+freeman, h.
+
+scene analysis, cyclic order, artificial intelligence,
+three-dimensional reconstruction
+, picture processing, computer graphics, pattern recognition.
+
+3.2 3.6 8.2
+
+ca790605 
+************************
+
+************************
+Document:  CACM-0181.html
+************************
+************************
+Document:  CACM-0268.html
+************************
+************************
+Document:  CACM-1374.html
+************************
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- 
+************************
+
+systems using computer- aided algebra
+
+analytical results, related to the availability
+
+************************
+ted to the availability
+of a computer system constructed of 
+************************
+ system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques.  a major purpose of
+
+************************
+.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here.
+
+cacm july, 1978
+
+chattergy, r.
+pooch, u.
+
+computer-aided algebra, symbol 
+************************
+-aided algebra, symbol manipulation, markov
+process, reliability, redundant structures, 
+on-line computer system.
+
+3.82 5.5 5.7 
+************************
+
+************************
+Document:  CACM-2255.html
+************************
+************************
+Document:  CACM-0535.html
+************************
+
+
+triangular walk pattern for the down-hill
+method 
+************************
+
+************************
+Document:  CACM-1620.html
+************************
+************************
+Document:  CACM-2969.html
+************************
+************************
+Document:  CACM-0589.html
+************************
+************************
+Document:  CACM-2942.html
+************************
+************************
+Document:  CACM-0179.html
+************************
+************************
+Document:  CACM-1435.html
+************************
+
+
+design of computer simulation experiments for 
+************************
+tion experiments for industrial systems
+
+the aim of this paper is to provide background
+information on the existing literature on experimental 
+design techniques which may be applicable to the design
+of computer simulation experiments for 
+************************
+tion experiments for industrial 
+systems.  although major emphasis is placed on analysis
+of variance techniques, three other techniques 
+************************
+
+************************
+Document:  CACM-2145.html
+************************
+
+
+automation of etching-pattern layout
+
+help (heuristic 
+************************
+yout
+
+help (heuristic etching-pattern layout program)
+is an application 
+************************
+yout program)
+is an application program developed to computerize 
+the tedious and error-prone although vitally important
+wiring design of printed circuit boards.  help 
+helps automate a design stage one step closer to production
+than logical design.  it can be used to design 
+wiring patterns of two-layer circuit boards on 
+************************
+yer circuit boards on which
+ics in dual-in-line packages as well as discrete 
+components such as transistors and resistors have been
+placed.  help employs two methods of wiring.  
+one is the heuristic method, which simulates human
+approaches to wiring design, and the other is the 
+theoretically interesting but time-consuming method of
+maze-running, based on the lee's algorithm.  help 
+performs more than 90 percent of required wiring by
+the heuristic path with respect to a performance 
+function for each point-to-point, and point-to-line
+connection.  it can bring the number of successful 
+wiring connections very close to 100 percent.
+
+cacm november, 1971
+
+aramaki, i.
+kawabata, t.
+kazuhiko, a.
+
+heuristic etching-pattern layout, wiring design 
+************************
+
+************************
+Document:  CACM-2504.html
+************************
+************************
+Document:  CACM-1827.html
+************************
+
+
+performance monitoring in a time-sharing system
+
+a software measurement facility which is part of
+a general purpose time-sharing system is described. 
+ the date collection facility (dcf) has been implemented
+in the michigan terminal system (mts) for the 
+system/360 model 67.  it exists for the purpose of monitoring
+operating system and user program behavior 
+and performance.  the overall structure of mts is outlined
+in order to explain the implementation of 
+the dcf.  events in the system are identified and recorded
+from within the supervisor, and dumped to 
+magnetic tape by an auxiliary program for off-line processing.
+ events in user programs which are unrelated 
+to system actions are recorded with a supervisor call.
+ the time of occurrence of each event is accurately 
+recorded, and data items are further identified by job and
+type.  the overhead associated with data collection 
+and its interference with normal jobs is carefully analyzed,
+and both are shown to be minimal.  several 
+examples are given of information obtained with the
+facility and of applications in which it has been 
+useful.  some general guidelines are offered for
+the construction of future monitoring programs.
+
+cacm november, 1969
+
+pinkerton, t. b.
+
+performance monitoring, performance measurement,
+program behavior, performance data, multiprogramming 
+performance, software measurement, time-sharing performance,
+system evaluation, software monitor, software 
+************************
+
+************************
+Document:  CACM-3136.html
+************************
+
+
+price/performance patterns of u. computer systems
+
+************************
+s of u. computer systems
+
+econometric models of the u. computer market have been developed to study 
+the relationships between system 
+************************
+tionships between system price and hardware performance.  single
+measures of price/performance such as "grosch's law" are shown to
+be so 
+************************
+w" are shown to
+be so over simplified as to be meaningless.  multiple-regression models
+predicting system cost as a function of several hardware
+characteristics do, however, reveal a market dichotomy.  on one hand there
+exists a stable, price predictable market for larger, general
+purpose computer systems.  the other market is the developing one
+for small business computer systems, a market which is relatively
+unstable with low price predictability. 
+
+cacm april, 1979
+
+cale, e.
+gremillion, l.
+mckenney, j.
+
+price/performance, grosch's law, u. computer 
+************************
+, grosch's law, u. computer market
+
+2.0 2.11 6.21
+
+************************
+
+************************
+Document:  CACM-1335.html
+************************
+************************
+Document:  CACM-0574.html
+************************
+
+
+evaluation of jacobi symbol (algorithm 99)
+
+cacm june, 1962
+
+garland, s. j.
+knapp, a. w.
+
+************************
+
+************************
+Document:  CACM-2746.html
+************************
+************************
+Document:  CACM-3089.html
+************************
+
+
+performance of rollback recovery systems under intermittent failures
+
+a mathematical model of a transaction-oriented
+system under intermittent failures is proposed. 
+ the system is assumed to operate with a checkpointing
+and rollback/recovery method to ensure reliable 
+information processing.  the model is used to derive the
+principal performance measures, including availability, 
+response time, and the system saturation point.   
+
+cacm june, 1978
+
+gelenbe, e.
+derochette, d.
+
+database reliability, file systems, checkpoints, recovery
+procedures, checking techniques, reliability 
+and system performance evaluation
+
+3.72 3.73 4.33 4.35 
+************************
+
+************************
+Document:  CACM-2232.html
+************************
+
+
+pattern width at a given angle
+
+that the pattern feature "width as a function
+of angle" possesses several possible interpretations 
+is demonstrated in this paper, which is a review of
+the width concept in pattern recognition and the 
+geometrical concept itself.  the object of the work
+is to clarify how the word description 
+************************
+rify how the word description can be made 
+precise so that computer algorithms for feature extraction
+may be obtained; the focus is on the theoretical 
+subject matter.  the results consist of a set-theoretic
+definition of width-at-angle, a theorem relating 
+it to the pattern boundary radius vector, and descriptions
+of alternate widths.  all widths are calculated 
+for an illustrative example; graphical and tabular comparisons
+are given.  substantial variation in width-at-angle 
+magnitude is found.  the principal conclusion is that
+the set-theoretic width-at-angle is a useful pattern 
+feature when it can be easily computed.  further investigation
+of the information contained in only part 
+of a width function is recommended for cases where
+computation of width-at-angle is difficult.
+
+cacm january, 1971
+
+klinger, a.
+
+feature extraction, pattern recognition,figure
+properties, picture 
+************************
+
+************************
+Document:  CACM-2268.html
+************************
+
+
+a comparative study of computer programs
+for integrating differential equations
+
+a study comparing the performance of several computer
+programs for integrating systems of ordinary 
+differential equations is reported.  the integration methods represented
+include multistep methods (predictor-correctors), 
+single-step methods (runge-kutta) and extrapolation methods
+(both polynomial 
+************************
+tion methods
+(both polynomial and rational).  the testing 
+procedure is described together with the evaluation
+criteria applied.  a set of test problems on which 
+the programs were tested is included in an appendix.
+ for the particular problems and criteria 
+************************
+r problems and criteria used in 
+the investigation it was found that a program based on
+rational extrapolation showed the best performance.
+
+cacm november, 1972
+
+************************
+
+************************
+Document:  CACM-0708.html
+************************

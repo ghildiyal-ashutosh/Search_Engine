@@ -1,0 +1,392 @@
+Snippets for the query:  Q1
+************************
+Total Hits:  2
+************************
+
+************************
+Document:  CACM-1974.html
+************************
+************************
+Document:  CACM-2666.html
+************************
+************************
+Document:  CACM-0586.html
+************************
+************************
+Document:  CACM-1623.html
+************************
+************************
+Document:  CACM-0142.html
+************************
+************************
+Document:  CACM-2356.html
+************************
+************************
+Document:  CACM-1138.html
+************************
+************************
+Document:  CACM-3191.html
+************************
+************************
+Document:  CACM-0942.html
+************************
+************************
+Document:  CACM-1676.html
+************************
+************************
+Document:  CACM-2842.html
+************************
+************************
+Document:  CACM-2645.html
+************************
+************************
+Document:  CACM-1469.html
+************************
+************************
+Document:  CACM-2943.html
+************************
+************************
+Document:  CACM-0460.html
+************************
+************************
+Document:  CACM-1705.html
+************************
+************************
+Document:  CACM-2217.html
+************************
+************************
+Document:  CACM-2519.html
+************************
+************************
+Document:  CACM-2456.html
+************************
+************************
+Document:  CACM-0282.html
+************************
+************************
+Document:  CACM-3160.html
+************************
+************************
+Document:  CACM-1549.html
+************************
+************************
+Document:  CACM-1486.html
+************************
+************************
+Document:  CACM-2863.html
+************************
+************************
+Document:  CACM-1046.html
+************************
+************************
+Document:  CACM-1348.html
+************************
+************************
+Document:  CACM-0728.html
+************************
+************************
+Document:  CACM-1542.html
+************************
+************************
+Document:  CACM-1671.html
+************************
+************************
+Document:  CACM-1564.html
+************************
+************************
+Document:  CACM-1424.html
+************************
+************************
+Document:  CACM-3201.html
+************************
+************************
+Document:  CACM-1591.html
+************************
+************************
+Document:  CACM-0597.html
+************************
+************************
+Document:  CACM-0321.html
+************************
+************************
+Document:  CACM-3204.html
+************************
+************************
+Document:  CACM-1215.html
+************************
+************************
+Document:  CACM-2471.html
+************************
+************************
+Document:  CACM-3202.html
+************************
+************************
+Document:  CACM-2219.html
+************************
+************************
+Document:  CACM-1391.html
+************************
+************************
+Document:  CACM-1334.html
+************************
+************************
+Document:  CACM-1741.html
+************************
+************************
+Document:  CACM-0847.html
+************************
+************************
+Document:  CACM-3199.html
+************************
+************************
+Document:  CACM-1464.html
+************************
+************************
+Document:  CACM-1468.html
+************************
+************************
+Document:  CACM-2092.html
+************************
+************************
+Document:  CACM-1754.html
+************************
+************************
+Document:  CACM-1315.html
+************************
+************************
+Document:  CACM-1523.html
+************************
+************************
+Document:  CACM-2483.html
+************************
+************************
+Document:  CACM-1161.html
+************************
+************************
+Document:  CACM-1427.html
+************************
+************************
+Document:  CACM-1811.html
+************************
+************************
+Document:  CACM-1861.html
+************************
+************************
+Document:  CACM-2434.html
+************************
+************************
+Document:  CACM-1183.html
+************************
+************************
+Document:  CACM-2233.html
+************************
+
+
+signature simulation and certain cryptographic codes
+
+three cyphers allegedly authored by thomas
+jefferson beale in 1822 have been the subject of 
+intensive study for over 100 years.  generations of
+cryptanalysts have expended untold man-years, thus 
+far without success, attempting tode code them; vast armies
+of fortune hunters and treasure seekers have 
+devoted herculean labors to digging up the rolling hills
+of virginia trying to locate the promised bonanza. 
+ the history of pertinent activities would fill volumes,
+yet serious students of cryptography have always 
+had nagging doubts about the cyphers' authenticity.
+ it has been alleged that the "known solution" to 
+cypher number two: 115, 73, 24, 818, 37, 52, 49,...("i
+have deposited in the county of bedford about 
+four miles from buford's in an excavation or vault...")
+with the aid of an unsanitized version of the 
+declaration of independence was merely a superb, imaginative,
+and grandiose hoax perpetrated ages ago 
+for whatever reasons.  modern computer technology could
+obviously perform signature analyses the process 
+of encoding itself so as to yield new clues and deeper
+insights into their construction.  for the benefit 
+of the uninitiated, the encoding method used in the
+second cypher employs a specified document whose 
+words are simply numbered consecutively, and first letters
+of these words are sought out at random to 
+match the letters of these words are sought out at random
+to match the letters of the clear text or message. 
+ the sequence of numbers corresponding to these matches
+is then written down as the final code.  while 
+primitive, the process has the advantage of relative
+security until the source document becomes known; 
+at that moment the cypher can be decoded even by second
+graders.  the work now completed with the help 
+of our univac 1108 includes numerous analytical studies
+of the beale cyphers and various types of simulations. 
+ for example, we have turned the entire process of
+simulated encoding by various schemes over to the 
+machine and analyzed the signatures of these synthetic
+codes; we have also encoded various messages by 
+hand, using different texts and a variety of methods to
+obtain their signatures. these simulations provide 
+convincing evidence that the signatures are both process
+and data dependent; they indicate also very 
+strongly that mr. beale's cyphers are for real and that
+it is merely a matter of time before someone 
+finds the correct source document and locates the
+right vault in the common-wealth of virginia.
+
+cacm january, 1971
+
+hammer, c.
+
+thomas jefferson beale, codes, cryptanalysis, cyphers,
+decoding, declaration of independence, encoding, 
+magna carta, pseudotext, signature, simulation
+
+************************
+
+************************
+Document:  CACM-1939.html
+************************
+************************
+Document:  CACM-1264.html
+************************
+************************
+Document:  CACM-1680.html
+************************
+************************
+Document:  CACM-0616.html
+************************
+************************
+Document:  CACM-2439.html
+************************
+************************
+Document:  CACM-3005.html
+************************
+************************
+Document:  CACM-1439.html
+************************
+************************
+Document:  CACM-1625.html
+************************
+************************
+Document:  CACM-3077.html
+************************
+************************
+Document:  CACM-2096.html
+************************
+************************
+Document:  CACM-1345.html
+************************
+************************
+Document:  CACM-1117.html
+************************
+************************
+Document:  CACM-1168.html
+************************
+************************
+Document:  CACM-2812.html
+************************
+************************
+Document:  CACM-1403.html
+************************
+************************
+Document:  CACM-1854.html
+************************
+
+
+on multiprogramming, machine coding, and computer organization
+
+the author feels that the interrupt feature
+which is available in most modern computers is 
+a potent source of programming pitfalls and errors, and
+that it therefore may heavily contribute to the 
+unreliability of programs making use of it.  a programming
+scheme is presented which avoids the concept 
+of the interrupt and permits the specification of concurrent
+(or pseudoconcurrent) activities in a supposedly 
+more perspicuous manner.  it is intended to serve as
+a basis for the construction of operating systems, 
+which are prime examples of programs with concurrent
+activities.  the scheme includes a set of basic 
+instructions for the generation, termination, and synchronization
+of parallel processes.  a set of routines 
+representing these instructions and thereby simulating a
+hypothetical machine organization has been implemented 
+and test on the ibm system/360.  two programs using these
+instructions, written in pl360, are presented. 
+************************
+
+************************
+Document:  CACM-0492.html
+************************
+************************
+Document:  CACM-2937.html
+************************
+************************
+Document:  CACM-1397.html
+************************
+************************
+Document:  CACM-3080.html
+************************
+************************
+Document:  CACM-2912.html
+************************
+************************
+Document:  CACM-1305.html
+************************
+************************
+Document:  CACM-3127.html
+************************
+************************
+Document:  CACM-2002.html
+************************
+************************
+Document:  CACM-1214.html
+************************
+************************
+Document:  CACM-0397.html
+************************
+************************
+Document:  CACM-1145.html
+************************
+************************
+Document:  CACM-2383.html
+************************
+************************
+Document:  CACM-2317.html
+************************
+************************
+Document:  CACM-1498.html
+************************
+************************
+Document:  CACM-0531.html
+************************
+************************
+Document:  CACM-0435.html
+************************
+************************
+Document:  CACM-2939.html
+************************
+************************
+Document:  CACM-1926.html
+************************
+************************
+Document:  CACM-1503.html
+************************
+************************
+Document:  CACM-1014.html
+************************
+************************
+Document:  CACM-3189.html
+************************
+************************
+Document:  CACM-3078.html
+************************
+************************
+Document:  CACM-1867.html
+************************
+************************
+Document:  CACM-2850.html
+************************
+************************
+Document:  CACM-0971.html
+************************

@@ -1,0 +1,8614 @@
+Snippets for the query:  Q56
+************************
+Total Hits:  344
+************************
+
+************************
+Document:  CACM-3091.html
+************************
+
+
+some basic determinants of computer programming productivity
+
+the propose of this research was to examine
+the relationship between processing characteristics 
+of programs and experience characteristics of programmers
+and program development time.  the ultimate 
+objective was to develop a technique for predicting
+the amount of time necessary to create a computer 
+program.  the fifteen program characteristics hypothesized
+as being associated with an increase in programming 
+time required are objectively measurable from preprogramming
+specifications.  the five programmer characteristics 
+are experience-related and are also measurable before a programming
+task is begun.  nine program characteristics 
+emerged as major influences on program development time,
+each associated with increased program development 
+time.  all five programmer characteristics were found
+to be related to reduced program development time. 
+ a multiple regression  equation which contained one programmer
+characteristic and four program characteristics 
+gave evidence of good predictive power for
+forecasting program development time.   
+
+cacm june, 1978
+
+chrysler, e.
+
+programmer performance standards, predicting program
+development time, program estimation techniques, 
+program development equation, value of programming experience,
+programmer evaluation, programmer scheduling, 
+programmer productivity, programming management, cobol programming
+
+2.40 4.20
+
+ca780606 dh february 26, 1979  11:42 am
+
+3091	4	3091
+
+************************
+
+************************
+Document:  CACM-2842.html
+************************
+
+
+the denotational semantics of programming languages
+
+this paper is a tutorial introduction to the
+theory of programming language semantics developed 
+by d. scott and c. strachey.  the application of the theory
+to formal language specification is demonstrated 
+and other applications are surveyed. the first language
+considered, loop, is very elementary and its 
+definition merely introduces the notation and methodology
+of the approach.  then the semantic concepts
+of environments, stores, and continuations are introduced
+to model classes of programming language features 
+and the underlying mathematical theory of computation
+due to scott is motivated and outlined.  finally, 
+the paper presents a formal definition of the language gedanken.
+
+cacm august, 1976
+
+tennent, 
+************************
+ august, 1976
+
+tennent, r. d.
+
+semantics, programming language, applicative, imperative,
+environment, store, continuation, theory 
+************************
+, continuation, theory 
+of computation, higher-order function, recursive definition, loop, 
+************************
+cursive definition, loop, gedanken
+
+4.22 5.24
+
+ca760802 jb january 
+************************
+ 5.24
+
+ca760802 jb january 4, 1978  10:33 am
+
+1024	4	2842
+1051	4	2842
+1086	4	2842
+1102	4	2842
+1132	4	2842
+1132	4	2842
+1234	4	2842
+1263	4	2842
+1265	4	2842
+1270	4	2842
+1323	4	2842
+1358	4	2842
+1379	4	2842
+1380	4	2842
+1390	4	2842
+1453	4	2842
+1464	4	2842
+1484	4	2842
+1486	4	2842
+1491	4	2842
+1498	4	2842
+1549	4	2842
+1613	4	2842
+1614	4	2842
+1706	4	2842
+1781	4	2842
+1825	4	2842
+1826	4	2842
+1860	4	2842
+1878	4	2842
+378	4	2842
+2060	4	2842
+2083	4	2842
+2155	4	2842
+2155	4	2842
+2168	4	2842
+2178	4	2842
+2179	4	2842
+2252	4	2842
+2294	4	2842
+
+************************
+52	4	2842
+2294	4	2842
+2314	4	2842
+2317	4	2842
+2325	4	2842
+2326	4	2842
+2341	4	2842
+2457	4	2842
+2546	4	2842
+2558	4	2842
+2645	4	2842
+2652	4	2842
+2684	4	2842
+2719	4	2842
+2723	4	2842
+2838	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2842	4	2842
+2855	4	2842
+2879	4	2842
+2903	4	2842
+2929	4	2842
+2934	4	2842
+3069	4	2842
+3077	4	2842
+3077	4	2842
+3080	4	2842
+3106	4	2842
+3150	4	2842
+627	4	2842
+669	4	2842
+679	4	2842
+691	4	2842
+761	4	2842
+106	4	2842
+949	4	2842
+989	4	2842
+210	5	2842
+2060	5	2842
+
+************************
+
+************************
+Document:  CACM-0065.html
+************************
+
+
+algol sub-committee report - extensions
+
+cacm september, 1959
+
+dijkstra, 
+************************
+ september, 1959
+
+dijkstra, e. w.
+heise, w.
+perlis, j. a.
+samelson, k.
+
+ca590904 jb march 22, 1978  4:49 pm
+
+65	5	65
+
+************************
+
+************************
+Document:  CACM-2053.html
+************************
+
+
+on the conversion of decision tables to computer programs
+
+the use of execution time diagnostics in pinpointing ambiguities in decision
+tables is discussed.  it is pointed out that any attempt at resolving
+ambiguities at compile time will, in general, be impossible.  it
+is shown that, as a consequence, tree methods of converting decision
+tables to programs are inadequate in regard to ambiguity detection.
+two algorithms for programming decision tables whose merits
+are simplicity of implementation and detection of ambiguities at
+execution time are presented. the first algorithm is for limited entry
+decision tables and clarifies the importance of proper coding
+of the information in the decision table.  the second algorithm programs
+a mixed entry decision table directly without going through
+the intermediate step of conversion to a limited entry form, thereby
+resulting in storage economy.  a comparison of the algorithms and others 
+proposed in the literature is made.  some features of a decision table
+to fortran iv translator for the ibm 7044 developed by the authors are given.
+
+cacm june, 1970
+
+muthukrishnan, 
+************************
+ june, 1970
+
+muthukrishnan, c. r.
+rajaraman, v.
+
+decision tables, diagnostic aids, system analysis, business applications
+
+3.50 3.59 4.19 4.29 4.49
+
+ca700602 jb february 13, 1978  12:03 pm
+
+1354	4	2053
+1354	4	2053
+1354	4	2053
+1488	4	2053
+1488	4	2053
+1684	4	2053
+1994	4	2053
+2053	4	2053
+2053	4	2053
+2053	4	2053
+2053	4	2053
+2053	4	2053
+2220	4	2053
+2220	4	2053
+2220	4	2053
+2220	4	2053
+2273	4	2053
+2273	4	2053
+2273	4	2053
+2273	4	2053
+2453	4	2053
+2453	4	2053
+2517	4	2053
+2518	4	2053
+2598	4	2053
+2616	4	2053
+2726	4	2053
+2726	4	2053
+2726	4	2053
+2856	4	2053
+2856	4	2053
+2856	4	2053
+3034	4	2053
+3113	4	2053
+1172	5	2053
+1237	5	2053
+1327	5	2053
+1354	5	2053
+1684	5	2053
+2053	5	2053
+2053	5	2053
+2053	5	2053
+2221	5	2053
+2273	5	2053
+2453	5	2053
+
+************************
+	5	2053
+2273	5	2053
+2453	5	2053
+2517	5	2053
+2856	5	2053
+3034	5	2053
+1172	6	2053
+1172	6	2053
+1172	6	2053
+1237	6	2053
+1327	6	2053
+1327	6	2053
+1354	6	2053
+1354	6	2053
+1354	6	2053
+1684	6	2053
+1684	6	2053
+1683	6	2053
+2053	6	2053
+2053	6	2053
+2053	6	2053
+2053	6	2053
+2053	6	2053
+2053	6	2053
+2220	6	2053
+2220	6	2053
+2220	6	2053
+2221	6	2053
+2453	6	2053
+2517	6	2053
+
+************************
+
+************************
+Document:  CACM-2538.html
+************************
+
+
+a computer science course program for small colleges
+
+the acm subcommittee on small college programs
+of the committee on 
+************************
+
+of the committee on curriculum in computer science 
+(cccs) was appointed in 1969 to consider the unique
+problems of small colleges and universities, and 
+to make recommendations regarding computer science programs
+at such schools.  this report, authorized 
+by both the subcommittee and (cccs), supplies a set of
+recommendations for courses and necessary resources. 
+ implementation problems are discussed, specifically
+within the constraints of limited faculty and for 
+the purposes of satisfying a wide variety of objectives.
+ detailed description of four courses are given; 
+suggestions are made for more advanced work;
+and an extensive library list is included.
+
+cacm march, 1973
+
+austing, 
+************************
+ march, 1973
+
+austing, r. h.
+engel, g. l.
+
+computer science education, course proposals, small
+colleges, programming course, social implications 
+course, computer organization course, file organization course, bibliographies
+
+1.52
+
+ca730301 jb january 24, 1978  1:22 pm
+
+2538	5	2538
+2538	5	2538
+
+************************
+
+************************
+Document:  CACM-3073.html
+************************
+
+
+communicating sequential processes
+
+this paper suggests that input and output are
+basic primitives of programming and that parallel 
+composition 
+************************
+ and that parallel 
+composition of communicating sequential processes is
+a fundamental program structuring method.  when 
+combined with a development of dijkstra's guarded command,
+these concepts are surprisingly versatile. 
+ their use is illustrated by sample solutions of
+a variety of familiar programming exercises.
+
+cacm august, 1978
+
+hoare, 
+************************
+ august, 1978
+
+hoare, c.
+
+programming, programming languages, programming primitives,
+program structures, parallel programming, 
+concurrency, input, output, guarded commands, nondeterminacy,
+
+************************
+d commands, nondeterminacy,
+coroutines, procedures, multiple entries, 
+multiple exits, classes, data representations, recursion,
+conditional critical regions, monitors, iterative 
+arrays
+
+4.20 4.22 4.32
+
+ca780805 dh february 7, 1979  10:07 am
+
+249	4	3073
+
+************************
+  10:07 am
+
+249	4	3073
+254	4	3073
+272	4	3073
+1102	4	3073
+1109	4	3073
+1140	4	3073
+1188	4	3073
+1306	4	3073
+1323	4	3073
+1358	4	3073
+1380	4	3073
+1464	4	3073
+1491	4	3073
+1665	4	3073
+1767	4	3073
+1781	4	3073
+1781	4	3073
+1787	4	3073
+1787	4	3073
+1949	4	3073
+1989	4	3073
+321	4	3073
+2059	4	3073
+2112	4	3073
+2126	4	3073
+2534	4	3073
+2541	4	3073
+435	4	3073
+437	4	3073
+463	4	3073
+483	4	3073
+491	4	3073
+2698	4	3073
+2732	4	3073
+2733	4	3073
+2820	4	3073
+2896	4	3073
+2972	4	3073
+560	4	3073
+583	4	3073
+3037	4	3073
+3039	4	3073
+3043	4	3073
+3073	4	3073
+3073	4	3073
+3073	4	3073
+3155	4	3073
+627	4	3073
+631	4	3073
+632	4	3073
+642	4	3073
+644	4	3073
+653	4	3073
+680	4	3073
+761	4	3073
+762	4	3073
+763	4	3073
+123	4	3073
+140	4	3073
+919	4	3073
+989	4	3073
+196	5	3073
+2732	5	3073
+3073	5	3073
+3073	5	3073
+3073	5	3073
+3148	5	3073
+3150	5	3073
+3155	5	3073
+799	5	3073
+1860	6	3073
+2060	6	3073
+2204	6	3073
+2247	6	3073
+
+************************
+
+************************
+Document:  CACM-1834.html
+************************
+
+
+an axiomatic basis for computer programming
+
+in this paper an attempt is made to explore
+the logical foundations of computer programming 
+by use of techniques which were first applied in the
+study of geometry and have later been extended to 
+other branches of mathematics.  this involves the elucidation
+of sets of axioms and rules of inference 
+which can be used in proofs of the properties of computer
+programs.  examples are given of such axioms 
+and rules, and a formal proof of a simple theorem is
+displayed.  finally, it is argued that important 
+advantages, both theoretical and practical, may
+follow from a pursuance of these topics.
+
+cacm october, 1969
+
+hoare, c. a. r.
+
+axiomatic method, theory of programming, proofs of
+programs, formal language definition, programming 
+language design, machine-independent programming, program documentation
+
+4.0 4.21 4.22 5.20 5.21 5.23 5.24
+
+************************
+ 5.20 5.21 5.23 5.24
+
+ca691012 jb february 15, 1978  1:48 pm
+
+1834	5	1834
+1834	5	1834
+1834	5	1834
+2021	5	1834
+2222	5	1834
+2227	5	1834
+
+************************
+22	5	1834
+2227	5	1834
+2315	5	1834
+2326	5	1834
+2470	5	1834
+2732	5	1834
+2865	5	1834
+2896	5	1834
+2943	5	1834
+3014	5	1834
+3068	5	1834
+3077	5	1834
+3143	5	1834
+196	6	1834
+970	6	1834
+1303	6	1834
+1303	6	1834
+1323	6	1834
+1348	6	1834
+1469	6	1834
+1800	6	1834
+1818	6	1834
+210	6	1834
+1834	6	1834
+
+************************
+0	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1834	6	1834
+1987	6	1834
+307	6	1834
+2042	6	1834
+2060	6	1834
+2192	6	1834
+2227	6	1834
+2264	6	1834
+
+************************
+
+************************
+Document:  CACM-2181.html
+************************
+
+
+the state of computer oriented curricula in business schools 1970
+
+the acm committee on computer education for management,
+supported by a national science foundation 
+grant, is established to appraise the state of the art
+and to develop a series of recommendations for 
+improving computer education for management.  to provide
+the committee with material for its study of 
+curricular needs, five regional meetings in the united
+states were held in 1970, at each of which a broad 
+cross section of invited academicians and practitioners
+considered the state of curricula in business 
+schools.  three topics were covered: curricula for
+the general manager; computer-related material in 
+required and functional courses; and curricula for students
+concentrating on computer-based information 
+systems.  an analysis of the minutes of the meetings
+revealed a common set of experiences which raised 
+similar pedagogic and economic issues.  this presentation
+gives a summary of the discussions; a condensation
+of the pedagogic and substantive concerns raised; and
+consideration of the resource allocation issues 
+involved.  preliminary to the committee's recommendations
+for improving computer education for management, 
+this report has been prepared to provide the participants
+and the administrators of their institutions 
+with background information for the ongoing task of course
+development.  chairman of the ten-man committee 
+is daniel teichroew (the university of michigan).
+
+cacm july, 1971
+
+mckenney, j. l.
+tonge, f. m.
+
+university programs, management education, 
+************************
+, management education, curriculum
+design, business administration curricula, 
+graduate business school resource planning
+
+1.52 
+************************
+
+************************
+Document:  CACM-2317.html
+************************
+
+
+programming systems and languages 1965-1975
+
+in spite of impressive gains by pl/i, fortran
+and cobol remain the languages in which most 
+of the world's production programs are written and will
+remain so into the foreseeable future.  there 
+is a great deal of theoretical interest in algol 68
+and in extensible languages, but so far at least 
+they have had little practical impact.  problem-oriented
+languages may very well become the most important 
+language development area in the next five to ten years.
+ in the operating system area all major computer 
+manufacturers set out to produce very ambitious multiprogramming
+systems, and they all ran into similar 
+problems.  a number of university projects,though not
+directly comparable to those of the manufacturers, 
+have contributed greatly to a better understanding
+of operating system principles.  important trends 
+include the increased interest in the development of
+system measurement and evaluation techniques,and 
+increased use of microprogramming for some programming system functions.
+
+cacm july, 1972
+
+rosen, s.
+
+languages, operating systems, programming
+systems, multiprogramming, history
+
+1.2 4.22 4.32
+
+ca720711 jb january 
+************************
+ 4.32
+
+ca720711 jb january 30, 1978  1:47 pm
+
+1665	4	2317
+1768	4	2317
+1781	4	2317
+1787	4	2317
+1805	4	2317
+1824	4	2317
+1825	4	2317
+1828	4	2317
+1836	4	2317
+1846	4	2317
+1854	4	2317
+1861	4	2317
+1877	4	2317
+1892	4	2317
+1960	4	2317
+2015	4	2317
+2110	4	2317
+2126	4	2317
+2127	4	2317
+2150	4	2317
+2150	4	2317
+2187	4	2317
+2188	4	2317
+2218	4	2317
+2228	4	2317
+
+************************
+18	4	2317
+2228	4	2317
+2256	4	2317
+2314	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2317	4	2317
+2319	4	2317
+2358	4	2317
+2377	4	2317
+2342	4	2317
+2342	4	2317
+2376	4	2317
+2376	4	2317
+2379	4	2317
+2424	4	2317
+2482	4	2317
+2545	4	2317
+2546	4	2317
+2618	4	2317
+2618	4	2317
+2625	4	2317
+2632	4	2317
+2698	4	2317
+2704	4	2317
+2723	4	2317
+2733	4	2317
+2738	4	2317
+2740	4	2317
+2741	4	2317
+2842	4	2317
+2867	4	2317
+3184	4	2317
+3184	4	2317
+1198	5	2317
+1572	5	2317
+1693	5	2317
+1749	5	2317
+1753	5	2317
+1781	5	2317
+2126	5	2317
+2148	5	2317
+
+************************
+26	5	2317
+2148	5	2317
+2317	5	2317
+2317	5	2317
+2317	5	2317
+2874	5	2317
+1682	6	2317
+2227	6	2317
+2317	6	2317
+
+************************
+
+************************
+Document:  CACM-1469.html
+************************
+
+
+the next 700 programming languages 
+
+a family of unimplemented computing languages
+is described that is intended to span differences 
+of application area by a unified framework.  this framework
+dictates the rules about the uses of user-coined 
+names, and the conventions about characterizing functional
+relationships.  within this framework the 
+design of a specific language splits into two independent
+parts.  one is the choice of written appearances 
+of programs (or more generally, their physical representation).
+ the other is the choice of the abstract 
+entities (such as numbers, character-strings, lists
+of them, functional relations among them) that can 
+be referred to in the language.  the system is biased
+towards "expressions" rather than "statements." 
+ it includes a nonprocedural(purely functional) subsystem
+that aims to expand the class of users' needs 
+that can be met by a single print-instruction, without sacrificing
+the important properties that make 
+conventional right-hand-side expressions easy to construct and understand.
+
+cacm march, 1966
+
+landin, 
+************************
+ march, 1966
+
+landin, p. j.
+
+ca660303 jb march 3, 1978  2:05 pm
+
+1469	4	1469
+1486	4	1469
+1491	4	1469
+1781	4	1469
+2178	4	1469
+2326	4	1469
+2470	4	1469
+2684	4	1469
+3044	4	1469
+1303	5	1469
+1469	5	1469
+1469	5	1469
+1469	5	1469
+2060	5	1469
+2294	5	1469
+2470	5	1469
+
+************************
+94	5	1469
+2470	5	1469
+3124	5	1469
+1303	6	1469
+1380	6	1469
+1421	6	1469
+1469	6	1469
+1469	6	1469
+1469	6	1469
+1469	6	1469
+1477	6	1469
+1491	6	1469
+210	6	1469
+1834	6	1469
+1869	6	1469
+2060	6	1469
+2110	6	1469
+2264	6	1469
+
+
+************************
+
+************************
+Document:  CACM-2943.html
+************************
+
+
+lucid, a nonprocedural language with iteration
+
+lucid is a formal system in which programs
+can be written and proofs of programs carried out. 
+ the proofs are particularly easy to follow and straightforward
+to produce because the statements in 
+a lucid program are simply axioms from which the proof
+proceeds by (almost) conventional logical reasoning, 
+with the help of a few axioms and rules of inference
+for the special lucid functions.  as a programming 
+language, lucid is unconventional because, among other
+things, the order of statements is irrelevant 
+and assignment statements are equations.  nevertheless,
+lucid programs need not look much different than 
+iterative programs in a conventional structured programming
+language using assignment and conditional 
+statements and loops.
+
+cacm july, 1977
+
+ashcrof, e. a.
+wadge, w. w.
+
+program proving, formal systems, semantics,
+iteration, structured programming
+
+5.21 5.24
+
+ca770709 jb december 
+************************
+ 5.24
+
+ca770709 jb december 28, 1977  8:30 am
+
+2021	4	2943
+2222	4	2943
+2227	4	2943
+
+************************
+
+************************
+Document:  CACM-1705.html
+************************
+
+
+a set of basic input-output procedures (algorithm 335 [15])
+
+by means of the primitives in symbol, outsymbol
+and length, as requested by this journal's 
+algorithms policy [comm. acm 10 (nov. 67), 729] a basic
+set of input-output procedures is defined aiming 
+at quality 
+************************
+fined aiming 
+at quality and flexibility.  outreal, for instance, is
+written as a derived procedure; it outputs using 
+the fixed point or the floating point representation,
+and rounds properly.  variants can easily be written 
+because of the explicit call of the procedures decompose
+integer and decompose real.  the highly recommended 
+practice of echoing input is made easy with one subset
+of derived procedures (ioi, ior, iob, ioa).  the 
+documentation of output in the form of equivalent algol
+statements is also provided when use is made 
+of the subset oti, otr, otb, ota.  the berkeley style
+of providing information on the form of output 
+using prior calls of procedures such as real format is
+defined.  a use of the parameter outchannel to 
+provide information for simultaneous output to several
+channels is suggested.  interrelationship between 
+the declared procedures is furnished in tabular form.
+
+cacm august, 1968
+
+de vogelaere, 
+************************
+ august, 1968
+
+de vogelaere, r.
+
+input output, transput, 
+************************
+, r.
+
+input output, transput, input output procedures,
+input echo, quality output, decompose integer, 
+decompose real, style, berkeley style, procedures 
+************************
+, berkeley style, procedures relationship,
+output 
+************************
+s relationship,
+output documentation, equivalent algol 
+statements, algol, algol 60, integer format, real format,out
+integer, read real, input output boolean, 
+input output array, fixed point representation, floating
+point representation, output channel interpretation
+
+4.0 4.41
+
+ca680809 jb february 22, 1978  10:32 am
+
+1705	4	1705
+1705	4	1705
+1705	4	1705
+1705	4	1705
+1945	4	1705
+2034	4	1705
+984	5	1705
+986	5	1705
+1020	5	1705
+1321	5	1705
+1705	5	1705
+1705	5	1705
+
+************************
+
+************************
+Document:  CACM-1380.html
+************************
+
+
+simula-an algol-based simulation language
+
+this paper is an introduction to simula, a
+programming language designed to provide a systems 
+************************
+signed to provide a systems 
+analyst with unified concepts which facilitate the
+concise description of discrete event systems.  a 
+system description also serves as a source language simulation
+program.  simula is an extension of algol 
+60 in which the most important new concepts
+is that of quasi-parallel processing.
+
+cacm september, 1966
+
+dahl, 
+************************
+ september, 1966
+
+dahl, o. j.
+nygaard, k.
+
+ca660907 jb march 2, 1978  6:21 pm
+
+1024	4	1380
+1051	4	1380
+1086	4	1380
+1098	4	1380
+1132	4	1380
+1214	4	1380
+1234	4	1380
+1263	4	1380
+1265	4	1380
+1270	4	1380
+1323	4	1380
+1323	4	1380
+1358	4	1380
+1358	4	1380
+1379	4	1380
+1380	4	1380
+1380	4	1380
+1380	4	1380
+1380	4	1380
+1388	4	1380
+1393	4	1380
+1453	4	1380
+1464	4	1380
+1484	4	1380
+1485	4	1380
+1487	4	1380
+1491	4	1380
+1498	4	1380
+1549	4	1380
+1552	4	1380
+1570	4	1380
+1613	4	1380
+1614	4	1380
+1665	4	1380
+1693	4	1380
+1781	4	1380
+1781	4	1380
+1781	4	1380
+1787	4	1380
+1825	4	1380
+1854	4	1380
+1860	4	1380
+1860	4	1380
+1878	4	1380
+1946	4	1380
+1957	4	1380
+1989	4	1380
+2060	4	1380
+2083	4	1380
+2112	4	1380
+2168	4	1380
+2178	4	1380
+2179	4	1380
+2252	4	1380
+2325	4	1380
+
+************************
+52	4	1380
+2325	4	1380
+2341	4	1380
+2534	4	1380
+2541	4	1380
+2546	4	1380
+2645	4	1380
+2652	4	1380
+2684	4	1380
+2698	4	1380
+2723	4	1380
+2733	4	1380
+2820	4	1380
+2842	4	1380
+2857	4	1380
+2929	4	1380
+2934	4	1380
+557	4	1380
+3069	4	1380
+3073	4	1380
+3112	4	1380
+3155	4	1380
+669	4	1380
+679	4	1380
+691	4	1380
+761	4	1380
+949	4	1380
+989	4	1380
+1380	5	1380
+1380	5	1380
+1380	5	1380
+1421	5	1380
+1541	5	1380
+1846	5	1380
+2060	5	1380
+2218	5	1380
+3112	5	1380
+
+************************
+
+************************
+Document:  CACM-0209.html
+************************
+
+
+symbol manipulation by threaded lists
+
+cacm april, 1960
+
+perlis, a. j.
+thornton, c.
+
+************************
+, a. j.
+thornton, c.
+
+ca600402 jb march 22, 1978  1:56 pm
+
+1050	5	209
+1102	5	209
+209	5	209
+209	5	209
+209	5	209
+378	5	209
+3008	5	209
+731	5	209
+798	5	209
+849	6	209
+106	6	209
+196	6	209
+208	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+209	6	209
+210	6	209
+210	6	209
+367	6	209
+
+************************
+
+************************
+Document:  CACM-2852.html
+************************
+
+
+the technology of computer center management: a
+proposed course for graduate professional programs 
+in computer science or in information systems
+
+mcfarlan and nolan have made a strong case for
+adding a course on information systems administration 
+to the 13 courses proposed by the acm curriculum committee
+on computer education for management for graduate 
+professional programs in information systems.  this paper
+is a report on a course entitled, 
+************************
+port on a course entitled, "the technology 
+of computer center management," which has been offered
+at purdue for the past four years.  the course 
+is suitable either for graduate professional programs
+in information systems or for graduate professional 
+programs in computer science.
+
+cacm july, 1976
+
+conte, s. 
+************************
+
+************************
+Document:  CACM-1665.html
+************************
+
+
+automatic generation of efficient lexical
+processors using finite state techniques
+
+the practical application of the theory of
+finite-state automata to automatically generate 
+lexical processors is dealt with in this tutorial article
+by the use of the aed rword system, developed 
+at m. as part of the aed-1 system.  this system
+accepts as input description of the multicharacter 
+items or of words allowable in a language given in terms
+of a subset of regular expressions. the output 
+of the system is a lexical processor which reads a string
+of characters and combines them into the items 
+as defined by the regular expressions.  each output
+item is identified by a code number together with 
+a pointer to a block of storage containing the characters
+and character count in the item.  the processors 
+produced by the system are based on finite-state machines.
+ each state of a "machine" corresponds to 
+a unique condition in the lexical processing of a character
+string.  at each state a character is read, 
+and the machine changes to a new state.  at each transition
+appropriate actions are taken based on the 
+particular character read.  the system has been in operation
+since 1966, and processors generated have 
+compared favorably in speed to carefully hand-coded programs
+to accomplish the same task.  lexical processors 
+for aed-o and mad are among the many which have been
+produced.  the techniques employed are independent 
+of the nature of the items being evaluated.  if the
+word "events" is substituted for character string, 
+these processors may be described as generalized decision-making
+mechanisms based upon an ordered sequence 
+of events.  this allows the system to be used in a
+range of applications outside the area of lexical 
+processing.  however convenient these advantages may
+be, speed is the most important consideration.  
+in designing a system for automatic generation of a
+lexical processor, the goal was a processor which 
+completely eliminated backup or rereading, which was nearly
+as fast as hand-coded processors, which would 
+analyze the language and detect errors, and
+which would be convenient and easy to use.
+
+cacm december, 1968
+
+johnson, w. l.
+porter, j. h.
+ackley, s. i.
+ross, d. t.
+
+character string, compiler, finite-state automata, finite-state
+machine, lexical processor, nondeterministic 
+machine, parsing, plex structure, regular expressions,sequential
+machine, syntactic analysis
+
+3.63 3.75 4.12 5.22 5.24 5.31
+
+ca681201 jb february 21, 1978  2:19 pm
+
+1051	4	1665
+
+************************
+
+************************
+Document:  CACM-2227.html
+************************
+
+
+proof of a program: find
+
+a proof is given of the correctness of the
+algorithm "find."  first, a informal description 
+is given of the purpose of the program and the method
+used.  a systematic technique is described for 
+constructing the program proof during the process of coding
+it, in such a way as to prevent the intrusion 
+of logical errors.  the proof of termination is treated
+as a separate exercise.  finally, some conclusions 
+relating to general programming methodology are drawn.
+
+cacm january, 1971
+
+hoare, c. a. r.
+
+proofs of programs, programming methodology, program
+documentation, program correctness, theory 
+of programming
+
+4.0 4.22 5.21 5.23 5.24
+
+ca710107 
+************************
+ 5.23 5.24
+
+ca710107 jb february 8, 1978  10:40 am
+
+2021	4	2227
+2222	4	2227
+2227	4	2227
+
+************************
+27
+2222	4	2227
+2227	4	2227
+2227	4	2227
+2315	4	2227
+2326	4	2227
+2470	4	2227
+2732	4	2227
+2783	4	2227
+2865	4	2227
+2896	4	2227
+2943	4	2227
+3014	4	2227
+3054	4	2227
+3068	4	2227
+3077	4	2227
+3143	4	2227
+1834	5	2227
+307	5	2227
+2227	5	2227
+2227	5	2227
+2227	5	2227
+2356	5	2227
+2420	5	2227
+2874	5	2227
+3143	5	2227
+970	6	2227
+1491	6	2227
+1682	6	2227
+1834	6	2227
+2227	6	2227
+2227	6	2227
+2227	6	2227
+2227	6	2227
+2317	6	2227
+2683	6	2227
+2871	6	2227
+521	6	2227
+
+
+************************
+
+************************
+Document:  CACM-0763.html
+************************
+
+
+a syntax controlled generator of formal language processors
+
+cacm august, 1963
+
+eickel, 
+************************
+ august, 1963
+
+eickel, j.
+bauer, f. l.
+paul, m.
+samelson, k.
+
+ca630835 jb march 13, 1978  8:08 pm
+
+249	4	763
+254	4	763
+267	4	763
+272	4	763
+1046	4	763
+1102	4	763
+1105	4	763
+1109	4	763
+1139	4	763
+1139	4	763
+1139	4	763
+1140	4	763
+1140	4	763
+1141	4	763
+1188	4	763
+1215	4	763
+1223	4	763
+1234	4	763
+1263	4	763
+
+************************
+3	4	763
+1234	4	763
+1263	4	763
+1265	4	763
+1265	4	763
+1306	4	763
+1464	4	763
+1491	4	763
+1496	4	763
+1647	4	763
+1665	4	763
+1767	4	763
+1781	4	763
+1781	4	763
+1781	4	763
+1787	4	763
+1787	4	763
+1792	4	763
+1824	4	763
+1949	4	763
+321	4	763
+364	4	763
+2059	4	763
+2126	4	763
+2126	4	763
+405	4	763
+2546	4	763
+435	4	763
+437	4	763
+438	4	763
+463	4	763
+464	4	763
+483	4	763
+491	4	763
+2732	4	763
+560	4	763
+583	4	763
+584	4	763
+3073	4	763
+627	4	763
+631	4	763
+631	4	763
+632	4	763
+642	4	763
+644	4	763
+653	4	763
+653	4	763
+680	4	763
+680	4	763
+761	4	763
+762	4	763
+763	4	763
+763	4	763
+763	4	763
+763	4	763
+763	4	763
+795	4	763
+799	4	763
+123	4	763
+140	4	763
+919	4	763
+945	4	763
+989	4	763
+196	5	763
+1215	5	763
+224	5	763
+1781	5	763
+1787	5	763
+
+************************
+4	5	763
+1781	5	763
+1787	5	763
+1945	5	763
+2603	5	763
+404	5	763
+412	5	763
+631	5	763
+763	5	763
+763	5	763
+763	5	763
+823	6	763
+123	6	763
+196	6	763
+196	6	763
+914	6	763
+915	6	763
+917	6	763
+919	6	763
+984	6	763
+989	6	763
+990	6	763
+990	6	763
+1007	6	763
+1012	6	763
+1025	6	763
+1046	6	763
+1084	6	763
+1098	6	763
+1122	6	763
+1131	6	763
+1138	6	763
+1139	6	763
+1139	6	763
+1140	6	763
+1141	6	763
+1141	6	763
+1149	6	763
+1198	6	763
+1200	6	763
+1215	6	763
+1215	6	763
+1223	6	763
+
+************************
+5	6	763
+1215	6	763
+1223	6	763
+1223	6	763
+1265	6	763
+
+************************
+3	6	763
+1223	6	763
+1265	6	763
+1265	6	763
+1303	6	763
+1323	6	763
+1336	6	763
+1358	6	763
+1366	6	763
+1396	6	763
+1421	6	763
+1455	6	763
+1460	6	763
+
+************************
+
+************************
+Document:  CACM-1046.html
+************************
+
+
+a compiler-building system developed by brooker and morris
+
+in a number of articles published during the
+past two years, r. a. brooker and d. morris (joined 
+by j. rohl in their most recent paper have presented
+a very interesting programming system that they 
+have developed for the ferranti atlas computer.  the
+present paper describes some of the major features 
+of their system. it expands on some points that the original
+authors cover briefly, and treats only very 
+lightly some topics to which they devote considerable space.
+ the purpose of this paper is purely expository. 
+ except in some very small details, and in some comments,
+it does not intentionally depart from or add 
+to the material published in the listed references.
+
+cacm july, 1964
+
+rosen, s.
+
+************************
+ july, 1964
+
+rosen, s.
+
+ca640701 jb march 9, 1978  8:47 pm
+
+1046	4	1046
+1105	4	1046
+1139	4	1046
+1140	4	1046
+1234	4	1046
+1263	4	1046
+1265	4	1046
+1496	4	1046
+1781	4	1046
+1824	4	1046
+2126	4	1046
+2546	4	1046
+464	4	1046
+584	4	1046
+631	4	1046
+653	4	1046
+680	4	1046
+763	4	1046
+795	4	1046
+799	4	1046
+945	4	1046
+1046	5	1046
+1046	5	1046
+1046	5	1046
+1781	5	1046
+404	5	1046
+123	6	1046
+196	6	1046
+919	6	1046
+990	6	1046
+1007	6	1046
+1046	6	1046
+1131	6	1046
+1139	6	1046
+1140	6	1046
+1149	6	1046
+1198	6	1046
+1215	6	1046
+1223	6	1046
+1265	6	1046
+
+************************
+3	6	1046
+1265	6	1046
+1303	6	1046
+1323	6	1046
+1358	6	1046
+1366	6	1046
+1421	6	1046
+1460	6	1046
+1462	6	1046
+1463	6	1046
+1467	6	1046
+1468	6	1046
+1477	6	1046
+1491	6	1046
+1496	6	1046
+1531	6	1046
+1535	6	1046
+1565	6	1046
+1601	6	1046
+1602	6	1046
+1613	6	1046
+1614	6	1046
+1626	6	1046
+1641	6	1046
+1787	6	1046
+1788	6	1046
+205	6	1046
+224	6	1046
+249	6	1046
+288	6	1046
+
+************************
+
+************************
+Document:  CACM-0437.html
+************************
+
+
+compiling matrix operations
+
+cacm december, 1962
+
+galler, 
+************************
+cember, 1962
+
+galler, b. a.
+perlis, a. j.
+
+ca621202 jb march 17, 1978 
+************************
+202 jb march 17, 1978  5:17 pm
+
+249	4	437
+254	4	437
+272	4	437
+1102	4	437
+1109	4	437
+1140	4	437
+1188	4	437
+1306	4	437
+1464	4	437
+1491	4	437
+1767	4	437
+1781	4	437
+1787	4	437
+1949	4	437
+321	4	437
+2059	4	437
+2126	4	437
+435	4	437
+437	4	437
+463	4	437
+483	4	437
+491	4	437
+2732	4	437
+560	4	437
+583	4	437
+3073	4	437
+627	4	437
+631	4	437
+632	4	437
+642	4	437
+644	4	437
+653	4	437
+680	4	437
+761	4	437
+762	4	437
+763	4	437
+123	4	437
+140	4	437
+919	4	437
+989	4	437
+196	5	437
+1614	5	437
+2253	5	437
+2557	5	437
+437	5	437
+
+************************
+
+************************
+Document:  CACM-3144.html
+************************
+
+
+a model for and discussion of multi-interpreter systems
+
+a multi-interpreter system is a system in which programs execute
+by virtue of being interpreted by other programs, which themselves may
+either be interpreted (i.e. nested interpreters) or run directly on
+the host machine.  the model reveals the anatomy of interpreters
+and how these differ from procedures, and exhibits links
+to protection domains and multiprocessor architectures.
+
+cacm may, 1979
+
+manthey, m.
+
+interpreters, 
+************************
+
+
+manthey, m.
+
+interpreters, transfer-of-control, hierarchies
+
+4.13 3.65
+
+ca790505 dh august 21, 19791:14 pm
+
+1458	4	3144
+
+************************
+
+************************
+Document:  CACM-1323.html
+************************
+
+
+a correspondence between algol 60 and church's lambda-notation: part i*
+
+this paper describes how some of the semantics
+of algol 60 can be formalized by establishing 
+a correspondence between expressions of algol 60 and expressions
+in a modified form of church's l-notation. 
+ first a model for computer languages and compute behavior
+is described, based on the notions of functional 
+application and functional abstraction, but also having
+analogues for imperative language features.  
+then this model is used as an "abstract object language"
+into which algol 60 is mapped.  many of algol 
+60's features emerge as particular arrangements of
+a small number of structural rules, suggesting new 
+classifications and generalizations.  the correspondence
+is first described informally, mainly by illustrations. 
+ the second part of the paper gives a formal description,
+i.e. an "abstract compiler" into the "abstract 
+objct language."  this is itself presented in a "purely
+functional" notation, that is one using only 
+application and abstraction.
+
+cacm february, 1965
+
+landin, 
+************************
+ february, 1965
+
+landin, p. j.
+
+ca650201 jb march 7, 1978  11:26 pm
+
+1086	4	1323
+1132	4	1323
+1234	4	1323
+1263	4	1323
+1265	4	1323
+1270	4	1323
+1323	4	1323
+1323	4	1323
+1323	4	1323
+1358	4	1323
+1358	4	1323
+1379	4	1323
+1380	4	1323
+1380	4	1323
+1453	4	1323
+1464	4	1323
+1484	4	1323
+1491	4	1323
+1498	4	1323
+1613	4	1323
+1614	4	1323
+1665	4	1323
+1781	4	1323
+1781	4	1323
+1787	4	1323
+1825	4	1323
+1860	4	1323
+1989	4	1323
+2083	4	1323
+2112	4	1323
+2178	4	1323
+2179	4	1323
+2252	4	1323
+2325	4	1323
+
+************************
+52	4	1323
+2325	4	1323
+2341	4	1323
+2534	4	1323
+2541	4	1323
+2546	4	1323
+2645	4	1323
+2652	4	1323
+2684	4	1323
+2698	4	1323
+2733	4	1323
+2820	4	1323
+2842	4	1323
+2929	4	1323
+2934	4	1323
+3069	4	1323
+3073	4	1323
+3155	4	1323
+669	4	1323
+679	4	1323
+691	4	1323
+761	4	1323
+949	4	1323
+989	4	1323
+1323	5	1323
+1323	5	1323
+1323	5	1323
+267	5	1323
+1781	5	1323
+2178	5	1323
+2326	5	1323
+2684	5	1323
+3184	5	1323
+799	5	1323
+123	6	1323
+196	6	1323
+919	6	1323
+990	6	1323
+1007	6	1323
+1046	6	1323
+1131	6	1323
+1139	6	1323
+1140	6	1323
+1149	6	1323
+1198	6	1323
+1215	6	1323
+1223	6	1323
+1265	6	1323
+
+************************
+3	6	1323
+1265	6	1323
+1303	6	1323
+1303	6	1323
+1303	6	1323
+1303	6	1323
+1323	6	1323
+1323	6	1323
+1323	6	1323
+1323	6	1323
+1358	6	1323
+1366	6	1323
+1421	6	1323
+1460	6	1323
+1462	6	1323
+1463	6	1323
+1467	6	1323
+1468	6	1323
+1477	6	1323
+1491	6	1323
+1496	6	1323
+1531	6	1323
+1535	6	1323
+1565	6	1323
+1601	6	1323
+1602	6	1323
+1613	6	1323
+1614	6	1323
+1626	6	1323
+1641	6	1323
+1787	6	1323
+1788	6	1323
+205	6	1323
+1834	6	1323
+224	6	1323
+249	6	1323
+288	6	1323
+
+************************
+
+************************
+Document:  CACM-2716.html
+************************
+
+
+optimizing the performance of a relational algebra database interface
+
+
+************************
+ database interface
+
+an approach for implementing a "smart" interface
+to support a relational view of data is proposed. 
+ the basic idea is to employ automatic programming techniques
+so that the interface analyzes and efficiently 
+refines the high level query specification supplied by
+the user.  a relational algebra interface, called 
+squiral, which was designed using this approach, is described
+in detail. squiral seeks to minimize query 
+response time and space utilization by: (1) performing
+global query optimization, (2) exploiting disjoint 
+and pipelined concurrency, (3) coordinating sort orders
+in temporary relations, (4) employing directory 
+analysis, and (5) maintaining locality in page references.
+ algorithms for implementing the operators 
+of e. f. codd's relational algebra are presented, and
+a methodology for composing them to optimize the 
+performance of a particular user query is described.
+
+cacm october, 1975
+
+smith, 
+************************
+ october, 1975
+
+smith, j. m.
+yen-tang chang, p.
+
+relational database, database optimization, inverted
+file, automatic programming, query language, 
+data 
+************************
+
+************************
+Document:  CACM-3147.html
+************************
+
+
+a model for automating file and program design in business application systems
+
+this paper discusses a model for finding an efficient implementation of a 
+business application system whose logical specifications have been determined
+in advance.  the model views file and program design as a problem
+of systematically coordinating the configurations of datasets and
+computations.  it uses a straight forward search technique to
+determine aggregations of computations, aggregations of datasets, device,
+organization, and key order for each data set, key order for
+ each computation, and access method  for each dataset-computation
+pair.  although computational results are presented for a sample
+problem involving 54 computations and 49 datasets, the main point of
+the paper is that the underlying model works computationally an
+d is simple enough to be adapted to many file design situations.
+
+cacm june, 1979
+
+alter, s.
+
+system design, 
+************************
+
+
+alter, s.
+
+system design, automatic programming, search
+methods, system configurations, design choices
+
+4.12 4.22 4.6
+
+ca790603 dh august 21, 1979  4:25 pm
+
+3147	4	3147
+
+************************
+
+************************
+Document:  CACM-2959.html
+************************
+
+
+the system for business automation (sba): programming language
+
+the system for business automation (sba) is a system
+within which application experts-nonprogrammers-can 
+describe and execute their applications on a computer. 
+the user of sba views his application as manipulation 
+of information in two-dimensional pictures of tables,
+business forms, and reports on a display terminal. 
+ he can gradually automate this application by giving "examples"
+to the system of how he manually manipulates 
+the information.  the query-by-example database language
+is a subset of the sba programming language.
+
+cacm june, 1977
+
+zloof, m. m.
+de jong, s. p.
+
+programming language, graphics, user in terface,
+data flow, forms flow, data abstraction, database, 
+query, data processing, business system specification, application programming
+
+3.73 3.74 4.22 4.33 4.34
+
+ca770604 
+************************
+ 4.33 4.34
+
+ca770604 jb december 29, 1977  1:25 am
+
+2155	4	2959
+2406	4	2959
+
+************************
+
+************************
+Document:  CACM-1614.html
+************************
+
+
+a proposal for definitions in algol
+
+an extension to algol is proposed for adding
+new data types and operators to the language. 
+ definitions may occur in any block heading and terminate
+with the block.  they are an integral part 
+of the program and are not fixed in the language.  even
+the behavior of existing operators may be redefined. 
+ the processing of text containing defined contexts features
+a "replacement rule" that eliminates unnecessary 
+iterations and temporary storage.  examples of definition sets
+are given for real and complex matrices, 
+complex numbers, file processing, and list manipulation.
+
+cacm april, 1967
+
+galler, b. a.
+perlis, a. j.
+
+ca670401 jb 
+************************
+, a. j.
+
+ca670401 jb february 28, 1978  11:43 am
+
+1086	4	1614
+1132	4	1614
+1234	4	1614
+1263	4	1614
+1265	4	1614
+1270	4	1614
+1323	4	1614
+1358	4	1614
+1379	4	1614
+1380	4	1614
+1453	4	1614
+1464	4	1614
+1484	4	1614
+1491	4	1614
+1498	4	1614
+1613	4	1614
+1614	4	1614
+1614	4	1614
+1781	4	1614
+1825	4	1614
+1860	4	1614
+2083	4	1614
+2178	4	1614
+2179	4	1614
+2252	4	1614
+2253	4	1614
+
+************************
+52	4	1614
+2253	4	1614
+2325	4	1614
+2341	4	1614
+2546	4	1614
+2557	4	1614
+2645	4	1614
+2652	4	1614
+2684	4	1614
+2842	4	1614
+2929	4	1614
+2934	4	1614
+3069	4	1614
+669	4	1614
+679	4	1614
+691	4	1614
+761	4	1614
+949	4	1614
+989	4	1614
+1614	5	1614
+1614	5	1614
+1614	5	1614
+1693	5	1614
+1781	5	1614
+1824	5	1614
+1861	5	1614
+2126	5	1614
+437	5	1614
+
+************************
+26	5	1614
+437	5	1614
+3184	5	1614
+823	6	1614
+123	6	1614
+196	6	1614
+196	6	1614
+919	6	1614
+990	6	1614
+1007	6	1614
+1046	6	1614
+1131	6	1614
+1139	6	1614
+1140	6	1614
+1149	6	1614
+1198	6	1614
+1215	6	1614
+1223	6	1614
+1265	6	1614
+
+************************
+3	6	1614
+1265	6	1614
+1303	6	1614
+1323	6	1614
+1358	6	1614
+1358	6	1614
+1366	6	1614
+1421	6	1614
+1421	6	1614
+1460	6	1614
+1462	6	1614
+1463	6	1614
+1467	6	1614
+1468	6	1614
+1477	6	1614
+1477	6	1614
+1491	6	1614
+1491	6	1614
+1496	6	1614
+1531	6	1614
+1535	6	1614
+1565	6	1614
+1601	6	1614
+1602	6	1614
+1613	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1614	6	1614
+1626	6	1614
+1641	6	1614
+1693	6	1614
+1781	6	1614
+1781	6	1614
+1787	6	1614
+1788	6	1614
+205	6	1614
+224	6	1614
+249	6	1614
+288	6	1614
+
+************************
+
+************************
+Document:  CACM-2021.html
+************************
+
+
+a comment on axiomatic approaches to programming
+
+cacm july, 1970
+
+hunt, b.
+
+************************
+ july, 1970
+
+hunt, b.
+
+axiomatic method, proofs of programs,
+homomorphic structure in programming
+
+4.0 4.21 4.22 5.20 5.21 5.23 
+************************
+ 4.22 5.20 5.21 5.23 5.24
+
+ca700716 
+************************
+ 5.23 5.24
+
+ca700716 jb february 10, 1978  4:15 pm
+
+2021	4	2021
+2222	4	2021
+2227	4	2021
+
+************************
+22	4	2021
+2227	4	2021
+2315	4	2021
+
+************************
+
+2227	4	2021
+2315	4	2021
+2326	4	2021
+
+************************
+
+************************
+Document:  CACM-2017.html
+************************
+
+
+sorting in a paging environment
+
+this sorting study was part of an extensive measurement project
+undertaken on the m44/44x, an experimental paging system which was
+conceived and implemented at ibm research in order to explore the
+virtual machine concept.  the study was concerned with the implementation 
+of sorting procedures in the context of the dynamic paging
+environment characteristic of virtual memory machines.  descriptions of 
+the experimental sort programs and analysis of the performance
+measurement results obtained for them are presented. the insight gained 
+from the experimental effort is used to arrive at a set of
+broad guidelines for writing sort programs for a paging environment.
+
+cacm august, 1970
+
+brawn, 
+************************
+ august, 1970
+
+brawn, b. s.
+gustavson, g.
+mankin, e. s.
+
+sorting, merging, virtual machines, paging systems, dynamic
+storage allocation, measurement of systems program behavior,
+performance evaluation, memory management
+
+4.32 4.49 4.9 5.31
+
+ca700804 jb february 10, 1978  3:51 pm
+
+1050	4	2017
+1117	4	2017
+1117	4	2017
+1175	4	2017
+1919	4	2017
+1935	4	2017
+1936	4	2017
+1956	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2017	4	2017
+2032	4	2017
+2041	4	2017
+2146	4	2017
+2146	4	2017
+2146	4	2017
+2216	4	2017
+2257	4	2017
+
+************************
+16	4	2017
+2257	4	2017
+2360	4	2017
+2451	4	2017
+2452	4	2017
+677	4	2017
+851	4	2017
+851	4	2017
+860	4	2017
+861	4	2017
+2017	5	2017
+2017	5	2017
+2017	5	2017
+2319	5	2017
+2582	5	2017
+2669	5	2017
+3054	5	2017
+849	5	2017
+850	5	2017
+851	5	2017
+852	5	2017
+853	5	2017
+854	5	2017
+855	5	2017
+856	5	2017
+858	5	2017
+857	5	2017
+859	5	2017
+860	5	2017
+862	5	2017
+863	5	2017
+864	5	2017
+865	5	2017
+861	5	2017
+866	5	2017
+1175	6	2017
+1408	6	2017
+1719	6	2017
+1749	6	2017
+1751	6	2017
+1751	6	2017
+1751	6	2017
+1880	6	2017
+1901	6	2017
+1919	6	2017
+1924	6	2017
+1969	6	2017
+1980	6	2017
+1997	6	2017
+307	6	2017
+308	6	2017
+309	6	2017
+2016	6	2017
+2017	6	2017
+2017	6	2017
+2017	6	2017
+2017	6	2017
+2080	6	2017
+2130	6	2017
+2188	6	2017
+
+************************
+30	6	2017
+2188	6	2017
+2203	6	2017
+2204	6	2017
+
+************************
+
+************************
+Document:  CACM-1781.html
+************************
+
+
+translator writing systems
+
+a critical review of recent efforts to automate
+the writing of translators of programming languages 
+is presented.  the formal study of syntax and its application
+to translator writing are discussed in 
+section ii.  various approaches to automating the post syntactic
+(semantic) aspects of translator writing 
+are discussed in section iii, and several related topics in section iv.
+
+cacm february, 1968
+
+feldman, 
+************************
+ february, 1968
+
+feldman, j.
+gries, d.
+
+compiler, compiler-compiler, translator, translator
+writing systems, metacompiler, syntax, semantics, 
+syntax-directed, meta-assembler, macroprocessor,
+parser, syntactic analysis, generator
+
+4.1 4.10 4.12 4.22 5.23
+
+ca680201 jb february 23, 1978  2:02 pm
+
+249	4	1781
+254	4	1781
+267	4	1781
+272	4	1781
+1046	4	1781
+1062	4	1781
+1072	4	1781
+1086	4	1781
+1102	4	1781
+1102	4	1781
+1105	4	1781
+1109	4	1781
+1121	4	1781
+1132	4	1781
+1139	4	1781
+
+************************
+	4	1781
+1132	4	1781
+1139	4	1781
+1139	4	1781
+1139	4	1781
+1140	4	1781
+1140	4	1781
+1141	4	1781
+1142	4	1781
+1188	4	1781
+1215	4	1781
+1215	4	1781
+1223	4	1781
+1225	4	1781
+
+************************
+3	4	1781
+1225	4	1781
+1234	4	1781
+1234	4	1781
+1263	4	1781
+1263	4	1781
+1265	4	1781
+1265	4	1781
+1265	4	1781
+1270	4	1781
+1306	4	1781
+1306	4	1781
+1323	4	1781
+1323	4	1781
+1350	4	1781
+1350	4	1781
+1358	4	1781
+1358	4	1781
+1358	4	1781
+1358	4	1781
+1379	4	1781
+1379	4	1781
+1380	4	1781
+1380	4	1781
+1380	4	1781
+1396	4	1781
+1399	4	1781
+1425	4	1781
+1453	4	1781
+1464	4	1781
+1464	4	1781
+1469	4	1781
+1484	4	1781
+1486	4	1781
+1491	4	1781
+1491	4	1781
+1491	4	1781
+1491	4	1781
+1496	4	1781
+1498	4	1781
+1498	4	1781
+1503	4	1781
+1530	4	1781
+1541	4	1781
+1542	4	1781
+1552	4	1781
+1565	4	1781
+1565	4	1781
+1612	4	1781
+1613	4	1781
+1614	4	1781
+1626	4	1781
+1646	4	1781
+1647	4	1781
+1659	4	1781
+1665	4	1781
+1683	4	1781
+1693	4	1781
+1693	4	1781
+1693	4	1781
+1693	4	1781
+1708	4	1781
+1708	4	1781
+1767	4	1781
+1767	4	1781
+1767	4	1781
+1767	4	1781
+1768	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1781	4	1781
+1787	4	1781
+1787	4	1781
+1787	4	1781
+1787	4	1781
+1787	4	1781
+1787	4	1781
+1787	4	1781
+1788	4	1781
+1788	4	1781
+1792	4	1781
+1807	4	1781
+1824	4	1781
+1824	4	1781
+1824	4	1781
+1825	4	1781
+1826	4	1781
+1836	4	1781
+1836	4	1781
+1852	4	1781
+1854	4	1781
+1860	4	1781
+1860	4	1781
+1860	4	1781
+1860	4	1781
+1860	4	1781
+1860	4	1781
+1861	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1945	4	1781
+1947	4	1781
+1949	4	1781
+1988	4	1781
+1988	4	1781
+1988	4	1781
+1989	4	1781
+321	4	1781
+364	4	1781
+2015	4	1781
+
+************************
+	4	1781
+364	4	1781
+2015	4	1781
+2034	4	1781
+2059	4	1781
+2060	4	1781
+2060	4	1781
+2060	4	1781
+2061	4	1781
+2061	4	1781
+2061	4	1781
+2083	4	1781
+2082	4	1781
+2091	4	1781
+2091	4	1781
+2091	4	1781
+2110	4	1781
+2112	4	1781
+2126	4	1781
+2126	4	1781
+2126	4	1781
+2150	4	1781
+2152	4	1781
+2156	4	1781
+2168	4	1781
+2175	4	1781
+2178	4	1781
+2178	4	1781
+2178	4	1781
+2179	4	1781
+2179	4	1781
+2179	4	1781
+2228	4	1781
+2249	4	1781
+
+************************
+28	4	1781
+2249	4	1781
+2252	4	1781
+2252	4	1781
+2252	4	1781
+2256	4	1781
+2299	4	1781
+2314	4	1781
+2317	4	1781
+2325	4	1781
+2326	4	1781
+2326	4	1781
+2341	4	1781
+2341	4	1781
+2341	4	1781
+2340	4	1781
+2356	4	1781
+2342	4	1781
+2376	4	1781
+2470	4	1781
+2534	4	1781
+2534	4	1781
+405	4	1781
+2541	4	1781
+2546	4	1781
+2546	4	1781
+2546	4	1781
+2546	4	1781
+435	4	1781
+437	4	1781
+438	4	1781
+438	4	1781
+2579	4	1781
+463	4	1781
+464	4	1781
+483	4	1781
+491	4	1781
+2603	4	1781
+2603	4	1781
+2618	4	1781
+2645	4	1781
+2650	4	1781
+2652	4	1781
+2684	4	1781
+2684	4	1781
+2684	4	1781
+2698	4	1781
+2698	4	1781
+2698	4	1781
+2698	4	1781
+2708	4	1781
+2708	4	1781
+2708	4	1781
+2708	4	1781
+2719	4	1781
+2732	4	1781
+2733	4	1781
+2736	4	1781
+2820	4	1781
+2824	4	1781
+2833	4	1781
+2842	4	1781
+2929	4	1781
+2934	4	1781
+2982	4	1781
+2986	4	1781
+557	4	1781
+560	4	1781
+583	4	1781
+584	4	1781
+3044	4	1781
+3045	4	1781
+3045	4	1781
+3069	4	1781
+3073	4	1781
+3073	4	1781
+3093	4	1781
+3093	4	1781
+3094	4	1781
+3155	4	1781
+3184	4	1781
+627	4	1781
+631	4	1781
+631	4	1781
+632	4	1781
+637	4	1781
+642	4	1781
+644	4	1781
+653	4	1781
+653	4	1781
+669	4	1781
+669	4	1781
+679	4	1781
+680	4	1781
+680	4	1781
+691	4	1781
+720	4	1781
+729	4	1781
+759	4	1781
+761	4	1781
+761	4	1781
+762	4	1781
+762	4	1781
+762	4	1781
+763	4	1781
+763	4	1781
+763	4	1781
+795	4	1781
+799	4	1781
+123	4	1781
+140	4	1781
+919	4	1781
+945	4	1781
+949	4	1781
+949	4	1781
+949	4	1781
+989	4	1781
+989	4	1781
+989	4	1781
+123	5	1781
+196	5	1781
+919	5	1781
+990	5	1781
+1007	5	1781
+1046	5	1781
+1131	5	1781
+1139	5	1781
+1140	5	1781
+1149	5	1781
+1198	5	1781
+1215	5	1781
+1223	5	1781
+
+************************
+5	5	1781
+1223	5	1781
+1265	5	1781
+1303	5	1781
+1323	5	1781
+205	5	1781
+1358	5	1781
+224	5	1781
+249	5	1781
+1366	5	1781
+288	5	1781
+1421	5	1781
+1460	5	1781
+1462	5	1781
+
+************************
+	5	1781
+1460	5	1781
+1462	5	1781
+1463	5	1781
+1468	5	1781
+1467	5	1781
+1477	5	1781
+1491	5	1781
+1496	5	1781
+1531	5	1781
+1535	5	1781
+1565	5	1781
+1601	5	1781
+1602	5	1781
+1613	5	1781
+1614	5	1781
+1626	5	1781
+1641	5	1781
+1665	5	1781
+1768	5	1781
+1781	5	1781
+1781	5	1781
+1781	5	1781
+1787	5	1781
+1788	5	1781
+1824	5	1781
+1825	5	1781
+1836	5	1781
+1861	5	1781
+316	5	1781
+381	5	1781
+398	5	1781
+2015	5	1781
+2110	5	1781
+2127	5	1781
+2187	5	1781
+2317	5	1781
+2545	5	1781
+2698	5	1781
+2733	5	1781
+404	5	1781
+410	5	1781
+463	5	1781
+464	5	1781
+483	5	1781
+11	5	1781
+584	5	1781
+3184	5	1781
+3188	5	1781
+600	5	1781
+680	5	1781
+691	5	1781
+763	5	1781
+799	5	1781
+196	6	1781
+1141	6	1781
+1141	6	1781
+1155	6	1781
+1191	6	1781
+1198	6	1781
+1215	6	1781
+1265	6	1781
+1265	6	1781
+1324	6	1781
+1358	6	1781
+1477	6	1781
+1477	6	1781
+1477	6	1781
+1487	6	1781
+1491	6	1781
+1491	6	1781
+1491	6	1781
+1496	6	1781
+1527	6	1781
+1572	6	1781
+1614	6	1781
+1614	6	1781
+1693	6	1781
+1739	6	1781
+1748	6	1781
+1749	6	1781
+1753	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+1781	6	1781
+224	6	1781
+1856	6	1781
+
+************************
+
+************************
+Document:  CACM-2931.html
+************************
+
+
+logic and programming languages
+
+logic has been long in terested in whether answers
+to certain questions are computable in principle, 
+since the outcome puts bounds on the possibilities of
+formalization.  more recently, precise comparisons 
+in the efficiency of decision methods have become available
+through the developments in complexity theory. 
+ these, however, are applications to logic, and a big question
+is whether methods of logic have significance 
+in the other direction for the more applied parts of
+computability theory.  programming languages offer 
+an obvious opportunity as their syntactic formalization
+is well advanced; however, the semantical theory 
+can hardly be said to be complete.  though we have
+many examples, we have still to give wide-ranging 
+mathematical answers to these queries:  what is a machine?
+ what is a computable process?  how (or how 
+well) does a machine simulate a process?  programs naturally
+enter in giving descriptions of processes. 
+ the definition of the precise meaning of a program
+then requires us to explain what are the objects 
+of computation (in a way, the statics of the problem)
+and how they are to be transformed (the dynamics). 
+ so far the theories of automata and of nets, though
+most in teresting for dynamics, have formalized only 
+a portion of the field, and there has been perhaps too
+much concentration on the finite-state and algebraic 
+aspects.  it would seem that the understanding of higher-level
+program features involves us with infinite 
+objects and forces us to pass through several levels
+of explanation to go from the conceptual ideas to 
+the final simulation on a real machine.  these levels
+can be made mathematically exact if we can find 
+the right abstractions to represent the necessary structures.
+ the experience of many independent workers 
+with the method of data types as lattices (or partial
+orderings) under an information content ordering, 
+and with their continuous mappings, has demonstrated the
+flexibility of this approach in providing definitions 
+and proofs, which are clean and without undue dependence
+on implementations.  nevertheless much remains 
+to be done in showing how abstract conceptualizations
+can (or cannot) be actualized before we can say 
+we have a unified theory.
+
+cacm september, 1977
+
+scott, 
+************************
+ september, 1977
+
+scott, d. s.
+
+logic, programming languages, automata, denotational
+semantics, 
+************************
+notational
+semantics, a-calculus models, computability, 
+partial functions, approximation, function spaces
+
+1.2 4.20 5.21 5.24 5.27
+
+ca770902 
+************************
+
+************************
+Document:  CACM-2700.html
+************************
+
+
+reduction: a method of proving properties of parallel programs
+
+when proving that a parallel program has a
+given property it is often convenient to assume 
+that a statement is indivisible, i.e. that the statement
+cannot be interleaved with the rest of the program. 
+ here sufficient conditions are obtained to show that
+the assumption that a statement is indivisible 
+can be relaxed and still preserve properties such as
+halting.  thus correctness proofs of a parallel 
+system can often be greatly simplified.
+
+cacm december, 1975
+
+lipton, 
+************************
+cember, 1975
+
+lipton, r. j.
+
+deadlock free, reduction, interruptible, 
+************************
+
+************************
+Document:  CACM-0630.html
+************************
+
+
+an evaluation of autocode readability
+
+of the many 
+************************
+adability
+
+of the many requirements of an autocode, the
+pair of requirements "easy to read" and "easy 
+to write" are not often compatible.  this paper argues
+that readability can be added automatically in 
+the translation process so that the programmer can
+enjoy the utmost economy of expression, while for 
+management a full and valid cobol version is printed to give
+all the advantages of readability and compatibility.
+
+cacm march, 1962
+
+ellis, 
+************************
+
+************************
+Document:  CACM-0680.html
+************************
+
+
+an error-correcting parse algorithm
+
+cacm november, 1963
+
+irons, 
+************************
+ november, 1963
+
+irons, e. t.
+
+ca631112 jb march 13, 1978  3:40 pm
+
+249	4	680
+254	4	680
+272	4	680
+1046	4	680
+1102	4	680
+1105	4	680
+1109	4	680
+1139	4	680
+1140	4	680
+1140	4	680
+1188	4	680
+1234	4	680
+1263	4	680
+1265	4	680
+1306	4	680
+1464	4	680
+1491	4	680
+1496	4	680
+1767	4	680
+1781	4	680
+1781	4	680
+1787	4	680
+1824	4	680
+1949	4	680
+321	4	680
+2059	4	680
+2126	4	680
+2126	4	680
+2546	4	680
+435	4	680
+437	4	680
+463	4	680
+464	4	680
+483	4	680
+491	4	680
+2732	4	680
+560	4	680
+583	4	680
+584	4	680
+3073	4	680
+627	4	680
+631	4	680
+631	4	680
+632	4	680
+642	4	680
+644	4	680
+653	4	680
+653	4	680
+680	4	680
+680	4	680
+761	4	680
+762	4	680
+763	4	680
+763	4	680
+795	4	680
+799	4	680
+123	4	680
+140	4	680
+919	4	680
+945	4	680
+989	4	680
+196	5	680
+1225	5	680
+1350	5	680
+1646	5	680
+
+************************
+5	5	680
+1350	5	680
+1646	5	680
+1781	5	680
+1945	5	680
+2650	5	680
+2698	5	680
+2708	5	680
+404	5	680
+3093	5	680
+680	5	680
+680	5	680
+680	5	680
+823	6	680
+830	6	680
+830	6	680
+123	6	680
+196	6	680
+914	6	680
+915	6	680
+917	6	680
+919	6	680
+984	6	680
+987	6	680
+989	6	680
+990	6	680
+990	6	680
+1007	6	680
+1012	6	680
+1012	6	680
+1012	6	680
+1046	6	680
+1072	6	680
+1084	6	680
+1098	6	680
+1122	6	680
+1131	6	680
+1138	6	680
+1139	6	680
+1139	6	680
+1140	6	680
+1141	6	680
+1149	6	680
+1179	6	680
+1198	6	680
+1200	6	680
+1215	6	680
+1223	6	680
+1223	6	680
+
+************************
+5	6	680
+1223	6	680
+1223	6	680
+1225	6	680
+1265	6	680
+1265	6	680
+1265	6	680
+1303	6	680
+1323	6	680
+1336	6	680
+1358	6	680
+1366	6	680
+1396	6	680
+1399	6	680
+1421	6	680
+1455	6	680
+1460	6	680
+
+************************
+	6	680
+1455	6	680
+1460	6	680
+1462	6	680
+1463	6	680
+1467	6	680
+1468	6	680
+1477	6	680
+1477	6	680
+1477	6	680
+1477	6	680
+1487	6	680
+1491	6	680
+1491	6	680
+1491	6	680
+1491	6	680
+1491	6	680
+1496	6	680
+1496	6	680
+1531	6	680
+1535	6	680
+1565	6	680
+1601	6	680
+1602	6	680
+1613	6	680
+1614	6	680
+1626	6	680
+1641	6	680
+1647	6	680
+1781	6	680
+1787	6	680
+1787	6	680
+1788	6	680
+205	6	680
+224	6	680
+249	6	680
+288	6	680
+316	6	680
+381	6	680
+398	6	680
+2110	6	680
+2111	6	680
+2111	6	680
+
+************************
+
+************************
+Document:  CACM-3008.html
+************************
+
+
+preserving average proximity in arrays
+
+programmers and data structure designers are often
+forced to choose between alternative structures. 
+ in storing these structures, preserving logical adjacencies
+or "proximity" is usually an important consideration. 
+ the combinatorial problem of storing arrays as various
+kinds of list structures is examined.  embeddings 
+of graphs are used to model the loss of proximity involved
+in such storage schemes, and an elementary 
+proof that arrays cannot be stored as linear lists with
+bounded loss of proximity is presented.  average 
+loss of proximity is then considered, and it is shown
+that arrays cannot be stored as linear lists with 
+only bounded loss of average proximity, but can be so
+stored in binary trees.  the former result implies, 
+for instance, that row major order is an asymptotically
+optimal storage strategy for arrays.
+
+cacm march, 1978
+
+demillo, r.
+eisenstat, s.
+lipton, 
+************************
+, r.
+eisenstat, s.
+lipton, r.
+
+arrays, graph embedding, linear lists,
+proximity, average proximity, trees
+
+4.34 5.24 5.25 5.32
+
+************************
+
+************************
+Document:  CACM-3150.html
+************************
+
+
+beyond programming languages
+
+as computer technology matures, our growing ability to create large systems is 
+leading to basic changes in the nature of programming.  current programming 
+language concepts will not be adequate for building and maintaining
+systems of the complexity called for by the tasks we attempt.  just
+as high level languages enabled the programmer to escape from the
+intricacies of a machine's order code, higher level programming systems
+can provide the means to understand and manipulate complex
+systems and components.  in order to develop such systems, we need
+to shift our attention away from the detailed specification of
+algorithms, towards the description of the properties of the packages
+and objects with which we build.  this paper analyzes some of the
+shortcomings of programming languages as they now exist,
+and lays out some possible directions for future research.
+
+cacm july, 1979
+
+winograd, t.
+
+programming, programming languages, programming systems, systems development
+
+4.0 4.20 4.22 4.40
+
+ca790701 dh august 
+************************
+ 4.40
+
+ca790701 dh august 22, 1979  2:00 pm
+
+2155	4	3150
+2294	4	3150
+
+************************
+
+************************
+Document:  CACM-1788.html
+************************
+
+
+toward a general processor for programming languages
+
+many efforts have been made to develop a better
+
+************************
+ to develop a better
+way of implementing a higher level programming 
+language than by the construction of a whole new compiler,
+but so far none has proved generally satisfactory. 
+ in this paper, it is contended that a programming
+language is best described functionally as a body 
+of macro instructions, and that the macro call constitutes
+a canonical form in terms of which a programming 
+notation may be described.  a supporting discussion of the
+logical and his torical role of the macro instruction 
+is presented.  also discussed are the conflict between
+machine independence and object program efficiency, 
+and the question of where the greatest difficulties
+lie in compiler construction.
+
+cacm january, 1968
+
+halpern, 
+************************
+ january, 1968
+
+halpern, m. j.
+
+programming language translator, programming language
+processor, general translator, general processor, 
+macro instruction processor; meta processor, meta language
+translator, meta language processor, compiler-compiler, 
+writing system, translator writing system
+
+4.10 4.11 4.12 4.20
+
+ca680106 jb february 23, 1978  2:42 pm
+
+1358	4	1788
+1565	4	1788
+1781	4	1788
+1781	4	1788
+1788	4	1788
+1788	4	1788
+1788	4	1788
+1788	4	1788
+1006	5	1788
+1007	5	1788
+205	5	1788
+1781	5	1788
+1788	5	1788
+1788	5	1788
+1788	5	1788
+3189	5	1788
+123	6	1788
+196	6	1788
+919	6	1788
+990	6	1788
+1007	6	1788
+1046	6	1788
+1131	6	1788
+1139	6	1788
+1140	6	1788
+1149	6	1788
+1198	6	1788
+1215	6	1788
+1223	6	1788
+1265	6	1788
+
+************************
+3	6	1788
+1265	6	1788
+1303	6	1788
+1323	6	1788
+1358	6	1788
+1366	6	1788
+1421	6	1788
+1460	6	1788
+1462	6	1788
+1463	6	1788
+1467	6	1788
+1468	6	1788
+1477	6	1788
+1491	6	1788
+1496	6	1788
+1531	6	1788
+1535	6	1788
+1565	6	1788
+1601	6	1788
+1602	6	1788
+1613	6	1788
+1614	6	1788
+1626	6	1788
+1641	6	1788
+1787	6	1788
+1788	6	1788
+205	6	1788
+224	6	1788
+249	6	1788
+288	6	1788
+
+************************
+
+************************
+Document:  CACM-1693.html
+************************
+
+
+gpl, a truly general purpose language
+
+a truly general purpose programming language,
+gpl, is described which contains 
+************************
+scribed which contains facilities for 
+constructing (within the language) new data types as
+well as facilities for operations performed upon 
+them.  the basic language is minimal in the sense that
+no basic element can be derived from the others 
+with high efficiency in the object programs.  constructs
+like the algol 60 for-statements,and if-statements 
+are not basic; they are special types of procedures.
+ new "symbols" (underlined words in algol 60) are 
+implicitly defined by usage in other declarations.  as
+part words are definable, packed words are handled 
+as easily as full words.  "address" variables
+(pointers) are included in full generality.
+
+cacm september, 1968
+
+garwick, j. v.
+
+programming language, general purpose, 
+************************
+ language, general purpose, self-extending, macro, algol
+
+4.20
+
+ca680908 jb february 22, 1978  8:40 am
+
+1379	4	1693
+1380	4	1693
+1542	4	1693
+1552	4	1693
+1683	4	1693
+1693	4	1693
+1693	4	1693
+1693	4	1693
+1693	4	1693
+1781	4	1693
+1781	4	1693
+1781	4	1693
+1781	4	1693
+1787	4	1693
+1824	4	1693
+1836	4	1693
+1836	4	1693
+1854	4	1693
+1860	4	1693
+1861	4	1693
+1945	4	1693
+1945	4	1693
+2015	4	1693
+2060	4	1693
+2060	4	1693
+2060	4	1693
+2061	4	1693
+2061	4	1693
+2082	4	1693
+2091	4	1693
+2091	4	1693
+2126	4	1693
+2152	4	1693
+
+************************
+
+************************
+Document:  CACM-0224.html
+************************
+
+
+sequential formula translation
+
+the syntax of an algorithmic language such
+as algol is conveniently described as a sequence 
+of states indicated by an element called cellar.  transitions
+are controlled by admissible state-symbol 
+pairs which may be represented by a transition matrix.
+this description of syntax furnishes at the same 
+time an extremely simple rule for translating into machine
+programs statements in the algorithmic language. 
+ sequential treatment, however, is not feasible in the case
+of certain optimizing processes such as recursive 
+address calculation.
+
+cacm february, 1960
+
+samelson, 
+************************
+ february, 1960
+
+samelson, k.
+bauer, f. l.
+
+ca600208 jb march 22, 1978  2:17 pm
+
+224	4	224
+364	4	224
+1139	5	224
+1141	5	224
+1215	5	224
+1223	5	224
+224	5	224
+
+************************
+5	5	224
+1223	5	224
+224	5	224
+224	5	224
+224	5	224
+267	5	224
+1647	5	224
+1781	5	224
+1787	5	224
+1792	5	224
+364	5	224
+405	5	224
+438	5	224
+98	5	224
+763	5	224
+100	6	224
+123	6	224
+196	6	224
+196	6	224
+196	6	224
+919	6	224
+990	6	224
+1007	6	224
+1025	6	224
+1046	6	224
+1131	6	224
+1139	6	224
+1140	6	224
+1141	6	224
+1149	6	224
+1179	6	224
+1198	6	224
+1215	6	224
+1215	6	224
+1223	6	224
+
+************************
+5	6	224
+1215	6	224
+1223	6	224
+1265	6	224
+
+************************
+5	6	224
+1223	6	224
+1265	6	224
+1303	6	224
+1323	6	224
+1358	6	224
+1366	6	224
+1421	6	224
+1460	6	224
+1462	6	224
+
+************************
+
+************************
+Document:  CACM-1106.html
+************************
+
+
+programming of digital computers
+
+cacm april, 1964
+
+perlis, a. j.
+
+ca640402 jb 
+************************
+
+************************
+Document:  CACM-2718.html
+************************
+
+
+a preliminary system for the design of dbtg data structures
+
+the functional approach to database design is
+introduced.  in this approach the goal of design 
+is to derive a data structure which is capable of supporting
+a set of anticipated queries rather than 
+a structure which "models the business" in some other
+way. an operational computer program is described 
+which utilizers the functional approach to design data
+structures conforming to the data base task group 
+specifications.  the automatic programming technology
+utilized by this program, although typically used 
+to generate procedure, is here used to generate declaratives.
+
+cacm october, 1975
+
+gerritsen, 
+************************
+ october, 1975
+
+gerritsen, r.
+
+network model of databases, data base task group, database
+design, data structure, automatic programming, 
+translation, nonprocedural 
+************************
+
+************************
+Document:  CACM-1945.html
+************************
+
+
+the role of programming in a ph. computer science program
+
+in this general paper the role of programming
+in advanced graduate training is discussed.  
+subject matter related to programming as well as programming
+per se is considered.  the  importance 
+************************
+red.  the  importance and 
+application of formalism are considered and also the
+need for good empirical experimentation.  a brief 
+outline for a sequence of courses is included, and subject
+headings that have been obtained from an extensive 
+bibliography are given.  a bibliography of programming references is included.
+
+cacm january, 1969
+
+arden, 
+************************
+ january, 1969
+
+arden, b. w.
+
+graduate-level programming, graduate programs, course
+content, course sequence, graduate curriculum, 
+programming research topics, programming 
+************************
+search topics, programming bibliography
+
+1.3 1.52 4.0
+
+ca690104 jb february 20, 1978  12:00 pm
+
+1068	4	1945
+1084	4	1945
+1102	4	1945
+1142	4	1945
+1215	4	1945
+1225	4	1945
+1225	4	1945
+
+************************
+5	4	1945
+1225	4	1945
+1247	4	1945
+1263	4	1945
+1350	4	1945
+1350	4	1945
+1350	4	1945
+1379	4	1945
+1379	4	1945
+1396	4	1945
+1396	4	1945
+1399	4	1945
+1400	4	1945
+1453	4	1945
+1496	4	1945
+1530	4	1945
+1531	4	1945
+1542	4	1945
+1551	4	1945
+1553	4	1945
+1565	4	1945
+1570	4	1945
+1612	4	1945
+1625	4	1945
+1646	4	1945
+1659	4	1945
+1683	4	1945
+1683	4	1945
+1693	4	1945
+1693	4	1945
+1703	4	1945
+1705	4	1945
+1767	4	1945
+1768	4	1945
+1768	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1781	4	1945
+1787	4	1945
+1787	4	1945
+1787	4	1945
+1787	4	1945
+1807	4	1945
+1836	4	1945
+1836	4	1945
+1860	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1945	4	1945
+1947	4	1945
+1988	4	1945
+2015	4	1945
+2034	4	1945
+2036	4	1945
+2060	4	1945
+2060	4	1945
+2061	4	1945
+2061	4	1945
+2061	4	1945
+2082	4	1945
+2091	4	1945
+2091	4	1945
+2110	4	1945
+2126	4	1945
+
+************************
+10	4	1945
+2126	4	1945
+2127	4	1945
+2152	4	1945
+2179	4	1945
+2179	4	1945
+2252	4	1945
+2314	4	1945
+
+************************
+52	4	1945
+2314	4	1945
+2341	4	1945
+2340	4	1945
+2356	4	1945
+2396	4	1945
+2546	4	1945
+2546	4	1945
+2603	4	1945
+2603	4	1945
+2650	4	1945
+2698	4	1945
+2698	4	1945
+2698	4	1945
+2708	4	1945
+2708	4	1945
+2708	4	1945
+2730	4	1945
+2824	4	1945
+2982	4	1945
+2986	4	1945
+3045	4	1945
+3045	4	1945
+3093	4	1945
+3093	4	1945
+3094	4	1945
+691	4	1945
+762	4	1945
+949	4	1945
+949	4	1945
+914	5	1945
+915	5	1945
+917	5	1945
+984	5	1945
+989	5	1945
+990	5	1945
+1012	5	1945
+1084	5	1945
+1098	5	1945
+1122	5	1945
+1138	5	1945
+1139	5	1945
+1141	5	1945
+1200	5	1945
+1223	5	1945
+1265	5	1945
+1336	5	1945
+1396	5	1945
+1455	5	1945
+1477	5	1945
+1487	5	1945
+1491	5	1945
+1496	5	1945
+1945	5	1945
+1945	5	1945
+1945	5	1945
+483	5	1945
+584	5	1945
+3003	5	1945
+669	5	1945
+680	5	1945
+763	5	1945
+823	5	1945
+1659	6	1945
+1678	6	1945
+1927	6	1945
+1945	6	1945
+2097	6	1945
+2147	6	1945
+2163	6	1945
+
+************************
+
+************************
+Document:  CACM-1476.html
+************************
+
+
+control procedures for data communication-an asa progress report
+
+sectional committee x.3 of the american standards
+association, has charged one of its task 
+groups, x3.3.4, with the responsibility to "define and specify
+functional control requirements 
+************************
+ control requirements and characteristics 
+governing the operation of digital data generating and
+receiving systems interconnected by communication 
+system."  this effort is primarily directed toward systems
+employing the american standard code for information 
+interchange (ascii).  this paper represents a progress
+report on the work of this group toward a proposal 
+for national and international standardization in the
+field of control procedures.  it describes both 
+the old and new work of the task group.  the new work
+is presented in detail, while the work that has 
+been presented in earlier papers ["control procedures for
+data communication," task group document x3.3.4/44, 
+may 1964: "transparent-mode control procedures for data
+communication," task group document x3.3.4/58, 
+december, 1964: comm. acm 8 (apr. 1965), 203-206; "control
+procedures for data communications," task 
+group document x3.3.4/60, march, 1965] is retained here
+in summary form.  many of the concepts and principles 
+described herein have been submitted to the international
+organization for standardization via earlier 
+papers and are now embodied in working papers of that organization. 
+
+cacm february, 1966
+
+ca660208jb 
+************************
+
+************************
+Document:  CACM-2314.html
+************************
+
+
+requirements for advanced programming systems for list processing
+
+list processing systems should be designed to
+facilitate production of large programs to manipulate 
+large complex symbolic data stores.  this paper presents
+an overview of a number of system features which 
+the author feels are important to improve the productivity
+of programmers working in such domains.  a 
+system view it taken, rather than focusing just on language
+features, since algorithms must be not only 
+coded in a language form, but debugged, modified, made
+efficient, and run on data.  because of this general 
+framework,the requirements specified are applicable
+to the design of advanced programming systems for 
+a wide range of applications.  three aspects of programming
+systems are highlighted: good interactive 
+facilities, programmable control structures, and sophisticated
+data communication mechanisms.  interactive 
+features are described to facilitate program composition,
+entry, testing, debugging, editing, optimization, 
+and packaging.  implementation of a generalized environment
+structure model specified would allow programming 
+of various control regimes including multiprocesses,
+coroutines and backtracking.  alternative methods 
+of procedure invocation required include invocation
+by pattern and by monitoring condition.  the  need 
+for extended data forms, storage management, and extensibility
+are stressed, as is the duality of data 
+retrieval and function evaluation.  syntax directed
+input and output of data would facilitate use of 
+complex data stores.
+
+cacm july, 1972
+
+bobrow, d. g.
+
+list processing, programming languages, design of
+programming languages, interactive systems, control 
+structures, data structures, programming primitives,
+semantics, advanced programming systems
+
+1.3 4.2 4.22 4.3 4.32 5.23 5.24
+
+
+************************
+ 4.3 4.32 5.23 5.24
+
+ca720714 jb january 30, 1978  1:30 pm
+
+1570	4	2314
+1708	4	2314
+1781	4	2314
+1826	4	2314
+1860	4	2314
+1945	4	2314
+2156	4	2314
+2168	4	2314
+2249	4	2314
+2314	4	2314
+
+************************
+
+************************
+Document:  CACM-1890.html
+************************
+
+
+simulation of traffic flows in a network
+
+a computer simulation program which deals
+with traffic flows in the network of a large area 
+is described.  each 
+************************
+a 
+is described.  each road is segmented into blocks of
+several ten-meter lengths and is represented by 
+a bidirectional 
+************************
+presented by 
+a bidirectional list in computer memory.  the movement
+of cars, i.e. the transfer of cars from one block 
+to the next, is expressed by a proper formula.  this
+formula is based on the supposition that the speed 
+of cars in a block is determined only by the 
+************************
+termined only by the density of
+cars in the block, and this speed-versus-density 
+curve is empirically given the numerical values.  this
+simulation scheme has its excellent point in that 
+it makes it possible to trace the dynamic behavior
+of traffic flows in a variety of situations, some 
+examples of which are given for an actual 
+************************
+ given for an actual area of the city of kyoto, japan.
+
+june, 1969
+
+sakai, t.
+nagao, m.
+
+traffic simulation, traffic flow, traffic network
+traffic control, traffic density, intersection, 
+************************
+
+************************
+Document:  CACM-2922.html
+************************
+
+
+two-level control structure for nondeterministic programming
+
+the basic ideas of nondeterministic programming
+are critically reconsidered to single out a 
+proper attitude and programming style for language allowing
+
+************************
+ for language allowing
+direct control of nondeterministic features. 
+ the proposed attitude aims at retaining the purity of
+the nondeterministic formulation of search processes 
+on one level (the attempt level), deferring the coordination
+of problem solving efforts to another (the 
+choice level).  the feasibility of recognizing these two
+levels is discussed, stressing that the structure 
+to be managed at the choice level is a free of contexts.
+ the leaves are computational environments, 
+each holding an alternative under inspection, while
+the other nodes are associated with choice poin ts. 
+ according to the proposed programming style, a generative
+function 
+************************
+, a generative
+function is associated with each choice poin t, 
+which expresses the desired choice strategy. the main
+advantage on this approach is the localization 
+of the search strategies: each nonterminal node of the
+tree keeps track of the state of the computation 
+as it was when the choice poin t was last interrogated,
+holding at the same time the strategy to coordinate 
+the available alternatives.  examples are given in
+term of nd-lisp, an extension of lisp designed and 
+implemented according to these guidelines.
+
+cacm october, 1977
+
+montangero, 
+************************
+ october, 1977
+
+montangero, c.
+pacini, g.
+turini, f.
+
+nondeterministic programming, artificial in telligence,
+
+************************
+, artificial in telligence,
+control structures, backtracking, search 
+strategy planning, context tree
+
+3.64 4.22
+
+ca771004 jb december 27, 1977  11:30 
+************************
+
+************************
+Document:  CACM-3175.html
+************************
+
+
+breaking substitution ciphers using a relaxation algorithm
+
+substitution ciphers are codes in which each letter
+of the alphabet has one fixed substitute, and the word divisions 
+do not change.  in this paper the problem of breaking substitution
+ciphers is represented as a probabilistic labeling problem.
+every code letter is assigned probabilities of representing plain text
+letters.  these probabilities are updated in parallel for all
+code letters, using joint letter probabilities.  iterating the updating
+scheme results in improved estimates that finally lead to
+breaking the cipher.  the method is applies successfully to two examples.
+
+cacm november, 1979
+
+peleg, s.
+rosenfeld, 
+************************
+
+************************
+Document:  CACM-3143.html
+************************
+
+
+reasoning about arrays
+
+a variety of concepts, laws, and notations are presented which facilitate
+reasoning about arrays.  the basic concepts include intervals and their
+partitions, functional restriction, images, pointwise extension of relations,
+ordering, single-point variation of functions, various equivalence relations 
+for array values, and concatenation.  the effectiveness
+of these ideas is illustrated by informal descriptions of
+algorithms for binary search and merging, and by a short formal proof.
+
+cacm may, 1979
+
+reynolds, j.
+
+arrays, 
+************************
+
+
+reynolds, j.
+
+arrays, assertions, program proving, intervals, partitions, pointwise
+extension, ordering, concatenation, binary search, merging
+
+4.0 4.22 5.21 5.24
+
+ca790504 dh june 
+************************
+ 5.24
+
+ca790504 dh june 5, 1979  3:33 pm
+
+2021	4	3143
+2222	4	3143
+2227	4	3143
+
+************************
+
+************************
+Document:  CACM-2856.html
+************************
+
+
+the synthetic approach to decision table conversion
+
+previous approaches to the problem of automatically
+converting decision tables to computer 
+programs have been based on decomposition.  at any
+stage, one condition is selected for testing, and 
+two smaller problems (decision tables with one less
+condition) are created.  an optimal program (with 
+respect to average execution time or storage space, for
+example) is located only through implicit enumeration 
+of all possible decision trees using a technique such
+as branch-and-bound.  the new approach described 
+in this paper uses dynamic programming to synthesize
+an optimal decision tree from which a program can 
+be created.  using this approach, the efficiency of creating
+an optimal program is increased substantially, 
+permitting generation of optimal programs for decision
+tables with as many as ten to twelve conditions.
+
+cacm june, 1976
+
+schumacher, 
+************************
+ june, 1976
+
+schumacher, h.
+sevcik, k. c.
+
+decision tables, decision trees, dynamic programming, optimal programs
+
+3.50 4.12 5.30 8.3
+
+ca760606 jb january 4, 1978  1:50 pm
+
+1354	4	2856
+1354	4	2856
+1488	4	2856
+1684	4	2856
+2053	4	2856
+2053	4	2856
+2053	4	2856
+2220	4	2856
+2220	4	2856
+2220	4	2856
+2221	4	2856
+2273	4	2856
+2273	4	2856
+
+************************
+
+************************
+Document:  CACM-1680.html
+************************
+
+
+a general-purpose display processing and tutorial system
+
+adept (a display-expedited processing and tutorial)
+system is described.  this system was designed 
+to improve man-computer communications by employing
+a display unit to interleave tutoring with other 
+computer operations such as simulation, programming, and
+information retrieval.  it is written in fortran 
+iv (g) for the ibm system/360, model 40, and the ibm 2250
+display unit under operating system/360.  adept 
+is a cataloged program that controls the standard operating
+system by terminating and rescheduling itself 
+automatically, relinquishing computer resources allocated
+to it, and surrendering control to the operating 
+system to perform other jobs.  it expands the power
+and flexibility of computer-assisted instruction 
+by making immediately available to students, teachers,
+and other users, the full resources (system-cataloged 
+programs) of the operating system.  language processors
+and compilers, simulation models, mathematical 
+solution techniques, stored data, and all other library and
+user programs can be incorporated into instructional 
+material without reprogramming.  illustrations of the various
+applications are presented and their implications 
+are discussed.
+
+cacm october, 1968
+
+engvold, 
+************************
+ october, 1968
+
+engvold, k. j.
+hughes, j. l.
+
+computer-assisted instruction, tutorial systems,
+programming, simulation, modeling, information 
+retrieval operating systems, 
+************************
+trieval operating systems, graphics, displays, man-machine
+interface, on-line computing, graphic programming
+
+1.5 3.3 3.5 3.8 4.0 4.3
+
+ca681007 jb february 21, 1978  3:36 pm
+
+1680	4	1680
+
+************************
+
+************************
+Document:  CACM-2850.html
+************************
+
+
+symbolic execution and program testing
+
+this paper describes the symbolic execution of
+programs.  instead of supplying the normal inputs 
+to a program (e.g. numbers) one supplies symbols representing
+arbitrary values.  the execution proceeds 
+as in a normal execution except that values may be symbolic
+formulas over the input symbols.  the difficult, 
+yet interesting issues arise during the symbolic execution
+of conditional branch type statements.  a 
+particular system called effigy which provides symbolic
+execution for program testing and debugging is 
+also described.  it interpretively executes programs written
+in a simple pl/i style programming language. 
+ it includes 
+************************
+ language. 
+ it includes many standard debugging features, the ability
+to manage and to prove things about symbolic 
+expressions, a simple program testing manager, and a program
+verifier.  a brief discussion of the relationship 
+between symbolic execution and program proving is also included.
+
+cacm july, 1976
+
+king, j. 
+************************
+ july, 1976
+
+king, j. c.
+
+symbolic execution, program testing, program debugging,
+program proving, program verification, 
+symbolic interpretation
+
+4.13 5.21 5.24
+
+ca760703 jb january 
+************************
+
+************************
+Document:  CACM-2802.html
+************************
+
+
+the new math of computer programming
+
+structured programming has proved 
+************************
+d programming has proved to be an important
+methodology for systematic program design 
+and development.  structured programs are identified
+as compound function expressions in the algebra 
+of functions. the algebraic properties of these function
+expressions permit the reformulation (expansion 
+as well as reduction) of a nested subexpression independently
+of its environment, thus modeling what 
+is known as stepwise program refinement as well as program
+execution.  finally, structured programming 
+is characterized in terms of the selection and solution
+of certain elementary equations defined in the 
+algebra of functions.  these solutions can be given in
+general formulas, each involving a single parameter, 
+which display the entire freedom available
+in creating correct structured programs.
+
+cacm january, 1975
+
+mills, h. d.
+
+structured programming, algebra of functions,
+stepwise refinement, program correctness
+
+4.6 5.21 5.24
+
+ca750109 jb january 
+************************
+
+************************
+Document:  CACM-0616.html
+************************
+
+
+an information algebra - phase i report-language
+structure 
+************************
+port-language
+structure group of the codasyl development committee
+
+
+************************
+velopment committee
+
+this report represents the results of the
+first phase of the work of the language structure 
+group.  the goal of this work is to arrive at a proper
+structure for a machine-independent problem-defining 
+language, at the systems level of data processing.  the
+report is based, for the most part, on a mathematical 
+model called "an information algebra" developed primarily
+by r. bosak.  it is hoped that this report 
+will be read (a) with avid interest by programming language
+designers and implementors, and all those 
+interested in developing a theoretical approach to data
+processing; (b) with interest and understanding 
+by professional programmers and systems analysts; and (c)
+with appreciation by the businessman-analyst-manager. 
+ the authors have not attempted an exhaustive discourse
+in this report.  rather, they have tried to present 
+a philosophy to the professional people who are vitally
+concerned with providing a working language for 
+the systems analyst's use.  they trust that the ideas
+in this report will stimulate others to think along 
+similar lines.  questions and comments will be welcomed,
+and can be addressed to any of the members of 
+the language structure group:  robert bosak, system
+development corporation;  richard f. clippinger, 
+honeywell edp division;  carey dobbs, remington rand
+univac division;  roy goldfinger (chairman), ibm 
+corporation;  renee b. jasper, navy management office;
+ william keating, national cash register;  george 
+kendrick, general electric company;  jean e. sammet, ibm corporation.
+
+cacm april, 1962
+
+ca620401 
+************************
+
+************************
+Document:  CACM-3145.html
+************************
+
+
+an implementation of structured walk-throughs
+in teaching cobol programming
+
+the effectiveness of structured
+walk-throughs in teaching introductory cobol programming was empirically
+assessed with a sample of 215 under-graduate business administration
+majors.  cobol proficiency was measured by a final examination
+testing (a) knowledge of language rules, (b) ability to read
+and debug a program, and (c) the ability to write a program.  analysis
+of multiple covariance was used to statistically adjust test
+scores for age and conditional reasoning scores. the findings provide
+empirical support for incorporating structured walk-throughs
+into the programming learning process more effectively
+develop student proficiency in writing cobol programs.
+
+cacm june, 1979
+
+lemos, r.
+
+structured 
+************************
+
+
+lemos, r.
+
+structured walk-throughs, cobol programming, teaching
+of programming, testing programming proficiency
+
+3.51 1.52 2.42 4.22
+
+ca790601 dh august 21, 1979 3:19 pm
+
+3145	4	3145
+
+************************
+
+************************
+Document:  CACM-3005.html
+************************
+
+
+implications of structured programming for machine architecture
+
+based on an empirical study of more than 10,000
+lines of program text written in a goto-less 
+language, a machine architecture specifically designed for
+structured programs is proposed.  since assignment, 
+call, return, and if statements together account for
+93 percent of all executable statements, special 
+care is given to ensure that these statements can be implemented
+efficiently.  a highly compact instruction 
+encoding scheme is presented, which can reduce program
+size by a factor of 3.  unlike a huffman code, 
+which utilizes variable length fields, this method uses
+only fixed length (1-byte) op code and address 
+fields.  the most frequent instructions consist of a
+single 1-byte field.  as a consequence, instruction 
+decoding time is minimized, and the machine is
+efficient with respect to both space and time.
+
+cacm march, 1978
+
+tanenbaum, a.
+
+machine architecture, computer architecture, computer
+organization, instruction set design, program 
+characteristics
+
+4.12 4.22 4.9 6.21
+
+ca780308 jb march 28, 
+************************
+
+************************
+Document:  CACM-1787.html
+************************
+
+
+use of transition matrices in compiling
+
+an algorithms is described which constructs
+from a suitable bnf grammar an efficient left-right 
+recognizer for sentences of the corresponding language.
+ the type of recognizer, used in a number of 
+compilers, operates with a pushdown stack and with
+a transition matrix.  two examples illustrate how 
+such recognizers may be used effectively for other
+purposes besides the usual syntax checking.
+
+cacm january, 1968
+
+gries, 
+************************
+ january, 1968
+
+gries, d.
+
+transition matrices, compilation, translation,
+grammar, context-free language, formal language, 
+parsing
+
+4.12 5.23
+
+ca680107 jb february 23, 1978  2:35 pm
+
+249	4	1787
+254	4	1787
+267	4	1787
+272	4	1787
+1102	4	1787
+1109	4	1787
+1139	4	1787
+1140	4	1787
+1141	4	1787
+1188	4	1787
+1215	4	1787
+1215	4	1787
+1223	4	1787
+1306	4	1787
+
+************************
+3	4	1787
+1306	4	1787
+1323	4	1787
+1358	4	1787
+1380	4	1787
+1396	4	1787
+1464	4	1787
+1491	4	1787
+1496	4	1787
+1498	4	1787
+1542	4	1787
+1647	4	1787
+1665	4	1787
+1665	4	1787
+1683	4	1787
+1683	4	1787
+1693	4	1787
+1767	4	1787
+1767	4	1787
+1768	4	1787
+1768	4	1787
+1781	4	1787
+1781	4	1787
+1781	4	1787
+1781	4	1787
+1781	4	1787
+1781	4	1787
+1781	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1787	4	1787
+1792	4	1787
+1824	4	1787
+1825	4	1787
+1836	4	1787
+1836	4	1787
+1860	4	1787
+1861	4	1787
+1945	4	1787
+1945	4	1787
+1945	4	1787
+1945	4	1787
+1949	4	1787
+1988	4	1787
+1989	4	1787
+321	4	1787
+364	4	1787
+2015	4	1787
+2059	4	1787
+2060	4	1787
+2061	4	1787
+2061	4	1787
+2082	4	1787
+2091	4	1787
+2110	4	1787
+2112	4	1787
+2126	4	1787
+2127	4	1787
+2152	4	1787
+2179	4	1787
+2187	4	1787
+2252	4	1787
+2317	4	1787
+
+************************
+52	4	1787
+2317	4	1787
+2340	4	1787
+2356	4	1787
+2534	4	1787
+405	4	1787
+2541	4	1787
+2545	4	1787
+2546	4	1787
+435	4	1787
+437	4	1787
+438	4	1787
+463	4	1787
+483	4	1787
+491	4	1787
+2603	4	1787
+2603	4	1787
+2698	4	1787
+2698	4	1787
+2698	4	1787
+2708	4	1787
+2732	4	1787
+2733	4	1787
+2733	4	1787
+2820	4	1787
+2824	4	1787
+2982	4	1787
+2986	4	1787
+560	4	1787
+583	4	1787
+3045	4	1787
+3073	4	1787
+3073	4	1787
+3093	4	1787
+3155	4	1787
+627	4	1787
+631	4	1787
+632	4	1787
+642	4	1787
+644	4	1787
+653	4	1787
+680	4	1787
+761	4	1787
+762	4	1787
+763	4	1787
+763	4	1787
+123	4	1787
+140	4	1787
+919	4	1787
+989	4	1787
+196	5	1787
+1141	5	1787
+1215	5	1787
+224	5	1787
+1491	5	1787
+
+************************
+4	5	1787
+1491	5	1787
+1496	5	1787
+1781	5	1787
+1787	5	1787
+1787	5	1787
+1787	5	1787
+2534	5	1787
+2708	5	1787
+763	5	1787
+799	5	1787
+830	6	1787
+123	6	1787
+196	6	1787
+919	6	1787
+990	6	1787
+1007	6	1787
+1046	6	1787
+1131	6	1787
+1139	6	1787
+1140	6	1787
+1149	6	1787
+1198	6	1787
+1215	6	1787
+1223	6	1787
+1265	6	1787
+
+************************
+3	6	1787
+1265	6	1787
+1303	6	1787
+1323	6	1787
+1358	6	1787
+1366	6	1787
+1421	6	1787
+1460	6	1787
+1462	6	1787
+1463	6	1787
+1467	6	1787
+1468	6	1787
+1477	6	1787
+1477	6	1787
+1491	6	1787
+1491	6	1787
+1496	6	1787
+1531	6	1787
+1535	6	1787
+1565	6	1787
+1601	6	1787
+1602	6	1787
+1613	6	1787
+1614	6	1787
+1626	6	1787
+1641	6	1787
+1787	6	1787
+1787	6	1787
+1787	6	1787
+1788	6	1787
+205	6	1787
+224	6	1787
+249	6	1787
+288	6	1787
+
+************************
+
+************************
+Document:  CACM-1892.html
+************************
+
+
+degree of multiprogramming in page-on-demand systems
+
+a simple stochastic model is described which
+offers a base for understanding the relationship 
+between the number of programs permitted to share memory
+(the degree of multiprogramming), drum traffic 
+rates, and central processing unit utilization in page-on-demand,
+multiprogrammed, time-shared computer 
+systems.  the model preserves, as a key feature, the
+property of page-demand statistics which implies 
+a "burst" of page demands at the beginning of any job
+or quantum execution.  the model, a markov chain, 
+is analyzed numerically and the results are presented graphically
+for a wide range of key environment-descriptive 
+parameters.  implications of the results to time-shared
+system design and programming are discussed, 
+and a calculation of the optimal degree of multiprogramming
+for a wide range of parameters is presented 
+graphically. 
+
+cacm june, 1969
+
+wallace, 
+************************
+ june, 1969
+
+wallace, v. l.
+mason, d. l.
+
+page-on-demand, demand paging, time-sharing multiprogramming,
+markovian computer 
+************************
+,
+markovian computer models, scheduling 
+strategies, operating systems, memory management
+
+2.44 4.32 4.39 6.20 6.21
+
+ca690601 jb february 
+************************
+
+
+ca690601 jb february 17, 1978  1:43 pm
+
+1751	4	1892
+1805	4	1892
+1846	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1892	4	1892
+1901	4	1892
+1924	4	1892
+2068	4	1892
+2085	4	1892
+2095	4	1892
+2095	4	1892
+2128	4	1892
+2188	4	1892
+2218	4	1892
+2218	4	1892
+
+************************
+18	4	1892
+2218	4	1892
+2218	4	1892
+
+************************
+8	4	1892
+2218	4	1892
+2218	4	1892
+
+************************
+8	4	1892
+2218	4	1892
+2277	4	1892
+
+************************
+
+************************
+Document:  CACM-0001.html
+************************
+
+
+preliminary report-international algebraic language
+
+cacm december, 1958
+
+perlis, 
+************************
+cember, 1958
+
+perlis, a. j.
+samelson,k.
+
+ca581203 jb march 22, 1978  8:28 pm
+
+100	5	1
+
+************************
+
+************************
+Document:  CACM-3077.html
+************************
+
+
+can programming be liberated from the von neumann
+style?  a functional style and its algebra 
+of programs
+
+conventional programming languages are growing
+ever more enormous, but not stronger.  inherent 
+defects at the most basic level cause them to be both
+fat and weak: their primitive word-at-a-time style 
+of programming inherited from their common ancestor-the
+von neumann computer, their close coupling off 
+semantics to state transitions, their division of programming
+into a world of expressions and a world 
+of statements, their inability to effectively use powerful
+combining forms for building new programs 
+from existing ones, and their lack of useful mathematical
+properties for reasoning about programs. an 
+alternative functional style of programming is founded
+on the use of combining forms for creating programs. 
+ functional programs deal with structured data, are often
+nonrepetitive and nonrecursive, are hierarchically 
+constructed, do not name their arguments, and do not require
+the complex machinery of procedure declarations 
+to become generally applicable.  combining forms can
+use high level programs to build still higher level
+ones in a style not possible in conventional languages.
+ associated with the functional style of programming 
+is an algebra of programs whose variables range over
+programs and whose operations are combining forms. 
+ this algebra can be used to transform programs and
+to solve equations whose "unknowns" are programs 
+in much the same way one transforms equations in high
+school algebra.  these transformations are given 
+by algebraic laws and are carried out in the same language
+in which programs are written.  combining 
+forms are chosen not only for their programming power
+but also for the power of their associated algebraic 
+laws.  general theorems of of the algebra give the detailed
+behavior and termination conditions for large 
+classes of programs.  a new class of computing systems
+uses the functional programming style both in 
+its programming language and in its state transition
+rules.  unlike von neumann languages, these systems 
+have semantics loosely coupled to states-only one
+state transition occurs per major computation. 
+
+cacm august, 1978
+
+backus, j.
+
+functional programming, algebra of programs, combining
+forms, functional forms, programming languages, 
+von neumann computers, von neumann languages, models of
+computing systems, applicative computing systems, 
+applicative state transition systems, program transformation,
+program correctness, program termination, 
+metacomposition
+
+4.20 4.29 5.20 5.24 5.26
+
+ca780801 dh february 7, 1979  3:13 pm
+
+1024	4	3077
+
+************************
+  3:13 pm
+
+1024	4	3077
+1051	4	3077
+1102	4	3077
+1132	4	3077
+1390	4	3077
+1486	4	3077
+1549	4	3077
+1706	4	3077
+1826	4	3077
+1878	4	3077
+378	4	3077
+2021	4	3077
+2060	4	3077
+2155	4	3077
+2155	4	3077
+2168	4	3077
+2222	4	3077
+2227	4	3077
+
+************************
+22	4	3077
+2227	4	3077
+2294	4	3077
+2315	4	3077
+2326	4	3077
+2470	4	3077
+2558	4	3077
+2719	4	3077
+2723	4	3077
+2732	4	3077
+2838	4	3077
+2842	4	3077
+2842	4	3077
+2855	4	3077
+2865	4	3077
+2879	4	3077
+2896	4	3077
+2943	4	3077
+2981	4	3077
+3014	4	3077
+3030	4	3077
+3068	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3077	4	3077
+3080	4	3077
+3104	4	3077
+3106	4	3077
+3143	4	3077
+3150	4	3077
+627	4	3077
+106	4	3077
+210	5	3077
+1834	5	3077
+
+************************
+
+************************
+Document:  CACM-3154.html
+************************
+
+
+algorithm = logic + control
+
+an algorithm can be regarded as consisting of a logic component,
+which specifies the knowledge to be used in solving problems,
+and a control component, which determines the problem-solving
+strategies by means of which that knowledge is used.  the logic component
+determines the meaning of the algorithm whereas the control
+component only affects its efficiency.  the efficiency of an
+algorithm can often by improving the control component without changing
+the logic of the algorithm.  we argue that computer programs would
+be more often correct and more easily improved and modified if
+their logic and control aspects were identified and separated in
+the program text. 
+
+cacm july, 1979
+
+kowalski, r.
+
+control 
+************************
+
+
+kowalski, r.
+
+control language, logic programming, nonprocedural language, programming
+methodology, program specification, relational data structures 
+
+3.64 4.20 4.30 5.21 5.24
+
+ca790705 dh september 24, 1979  5:08 pm
+
+1989	4	3154
+
+************************
+
+************************
+Document:  CACM-1860.html
+************************
+
+
+an algol-based associative language
+
+a high level programming language for large,
+complex associative structures has been designed 
+and implemented.  the underlying data structure has
+been implemented using a hash-coding technique.  
+the discussion includes a comparison with other work
+and examples of applications of the language.
+
+cacm august, 1969
+
+feldman, j. a.
+
+algol, associative, programming language, data structure
+
+4.22
+
+ca690803 jb february 
+************************
+
+
+ca690803 jb february 15, 1978  6:02 pm
+
+1051	4	1860
+1086	4	1860
+1132	4	1860
+1234	4	1860
+1263	4	1860
+1265	4	1860
+1270	4	1860
+1323	4	1860
+1358	4	1860
+1379	4	1860
+1380	4	1860
+1380	4	1860
+1396	4	1860
+1453	4	1860
+1464	4	1860
+1484	4	1860
+1491	4	1860
+1498	4	1860
+1503	4	1860
+1552	4	1860
+1552	4	1860
+1613	4	1860
+1614	4	1860
+1626	4	1860
+1665	4	1860
+1676	4	1860
+1682	4	1860
+1693	4	1860
+1708	4	1860
+1708	4	1860
+1728	4	1860
+1767	4	1860
+1781	4	1860
+1781	4	1860
+1781	4	1860
+1781	4	1860
+1781	4	1860
+1781	4	1860
+1787	4	1860
+1825	4	1860
+1826	4	1860
+1854	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1860	4	1860
+1945	4	1860
+1957	4	1860
+1973	4	1860
+1973	4	1860
+1988	4	1860
+1992	4	1860
+2018	4	1860
+2018	4	1860
+2032	4	1860
+2033	4	1860
+2033	4	1860
+2060	4	1860
+2083	4	1860
+2091	4	1860
+2107	4	1860
+2107	4	1860
+2109	4	1860
+2109	4	1860
+2155	4	1860
+2155	4	1860
+2156	4	1860
+2162	4	1860
+2168	4	1860
+2178	4	1860
+2179	4	1860
+2203	4	1860
+2203	4	1860
+
+************************
+03	4	1860
+2203	4	1860
+2249	4	1860
+2251	4	1860
+2251	4	1860
+2252	4	1860
+2252	4	1860
+2299	4	1860
+2314	4	1860
+2325	4	1860
+2341	4	1860
+2359	4	1860
+2524	4	1860
+2543	4	1860
+2543	4	1860
+2546	4	1860
+2552	4	1860
+2559	4	1860
+2573	4	1860
+2645	4	1860
+2652	4	1860
+2684	4	1860
+2719	4	1860
+2736	4	1860
+2770	4	1860
+2833	4	1860
+2842	4	1860
+2929	4	1860
+2934	4	1860
+2991	4	1860
+557	4	1860
+3053	4	1860
+3069	4	1860
+669	4	1860
+679	4	1860
+691	4	1860
+761	4	1860
+949	4	1860
+989	4	1860
+1389	5	1860
+1366	5	1860
+1421	5	1860
+1496	5	1860
+1626	5	1860
+
+************************
+
+************************
+Document:  CACM-3093.html
+************************
+
+
+automatic error recovery for lr parsers
+
+in this paper we present a scheme for detecting
+and recovering from syntax errors in programs. 
+ the scheme, which is based on lr parsing, is driven
+by information which is directly and automatically 
+obtainable from the information that is already present
+in an lr parser.  the approach, which is patterned 
+after that of levy and graham and rhodes, appears to
+provide error recovery which is both simple and 
+powerful.
+
+cacm june, 1978
+
+mickunas, m.
+modry, j.
+
+programming languages, error correction, automatic
+correction, parsing, lr, syntax errors, compilers
+
+4.12 4.42 5.23
+
+ca780604 dh february 26, 1979  12:22 pm
+
+1225	4	3093
+1350	4	3093
+
+************************
+ pm
+
+1225	4	3093
+1350	4	3093
+1542	4	3093
+1646	4	3093
+1683	4	3093
+1693	4	3093
+1781	4	3093
+1781	4	3093
+1787	4	3093
+1836	4	3093
+1945	4	3093
+1945	4	3093
+2060	4	3093
+2061	4	3093
+2082	4	3093
+2091	4	3093
+2152	4	3093
+2179	4	3093
+
+************************
+
+************************
+Document:  CACM-2154.html
+************************
+
+
+clarification of fortran standards-second report
+
+in 1966, after four years of effort, fortran
+became the first programming language standardized 
+in the united states.  since that initial achievement
+study and application of the standard specifications 
+have revealed the need for maintenance of the standards.
+ as the result of work initiated in 1967, an 
+initial set of clarifying interpretations was prepared and
+this clarification was published in communications 
+of the acm in may 1969.  that work has continued and
+has resulted in the preparation of this second set 
+of clarifying interpretations.  the nature of the maintenance
+and the new set of corrections to and interpretations 
+of the standard specifications are reported.
+
+cacm october, 1971
+
+ansi subcommittee x3j3
+
+american national standard, fortran, basic fortran,
+programming language, standardization, language 
+standard specification, language standard maintenance,
+language standard clarification, language standard 
+interpretation, standardization committee
+
+1.2 2.0 2.19 2.2 2.3 4.0 4.12 4.19 4.20 4.22 4.29 4.43 5.23 5.9 6.9
+
+ca711002 jb february 2, 1978  1:30 pm
+
+1613	4	2154
+1646	4	2154
+1845	4	2154
+
+************************
+54
+1646	4	2154
+1845	4	2154
+1900	4	2154
+1900	4	2154
+1955	4	2154
+2025	4	2154
+2083	4	2154
+2154	4	2154
+2154	4	2154
+2154	4	2154
+2270	4	2154
+2365	4	2154
+
+************************
+
+************************
+Document:  CACM-3148.html
+************************
+
+
+high level programming for distributed computing
+
+programming for distributed and other loosely coupled systems
+is a problem of growing interest.  this paper describes an approach
+to distributed computing at the level of general purpose programming
+languages.  based on primitive notions of module, message,
+and transaction key, the methodology is shown to be independent
+of particular languages and machines.  it appears to be useful for
+programming a wide range of tasks.  this is part of an ambitious
+program of development in advanced programming languages, and relations
+with other aspects of the project are also discussed.
+
+cacm june, 1979
+
+feldman, j.
+
+distributed 
+************************
+
+
+feldman, j.
+
+distributed computing, modules, messages, assertions
+
+4.22 4.32
+
+ca790604 dh august 21, 1979  4:31 pm
+
+1957	4	3148
+
+************************
+, 1979  4:31 pm
+
+1957	4	3148
+2151	4	3148
+3031	4	3148
+
+************************
+
+************************
+Document:  CACM-2138.html
+************************
+
+
+bliss: a language for systems programming
+
+a language, bliss, is described.  this language
+is designed so as to be especially suitable 
+for use in writing production software systems for a
+specific machine (the pdp-10): compilers, operating 
+systems, etc.  prime design goals of the design are the
+ability to produce highly efficient object code, 
+to allow access to all relevant hardware features of
+the host machine, and to provide a rational means 
+by which to cope with the evolutionary nature of systems
+programs.  a major feature which contributes 
+to the realization of these goals is a mechanism permitting
+the definition of the representation of all 
+data structures in terms of the access algorithm for elements of the structure.
+
+cacm december, 1971
+
+wulf, w. a.
+russell, d. b.
+
+programming languages, implementation language,
+systems programming, data structures
+
+4.12 4.21 4.22
+
+ca711205 jb february 
+************************
+
+
+ca711205 jb february 2, 1978  10:09 am
+
+1973	4	2138
+1992	4	2138
+2138	4	2138
+2203	4	2138
+2251	4	2138
+
+************************
+03	4	2138
+2251	4	2138
+2530	4	2138
+
+************************
+51	4	2138
+2530	4	2138
+2537	4	2138
+2543	4	2138
+2559	4	2138
+2573	4	2138
+2991	4	2138
+3053	4	2138
+3083	4	2138
+2107	5	2138
+2138	5	2138
+2138	5	2138
+2138	5	2138
+2411	5	2138
+2709	5	2138
+2889	5	2138
+2937	5	2138
+2989	5	2138
+3005	5	2138
+3025	5	2138
+3101	5	2138
+1069	6	2138
+1425	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2138	6	2138
+2193	6	2138
+2204	6	2138
+2326	6	2138
+
+************************
+
+************************
+Document:  CACM-3049.html
+************************
+
+
+a simply extended and modified batch
+environment graphical system (sembegs)
+
+sembegs is a complete batch environment graphical
+system containing components for handling 
+graphical data files, for displaying the contents of
+these files on a variety of graphical hardware, 
+and for performing graphical batch input operations.
+ sembegs is easy to extend and modify to meet the 
+growing needs of a large batch environment, and is even
+extendable to a fully interactive system.  the 
+paper presents the conceptual view of graphics leading
+to the design of sembegs and outlines the major 
+components of the system.  the design of sembegs is founded
+upon the basic assumption that the true aim 
+of computer graphics is to describe graphical entities,
+rather than, as commonly held, to provide graphical 
+input and output functional capabilities.  sembegs
+is built around a basic graphical data management 
+system (bagdams) which provides a common means of communicating
+the descriptions of graphical entities 
+ between the various components of sembegs.  bagdams
+provides facilities for storing, retrieving, and 
+manipulating the descriptions of graphical entities
+provided by, and received by application programs,
+graphics packages, and graphical devices. 
+
+cacm november, 1978
+
+wendorf, 
+************************
+ november, 1978
+
+wendorf, j.
+
+computer graphics, data structures, graphic display,
+graphic input, graphical database, device 
+independent graphics
+
+************************
+vice 
+independent graphics
+
+4.33 4.34 8.2
+
+ca781102 dh january 26, 1979  1:30 pm
+
+3030	4	3049
+
+************************
+
+************************
+Document:  CACM-1626.html
+************************
+
+
+structure of a lisp system using two-level storage
+
+in an ideal list-processing system there would
+be enough core memory to contain all the data 
+and programs.  described in this paper are a number
+of techniques that have been used to build a lisp 
+system utilizing a drum for its principal storage medium,
+ with a surprisingly low time penalty for use 
+of this slow storage device.  the techniques include
+careful segmentation of system programs, allocation 
+of virtual memory to allow address arithmetic for type
+determination, and a special algorithm for building 
+reasonably linearized lists.  a scheme for binding variables
+is described which is good in this environment 
+and allows for complete compatibility between compiled
+and interpreted programs with no special declarations.
+
+cacm march, 1967
+
+bobrow, 
+************************
+ march, 1967
+
+bobrow, d. g.
+murphy, d. l.
+
+ca670303 jb february 28, 1978  1:39 pm
+
+1626	4	1626
+1708	4	1626
+1781	4	1626
+1860	4	1626
+2299	4	1626
+1626	5	1626
+1626	5	1626
+1626	5	1626
+1641	5	1626
+1708	5	1626
+1781	5	1626
+1826	5	1626
+1860	5	1626
+2156	5	1626
+2168	5	1626
+
+************************
+56	5	1626
+2168	5	1626
+2249	5	1626
+2314	5	1626
+
+************************
+49	5	1626
+2314	5	1626
+2719	5	1626
+2736	5	1626
+2833	5	1626
+123	6	1626
+196	6	1626
+919	6	1626
+990	6	1626
+1007	6	1626
+1046	6	1626
+1098	6	1626
+1131	6	1626
+1139	6	1626
+1140	6	1626
+1149	6	1626
+1198	6	1626
+1215	6	1626
+1223	6	1626
+1265	6	1626
+
+************************
+3	6	1626
+1265	6	1626
+1303	6	1626
+1323	6	1626
+1358	6	1626
+1366	6	1626
+1366	6	1626
+1389	6	1626
+1421	6	1626
+1421	6	1626
+1460	6	1626
+1462	6	1626
+1463	6	1626
+1467	6	1626
+1468	6	1626
+1477	6	1626
+1491	6	1626
+1496	6	1626
+1496	6	1626
+1531	6	1626
+1535	6	1626
+1565	6	1626
+1601	6	1626
+1602	6	1626
+1613	6	1626
+1614	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1626	6	1626
+1641	6	1626
+1641	6	1626
+1641	6	1626
+1708	6	1626
+1785	6	1626
+1786	6	1626
+1787	6	1626
+1788	6	1626
+205	6	1626
+1826	6	1626
+1826	6	1626
+1826	6	1626
+1826	6	1626
+210	6	1626
+210	6	1626
+210	6	1626
+224	6	1626
+1853	6	1626
+
+************************
+4	6	1626
+1853	6	1626
+1853	6	1626
+249	6	1626
+1878	6	1626
+288	6	1626
+1972	6	1626
+1972	6	1626
+316	6	1626
+378	6	1626
+381	6	1626
+398	6	1626
+2082	6	1626
+11	6	1626
+2148	6	1626
+2151	6	1626
+2167	6	1626
+2210	6	1626
+2645	6	1626
+
+************************
+
+************************
+Document:  CACM-1764.html
+************************
+
+
+panel discussion on computer appreciation
+
+session 19 of the acm 20 th anniversary conference
+on august 31, 1967, was entitled education, 
+design experiments, and 
+************************
+sign experiments, and computer appreciation.  its second
+half consisted of a panel discussion on computer 
+appreciation, organized and chaired by elliot i. organick.
+ the four panelists were charles h. davidson, 
+bernard a. galler, richard, w. hamming, and alan j. perlis.
+ after making prepared statements, the panelists 
+were joined in discussion by andries van dam and arthur
+bohn, who had presented papers in the first 
+half.  this is a transcript of the panel discussion,
+condensed by dr. organick and edited by him and 
+the panelists.  some remarks referred to papers by van
+dam and kahn or to the discussion during the first 
+half of the session.  pertinent papers are included in the references.
+
+cacm april, 1968
+
+organick, 
+************************
+ april, 1968
+
+organick, e. i.
+
+computer appreciation, students' liberal arts courses,
+
+************************
+nts' liberal arts courses,
+survey courses, beginning programming, course 
+content, computer courses dropout rates, college versus
+precollege, teaching and 
+************************
+
+************************
+Document:  CACM-2438.html
+************************
+
+
+a model and stack implementation of multiple environments
+
+many control and access environment structures
+require that storage for a procedure activation 
+exist at times when control is not nested within the
+procedure activated.  this is straightforward to 
+implement by dynamic storage allocation with linked
+blocks for each activation, but rather expensive 
+in both time and space.  this paper presents an implementation
+technique using a single stack to hold 
+procedure activation storage which allows retention
+of that storage for durations not necessarily tied 
+to control flow.  the technique has the property that,
+in the simple case,it runs identically to the 
+usual automatic stack allocation and deallocation procedure.
+ applications of this technique to multitasking, 
+coroutines, backtracking, label-valued variables, and
+functional arguments are discussed.  in the initial 
+model, a single real processor is assumed, and the implementation
+assumes multiple-processes coordinate 
+by passing control explicitly to one another.  a multiprocessor
+implementation requires only a few changes 
+to the basic technique, as described.
+
+cacm october, 1973
+
+bobrow, 
+************************
+ october, 1973
+
+bobrow, d. g.
+wegbreit, b.
+
+control structures, environments, stack allocation,
+dendrarchy, retention, dynamic storage allocation, 
+access environments, funarg problem, multitasking,
+coroutines, backtracking, label-valued variables, 
+functional arguments, multiprocessor systems, extensible control structures
+
+4.1 4.2 4.22 4.3 4.32 5.24
+
+ca731002 
+************************
+ 4.3 4.32 5.24
+
+ca731002 jb january 23, 1978  8:27 am
+
+1972	4	2438
+2156	4	2438
+2168	4	2438
+2438	4	2438
+2438	4	2438
+2723	4	2438
+2736	4	2438
+2833	4	2438
+2855	4	2438
+3074	4	2438
+3112	4	2438
+1826	5	2438
+2314	5	2438
+2438	5	2438
+2438	5	2438
+2438	5	2438
+2625	5	2438
+2922	5	2438
+3081	5	2438
+3101	5	2438
+
+************************
+
+************************
+Document:  CACM-3112.html
+************************
+
+
+list processing in real time on a serial computer
+
+a real-time list processing system is one
+in which the time required by the elementary list 
+operations (e.g. cons, car, cdr, rplaca, replacd, eq,
+and atom in lisp) is bounded by a (small) constant. 
+ classical implementations of list processing systems
+lack this property because allocating a list cell 
+from the heap may cause a garbage collection, which process
+requires time proportional to the heap size 
+to finish.  a real-time list processing system is presented
+which continuously reclaims garbage, including 
+directed cycles, while linearizing and compacting the
+accessible cells into contiguous locations to avoid 
+fragmenting the free storage pool.  the program is small
+and requires no time-sharing interrupts, making 
+it suitable for microcode.  finally, the system requires
+the same average time, and not more than twice 
+the space, of a classical implementation, and those
+space requirements can be reduced to approximately 
+classical proportions by compact list representation.
+ arrays of different sizes, a program stack, and 
+hash linking are simple extensions to our system, and
+reference counting is found to be inferior for 
+many applications.
+
+cacm april, 1978
+
+baker, 
+************************
+ april, 1978
+
+baker, h.
+
+real-time, compacting,garbage collection, list processing,
+virtual memory, file or database management, 
+storage management, storage allocation, lisp, cdr-coding, reference counting.  
+
+3.50 3.60 3.73 3.80 4.13 4.22 4.32 4.33 4.35 4.49
+
+ca780404 dh february 26,1979  4:32 pm
+
+1024	4	3112
+
+************************
+  4:32 pm
+
+1024	4	3112
+1050	4	3112
+1051	4	3112
+1098	4	3112
+1214	4	3112
+1380	4	3112
+1388	4	3112
+1393	4	3112
+1393	4	3112
+1485	4	3112
+1487	4	3112
+1541	4	3112
+1549	4	3112
+1549	4	3112
+1570	4	3112
+1846	4	3112
+1878	4	3112
+1946	4	3112
+1957	4	3112
+1972	4	3112
+2023	4	3112
+2060	4	3112
+2156	4	3112
+2156	4	3112
+2168	4	3112
+2168	4	3112
+2218	4	3112
+2361	4	3112
+
+************************
+
+************************
+Document:  CACM-3184.html
+************************
+
+
+   revised report on the algorithmic language algol 60
+
+   the report gives a complete defining description of the international
+algorithmic language algol 60. this is a language suitable for expressing 
+a large class of numerical processes in a form sufficiently concise for 
+direct automatic translation into the language of programmed automatic
+computers.
+
+cacm january, 1963
+
+nuar, p.
+
+ca630117 es march 17, 1982 
+************************
+117 es march 17, 1982 10:10 am
+
+1781	4	3184
+1828	4	3184
+1854	4	3184
+1877	4	3184
+1960	4	3184
+2150	4	3184
+2150	4	3184
+2228	4	3184
+2256	4	3184
+
+************************
+28	4	3184
+2256	4	3184
+2317	4	3184
+2317	4	3184
+2319	4	3184
+2377	4	3184
+2342	4	3184
+2342	4	3184
+2376	4	3184
+2376	4	3184
+2379	4	3184
+2424	4	3184
+2482	4	3184
+2618	4	3184
+2618	4	3184
+2632	4	3184
+2704	4	3184
+2723	4	3184
+2738	4	3184
+2740	4	3184
+2741	4	3184
+2867	4	3184
+3184	4	3184
+3184	4	3184
+3184	4	3184
+949	5	3184
+989	5	3184
+1086	5	3184
+1132	5	3184
+1198	5	3184
+1234	5	3184
+1263	5	3184
+1265	5	3184
+1270	5	3184
+1323	5	3184
+1358	5	3184
+1379	5	3184
+1380	5	3184
+1453	5	3184
+1464	5	3184
+1484	5	3184
+1491	5	3184
+1498	5	3184
+1613	5	3184
+1614	5	3184
+1749	5	3184
+1781	5	3184
+1825	5	3184
+1860	5	3184
+2083	5	3184
+2178	5	3184
+2179	5	3184
+
+************************
+78	5	3184
+2179	5	3184
+2252	5	3184
+2325	5	3184
+
+************************
+52	5	3184
+2325	5	3184
+2341	5	3184
+2546	5	3184
+2645	5	3184
+2652	5	3184
+2684	5	3184
+2842	5	3184
+2929	5	3184
+2934	5	3184
+557	5	3184
+3069	5	3184
+3184	5	3184
+3184	5	3184
+3184	5	3184
+669	5	3184
+679	5	3184
+691	5	3184
+761	5	3184
+1	6	3184
+823	6	3184
+123	6	3184
+145	6	3184
+196	6	3184
+196	6	3184
+196	6	3184
+196	6	3184
+196	6	3184
+919	6	3184
+944	6	3184
+947	6	3184
+987	6	3184
+988	6	3184
+989	6	3184
+989	6	3184
+990	6	3184
+990	6	3184
+1007	6	3184
+1046	6	3184
+1086	6	3184
+1131	6	3184
+1134	6	3184
+1137	6	3184
+1139	6	3184
+1140	6	3184
+1140	6	3184
+1149	6	3184
+1198	6	3184
+1215	6	3184
+1215	6	3184
+1223	6	3184
+1263	6	3184
+
+************************
+3	6	3184
+1263	6	3184
+1265	6	3184
+1303	6	3184
+1303	6	3184
+1303	6	3184
+1303	6	3184
+1323	6	3184
+1323	6	3184
+1323	6	3184
+1358	6	3184
+1358	6	3184
+1366	6	3184
+1366	6	3184
+1389	6	3184
+1421	6	3184
+1421	6	3184
+1421	6	3184
+1453	6	3184
+1460	6	3184
+1460	6	3184
+1462	6	3184
+1463	6	3184
+1467	6	3184
+1468	6	3184
+1468	6	3184
+1466	6	3184
+1477	6	3184
+1477	6	3184
+1477	6	3184
+1477	6	3184
+1491	6	3184
+1491	6	3184
+1491	6	3184
+1496	6	3184
+1496	6	3184
+1496	6	3184
+1531	6	3184
+1535	6	3184
+1565	6	3184
+1601	6	3184
+1602	6	3184
+1613	6	3184
+1614	6	3184
+1626	6	3184
+1626	6	3184
+1641	6	3184
+1641	6	3184
+1781	6	3184
+1785	6	3184
+1786	6	3184
+1787	6	3184
+1788	6	3184
+205	6	3184
+205	6	3184
+1825	6	3184
+210	6	3184
+210	6	3184
+224	6	3184
+249	6	3184
+267	6	3184
+
+************************
+
+************************
+Document:  CACM-1854.html
+************************
+
+
+on multiprogramming, machine coding, and computer organization
+
+the author feels that the interrupt feature
+which is available in most modern computers is 
+a potent source of programming pitfalls and errors, and
+that it therefore may heavily contribute to the 
+unreliability of programs making use of it.  a programming
+scheme is presented which avoids the concept 
+of the interrupt and permits the specification of concurrent
+(or pseudoconcurrent) activities in a supposedly 
+more perspicuous manner.  it is intended to serve as
+a basis for the construction of operating systems, 
+which are prime examples of programs with concurrent
+activities.  the scheme includes a set of basic 
+instructions for the generation, termination, and synchronization
+of parallel processes.  a set of routines 
+representing these instructions and thereby simulating a
+hypothetical machine organization has been implemented 
+and test on the ibm system/360.  two programs using these
+instructions, written in pl360, are presented. 
+
+cacm september, 1969
+
+wirth, n.
+
+multiprogramming, parallelism, interrupt, input-output,
+computer organization, file handling, pl360
+
+4.21 4.22 4.32 4.41 6.21
+
+ca690901 
+************************
+
+************************
+Document:  CACM-1132.html
+************************
+
+
+an extension to algol for manipulating formulae*
+
+cacm february, 1964
+
+perlis, a. j.
+iturriaga, r.
+
+************************
+, a. j.
+iturriaga, r.
+
+ca640211 jb march 10, 1978  3:45 am
+
+1024	4	1132
+1051	4	1132
+1086	4	1132
+1102	4	1132
+1132	4	1132
+1132	4	1132
+1234	4	1132
+1263	4	1132
+1265	4	1132
+1270	4	1132
+1323	4	1132
+1358	4	1132
+1379	4	1132
+1380	4	1132
+1390	4	1132
+1453	4	1132
+1464	4	1132
+1484	4	1132
+1486	4	1132
+1491	4	1132
+1498	4	1132
+1549	4	1132
+1613	4	1132
+1614	4	1132
+1706	4	1132
+1781	4	1132
+1825	4	1132
+1826	4	1132
+1860	4	1132
+1878	4	1132
+378	4	1132
+2060	4	1132
+2083	4	1132
+2155	4	1132
+2168	4	1132
+2178	4	1132
+2179	4	1132
+2252	4	1132
+2325	4	1132
+
+************************
+
+************************
+Document:  CACM-1397.html
+************************
+
+
+proceedings of the acm symposium on symbolic and algebraic manipulation
+
+the acm symposium on symbolic and algebraic
+manipulation brought together over four hundred 
+people interested in programming languages designed
+for manipulation 
+************************
+signed
+for manipulation of algebraic formulas and symbol 
+strings, in their applications, and in algorithms for
+their implementation.  twenty-eight papers were 
+presented, followed by a lively panel discussion of
+future directions.  evening meetings were arranged 
+for several interest groups.  the conference was sponsored
+by the acm special interest committee on symbolic 
+and algebraic manipulation.  the program committee consisted
+of chairman jean e. sammet, paul abrahams, 
+thomas e. cheatham, max goldstein, and douglas mcllroy.
+ conference arrangements were made by lewis c. 
+clapp, daniel bobrow and james h. griesmer.-robert w. floyd, editor
+
+cacm august, 1966
+
+ca660801 
+************************
+
+************************
+Document:  CACM-2732.html
+************************
+
+
+guarded commands, nondeterminacy and formal derivation of programs
+
+so-called "guarded commands" are introduced
+as a building block for alternative and repetitive 
+constructs that allow nondeterministic program components
+for which at least the activity evoked, but 
+possible even the final state, is not necessarily uniquely
+determined by the initial state.  for the 
+formal derivation of programs expressed in terms
+of these constructs, a calculus will be shown.
+
+cacm august, 1975
+
+dijkstra, e. w.
+
+programming languages, sequencing primitives, program
+semantics, programming language semantics, 
+nondeterminacy, case-construction, repetition, termination,
+correctness proof, derivation of programs, 
+programming methodology
+
+4.20 4.22
+
+ca750803 jb january 
+************************
+
+
+ca750803 jb january 6, 1978  4:46 pm
+
+249	4	2732
+254	4	2732
+272	4	2732
+1102	4	2732
+1109	4	2732
+1140	4	2732
+1188	4	2732
+1306	4	2732
+1464	4	2732
+1491	4	2732
+1767	4	2732
+1781	4	2732
+1787	4	2732
+1949	4	2732
+321	4	2732
+2021	4	2732
+2059	4	2732
+2126	4	2732
+2222	4	2732
+2227	4	2732
+
+************************
+
+************************
+Document:  CACM-3080.html
+************************
+
+
+proving the correctness of heuristically optimized code 
+
+a system for proving that programs written
+in a high level language are correctly translated 
+to a low level language is described.  a primary use of
+the system is as a post optimization step in code 
+generation.  the low level language programs need not
+be generated by a compiler and in fact could be 
+hand coded.  examples of the usefulness of such a system
+are given.  some interesting results are the 
+ability to handle programs that implement recursion by
+bypassing the start of the program, and the detection 
+and pinpointing of a wide class of errors in the low
+level language programs.  the examples demonstrate 
+that optimization of the genre of this paper can result
+in substantially faster operation and the saving 
+of memory in terms of program and stack sizes.
+
+cacm july, 1978
+
+samet, h.
+
+compilers, correctness, code optimization,
+debugging, program verification, lisp
+
+4.12 4.21 4.22 5.24
+
+ca780708 dh february 
+************************
+ 5.24
+
+ca780708 dh february 7, 1979  3:53 pm
+
+1024	4	3080
+1051	4	3080
+1102	4	3080
+1132	4	3080
+1390	4	3080
+1486	4	3080
+1549	4	3080
+1706	4	3080
+1826	4	3080
+1878	4	3080
+378	4	3080
+2060	4	3080
+2155	4	3080
+2168	4	3080
+
+************************
+
+************************
+Document:  CACM-1771.html
+************************
+
+
+curriculum 68 -- recommendations for academic
+programs in computer science 
+************************
+ in computer science -- a report of the 
+acm curriculum committee on computer science
+
+this report contains recommendations on academic
+programs in computer science 
+************************
+ in computer science which were developed 
+by the acm curriculum 
+************************
+veloped 
+by the acm curriculum committee on computer science.
+ a classification of the subject areas contained 
+in computer 
+************************
+as contained 
+in computer science is presented and twenty-two courses
+in these areas are described.  prerequisites, 
+catalog descriptions, detailed outlines, and annotated
+bibliographies for these courses are included. 
+ specific recommendations which have evolved from the
+committee's 1965 preliminary recommendations are 
+given for undergraduate programs.  graduate programs in computer
+science are discussed and some recommendations 
+are presented for the development of master's degree programs.
+ ways of developing guidelines for doctoral 
+programs are discussed, but no specific recommendations
+are made. the importance of service courses, 
+minors, and continuing education in computer science is
+emphasized.  attention is given to the organization, 
+staff requirements, computer resources, and other facilities
+needed to implement computer science educational 
+programs.
+
+cacm march, 1968
+
+computer 
+************************
+ march, 1968
+
+computer science courses, computer science curriculum,
+computer science education, computer science 
+academic programs, computer science graduate 
+************************
+, computer science graduate programs,
+computer science undergraduate programs, computer 
+************************
+rgraduate programs, computer 
+science course bibliographies
+
+1.52
+
+ca680301 jb february 23, 1978  11:52 am
+
+1413	4	1771
+1654	4	1771
+1720	4	1771
+1771	4	1771
+1771	4	1771
+2478	4	1771
+1205	5	1771
+1654	5	1771
+1720	5	1771
+1771	5	1771
+1771	5	1771
+1771	5	1771
+1927	5	1771
+2147	5	1771
+2163	5	1771
+
+************************
+47	5	1771
+2163	5	1771
+2345	5	1771
+2478	5	1771
+2594	5	1771
+2852	5	1771
+2899	5	1771
+3130	5	1771
+1205	6	1771
+1417	6	1771
+1654	6	1771
+1659	6	1771
+1720	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1771	6	1771
+1927	6	1771
+2155	6	1771
+2181	6	1771
+2181	6	1771
+2204	6	1771
+2329	6	1771
+
+************************
+
+************************
+Document:  CACM-2546.html
+************************
+
+
+the use of grammatical inference for designing programming languages
+
+both in designing 
+************************
+ languages
+
+both in designing a new programming language
+and in extending an existing language, the designer 
+is faced with the problem of deriving a "natural" grammar
+for the language.  we are proposing an interactive 
+approach to the grammar design problem wherein the designer
+presents a sample of sentences and structures 
+as input to a grammatical inference algorithm.  the algorithm
+then constructs a grammar which is a reasonable 
+generalization of the examples submitted by the designer.
+ the implementation is presently restricted 
+to a subclass of operator precedence grammars, but
+a second algorithm is outlined which applies to a 
+larger class of context-free grammars.
+
+cacm february, 1973
+
+crespi-reghizzi, 
+************************
+ february, 1973
+
+crespi-reghizzi, s.
+melkanoff, m. a.
+lichten, l.
+
+grammar design, language definition, 
+************************
+sign, language definition, inference,
+identification in 
+************************
+nce,
+identification in the limit, extensible languages
+
+3.61 4.2 5.23
+
+ca730202 jb january 24, 1978  3:20 pm
+
+1046	4	2546
+1086	4	2546
+1105	4	2546
+1132	4	2546
+1139	4	2546
+1140	4	2546
+1234	4	2546
+1234	4	2546
+1263	4	2546
+1263	4	2546
+1265	4	2546
+1265	4	2546
+1270	4	2546
+1323	4	2546
+1358	4	2546
+1379	4	2546
+1379	4	2546
+1380	4	2546
+1453	4	2546
+1464	4	2546
+1484	4	2546
+1491	4	2546
+1496	4	2546
+1498	4	2546
+1542	4	2546
+1613	4	2546
+1614	4	2546
+1683	4	2546
+1693	4	2546
+1693	4	2546
+1781	4	2546
+1781	4	2546
+1781	4	2546
+1781	4	2546
+1787	4	2546
+1824	4	2546
+1825	4	2546
+1836	4	2546
+1836	4	2546
+1860	4	2546
+1945	4	2546
+1945	4	2546
+2015	4	2546
+2060	4	2546
+2060	4	2546
+2061	4	2546
+2061	4	2546
+2083	4	2546
+2082	4	2546
+2091	4	2546
+2091	4	2546
+2126	4	2546
+2152	4	2546
+2178	4	2546
+2179	4	2546
+2179	4	2546
+2179	4	2546
+2252	4	2546
+2317	4	2546
+
+************************
+
+************************
+Document:  CACM-2972.html
+************************
+
+
+proof techniques for hierarchically structured programs
+
+a method for describing and structuring 
+************************
+scribing and structuring programs
+that simplifies proofs of their correctness 
+is presented. 
+************************
+ctness 
+is presented.  the method formally represents a program
+in terms of levels of abstraction, each level 
+of which can be described by a self-contained nonprocedural
+specification.  the proofs, like the programs, 
+are structured by levels.  although only manual proofs
+are described in the paper, the method is also 
+applicable to semi-automatic and automatic proofs.  preliminary
+results are encouraging, indicating that 
+the method can be applied to large programs, such as operating systems.
+
+cacm april, 1977
+
+robinson, 
+************************
+ april, 1977
+
+robinson, l.
+levitt, k. n.
+
+hierarchical structure, program verification, structured
+programming, formal specification, abstraction, 
+and programming methodology
+
+4.0 4.29 4.9 5.24
+
+ca770410 jb december 29, 1977  4:53 
+************************
+
+************************
+Document:  CACM-1700.html
+************************
+
+
+peekabit, computer offspring of punched
+card peekaboo, for natural language searching
+
+the "peekaboo" idea from punched card information
+retrieval methods has been mated with the 
+idea of superimposed punching to produce a programming
+technique which cuts computer run time in half 
+on a test search of 33,000 subject index entries.  a search
+program using the device has been operational 
+since late 1963.  as an item is entered in the store,
+an 18-byte mask is created from the item's meaningful 
+words using the inclusive or operation.  if, at search
+time, the logical product (using the and operation) 
+of this mask and a similarly constructed question mask
+is not equal to the question mask, then one or 
+more question words are not present in the store item.
+ an equality is in conclusive; the words of the 
+store item must be unpacked and compared with question
+words.  the present store is made up of over 600,000 
+subject index entries estimated to average 60 characters
+each.  longer texts, such as abstracts, could 
+be handled by multiple masks.
+
+cacm september,1968
+
+hutton, 
+************************
+
+************************
+Document:  CACM-1265.html
+************************
+
+
+on the relative efficiencies of context-free grammar recognizers
+
+a number of diverse recognition procedures
+that have been proposed for parsing sentences with 
+respect to a context-free grammar are described in this
+paper by means of a common device.  each procedure 
+is defined by giving an algorithm for obtaining a nondeterministic
+turing machine recognizer that is 
+equivalent to a given context-free grammar.  the formalization
+of the turing machine has been chosen 
+to make possible particularly simple description of
+the parsing procedures considered.  an attempt has 
+been made to compare recognition efficiencies for the
+procedures defined.  for a few simple grammars 
+and sentences a formal comparison has been made.  empirical
+comparison of the recognition of more realistic 
+programming languages such as lisp and algol has been
+made by means of a program which simulates the 
+turing machine on the univac m-460 computer.  several
+algorithms for producing grammars equivalent to 
+a given context-free grammar have been considered, and
+the increase in recognition efficiency they afford 
+has been empirically investigated.
+
+cacm may, 1965
+
+griffiths, 
+************************
+ may, 1965
+
+griffiths, t. v.
+petrick, s. r.
+
+ca650506 jb march 7, 1978  2:38 pm
+
+1046	4	1265
+1062	4	1265
+1086	4	1265
+1105	4	1265
+1121	4	1265
+1132	4	1265
+1139	4	1265
+1139	4	1265
+1139	4	1265
+1140	4	1265
+1151	4	1265
+1234	4	1265
+1234	4	1265
+1263	4	1265
+1263	4	1265
+1265	4	1265
+1265	4	1265
+1265	4	1265
+1265	4	1265
+1265	4	1265
+1270	4	1265
+1323	4	1265
+1358	4	1265
+1379	4	1265
+1380	4	1265
+1453	4	1265
+1464	4	1265
+1484	4	1265
+1491	4	1265
+1496	4	1265
+1498	4	1265
+1613	4	1265
+1614	4	1265
+1665	4	1265
+1781	4	1265
+1781	4	1265
+1781	4	1265
+1824	4	1265
+1825	4	1265
+1860	4	1265
+2083	4	1265
+2126	4	1265
+2178	4	1265
+2179	4	1265
+2252	4	1265
+2325	4	1265
+
+************************
+52	4	1265
+2325	4	1265
+2341	4	1265
+2546	4	1265
+2546	4	1265
+464	4	1265
+2645	4	1265
+2652	4	1265
+2684	4	1265
+2769	4	1265
+2842	4	1265
+2929	4	1265
+2934	4	1265
+584	4	1265
+3069	4	1265
+631	4	1265
+653	4	1265
+669	4	1265
+679	4	1265
+680	4	1265
+691	4	1265
+720	4	1265
+759	4	1265
+761	4	1265
+763	4	1265
+763	4	1265
+795	4	1265
+799	4	1265
+945	4	1265
+949	4	1265
+989	4	1265
+1265	5	1265
+1265	5	1265
+1265	5	1265
+1350	5	1265
+1399	5	1265
+1659	5	1265
+1768	5	1265
+1781	5	1265
+1945	5	1265
+2110	5	1265
+404	5	1265
+464	5	1265
+3094	5	1265
+3184	5	1265
+631	5	1265
+635	5	1265
+823	6	1265
+123	6	1265
+196	6	1265
+914	6	1265
+915	6	1265
+917	6	1265
+919	6	1265
+984	6	1265
+989	6	1265
+990	6	1265
+990	6	1265
+1007	6	1265
+1012	6	1265
+1012	6	1265
+1046	6	1265
+1084	6	1265
+1098	6	1265
+1122	6	1265
+1131	6	1265
+1138	6	1265
+
+************************
+	6	1265
+1131	6	1265
+1138	6	1265
+1139	6	1265
+1139	6	1265
+1140	6	1265
+1141	6	1265
+1141	6	1265
+1149	6	1265
+1198	6	1265
+1200	6	1265
+1215	6	1265
+1223	6	1265
+1223	6	1265
+
+************************
+3	6	1265
+1223	6	1265
+1225	6	1265
+1225	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1265	6	1265
+1303	6	1265
+1323	6	1265
+1336	6	1265
+1350	6	1265
+1358	6	1265
+1366	6	1265
+1396	6	1265
+1399	6	1265
+1421	6	1265
+1455	6	1265
+1460	6	1265
+
+************************
+	6	1265
+1455	6	1265
+1460	6	1265
+1462	6	1265
+1463	6	1265
+1467	6	1265
+1468	6	1265
+1477	6	1265
+1477	6	1265
+1487	6	1265
+1491	6	1265
+1491	6	1265
+1496	6	1265
+1496	6	1265
+1531	6	1265
+1535	6	1265
+1565	6	1265
+1601	6	1265
+1602	6	1265
+1613	6	1265
+1614	6	1265
+1626	6	1265
+1641	6	1265
+1671	6	1265
+1697	6	1265
+1781	6	1265
+1781	6	1265
+1787	6	1265
+1788	6	1265
+205	6	1265
+224	6	1265
+249	6	1265
+288	6	1265
+316	6	1265
+381	6	1265
+398	6	1265
+11	6	1265
+2179	6	1265
+2645	6	1265
+
+************************
+
+************************
+Document:  CACM-3103.html
+************************
+
+
+automatic data structure selection: an example and overview
+
+the use of several levels of abstraction has
+proved to be very helpful in constructing and 
+maintaining programs.  when programs are designed with abstract
+
+************************
+signed with abstract
+data types such as sets and lists, programmer 
+time can be saved by automating the process of filling
+in low-level implementation details.  in the past, 
+programming systems have provided only a single general
+purpose implementation for an abstract type. 
+ thus the programs produced using abstract types were
+then inefficient in space or time.  in this paper 
+a system for automatically choosing efficient implementations
+for abstract types from a library of implementations 
+is discussed.  this process is discussed in detail for
+an example program.  general issues in data structure 
+selection are also reviewed. 
+
+cacm may, 1978
+
+low, j.
+
+abstract data types, automatic programming, data
+structures, optimizing compilers, sets, lists
+
+4.12 4.22 4.6
+
+ca780504 dh february 26, 1979  1:51 pm
+
+1957	4	3103
+2151	4	3103
+3103	4	3103
+
+************************
+
+************************
+Document:  CACM-1496.html
+************************
+
+
+a formal semantics for computer languages
+and its application in a compiler-compiler
+
+a semantic meta-language has been developed
+for representing the meanings of statements in 
+a large class of computer languages.  this meta-language
+has been the basis for construction of an efficient, 
+functioning compiler-compiler.  an informal discussion
+of the meta-language based on the example of a 
+complete translator for a small language is presented.
+
+cacm january, 1966 
+
+feldman, 
+************************
+ january, 1966 
+
+feldman, j. a.
+
+ca660101 jb march 3, 1978  4:31 pm
+
+1046	4	1496
+1086	4	1496
+1105	4	1496
+1139	4	1496
+1140	4	1496
+1234	4	1496
+1263	4	1496
+1265	4	1496
+1496	4	1496
+1496	4	1496
+1496	4	1496
+1683	4	1496
+1768	4	1496
+1781	4	1496
+1787	4	1496
+1824	4	1496
+1945	4	1496
+2061	4	1496
+2126	4	1496
+2546	4	1496
+464	4	1496
+584	4	1496
+631	4	1496
+653	4	1496
+680	4	1496
+763	4	1496
+795	4	1496
+799	4	1496
+945	4	1496
+1137	5	1496
+1141	5	1496
+1396	5	1496
+1496	5	1496
+1496	5	1496
+1496	5	1496
+1767	5	1496
+1781	5	1496
+1787	5	1496
+1860	5	1496
+1945	5	1496
+1988	5	1496
+2252	5	1496
+404	5	1496
+
+************************
+52	5	1496
+404	5	1496
+823	6	1496
+123	6	1496
+196	6	1496
+196	6	1496
+196	6	1496
+914	6	1496
+915	6	1496
+917	6	1496
+919	6	1496
+964	6	1496
+984	6	1496
+989	6	1496
+990	6	1496
+990	6	1496
+1007	6	1496
+1012	6	1496
+1028	6	1496
+1029	6	1496
+1046	6	1496
+1083	6	1496
+1084	6	1496
+1098	6	1496
+1122	6	1496
+1131	6	1496
+1132	6	1496
+1138	6	1496
+1139	6	1496
+1139	6	1496
+1140	6	1496
+1141	6	1496
+1141	6	1496
+1149	6	1496
+1198	6	1496
+1200	6	1496
+1214	6	1496
+1215	6	1496
+
+************************
+4	6	1496
+1215	6	1496
+1215	6	1496
+1223	6	1496
+1223	6	1496
+
+************************
+3	6	1496
+1223	6	1496
+1265	6	1496
+1265	6	1496
+1278	6	1496
+1303	6	1496
+1323	6	1496
+1334	6	1496
+1336	6	1496
+1358	6	1496
+1358	6	1496
+1365	6	1496
+1366	6	1496
+1366	6	1496
+1386	6	1496
+1387	6	1496
+1388	6	1496
+1389	6	1496
+1392	6	1496
+1393	6	1496
+1394	6	1496
+1395	6	1496
+1396	6	1496
+1396	6	1496
+1397	6	1496
+1421	6	1496
+1421	6	1496
+1455	6	1496
+
+************************
+	6	1496
+1421	6	1496
+1455	6	1496
+1460	6	1496
+1462	6	1496
+1463	6	1496
+1467	6	1496
+1467	6	1496
+1468	6	1496
+1468	6	1496
+1477	6	1496
+1477	6	1496
+1487	6	1496
+1491	6	1496
+1491	6	1496
+1491	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1496	6	1496
+1531	6	1496
+1535	6	1496
+1565	6	1496
+1601	6	1496
+1602	6	1496
+1613	6	1496
+1614	6	1496
+1626	6	1496
+1626	6	1496
+1641	6	1496
+1641	6	1496
+1781	6	1496
+1785	6	1496
+1786	6	1496
+1787	6	1496
+1788	6	1496
+205	6	1496
+224	6	1496
+224	6	1496
+249	6	1496
+
+************************
+4	6	1496
+224	6	1496
+249	6	1496
+284	6	1496
+288	6	1496
+316	6	1496
+378	6	1496
+381	6	1496
+381	6	1496
+398	6	1496
+11	6	1496
+11	6	1496
+14	6	1496
+2155	6	1496
+404	6	1496
+
+************************
+
+************************
+Document:  CACM-2705.html
+************************
+
+
+programming languages, natural languages, and mathematics
+
+some social aspects of programming are illuminated
+through 
+************************
+ illuminated
+through analogies with similar aspects of 
+mathematics and natural languages.  the split between
+pure and applied mathematics is found similarly 
+in programming. the development of natural languages toward
+flexion less, word-order based language types 
+speaks for programming language design based on general,
+abstract constructs.  by analogy with incidents 
+of the history of artificial, auxiliary languages it
+is suggested that fortran and cobol will remain 
+dominant for a long time to come.  the most promising
+avenues for further work of wide influence are 
+seen to be high quality program literature (i.e. programs)
+of general utility and studies of questions 
+related to program style.
+
+cacm december, 1975
+
+naur, 
+************************
+ december, 1975
+
+naur, p.
+
+analogies related to social aspects,pure 
+************************
+lated to social aspects,pure and applied
+mathematics, language quality, language development, 
+artificial 
+************************
+velopment, 
+artificial auxiliary languages, literature, style,
+descriptive and prescriptive 
+************************
+,
+descriptive and prescriptive attitudes
+
+
+************************
+
+************************
+Document:  CACM-2470.html
+************************
+
+
+fen-an axiomatic basis for program semantics
+
+a formal system is presented which abstracts
+the notions of data item, function, and relation. 
+ it is argued that the system is more suitable than set
+theory (or its derivatives) for the concise and 
+accurate description of program semantics.  it is shown
+how the system can be used to build composite 
+data types out of simper ones with the operations of rowing,
+structuring, and uniting.  it is also demonstrated 
+that completely new primitive types can be introduced
+into languages through the mechanism of singleton 
+data types.  both deterministic and nondeterministic
+functions are shown to be definable in the system. 
+ it is described how the local environment can be modeled
+as a data item and how imperative statements 
+can be considered functions on the environment.  the
+nature of recursive functions is briefly discussed, 
+and a technique is presented by which they can be introduced
+into the system.  the technique is contrasted 
+with the use of the paradoxical combinator, y.  the
+questions of local and global environments and of 
+various modes of function calling and parameter passing
+are touched upon. the theory is applied to the 
+proof of several elementary theorems concerning the semantics
+of the assignment, conditional, and iterative 
+statements.  an appendix is included which presents in
+detail the formal system governing webs and fen, 
+the abstractions used informally in the body of the paper.
+
+cacm august, 1973
+
+maclennan, b. j.
+
+semantics, formal systems, lambda-calculus, extensible
+languages, data types, modes, axioms, correctness, 
+formal language definition, formal description, data structures,
+description languages, models of computation
+
+4.22 5.21 5.24 5.26
+
+ca730804 
+************************
+ 5.24 5.26
+
+ca730804 jb january 23, 1978  11:01 am
+
+1469	4	2470
+1486	4	2470
+1491	4	2470
+1781	4	2470
+2021	4	2470
+2060	4	2470
+2178	4	2470
+2222	4	2470
+2227	4	2470
+
+************************
+
+************************
+Document:  CACM-2060.html
+************************
+
+
+gedanken-a simple typeless language based on the
+principle of completeness and the reference concept
+
+gedanken is an experimental programming language with the following 
+characteristics.  (1) any value which is permitted in some context of the 
+language is permissible in any other meaningful context.  in particular,
+functions and labels are permissible  results of functions and values
+of variables.  (2) assignment and indirect addressing are formalized
+by introducing values, called reference, which in turn possess
+other values.  the assignment operation always affects the relation
+between some reference and its value,  (3) all compound data
+structures are treated as functions.  (4) type declarations are
+not permitted.  the functional approach to data structures and the
+use of references insure that any process which accepts some data
+structure will accept any logically equivalent structure, regardless
+of its internal representation.  more generally, any data structure
+may be implicit; i.e. it may be specified by giving an arbitrary
+algorithm for computing or accessing its components.  the existence of 
+label variables permits the construction of coroutines,
+quasi-parallel processes, and other unorthodox control mechanisms.
+a variety of programming examples illustrates the generality of the language.
+limitations and possible extensions are discussed briefly.
+
+cacm may, 1970
+
+reynolds, 
+************************
+ may, 1970
+
+reynolds, j. c.
+
+programming language, data structure, 
+************************
+ language, data structure, reference, assignment, coroutine,
+quasi-parallel process, typeless language, applicative language,
+lambda calculus, list processing, nondeterministic algorithm
+
+4.20 4.22 5.23 5.24
+
+ca700506 
+************************
+ 5.23 5.24
+
+ca700506 jb february 13, 1978  1:43 pm
+
+1024	4	2060
+1051	4	2060
+1102	4	2060
+1132	4	2060
+1379	4	2060
+1380	4	2060
+1390	4	2060
+1486	4	2060
+1541	4	2060
+1542	4	2060
+1549	4	2060
+1552	4	2060
+1683	4	2060
+1693	4	2060
+1693	4	2060
+1693	4	2060
+1706	4	2060
+1781	4	2060
+1781	4	2060
+1781	4	2060
+1787	4	2060
+1826	4	2060
+1836	4	2060
+1836	4	2060
+1846	4	2060
+1854	4	2060
+1860	4	2060
+1878	4	2060
+1945	4	2060
+1945	4	2060
+1989	4	2060
+378	4	2060
+2015	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2060	4	2060
+2061	4	2060
+2061	4	2060
+2082	4	2060
+2091	4	2060
+2091	4	2060
+2155	4	2060
+2152	4	2060
+2168	4	2060
+2179	4	2060
+2179	4	2060
+2179	4	2060
+2218	4	2060
+2294	4	2060
+
+************************
+18	4	2060
+2294	4	2060
+2340	4	2060
+2356	4	2060
+2470	4	2060
+2546	4	2060
+2546	4	2060
+2603	4	2060
+2698	4	2060
+2698	4	2060
+2698	4	2060
+2708	4	2060
+2708	4	2060
+2719	4	2060
+2723	4	2060
+2770	4	2060
+2824	4	2060
+2838	4	2060
+2842	4	2060
+2855	4	2060
+2879	4	2060
+2921	4	2060
+2982	4	2060
+2986	4	2060
+
+************************
+	4	2060
+2982	4	2060
+2986	4	2060
+557	4	2060
+3045	4	2060
+3045	4	2060
+3077	4	2060
+3080	4	2060
+3093	4	2060
+3106	4	2060
+3112	4	2060
+3124	4	2060
+3154	4	2060
+627	4	2060
+106	4	2060
+210	5	2060
+1380	5	2060
+1421	5	2060
+1469	5	2060
+1477	5	2060
+1491	5	2060
+1869	5	2060
+2060	5	2060
+2060	5	2060
+2060	5	2060
+2110	5	2060
+2155	5	2060
+2294	5	2060
+2558	5	2060
+
+************************
+
+************************
+Document:  CACM-2719.html
+************************
+
+
+mechanical program analysis
+
+one means of analyzing program performance
+is by deriving closed-form expressions for their 
+execution behavior.  this paper discusses the mechanization
+of such analysis, and describes a system, 
+metric, which is able to analyze simple lisp programs
+and produce, for example, closed-form expressions
+for their running time expressed in terms of size of input.
+ this paper presents the reasons for mechanizing 
+program analysis, describes the operation of metric, explains
+its implementation, and discusses its limitations.
+
+cacm september, 1975
+
+wegbreit, b.
+
+analysis of programs, performance analysis, execution
+time, execution behavior, difference equations, 
+generating functions, list processing, lisp, algebraic
+manipulation, programming languages, analysis 
+of algorithms
+
+3.69 4.22 5.24 5.25
+
+ca750905 
+************************
+ 5.24 5.25
+
+ca750905 jb january 6, 1978  2:11 pm
+
+1024	4	2719
+1051	4	2719
+1102	4	2719
+1132	4	2719
+1390	4	2719
+1486	4	2719
+1549	4	2719
+1706	4	2719
+1708	4	2719
+1781	4	2719
+1826	4	2719
+1826	4	2719
+1860	4	2719
+1878	4	2719
+378	4	2719
+2060	4	2719
+2155	4	2719
+2156	4	2719
+2168	4	2719
+2168	4	2719
+2164	4	2719
+2170	4	2719
+2249	4	2719
+2314	4	2719
+
+************************
+49	4	2719
+2314	4	2719
+2323	4	2719
+2657	4	2719
+2719	4	2719
+2719	4	2719
+2719	4	2719
+2719	4	2719
+2719	4	2719
+2719	4	2719
+2719	4	2719
+2723	4	2719
+2736	4	2719
+2833	4	2719
+2838	4	2719
+2842	4	2719
+2855	4	2719
+2879	4	2719
+2967	4	2719
+3077	4	2719
+3080	4	2719
+3094	4	2719
+3106	4	2719
+627	4	2719
+106	4	2719
+210	5	2719
+1626	5	2719
+2151	5	2719
+2167	5	2719
+2210	5	2719
+2645	5	2719
+
+************************
+
+************************
+Document:  CACM-3140.html
+************************
+
+
+social processes and proofs of theorems and programs
+
+it is argued that formal verifications of
+programs, no matter how obtained, will not play the
+same key role in the development of computer science and software
+engineering as proofs do in mathematics.  furthermore the absence
+of continuity, the inevitability of change, and the complexity of
+specification of significantly many real programs make the form
+al verification process difficult to justify and manage.  it is felt
+that ease of formal verification should not dominate program
+language design.
+
+cacm may, 1979
+
+de millo, r.
+lipton, r.
+perlis, 
+************************
+, r.
+lipton, r.
+perlis, a.
+
+formal mathematics, 
+************************
+
+************************
+Document:  CACM-0679.html
+************************
+
+
+recent improvements in madcap
+
+madcap is a programming language admitting subscripts,
+superscripts and certain forms of displayed 
+formulas.  the basic implementation of this language was
+described in a previous 
+************************
+scribed in a previous paper [madcap: a scientific 
+compiler for a displayed formula textbook language, comm.
+acm 4 (jan. 61), 31-36].  this paper discusses 
+recent improvements in the language in three areas: complex
+display, logical control, and subprogramming. 
+ in the area of complex 
+************************
+. 
+ in the area of complex display, the most prominent improvements
+are a notation for integration and for 
+the binomial coefficients.  in the area of logical control
+the chief new feature is a notation for variably 
+nested looping.  the discussion of subprogramming is focused
+on madcap's notation for and use of "procedures."
+
+cacm november, 1963
+
+wells, 
+************************
+ november, 1963
+
+wells, m. b.
+
+ca631113 jb march 13, 1978  3:39 pm
+
+1083	4	679
+1086	4	679
+1132	4	679
+1234	4	679
+1263	4	679
+1265	4	679
+1270	4	679
+1323	4	679
+1358	4	679
+1379	4	679
+1380	4	679
+1396	4	679
+1453	4	679
+1464	4	679
+1484	4	679
+1491	4	679
+1498	4	679
+1613	4	679
+1614	4	679
+1781	4	679
+1825	4	679
+1860	4	679
+2083	4	679
+2178	4	679
+2179	4	679
+2252	4	679
+2325	4	679
+2341	4	679
+
+************************
+
+************************
+Document:  CACM-3130.html
+************************
+
+
+curriculum '78 - recommendations for the
+undergraduate program in computer science
+
+contained in this report are the recommendations for
+the undergraduate degree program in computer science of the
+curriculum committee on computer science (c3s) of the association
+for computing machinery (acm).   the core curriculum common to all
+computer science undergraduate programs is presented in terms of
+elementary level topics and courses, and intermediate level courses.
+elective courses, used to round out an undergraduate program,
+are then discussed, and the entire program including the computer
+science component and other material is presented.  issues related
+to undergraduate computer science education, such as service
+courses, supporting areas, continuing education, facilities,
+staff, and articulation are presented.
+
+cacm march, 1979
+
+austing, r.
+barnes, 
+************************
+
+
+austing, r.
+barnes, b.
+bonnette, d.
+engel, g.
+stokes, g.
+
+computer sciences courses, computer science curriculum, computer
+science education, computer science undergraduate degree
+programs, service courses, continuing 
+************************
+, service courses, continuing education
+
+1.52
+
+ca790301 dh april 12, 1979  11:02 am
+
+1720	4	3130
+1927	4	3130
+2147	4	3130
+2163	4	3130
+
+************************
+
+************************
+Document:  CACM-0196.html
+************************
+
+
+report on the algorithmic language algol 60
+
+naur, p.
+backus, j.
+
+cacm may, 1960
+
+ca600501 jb march 22, 1978  1:34 pm
+
+123	5	196
+
+************************
+, 1978  1:34 pm
+
+123	5	196
+140	5	196
+196	5	196
+196	5	196
+196	5	196
+919	5	196
+989	5	196
+1102	5	196
+1109	5	196
+1140	5	196
+1188	5	196
+1306	5	196
+249	5	196
+254	5	196
+272	5	196
+1464	5	196
+1491	5	196
+1767	5	196
+1781	5	196
+1787	5	196
+1949	5	196
+321	5	196
+2059	5	196
+2126	5	196
+2732	5	196
+435	5	196
+437	5	196
+463	5	196
+483	5	196
+491	5	196
+560	5	196
+583	5	196
+3073	5	196
+627	5	196
+631	5	196
+632	5	196
+642	5	196
+644	5	196
+653	5	196
+680	5	196
+761	5	196
+762	5	196
+763	5	196
+1	6	196
+1	6	196
+823	6	196
+106	6	196
+123	6	196
+152	6	196
+165	6	196
+168	6	196
+185	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+196	6	196
+919	6	196
+946	6	196
+947	6	196
+990	6	196
+1007	6	196
+1046	6	196
+1131	6	196
+1139	6	196
+1140	6	196
+1140	6	196
+1141	6	196
+1149	6	196
+1198	6	196
+1215	6	196
+1215	6	196
+1223	6	196
+1265	6	196
+1303	6	196
+
+************************
+3	6	196
+1265	6	196
+1303	6	196
+1303	6	196
+1323	6	196
+1358	6	196
+1366	6	196
+1421	6	196
+1460	6	196
+1462	6	196
+1463	6	196
+1467	6	196
+1467	6	196
+1468	6	196
+1468	6	196
+1477	6	196
+1491	6	196
+1491	6	196
+1496	6	196
+1496	6	196
+1496	6	196
+1531	6	196
+1535	6	196
+1565	6	196
+1601	6	196
+1602	6	196
+1613	6	196
+1614	6	196
+1614	6	196
+1626	6	196
+1641	6	196
+1693	6	196
+1781	6	196
+1787	6	196
+1788	6	196
+205	6	196
+206	6	196
+207	6	196
+209	6	196
+210	6	196
+210	6	196
+1834	6	196
+224	6	196
+224	6	196
+224	6	196
+
+************************
+4	6	196
+224	6	196
+224	6	196
+249	6	196
+249	6	196
+271	6	196
+288	6	196
+288	6	196
+303	6	196
+316	6	196
+321	6	196
+381	6	196
+387	6	196
+
+************************
+
+************************
+Document:  CACM-3030.html
+************************
+
+
+an example of hierarchical design and proof
+
+hierarchical programming is being increasingly
+recognized as 
+************************
+asingly
+recognized as helpful in the construction of 
+large programs.  users of hierarchical techniques claim
+or predict substantial increases in productivity 
+and in the reliability of the programs produced.  in this
+paper we describe a formal method for hierarchical 
+program specification, implementation, and proof.  we
+apply this method to a significant list processing 
+problem and also discuss a number of extensions to current
+programming languages that ease hierarchical 
+program design and proof.
+
+cacm december, 1978
+
+spitzen, j.
+levitt, k.
+robinson, l.
+
+program verification, specification, data abstraction,
+software modules, hierarchical structures
+
+4.0 4.6 5.21 5.24
+
+ca781209 dh january 16, 19794:43 pm  
+
+2480	4	3030
+
+************************
+
+************************
+Document:  CACM-2939.html
+************************
+
+
+abstraction mechanisms in clu
+
+clu is a new programming language designed to support
+the 
+************************
+signed to support
+the use of abstractions in program construction. 
+ work in programming methodology has led to the realization
+that three 
+************************
+alization
+that three kinds of abstractions-procedural, 
+control, and especially data abstractions-are useful
+in the programming process.  of these, only the 
+procedural abstraction is supported well by conventional
+languages, through the procedure or subroutine. 
+ clu provides, in addition to procedures, novel linguistic
+mechanisms that support the use of data and 
+control abstractions.  this paper provides an in troduction
+to the abstraction mechanisms in clu.  by 
+means of programming examples, the utility of the three
+kinds of abstractions in program construction 
+is illustrated, and it is shown how clu programs may
+be written to use and implement abstractions.  the 
+clu library, which permits incremental program development
+with complete type checking performed at compile 
+time, is also discussed.
+
+cacm august, 1977
+
+liskov, b.
+snyder, a.
+atkinson, r.
+schaffert, c.
+
+programming languages, data types, data abstractions,
+control abstractions, programming methodology, 
+separate compilation
+
+4.0 4.12 4.20 4.22
+
+ca770804 jb december 
+************************
+
+
+ca770804 jb december 28, 1977  7:49 am
+
+2319	4	2939
+2480	4	2939
+2594	4	2939
+2709	4	2939
+2868	4	2939
+2939	4	2939
+2939	4	2939
+2941	4	2939
+2972	4	2939
+3155	4	2939
+2204	5	2939
+2558	5	2939
+
+************************
+
+************************
+Document:  CACM-0406.html
+************************
+
+
+the use of threaded lists in constructing a combined
+algol and machine-like assembly processor
+
+cacm january, 1961
+
+evans jr., a.
+perlis, a. j.
+van zoeren, h.
+
+************************
+, a. j.
+van zoeren, h.
+
+ca610108 jb march 17, 1978  1:20 am
+
+1051	5	406
+1102	5	406
+1549	5	406
+406	5	406
+406	5	406
+406	5	406
+106	6	406
+196	6	406
+1051	6	406
+209	6	406
+210	6	406
+210	6	406
+210	6	406
+
+************************
+
+************************
+Document:  CACM-1728.html
+************************
+
+
+further experimental data on the behavior
+of programs in a paging environment
+
+results are summarized 
+************************
+sults are summarized from an empirical study
+directed at the measurement of program operating 
+behavior in those multiprogramming systems in which
+programs are organized into fixed 
+************************
+ are organized into fixed length pages.  
+the data collected from the interpretive execution of
+a number of paged programs are used to describe 
+the frequency 
+************************
+scribe 
+the frequency of page faults, i.e. the frequency of those
+instants at which an executing program requires 
+a page of data or instructions not in main (core) memory.
+ these data are used also for the evaluation 
+of page replacement algorithms and for assessing the
+effects on performance of changes in the amount 
+of storage allocated to executing programs.
+
+cacm july, 1968
+
+coffman, 
+************************
+ july, 1968
+
+coffman, e. g.
+varian, l. c.
+
+paging systems, paging, dynamic program behavior, program
+behavior, virtual memory systems, single-level 
+storage, one-level storage, operating system simulation,
+operating systems, supervisor simulation, machine 
+language program interpretation
+
+4.13 4.32 4.39 4.9
+
+ca680701 jb february 22, 1978  3:13 pm
+
+1646	4	1728
+
+************************
+, 1978  3:13 pm
+
+1646	4	1728
+1668	4	1728
+1669	4	1728
+1676	4	1728
+1679	4	1728
+1682	4	1728
+1728	4	1728
+1728	4	1728
+1728	4	1728
+1860	4	1728
+1973	4	1728
+2018	4	1728
+2032	4	1728
+2033	4	1728
+2107	4	1728
+2109	4	1728
+2203	4	1728
+2251	4	1728
+
+************************
+03	4	1728
+2251	4	1728
+2359	4	1728
+2524	4	1728
+2543	4	1728
+2552	4	1728
+2559	4	1728
+2859	4	1728
+2991	4	1728
+3053	4	1728
+1525	5	1728
+1647	5	1728
+1728	5	1728
+1728	5	1728
+1728	5	1728
+1785	5	1728
+1892	5	1728
+1924	5	1728
+2095	5	1728
+2218	5	1728
+2297	5	1728
+
+************************
+
+************************
+Document:  CACM-3138.html
+************************
+
+
+a mathematical programming updating method using modified
+givens transformations and applied to lp problems
+
+an efficient and numerically stable method is presented for the problem of
+updating an orthogonal decomposition of a matrix of column (or row) vectors.
+the fundamental idea is to add a column (or row) analogous
+to adding an additional row of data in a linear least squares problem.
+a column (or row) is dropped by a formal scaling with the
+imaginary unit,  -1, followed by least squares addition of the column
+(or row).  the elimination process for the procedure is successive
+ssive application of the givens transformation in modified (more efficient)
+form.  these ideas are illustrated with an implementation
+of the revised simplex method.  the algorithm is a general purpose
+one that does not account for any particular structure or sparsity
+in the equations.  some suggested computational tests for determining
+signs of various controlling parameters in the revised simplex
+algorithm are mentioned.  a simple means of constructing
+test cases and some sample computing times are presented. 
+
+cacm april, 1979
+
+hanson, r.
+wisniewski, 
+************************
+
+
+hanson, r.
+wisniewski, j.
+
+linear programming, numerical linear algebra, modified givens transformations,
+linear programming test cases
+
+5 5.4 5.41 5.1 5.14
+
+ca790404 dh may 21, 1979  2:06 pm
+
+3099	4	3138
+
+************************
+
+************************
+Document:  CACM-2113.html
+************************
+
+
+the multistore parser for hierarchical syntactic structures
+
+a syntactic parser is described for hierarchical concatenation patterns
+that are presented to the analyzer in the form of linear strings.  particular
+emphasis is given to the system of "significant addresses" by means
+of which processing times for large-scale matching procedures
+can be substantially reduced.  the description makes frequent use
+of examples taken from the fully operational implementation of the
+parser in an experimental english sentence analyzer.  by structuring
+an area of the computer's central core storage in such a way
+that the individual locations of bytes and bits come to represent the
+data involved in the matching procedure, the shifting of information
+is reduced to a minimum, and the searching of lists is eliminated
+altogether.  the matches are traced by means of binary masks
+and the state of single bits determines the operational flow of the
+procedure.  the method could be implemented with any interpretive
+grammar, provided it can be expressed by the functional classification
+of the items composing the input hierarchical structures.
+
+cacm february, 1970
+
+von glasersfeld, e.
+
+parsing, 
+************************
+ glasersfeld, e.
+
+parsing, syntactic analysis, natural-language analysis, linguistic data
+processing, computational linguistics, correlational grammar, structure
+recognition, pattern recognition, matching procedures, tree-structure 
+interpretation, machine translation, automatic abstracting
+
+3.42 3.49 3.63 3.70 3.71
+
+ca700202 jb february 14, 1978  12:57 pm 
+
+2113	5	2113
+2113	5	2113
+
+************************
+
+************************
+Document:  CACM-3078.html
+************************
+
+
+analysis of the availability of computer
+systems using computer- aided algebra
+
+analytical results, related to the 
+************************
+sults, related to the availability
+of a computer system constructed of unreliable 
+processors, are presented in this paper.  these results
+are obtained by using various computer-aided 
+algebraic manipulation techniques. 
+************************
+ic manipulation techniques.  a major purpose of
+this paper is to demonstrate that the difficulties 
+of obtaining analytical solutions to markov processes
+can be considerably reduced by the application 
+of symbol manipulation programs.  since many physical
+systems can be modeled by markov and semi-markov 
+processes, the potential range of application of these techniques
+is much wider than the problem of availability 
+analyzed here.
+
+cacm july, 1978
+
+chattergy, 
+************************
+ july, 1978
+
+chattergy, r.
+pooch, u.
+
+computer-aided algebra, symbol manipulation, 
+************************
+, symbol manipulation, markov
+process, reliability, redundant structures, 
+on-line computer system.
+
+3.82 5.5 5.7 8.1 8.3
+
+ca780710 dh february 7, 1979 3:37 pm
+
+3078	5	3078
+
+************************
+
+************************
+Document:  CACM-1491.html
+************************
+
+
+euler: a generalization algol, and its formal definition: part i*
+
+a method for defining programming languages is
+developed which introduces a rigorous relationship 
+between structure and meaning.  the structure of a
+language is defined by a phrase structure syntax, 
+the meaning in terms of the effects which the execution
+of a sequence of interpretation rules exerts 
+upon a fixed set of variables, called the environment.
+ there exists a one-to-one correspondence between 
+syntactic rules and interpretation rules is determined by
+the sequence of corresponding syntactic reductions 
+which constitute a parse.  the individual interpretation
+rules are explained in terms of an elementary 
+an d obvious algorithmic notation.  a constructive
+method for evaluating a text is provided, and for 
+certain decidable classes of languages their unambiguity
+is proved.  as an example, a generalization 
+of algol is described in full detail to demonstrate that
+concepts like block-structure, procedures, parameters, 
+etc. can be defined adequately and precisely by this method.
+
+cacm january, 1966
+
+wirth, 
+************************
+ january, 1966
+
+wirth, n.
+weber, h.
+
+ca660104 jb march 3, 1978  4:22 pm
+
+249	4	1491
+254	4	1491
+272	4	1491
+1037	4	1491
+1086	4	1491
+1102	4	1491
+1109	4	1491
+1132	4	1491
+1140	4	1491
+1188	4	1491
+1234	4	1491
+1234	4	1491
+1263	4	1491
+1265	4	1491
+1270	4	1491
+1306	4	1491
+1323	4	1491
+1358	4	1491
+1358	4	1491
+1379	4	1491
+1380	4	1491
+1453	4	1491
+1464	4	1491
+1464	4	1491
+1469	4	1491
+1484	4	1491
+1486	4	1491
+1491	4	1491
+1491	4	1491
+1491	4	1491
+1491	4	1491
+1491	4	1491
+1498	4	1491
+1613	4	1491
+1614	4	1491
+1767	4	1491
+1781	4	1491
+1781	4	1491
+1781	4	1491
+1781	4	1491
+1787	4	1491
+1825	4	1491
+1860	4	1491
+1949	4	1491
+321	4	1491
+2059	4	1491
+2061	4	1491
+
+************************
+	4	1491
+2059	4	1491
+2061	4	1491
+2083	4	1491
+2126	4	1491
+2178	4	1491
+2178	4	1491
+2179	4	1491
+2252	4	1491
+2325	4	1491
+
+************************
+52	4	1491
+2325	4	1491
+2326	4	1491
+2341	4	1491
+2470	4	1491
+2546	4	1491
+435	4	1491
+437	4	1491
+463	4	1491
+483	4	1491
+491	4	1491
+2645	4	1491
+2652	4	1491
+2684	4	1491
+2684	4	1491
+2732	4	1491
+2842	4	1491
+2929	4	1491
+2934	4	1491
+560	4	1491
+583	4	1491
+3044	4	1491
+3069	4	1491
+3073	4	1491
+627	4	1491
+631	4	1491
+632	4	1491
+642	4	1491
+644	4	1491
+653	4	1491
+669	4	1491
+679	4	1491
+680	4	1491
+691	4	1491
+761	4	1491
+761	4	1491
+762	4	1491
+763	4	1491
+123	4	1491
+140	4	1491
+919	4	1491
+949	4	1491
+989	4	1491
+989	4	1491
+196	5	1491
+1140	5	1491
+1303	5	1491
+1491	5	1491
+1491	5	1491
+1491	5	1491
+1542	5	1491
+1683	5	1491
+1693	5	1491
+1781	5	1491
+1787	5	1491
+1836	5	1491
+1945	5	1491
+2060	5	1491
+2061	5	1491
+2082	5	1491
+2091	5	1491
+2152	5	1491
+2179	5	1491
+2340	5	1491
+2356	5	1491
+2546	5	1491
+2603	5	1491
+2698	5	1491
+2708	5	1491
+2824	5	1491
+2982	5	1491
+2986	5	1491
+3045	5	1491
+3093	5	1491
+3184	5	1491
+729	5	1491
+823	6	1491
+123	6	1491
+196	6	1491
+196	6	1491
+914	6	1491
+915	6	1491
+917	6	1491
+919	6	1491
+970	6	1491
+984	6	1491
+989	6	1491
+990	6	1491
+990	6	1491
+1007	6	1491
+1012	6	1491
+1046	6	1491
+1084	6	1491
+1098	6	1491
+1122	6	1491
+1131	6	1491
+1138	6	1491
+
+************************
+	6	1491
+1131	6	1491
+1138	6	1491
+1139	6	1491
+1139	6	1491
+1140	6	1491
+1140	6	1491
+1141	6	1491
+1141	6	1491
+1141	6	1491
+1141	6	1491
+1149	6	1491
+1191	6	1491
+1191	6	1491
+1198	6	1491
+1200	6	1491
+1215	6	1491
+1215	6	1491
+1223	6	1491
+1223	6	1491
+
+************************
+3	6	1491
+1223	6	1491
+1265	6	1491
+1265	6	1491
+1303	6	1491
+1323	6	1491
+1336	6	1491
+1358	6	1491
+1366	6	1491
+1366	6	1491
+1380	6	1491
+1396	6	1491
+1421	6	1491
+1421	6	1491
+1421	6	1491
+
+************************
+	6	1491
+1421	6	1491
+1421	6	1491
+1455	6	1491
+1460	6	1491
+1462	6	1491
+1463	6	1491
+1467	6	1491
+1468	6	1491
+1469	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1477	6	1491
+1487	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1491	6	1491
+1496	6	1491
+1496	6	1491
+1496	6	1491
+1531	6	1491
+1535	6	1491
+1565	6	1491
+1601	6	1491
+1602	6	1491
+1613	6	1491
+1614	6	1491
+1614	6	1491
+1626	6	1491
+1641	6	1491
+1683	6	1491
+1683	6	1491
+1683	6	1491
+1767	6	1491
+1781	6	1491
+1781	6	1491
+1781	6	1491
+1787	6	1491
+1787	6	1491
+1788	6	1491
+205	6	1491
+1825	6	1491
+1825	6	1491
+210	6	1491
+1836	6	1491
+1836	6	1491
+1836	6	1491
+224	6	1491
+224	6	1491
+249	6	1491
+
+************************
+4	6	1491
+224	6	1491
+249	6	1491
+1869	6	1491
+288	6	1491
+316	6	1491
+381	6	1491
+398	6	1491
+2015	6	1491
+2110	6	1491
+2110	6	1491
+
+************************
+10	6	1491
+2110	6	1491
+2110	6	1491
+2111	6	1491
+11	6	1491
+2126	6	1491
+2179	6	1491
+2179	6	1491
+2227	6	1491
+2340	6	1491
+
+************************
+
+************************
+Document:  CACM-3121.html
+************************
+
+
+syntactic source to source transforms and program manipulation
+
+syntactic transforms are the source to source program transformations
+which preserve the history of computation, and thus do not
+modify the execution time.  combined with a small number of primitive
+semantic transforms, they provide a powerful tool for program
+manipulation.  a catalogue of syntactic transforms, and its use for
+solution of a system of program equations, is given.  examples of
+derivation of more complex source to source transformations are also
+presented.  two case studies illustrate the way in which syntactic 
+and semantic source to source transformations may be used for
+development of clear, simple, and reasonably efficient programs.
+
+cacm january, 1979
+
+arsac, j.
+
+structured 
+************************
+
+
+arsac, j.
+
+structured programming, program transforms, control structures
+
+4.2 5.24 5.25
+
+ca790106 dh april 10, 1979  1:57 pm
+
+1175	4	3121
+1919	4	3121
+1919	4	3121
+
+************************
+
+************************
+Document:  CACM-1396.html
+************************
+
+
+survey of formula manipulation
+
+the field of formula manipulation is surveyed,
+with particular attention to the specific capabilities 
+of differentiation, integration and the supporting capabilities
+of simplification, displays and input/output 
+editing, and precision arithmetic.  general systems-both
+batch and online-are described.  finally, some 
+programs to solve specific applications are discussed.
+
+cacm august, 1966
+
+sammet, 
+************************
+ august, 1966
+
+sammet, j. e.
+
+ca660802 jb march 2, 1978  8:07 pm
+
+1028	4	1396
+1028	4	1396
+1083	4	1396
+1083	4	1396
+1214	4	1396
+1216	4	1396
+1216	4	1396
+1216	4	1396
+1278	4	1396
+1278	4	1396
+1334	4	1396
+1347	4	1396
+1347	4	1396
+1347	4	1396
+1392	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1396	4	1396
+1395	4	1396
+1444	4	1396
+1536	4	1396
+1624	4	1396
+1767	4	1396
+1781	4	1396
+1787	4	1396
+1860	4	1396
+1945	4	1396
+1945	4	1396
+1946	4	1396
+1946	4	1396
+1988	4	1396
+2167	4	1396
+2167	4	1396
+2229	4	1396
+2252	4	1396
+
+************************
+29	4	1396
+2252	4	1396
+2857	4	1396
+679	4	1396
+964	4	1396
+964	4	1396
+964	5	1396
+1028	5	1396
+1029	5	1396
+1083	5	1396
+1132	5	1396
+1214	5	1396
+1278	5	1396
+
+************************
+4	5	1396
+1278	5	1396
+1334	5	1396
+1388	5	1396
+1393	5	1396
+1396	5	1396
+1396	5	1396
+1396	5	1396
+1396	5	1396
+1392	5	1396
+1395	5	1396
+1397	5	1396
+1365	5	1396
+284	5	1396
+1386	5	1396
+1387	5	1396
+1394	5	1396
+1496	5	1396
+1945	5	1396
+407	5	1396
+561	5	1396
+3199	5	1396
+3200	5	1396
+3201	5	1396
+3202	5	1396
+3203	5	1396
+3204	5	1396
+730	5	1396
+823	6	1396
+914	6	1396
+915	6	1396
+917	6	1396
+964	6	1396
+984	6	1396
+989	6	1396
+990	6	1396
+1012	6	1396
+1028	6	1396
+1029	6	1396
+1083	6	1396
+1084	6	1396
+1098	6	1396
+1122	6	1396
+1132	6	1396
+1138	6	1396
+1139	6	1396
+1141	6	1396
+1200	6	1396
+1214	6	1396
+1223	6	1396
+
+************************
+
